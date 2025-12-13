@@ -40,14 +40,14 @@ def get_graphql_data(query, variables):
 list_items_query = """
 query($listName: String!, $user: String!, $itemCursor: String) {
   user(login: $user) {
-    list(name: $listName) {
-      items(first: 100, after: $itemCursor) {
-        pageInfo {
-          hasNextPage
-          endCursor
-        }
-        nodes {
-          ... on Repository {
+    lists(query: $listName, first: 1) {
+      nodes {
+        repositories(first: 100, after: $itemCursor) {
+          pageInfo {
+            hasNextPage
+            endCursor
+          }
+          nodes {
             nameWithOwner
           }
         }
@@ -123,8 +123,10 @@ def fetch_all_listed_repos():
         while has_next_item:
             item_data = get_graphql_data(list_items_query, {"user": USERNAME, "listName": name, "itemCursor": item_cursor})
             
-            # 检查路径是否存在
-            items_node = item_data.get('data', {}).get('user', {}).get('list', {}).get('items', {})
+            lists_nodes = item_data.get('data', {}).get('user', {}).get('lists', {}).get('nodes', [])
+            items_node = {}
+            if lists_nodes:
+                items_node = lists_nodes[0].get('repositories', {})
             if not items_node:
                 print(f"警告: 无法获取 List '{name}' 的项目，可能为空或API问题。")
                 break # 跳出当前 list 的循环
