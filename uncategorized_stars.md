@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sat Dec 13 16:52:24 UTC 2025 | 总计: **1478** 个未分类项目
+> 生成于 UTC 时间: Sun Dec 14 02:04:58 UTC 2025 | 总计: **1478** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) | 操作 (Action) |
 | --- | --- | --- |
@@ -461,7 +461,7 @@
 | [halo-sigs/plugin-hybrid-edit-block](https://github.com/halo-sigs/plugin-hybrid-edit-block) | 为默认富文本编辑器提供编写 Markdown / HTML 的内容块扩展 | [在 GitHub 上查看](https://github.com/halo-sigs/plugin-hybrid-edit-block) |
 | [halo-sigs/plugin-katex](https://github.com/halo-sigs/plugin-katex) | 为默认编辑器和文章渲染提供 KaTeX 支持。 | [在 GitHub 上查看](https://github.com/halo-sigs/plugin-katex) |
 | [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) | HandBrake's development repository  | [在 GitHub 上查看](https://github.com/HandBrake/HandBrake) |
-| [hankcs/HanLP](https://github.com/hankcs/HanLP) | Natural Language Processing for the next decade. Tokenization, Part-of-Speech... | [在 GitHub 上查看](https://github.com/hankcs/HanLP) |
+| [hankcs/HanLP](https://github.com/hankcs/HanLP) | 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘... | [在 GitHub 上查看](https://github.com/hankcs/HanLP) |
 | [hantang/rime-list](https://github.com/hantang/rime-list) | RIME相关配置、词库和输入法方案汇集。 | [在 GitHub 上查看](https://github.com/hantang/rime-list) |
 | [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) | 一款跳过小电视视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored s... | [在 GitHub 上查看](https://github.com/hanydd/BilibiliSponsorBlock) |
 | [happycola233/tchMaterial-parser](https://github.com/happycola233/tchMaterial-parser) | 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。 | [在 GitHub 上查看](https://github.com/happycola233/tchMaterial-parser) |
