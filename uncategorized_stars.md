@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sun Dec 14 02:04:58 UTC 2025 | 总计: **1478** 个未分类项目
+> 生成于 UTC 时间: Mon Dec 15 02:02:19 UTC 2025 | 总计: **1478** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) | 操作 (Action) |
 | --- | --- | --- |
@@ -440,7 +440,7 @@
 | [grayddq/GScan](https://github.com/grayddq/GScan) | 本程序旨在为安全应急响应人员对Linux主机排查时提供便利，实现主机侧Checklist的自动全面化检测，根据检测结果自动数据聚合，进行黑客攻击路径溯源。 | [在 GitHub 上查看](https://github.com/grayddq/GScan) |
 | [grbnb/xp_module](https://github.com/grbnb/xp_module) | 备份午夜神大佬分享的应用集 【下面是Gitee仓库链接】https://gitee.com/grbnb/xp_module.git | [在 GitHub 上查看](https://github.com/grbnb/xp_module) |
 | [greyCloudTeam/MCDrink](https://github.com/greyCloudTeam/MCDrink) | 我的世界motd压测程序 | [在 GitHub 上查看](https://github.com/greyCloudTeam/MCDrink) |
-| [groupultra/telegram-search](https://github.com/groupultra/telegram-search) | 🔍  Semantic search your Telegram chat history / 语义化搜索您的 Telegram 聊天记录 | [在 GitHub 上查看](https://github.com/groupultra/telegram-search) |
+| [groupultra/telegram-search](https://github.com/groupultra/telegram-search) | 🔍 导出并模糊搜索 Telegram 聊天记录 / Export and fuzzy search your Telegram chat history | [在 GitHub 上查看](https://github.com/groupultra/telegram-search) |
 | [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | :cn: GitHub中文排行榜，各语言分设「软件 / 资料」榜单，精准定位中文好项目。各取所需，高效学习。 | [在 GitHub 上查看](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) |
 | [gsantner/markor](https://github.com/gsantner/markor) | Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, mat... | [在 GitHub 上查看](https://github.com/gsantner/markor) |
 | [GSWXXN/RestoreSplashScreen](https://github.com/GSWXXN/RestoreSplashScreen) | 启动遮罩进化 / RestoreSplashScreen | [在 GitHub 上查看](https://github.com/GSWXXN/RestoreSplashScreen) |
@@ -1430,7 +1430,7 @@
 | [Yubyf/QuoteLockX](https://github.com/Yubyf/QuoteLockX) | Displays quotes on your lockscreen, because why not. | [在 GitHub 上查看](https://github.com/Yubyf/QuoteLockX) |
 | [yudai/gotty](https://github.com/yudai/gotty) | Share your terminal as a web application | [在 GitHub 上查看](https://github.com/yudai/gotty) |
 | [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) | ArchLinux based WSL Distribution. Supports multiple install. | [在 GitHub 上查看](https://github.com/yuk7/ArchWSL) |
-| [YumeYuka/Tritium](https://github.com/YumeYuka/Tritium) | 最大化Soc的潜力 Maximize the potential of Soc | [在 GitHub 上查看](https://github.com/YumeYuka/Tritium) |
+| [Yume-Li/Tritium](https://github.com/Yume-Li/Tritium) | 最大化Soc的潜力 Maximize the potential of Soc | [在 GitHub 上查看](https://github.com/Yume-Li/Tritium) |
 | [yushijinhun/authlib-injector](https://github.com/yushijinhun/authlib-injector) | Build your own Minecraft authentication system. | [在 GitHub 上查看](https://github.com/yushijinhun/authlib-injector) |
 | [yutto-dev/yutto](https://github.com/yutto-dev/yutto) | :ice_cube: 一个可爱且任性的 B 站视频下载器 | [在 GitHub 上查看](https://github.com/yutto-dev/yutto) |
 | [yuzu233/anti-ocr](https://github.com/yuzu233/anti-ocr) | 對抗文字識別 | [在 GitHub 上查看](https://github.com/yuzu233/anti-ocr) |
