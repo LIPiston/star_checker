@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Mon Dec 15 02:02:19 UTC 2025 | 总计: **1478** 个未分类项目
+> 生成于 UTC 时间: Tue Dec 16 01:58:59 UTC 2025 | 总计: **1481** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) | 操作 (Action) |
 | --- | --- | --- |
@@ -26,10 +26,10 @@
 | [8Mi-Tech/LSPatch-ApkFactory](https://github.com/8Mi-Tech/LSPatch-ApkFactory) | 一个基于LSPatch的打包工具，自动为常见应用打LSPatch补丁的仓库，包括 OPatch / ONPatch / NPatch | [在 GitHub 上查看](https://github.com/8Mi-Tech/LSPatch-ApkFactory) |
 | [aa2013/ClipShare](https://github.com/aa2013/ClipShare) | 一个支持跨平台（目前为Android、Windows、MacOS）的剪贴板历史记录与同步软件，支持Android10以上版本后台同步，支持文本、图片、文件... | [在 GitHub 上查看](https://github.com/aa2013/ClipShare) |
 | [aaa1115910/bv](https://github.com/aaa1115910/bv) | 哔哩哔哩 的第三方 Android 应用。A third-party Android app for Bilibili. | [在 GitHub 上查看](https://github.com/aaa1115910/bv) |
-| [abbodi1406/KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) | Smart Activation Script | [在 GitHub 上查看](https://github.com/abbodi1406/KMS_VL_ALL_AIO) |
 | [abcz316/SKRoot-linuxKernelRoot](https://github.com/abcz316/SKRoot-linuxKernelRoot) | 新一代SKRoot，完美隐藏root功能，挑战全网root检测手段，实现真正的SELinux 0%触碰、无挂载，通用性强，通杀所有内核，不需要内核源码，直... | [在 GitHub 上查看](https://github.com/abcz316/SKRoot-linuxKernelRoot) |
 | [Acfboy/twt-werewolf-master-ng](https://github.com/Acfboy/twt-werewolf-master-ng) | Modern generation of twt-werewolf-master | [在 GitHub 上查看](https://github.com/Acfboy/twt-werewolf-master-ng) |
 | [AChep/keyguard-app](https://github.com/AChep/keyguard-app) | Keyguard is an alternative client for the Bitwarden® platform & KeePass (KDBX... | [在 GitHub 上查看](https://github.com/AChep/keyguard-app) |
+| [Achuan-2/SlideSCI](https://github.com/Achuan-2/SlideSCI) | PPT plugin, supports one-click to add image titles, copy and paste positions,... | [在 GitHub 上查看](https://github.com/Achuan-2/SlideSCI) |
 | [acl4ssr-sub/acl4ssr-sub.github.io](https://github.com/acl4ssr-sub/acl4ssr-sub.github.io) | None | [在 GitHub 上查看](https://github.com/acl4ssr-sub/acl4ssr-sub.github.io) |
 | [actions/setup-python](https://github.com/actions/setup-python) | Set up your GitHub Actions workflow with a specific version of Python | [在 GitHub 上查看](https://github.com/actions/setup-python) |
 | [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) | The best free and open-source automated time tracker. Cross-platform, extensi... | [在 GitHub 上查看](https://github.com/ActivityWatch/activitywatch) |
@@ -283,6 +283,7 @@
 | [daybreak1929/ViaBrowserCollection](https://github.com/daybreak1929/ViaBrowserCollection) | 个人为 via 浏览器自定义/功能保留的一份完整资料，仍在持续补全，来源于：https://gitee.com/daybreak166/ViaBrowse... | [在 GitHub 上查看](https://github.com/daybreak1929/ViaBrowserCollection) |
 | [dbcli/mycli](https://github.com/dbcli/mycli) | A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting. | [在 GitHub 上查看](https://github.com/dbcli/mycli) |
 | [ddgth/cf2dns](https://github.com/ddgth/cf2dns) | 筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式 | [在 GitHub 上查看](https://github.com/ddgth/cf2dns) |
+| [DearVa/Everywhere](https://github.com/DearVa/Everywhere) | A context-aware AI assistant for your desktop. Ready to respond intelligently... | [在 GitHub 上查看](https://github.com/DearVa/Everywhere) |
 | [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) | Contexts Optical Compression | [在 GitHub 上查看](https://github.com/deepseek-ai/DeepSeek-OCR) |
 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | None | [在 GitHub 上查看](https://github.com/deepseek-ai/DeepSeek-R1) |
 | [Delta-Icons/android](https://github.com/Delta-Icons/android) | 🤖 Icon Pack for Android | [在 GitHub 上查看](https://github.com/Delta-Icons/android) |
@@ -645,6 +646,7 @@
 | [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) | :cake: Desktop utility to download images/videos/music/text from various webs... | [在 GitHub 上查看](https://github.com/KurtBestor/Hitomi-Downloader) |
 | [KusStar/rewind-apks](https://github.com/KusStar/rewind-apks) | 倒带 App｜应用安装包仓库 | [在 GitHub 上查看](https://github.com/KusStar/rewind-apks) |
 | [KusStar/rewind-docs](https://github.com/KusStar/rewind-docs) | 倒带 App｜应用主页 | [在 GitHub 上查看](https://github.com/KusStar/rewind-docs) |
+| [kwsch/PKHeX](https://github.com/kwsch/PKHeX) | Pokémon Save File Editor | [在 GitHub 上查看](https://github.com/kwsch/PKHeX) |
 | [KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian) | 86五笔极点码表 for 鼠须管(macOS)、小狼毫(Windows)、中州韵(Ubuntu) 、仓（iOS）、同文（Android）五笔输入方案，五笔... | [在 GitHub 上查看](https://github.com/KyleBing/rime-wubi86-jidian) |
 | [Kyome22/RunCat365](https://github.com/Kyome22/RunCat365) | A cute running cat animation on your windows taskbar. | [在 GitHub 上查看](https://github.com/Kyome22/RunCat365) |
 | [kyujin-cho/pixel-volte-patch](https://github.com/kyujin-cho/pixel-volte-patch) | Pixel IMS: Rootless replacement for Tensor Pixel VoLTE patch | [在 GitHub 上查看](https://github.com/kyujin-cho/pixel-volte-patch) |
@@ -1249,6 +1251,7 @@
 | [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) | The Magic Mask for Android | [在 GitHub 上查看](https://github.com/topjohnwu/Magisk) |
 | [topjohnwu/ndk-busybox](https://github.com/topjohnwu/ndk-busybox) | BusyBox building with command ndk-build | [在 GitHub 上查看](https://github.com/topjohnwu/ndk-busybox) |
 | [Tornaco/Thanox](https://github.com/Tornaco/Thanox) | I am thanos! 😈 👌 | [在 GitHub 上查看](https://github.com/Tornaco/Thanox) |
+| [Tosencen/XMSLEEP](https://github.com/Tosencen/XMSLEEP) | 一款白噪音应用，祝您牛掰，有的是钱 | [在 GitHub 上查看](https://github.com/Tosencen/XMSLEEP) |
 | [tosuapp/tosu](https://github.com/tosuapp/tosu) | osu! Stable and Lazer memory reader and PP counters provider | [在 GitHub 上查看](https://github.com/tosuapp/tosu) |
 | [TouchController/TouchController](https://github.com/TouchController/TouchController) | Touchscreen control mod for Minecraft Java version / Minecraft Java 版触屏控制 mod | [在 GitHub 上查看](https://github.com/TouchController/TouchController) |
 | [tr7zw/Exordium](https://github.com/tr7zw/Exordium) | There is no good reason to render the hotbar at 100+ fps | [在 GitHub 上查看](https://github.com/tr7zw/Exordium) |
