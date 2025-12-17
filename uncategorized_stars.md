@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Tue Dec 16 01:58:59 UTC 2025 | 总计: **1481** 个未分类项目
+> 生成于 UTC 时间: Wed Dec 17 01:54:19 UTC 2025 | 总计: **1484** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) | 操作 (Action) |
 | --- | --- | --- |
@@ -76,6 +76,7 @@
 | [Angey40/BaiduPCS-Go](https://github.com/Angey40/BaiduPCS-Go) | 百度网盘工具箱 - Go语言编写 | [在 GitHub 上查看](https://github.com/Angey40/BaiduPCS-Go) |
 | [ansh/jiffyreader-public-archive](https://github.com/ansh/jiffyreader-public-archive) | A Browser Extension for faster reading on ANY website! | [在 GitHub 上查看](https://github.com/ansh/jiffyreader-public-archive) |
 | [antfu-collective/icones](https://github.com/antfu-collective/icones) | ⚡️ Icon Explorer with Instant searching, powered by Iconify | [在 GitHub 上查看](https://github.com/antfu-collective/icones) |
+| [antfu/changelogithub](https://github.com/antfu/changelogithub) | Generate changelog for GitHub | [在 GitHub 上查看](https://github.com/antfu/changelogithub) |
 | [antfu/handle](https://github.com/antfu/handle) | A Chinese Hanzi variation of Wordle - 汉字 Wordle | [在 GitHub 上查看](https://github.com/antfu/handle) |
 | [antfu/starter-vscode](https://github.com/antfu/starter-vscode) | Starter template for VS Code Extension | [在 GitHub 上查看](https://github.com/antfu/starter-vscode) |
 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Claude Code is an agentic coding tool that lives in your terminal, understand... | [在 GitHub 上查看](https://github.com/anthropics/claude-code) |
@@ -605,6 +606,7 @@
 | [kaniol-lck/modmanager](https://github.com/kaniol-lck/modmanager) | A Qt-based mod manager for minecraft. | [在 GitHub 上查看](https://github.com/kaniol-lck/modmanager) |
 | [Karben233/bili-hardcore](https://github.com/Karben233/bili-hardcore) | bilibili 硬核会员 AI 自动答题脚本，直接调用 B 站 API，非 OCR 实现 | [在 GitHub 上查看](https://github.com/Karben233/bili-hardcore) |
 | [karpathy/nanochat](https://github.com/karpathy/nanochat) | The best ChatGPT that $100 can buy. | [在 GitHub 上查看](https://github.com/karpathy/nanochat) |
+| [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC) | Modern VNC Server and client, web based and secure | [在 GitHub 上查看](https://github.com/kasmtech/KasmVNC) |
 | [Katana-Official/SPatch-Update](https://github.com/Katana-Official/SPatch-Update) | Update for SPatch nightly | [在 GitHub 上查看](https://github.com/Katana-Official/SPatch-Update) |
 | [kawamataryo/sky-follower-bridge](https://github.com/kawamataryo/sky-follower-bridge) | Instantly find and follow the same users from your X(Twitter) follower on Blu... | [在 GitHub 上查看](https://github.com/kawamataryo/sky-follower-bridge) |
 | [kazutoiris/infinite-illusion](https://github.com/kazutoiris/infinite-illusion) | Infinite Illusion （无限幻境） | [在 GitHub 上查看](https://github.com/kazutoiris/infinite-illusion) |
@@ -1259,7 +1261,7 @@
 | [trpc/trpc](https://github.com/trpc/trpc) | 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  | [在 GitHub 上查看](https://github.com/trpc/trpc) |
 | [tsoding/nob.h](https://github.com/tsoding/nob.h) | Header only library for writing build recipes in C.  | [在 GitHub 上查看](https://github.com/tsoding/nob.h) |
 | [Tufmoc/W.Tools-Ver.Bat](https://github.com/Tufmoc/W.Tools-Ver.Bat) | 初代工具箱雏形 | [在 GitHub 上查看](https://github.com/Tufmoc/W.Tools-Ver.Bat) |
-| [tukuaiai/vibe-coding-cn](https://github.com/tukuaiai/vibe-coding-cn) | 我的开发经验+vibe-coding 的中文翻译版本—+提示词库=vibecoding工作站 | [在 GitHub 上查看](https://github.com/tukuaiai/vibe-coding-cn) |
+| [tukuaiai/vibe-coding-cn](https://github.com/tukuaiai/vibe-coding-cn) | 我的开发经验+提示词库=vibecoding工作站；My development experience + prompt dictionary = Vib... | [在 GitHub 上查看](https://github.com/tukuaiai/vibe-coding-cn) |
 | [tumuyan/RealSR-NCNN-Android](https://github.com/tumuyan/RealSR-NCNN-Android) | An Android application for super-resolution & interpolation. Contains RealSR-... | [在 GitHub 上查看](https://github.com/tumuyan/RealSR-NCNN-Android) |
 | [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) | A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScri... | [在 GitHub 上查看](https://github.com/tusen-ai/naive-ui) |
 | [tuyafeng/Via](https://github.com/tuyafeng/Via) | Via is a simple browser, and this repository is set for localization. | [在 GitHub 上查看](https://github.com/tuyafeng/Via) |
@@ -1291,6 +1293,7 @@
 | [vacla/Watson](https://github.com/vacla/Watson) | Updated Watson that displays LogBlock and CoreProtect query results in 3D. | [在 GitHub 上查看](https://github.com/vacla/Watson) |
 | [VandalByte/darkmatter-grub2-theme](https://github.com/VandalByte/darkmatter-grub2-theme) | Dark Matter GRUB Theme  👾💙 | [在 GitHub 上查看](https://github.com/VandalByte/darkmatter-grub2-theme) |
 | [Vanessa219/vditor](https://github.com/Vanessa219/vditor) | ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Mar... | [在 GitHub 上查看](https://github.com/Vanessa219/vditor) |
+| [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) | 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Pa... | [在 GitHub 上查看](https://github.com/vastsa/FileCodeBox) |
 | [vbskycn/iptv](https://github.com/vbskycn/iptv) | iptv最新可用直播源,支持iptv4/iptv6双栈访问。直播电视系统，这里有折腾好的，直接下载用吧。直播电视app电视手机全部兼容。 | [在 GitHub 上查看](https://github.com/vbskycn/iptv) |
 | [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) | :whale: A curated list of Docker resources and projects | [在 GitHub 上查看](https://github.com/veggiemonk/awesome-docker) |
 | [venera-app/venera](https://github.com/venera-app/venera) | A comic app | [在 GitHub 上查看](https://github.com/venera-app/venera) |
