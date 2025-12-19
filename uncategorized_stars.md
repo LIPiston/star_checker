@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Thu Dec 18 01:55:04 UTC 2025 | 总计: **1484** 个未分类项目
+> 生成于 UTC 时间: Fri Dec 19 01:58:04 UTC 2025 | 总计: **1484** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) | 操作 (Action) |
 | --- | --- | --- |
@@ -427,7 +427,7 @@
 | [gitify-app/gitify](https://github.com/gitify-app/gitify) | GitHub notifications on your menu bar. Available on macOS, Windows & Linux. | [在 GitHub 上查看](https://github.com/gitify-app/gitify) |
 | [GitMetaio/Surfing](https://github.com/GitMetaio/Surfing) | Magisk and KernelSU modules for  Clash/mihomo services. | [在 GitHub 上查看](https://github.com/GitMetaio/Surfing) |
 | [gitui-org/gitui](https://github.com/gitui-org/gitui) | Blazing 💥 fast terminal-ui for git written in rust 🦀 | [在 GitHub 上查看](https://github.com/gitui-org/gitui) |
-| [gkd-kit/gkd](https://github.com/gkd-kit/gkd) | 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 / An Android APP with custom screen tappi... | [在 GitHub 上查看](https://github.com/gkd-kit/gkd) |
+| [gkd-kit/gkd](https://github.com/gkd-kit/gkd) | 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 / An Android APP with custom screen tapping base... | [在 GitHub 上查看](https://github.com/gkd-kit/gkd) |
 | [glanceapp/glance](https://github.com/glanceapp/glance) | A self-hosted dashboard that puts all your feeds in one place | [在 GitHub 上查看](https://github.com/glanceapp/glance) |
 | [GlobeMC/crashmc.com](https://github.com/GlobeMC/crashmc.com) | CrashMC.com Website | [在 GitHub 上查看](https://github.com/GlobeMC/crashmc.com) |
 | [gloeyisk/universal-gms-doze](https://github.com/gloeyisk/universal-gms-doze) | Patches Google Play services app and certain processes/services to be able to... | [在 GitHub 上查看](https://github.com/gloeyisk/universal-gms-doze) |
@@ -1051,7 +1051,7 @@
 | [RelativityMC/C2ME-fabric](https://github.com/RelativityMC/C2ME-fabric) | A Fabric mod designed to improve the chunk performance of Minecraft. | [在 GitHub 上查看](https://github.com/RelativityMC/C2ME-fabric) |
 | [RelativityMC/ScalableLux](https://github.com/RelativityMC/ScalableLux) | A Fabric mod based on Starlight that improves the performance of light update... | [在 GitHub 上查看](https://github.com/RelativityMC/ScalableLux) |
 | [RelativityMC/VMP-fabric](https://github.com/RelativityMC/VMP-fabric) | A Fabric mod designed to improve server performance at high playercounts. | [在 GitHub 上查看](https://github.com/RelativityMC/VMP-fabric) |
-| [ResetPower/Epherome](https://github.com/ResetPower/Epherome) | Powerful Minecraft Launcher | [在 GitHub 上查看](https://github.com/ResetPower/Epherome) |
+| [ResetPower/Epherome](https://github.com/ResetPower/Epherome) | [Deprecated] This repository is obsolete. Please go to Epheromeers/Epherome i... | [在 GitHub 上查看](https://github.com/ResetPower/Epherome) |
 | [ResetPower/rcs](https://github.com/ResetPower/rcs) | ResetPower's Component Set using TailwindCSS. | [在 GitHub 上查看](https://github.com/ResetPower/rcs) |
 | [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) | Best Material You Design music player for Android | [在 GitHub 上查看](https://github.com/RetroMusicPlayer/RetroMusicPlayer) |
 | [retspen/webvirtcloud](https://github.com/retspen/webvirtcloud) | WebVirtCloud is virtualization web interface for admins and users | [在 GitHub 上查看](https://github.com/retspen/webvirtcloud) |
