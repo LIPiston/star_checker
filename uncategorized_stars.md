@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Fri Dec 19 01:58:04 UTC 2025 | 总计: **1484** 个未分类项目
+> 生成于 UTC 时间: Sat Dec 20 01:51:46 UTC 2025 | 总计: **1485** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) | 操作 (Action) |
 | --- | --- | --- |
@@ -1085,7 +1085,7 @@
 | [rverst/stargazer](https://github.com/rverst/stargazer) | Stargazer creates a sorted list of your stared GitHub repositories - your per... | [在 GitHub 上查看](https://github.com/rverst/stargazer) |
 | [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) | 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。 | [在 GitHub 上查看](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) |
 | [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched font... | [在 GitHub 上查看](https://github.com/ryanoasis/nerd-fonts) |
-| [Rz-C/Mohist](https://github.com/Rz-C/Mohist) | Minecraft Forge Hybrid server implementing the Spigot/Bukkit API, formerly kn... | [在 GitHub 上查看](https://github.com/Rz-C/Mohist) |
+| [Rz-C/TENET](https://github.com/Rz-C/TENET) | Minecraft Forge Hybrid server implementing the Spigot/Bukkit API, formerly kn... | [在 GitHub 上查看](https://github.com/Rz-C/TENET) |
 | [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) | This repository will assist you in creating a more beautiful and appealing gi... | [在 GitHub 上查看](https://github.com/rzashakeri/beautify-github-profile) |
 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui) | 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library | [在 GitHub 上查看](https://github.com/saadeghi/daisyui) |
 | [saber-notes/saber](https://github.com/saber-notes/saber) | The cross-platform open-source app built for handwriting | [在 GitHub 上查看](https://github.com/saber-notes/saber) |
@@ -1271,6 +1271,7 @@
 | [twt-tec/werewolf-master](https://github.com/twt-tec/werewolf-master) | None | [在 GitHub 上查看](https://github.com/twt-tec/werewolf-master) |
 | [typecho/typecho](https://github.com/typecho/typecho) | A PHP Blogging Platform. Simple and Powerful. | [在 GitHub 上查看](https://github.com/typecho/typecho) |
 | [TypesettingTools/Aegisub](https://github.com/TypesettingTools/Aegisub) | Cross-platform advanced subtitle editor | [在 GitHub 上查看](https://github.com/TypesettingTools/Aegisub) |
+| [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) | Downloads videos and playlists from YouTube | [在 GitHub 上查看](https://github.com/Tyrrrz/YoutubeDownloader) |
 | [tytydraco/LADB](https://github.com/tytydraco/LADB) | A local ADB shell for Android! | [在 GitHub 上查看](https://github.com/tytydraco/LADB) |
 | [u14app/deep-research](https://github.com/u14app/deep-research) | Use any LLMs (Large Language Models) for Deep Research. Support SSE API and M... | [在 GitHub 上查看](https://github.com/u14app/deep-research) |
 | [umami-software/umami](https://github.com/umami-software/umami) | Umami is a modern, privacy-focused analytics platform. An open-source alterna... | [在 GitHub 上查看](https://github.com/umami-software/umami) |
