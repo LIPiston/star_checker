@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sat Dec 20 01:51:46 UTC 2025 | 总计: **1485** 个未分类项目
+> 生成于 UTC 时间: Sun Dec 21 02:04:49 UTC 2025 | 总计: **1486** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) | 操作 (Action) |
 | --- | --- | --- |
@@ -558,7 +558,7 @@
 | [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 | [在 GitHub 上查看](https://github.com/jackfrued/Python-100-Days) |
 | [jadepeng/XMusicDownloader](https://github.com/jadepeng/XMusicDownloader) | 一款 支持从百度、网易、qq、酷狗、咪咕等音乐网站搜索并下载歌曲的程序，支持下载无损音乐 | [在 GitHub 上查看](https://github.com/jadepeng/XMusicDownloader) |
 | [jaredcat/WiFiList](https://github.com/jaredcat/WiFiList) | None | [在 GitHub 上查看](https://github.com/jaredcat/WiFiList) |
-| [jark006/JarkViewer](https://github.com/jark006/JarkViewer) | A simple image viewer   一款简单的看图软件 | [在 GitHub 上查看](https://github.com/jark006/JarkViewer) |
+| [jark006/JarkViewer](https://github.com/jark006/JarkViewer) | 一款轻量、飞快且强大的图像查看器，支持从 JPEG 到 AVIF、HEIC 和 JPEG XL 等最新格式的超多图像格式！A lightweight, l... | [在 GitHub 上查看](https://github.com/jark006/JarkViewer) |
 | [jart/cosmopolitan](https://github.com/jart/cosmopolitan) | build-once run-anywhere c library | [在 GitHub 上查看](https://github.com/jart/cosmopolitan) |
 | [Java-S12138/frank](https://github.com/Java-S12138/frank) | A bran-new League of Legends assistant software, a replacement for WeGame. | [在 GitHub 上查看](https://github.com/Java-S12138/frank) |
 | [jaywcjlove/free-font](https://github.com/jaywcjlove/free-font) | Collection of Free English/Chinese Fonts for Commercial Use. 收录可商用的免费英文/汉字字体。 | [在 GitHub 上查看](https://github.com/jaywcjlove/free-font) |
@@ -1051,6 +1051,7 @@
 | [RelativityMC/C2ME-fabric](https://github.com/RelativityMC/C2ME-fabric) | A Fabric mod designed to improve the chunk performance of Minecraft. | [在 GitHub 上查看](https://github.com/RelativityMC/C2ME-fabric) |
 | [RelativityMC/ScalableLux](https://github.com/RelativityMC/ScalableLux) | A Fabric mod based on Starlight that improves the performance of light update... | [在 GitHub 上查看](https://github.com/RelativityMC/ScalableLux) |
 | [RelativityMC/VMP-fabric](https://github.com/RelativityMC/VMP-fabric) | A Fabric mod designed to improve server performance at high playercounts. | [在 GitHub 上查看](https://github.com/RelativityMC/VMP-fabric) |
+| [relimus/TAssistant](https://github.com/relimus/TAssistant) | Make TIM Great Again! | [在 GitHub 上查看](https://github.com/relimus/TAssistant) |
 | [ResetPower/Epherome](https://github.com/ResetPower/Epherome) | [Deprecated] This repository is obsolete. Please go to Epheromeers/Epherome i... | [在 GitHub 上查看](https://github.com/ResetPower/Epherome) |
 | [ResetPower/rcs](https://github.com/ResetPower/rcs) | ResetPower's Component Set using TailwindCSS. | [在 GitHub 上查看](https://github.com/ResetPower/rcs) |
 | [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) | Best Material You Design music player for Android | [在 GitHub 上查看](https://github.com/RetroMusicPlayer/RetroMusicPlayer) |
