@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sun Dec 21 02:04:49 UTC 2025 | 总计: **1486** 个未分类项目
+> 生成于 UTC 时间: Mon Dec 22 02:03:59 UTC 2025 | 总计: **1488** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) | 操作 (Action) |
 | --- | --- | --- |
@@ -41,6 +41,7 @@
 | [Aefyr/SAI](https://github.com/Aefyr/SAI) | Android split APKs installer | [在 GitHub 上查看](https://github.com/Aefyr/SAI) |
 | [afeimod/winlator-mod](https://github.com/afeimod/winlator-mod) | Android application for running Windows applications with Wine and Box86/Box64 | [在 GitHub 上查看](https://github.com/afeimod/winlator-mod) |
 | [agalwood/Motrix](https://github.com/agalwood/Motrix) | A full-featured download manager. | [在 GitHub 上查看](https://github.com/agalwood/Motrix) |
+| [agentskills/agentskills](https://github.com/agentskills/agentskills) | Specification and documentation for Agent Skills | [在 GitHub 上查看](https://github.com/agentskills/agentskills) |
 | [AHCorn/Bilibili-Auto-Quality](https://github.com/AHCorn/Bilibili-Auto-Quality) | 自动解锁并更改哔哩哔哩视频的画质和音质及直播画质，实现自动选择最高画质、无损音频、杜比全景声。 / Automatically unlock and se... | [在 GitHub 上查看](https://github.com/AHCorn/Bilibili-Auto-Quality) |
 | [aidenlx/cm-chs-patch](https://github.com/aidenlx/cm-chs-patch) | A patch for Obsidian's built-in CodeMirror Editor to support Simplified Chine... | [在 GitHub 上查看](https://github.com/aidenlx/cm-chs-patch) |
 | [Aira-Sakuranomiya/CleanFlashInstaller](https://github.com/Aira-Sakuranomiya/CleanFlashInstaller) | Please see https://gitlab.com/cleanflash/installer/-/releases | [在 GitHub 上查看](https://github.com/Aira-Sakuranomiya/CleanFlashInstaller) |
@@ -205,6 +206,7 @@
 | [catppuccin/fcitx5](https://github.com/catppuccin/fcitx5) | 🧃 Soothing pastel theme for Fcitx5 | [在 GitHub 上查看](https://github.com/catppuccin/fcitx5) |
 | [Cats-Team/AdRules](https://github.com/Cats-Team/AdRules) | List for blocking ads in the Chinese region | [在 GitHub 上查看](https://github.com/Cats-Team/AdRules) |
 | [CCBlueX/LiquidBounce](https://github.com/CCBlueX/LiquidBounce) | A free Minecraft hacked client (utility mod) for Fabric | [在 GitHub 上查看](https://github.com/CCBlueX/LiquidBounce) |
+| [CelestialArtistry/Tenet](https://github.com/CelestialArtistry/Tenet) | Minecraft Forge Hybrid server implementing the Spigot/Bukkit API, formerly kn... | [在 GitHub 上查看](https://github.com/CelestialArtistry/Tenet) |
 | [CeuiLiSA/Pixiv-Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft) | Pixiv第三方Android客户端 | [在 GitHub 上查看](https://github.com/CeuiLiSA/Pixiv-Shaft) |
 | [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) | Github Starred Repositories Manager | [在 GitHub 上查看](https://github.com/cfour-hi/gitstars) |
 | [CFPAOrg/Minecraft-Mod-Language-Package](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package) | A language package for Minecraft Mods. | [在 GitHub 上查看](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package) |
@@ -1032,6 +1034,7 @@
 | [QYG2297248353/appstore-1panel](https://github.com/QYG2297248353/appstore-1panel) | Docker Compose 应用商店 已支持：1Panel, DPanel, Dockge | [在 GitHub 上查看](https://github.com/QYG2297248353/appstore-1panel) |
 | [r0x0r/pywebview](https://github.com/r0x0r/pywebview) | Build GUI for your Python program with JavaScript, HTML, and CSS | [在 GitHub 上查看](https://github.com/r0x0r/pywebview) |
 | [R1ckyH/ChatBridgeReforged](https://github.com/R1ckyH/ChatBridgeReforged) | Reforged of ChatBridge, interaction with other clients(such as Minecraft serv... | [在 GitHub 上查看](https://github.com/R1ckyH/ChatBridgeReforged) |
+| [Radarr/Radarr](https://github.com/Radarr/Radarr) | Movie organizer/manager for usenet and torrent users. | [在 GitHub 上查看](https://github.com/Radarr/Radarr) |
 | [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) | The customization marketplace for Windows programs: https://windhawk.net/ | [在 GitHub 上查看](https://github.com/ramensoftware/windhawk) |
 | [RaspberryPiFoundation/blockly](https://github.com/RaspberryPiFoundation/blockly) | The web-based visual programming editor. | [在 GitHub 上查看](https://github.com/RaspberryPiFoundation/blockly) |
 | [rational-stars/GitHub-Freshness](https://github.com/rational-stars/GitHub-Freshness) | GitHub Freshness 在线文档 | [在 GitHub 上查看](https://github.com/rational-stars/GitHub-Freshness) |
@@ -1086,7 +1089,6 @@
 | [rverst/stargazer](https://github.com/rverst/stargazer) | Stargazer creates a sorted list of your stared GitHub repositories - your per... | [在 GitHub 上查看](https://github.com/rverst/stargazer) |
 | [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) | 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。 | [在 GitHub 上查看](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) |
 | [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched font... | [在 GitHub 上查看](https://github.com/ryanoasis/nerd-fonts) |
-| [Rz-C/TENET](https://github.com/Rz-C/TENET) | Minecraft Forge Hybrid server implementing the Spigot/Bukkit API, formerly kn... | [在 GitHub 上查看](https://github.com/Rz-C/TENET) |
 | [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) | This repository will assist you in creating a more beautiful and appealing gi... | [在 GitHub 上查看](https://github.com/rzashakeri/beautify-github-profile) |
 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui) | 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library | [在 GitHub 上查看](https://github.com/saadeghi/daisyui) |
 | [saber-notes/saber](https://github.com/saber-notes/saber) | The cross-platform open-source app built for handwriting | [在 GitHub 上查看](https://github.com/saber-notes/saber) |
@@ -1355,7 +1357,7 @@
 | [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) | This project is deprecated. Check my new project ChatHub: | [在 GitHub 上查看](https://github.com/wong2/chatgpt-google-extension) |
 | [wongdean/rime-settings](https://github.com/wongdean/rime-settings) | 接近原生的鼠须管 Rime 配置 | [在 GitHub 上查看](https://github.com/wongdean/rime-settings) |
 | [wshobson/agents](https://github.com/wshobson/agents) | Intelligent automation and multi-agent orchestration for Claude Code | [在 GitHub 上查看](https://github.com/wshobson/agents) |
-| [WSTxda/ViperFX-RE-Releases](https://github.com/WSTxda/ViperFX-RE-Releases) | ViPER4Android FX with Material 3 Expressive design and improvements | [在 GitHub 上查看](https://github.com/WSTxda/ViperFX-RE-Releases) |
+| [WSTxda/ViperFX-RE-Releases](https://github.com/WSTxda/ViperFX-RE-Releases) | ViPER4Android FX with Material 3 Expressive design and improvements. | [在 GitHub 上查看](https://github.com/WSTxda/ViperFX-RE-Releases) |
 | [WSTxda/ViPERFX_RE](https://github.com/WSTxda/ViPERFX_RE) | Reverse Engineering of ViPER4Android FX | [在 GitHub 上查看](https://github.com/WSTxda/ViPERFX_RE) |
 | [wu-mx/subinfobot](https://github.com/wu-mx/subinfobot) | 一个由Go编写的开源轻量订阅查询Telegram Bot。 | [在 GitHub 上查看](https://github.com/wu-mx/subinfobot) |
 | [wu-mx/URLignore](https://github.com/wu-mx/URLignore) | A simple node tool. | [在 GitHub 上查看](https://github.com/wu-mx/URLignore) |
