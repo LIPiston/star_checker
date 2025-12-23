@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Mon Dec 22 02:03:59 UTC 2025 | 总计: **1488** 个未分类项目
+> 生成于 UTC 时间: Tue Dec 23 01:59:13 UTC 2025 | 总计: **1487** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) | 操作 (Action) |
 | --- | --- | --- |
@@ -313,7 +313,7 @@
 | [Dr-TSNG/Hide-My-Applist](https://github.com/Dr-TSNG/Hide-My-Applist) | An Xposed module to intercept applist detections | [在 GitHub 上查看](https://github.com/Dr-TSNG/Hide-My-Applist) |
 | [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) | Standalone implementation of Zygisk | [在 GitHub 上查看](https://github.com/Dr-TSNG/ZygiskNext) |
 | [DreamingLri/masa-mods-chinese](https://github.com/DreamingLri/masa-mods-chinese) | 一个masa mods的汉化资源包 | [在 GitHub 上查看](https://github.com/DreamingLri/masa-mods-chinese) |
-| [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) | Generate audiobooks from e-books, voice cloning & 1107+ languages! | [在 GitHub 上查看](https://github.com/DrewThomasson/ebook2audiobook) |
+| [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) | Generate audiobooks from e-books, voice cloning & 1158+ languages! | [在 GitHub 上查看](https://github.com/DrewThomasson/ebook2audiobook) |
 | [Droid-ify/client](https://github.com/Droid-ify/client) | Clutterfree F-Droid client | [在 GitHub 上查看](https://github.com/Droid-ify/client) |
 | [droidrun/droidrun](https://github.com/droidrun/droidrun) | Automate your mobile devices with natural language commands - an LLM agnostic... | [在 GitHub 上查看](https://github.com/droidrun/droidrun) |
 | [duckdb/duckdb](https://github.com/duckdb/duckdb) | DuckDB is an analytical in-process SQL database management system | [在 GitHub 上查看](https://github.com/duckdb/duckdb) |
@@ -352,7 +352,7 @@
 | [f-droid/fdroidclient](https://github.com/f-droid/fdroidclient) | Android client application. | [在 GitHub 上查看](https://github.com/f-droid/fdroidclient) |
 | [F9y4ng/GreasyFork-Scripts](https://github.com/F9y4ng/GreasyFork-Scripts) | The open source code of this project is used for userscripts (油猴脚本) for deskt... | [在 GitHub 上查看](https://github.com/F9y4ng/GreasyFork-Scripts) |
 | [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline) | Linux Distributions Timeline | [在 GitHub 上查看](https://github.com/FabioLolix/LinuxTimeline) |
-| [FabricMC/fabric](https://github.com/FabricMC/fabric) | Essential hooks for modding with Fabric. | [在 GitHub 上查看](https://github.com/FabricMC/fabric) |
+| [FabricMC/fabric-api](https://github.com/FabricMC/fabric-api) | Essential hooks for modding with Fabric. | [在 GitHub 上查看](https://github.com/FabricMC/fabric-api) |
 | [Fabulously-Optimized/fabulously-optimized](https://github.com/Fabulously-Optimized/fabulously-optimized) | A simple Minecraft modpack focusing on performance and graphics enhancements. | [在 GitHub 上查看](https://github.com/Fabulously-Optimized/fabulously-optimized) |
 | [facebook/docusaurus](https://github.com/facebook/docusaurus) | Easy to maintain open source documentation websites. | [在 GitHub 上查看](https://github.com/facebook/docusaurus) |
 | [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) | Daemon to ban hosts that cause multiple authentication errors | [在 GitHub 上查看](https://github.com/fail2ban/fail2ban) |
@@ -913,7 +913,7 @@
 | [niuhuan/daisy](https://github.com/niuhuan/daisy) | 美观易用且无广告的漫画和轻小说客户端, 同时支持MacOS，Windows，Android，iOS。(动漫之家) | [在 GitHub 上查看](https://github.com/niuhuan/daisy) |
 | [NLR-DevTeam/Fcitx5-Enhancer](https://github.com/NLR-DevTeam/Fcitx5-Enhancer) | A  fcitx5 compatibility mod for Minecraft | [在 GitHub 上查看](https://github.com/NLR-DevTeam/Fcitx5-Enhancer) |
 | [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) | Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad! | [在 GitHub 上查看](https://github.com/noah-nuebling/mac-mouse-fix) |
-| [nocokit/noco-form](https://github.com/nocokit/noco-form) | lemon form 柠檬轻表单（Vue3） | [在 GitHub 上查看](https://github.com/nocokit/noco-form) |
+| [nocokit/noco-form](https://github.com/nocokit/noco-form) | noco-form | [在 GitHub 上查看](https://github.com/nocokit/noco-form) |
 | [nohajc/termux-adb](https://github.com/nohajc/termux-adb) | Run adb in Termux without root permissions! | [在 GitHub 上查看](https://github.com/nohajc/termux-adb) |
 | [nonebot/cli-plugin-docker](https://github.com/nonebot/cli-plugin-docker) | docker support for nb-cli | [在 GitHub 上查看](https://github.com/nonebot/cli-plugin-docker) |
 | [nopdan/danjing](https://github.com/nopdan/danjing) | An exquisite Trime theme. 一个精致的同文输入法主题. | [在 GitHub 上查看](https://github.com/nopdan/danjing) |
@@ -1136,7 +1136,7 @@
 | [sirpdboy/luci-app-ddns-go](https://github.com/sirpdboy/luci-app-ddns-go) | luci-app-ddns-go 自动获得你的公网 IPv4 或 IPv6 地址，并解析到对应的域名服务。支持的域名服务商 阿里云 腾讯云 Dnspod ... | [在 GitHub 上查看](https://github.com/sirpdboy/luci-app-ddns-go) |
 | [SivanLaai/rime-pure](https://github.com/SivanLaai/rime-pure) | 【rime 小狼毫\trime 同文】手机/PC一站式配置【简约皮肤\拼音搜狗词库\原创trime同文 四叶草 九宫格 拼音方案\四叶草拼音\四叶草地球拼... | [在 GitHub 上查看](https://github.com/SivanLaai/rime-pure) |
 | [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) | A privacy-first, self-hosted, fully open source personal knowledge management... | [在 GitHub 上查看](https://github.com/siyuan-note/siyuan) |
-| [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) | Turn any webpage/Vue/React and so on into desktop and mobile app under 5M wit... | [在 GitHub 上查看](https://github.com/Sjj1024/PakePlus) |
+| [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) | Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5... | [在 GitHub 上查看](https://github.com/Sjj1024/PakePlus) |
 | [skanehira/github-tui](https://github.com/skanehira/github-tui) | TUI client for GitHub | [在 GitHub 上查看](https://github.com/skanehira/github-tui) |
 | [skiptools/skip](https://github.com/skiptools/skip) | Skip enables the creation of native SwiftUI apps for iOS and Android | [在 GitHub 上查看](https://github.com/skiptools/skip) |
 | [skittles9823/QuickSwitch](https://github.com/skittles9823/QuickSwitch) | None | [在 GitHub 上查看](https://github.com/skittles9823/QuickSwitch) |
@@ -1425,7 +1425,6 @@
 | [YatFanLan/Simplify-chat-boxes](https://github.com/YatFanLan/Simplify-chat-boxes) | 精简聊天框 | [在 GitHub 上查看](https://github.com/YatFanLan/Simplify-chat-boxes) |
 | [yc9559/uperf](https://github.com/yc9559/uperf) | Userspace performance controller for android | [在 GitHub 上查看](https://github.com/yc9559/uperf) |
 | [yeahwu/v2ray-wss](https://github.com/yeahwu/v2ray-wss) | A proxy script with multiple protocols. | [在 GitHub 上查看](https://github.com/yeahwu/v2ray-wss) |
-| [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) | [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Curso... | [在 GitHub 上查看](https://github.com/yeongpin/cursor-free-vip) |
 | [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) | Office Tool Plus localization projects. | [在 GitHub 上查看](https://github.com/YerongAI/Office-Tool) |
 | [Yidadaa/shuangpin](https://github.com/Yidadaa/shuangpin) | 纸砚双拼，可能是最好用的双拼练习工具，支持声母 / 韵母 / 长句模式、自定义双拼方案、进度统计、深色模式、成就系统。 | [在 GitHub 上查看](https://github.com/Yidadaa/shuangpin) |
 | [yin-ol/MiPushFaker](https://github.com/yin-ol/MiPushFaker) | Xposed模块，伪装机型让普通应用能够正确识别到MiPush，搭配MiPushFramework使用 | [在 GitHub 上查看](https://github.com/yin-ol/MiPushFaker) |
