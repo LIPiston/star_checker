@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Tue Dec 23 01:59:13 UTC 2025 | 总计: **1487** 个未分类项目
+> 生成于 UTC 时间: Wed Dec 24 01:57:19 UTC 2025 | 总计: **1488** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) | 操作 (Action) |
 | --- | --- | --- |
@@ -1251,6 +1251,7 @@
 | [tonquer/ehentai-qt](https://github.com/tonquer/ehentai-qt) | e-hentai, exhentai，看图，搜索，下载器 | [在 GitHub 上查看](https://github.com/tonquer/ehentai-qt) |
 | [tonquer/JMComic-qt](https://github.com/tonquer/JMComic-qt) | 禁漫天堂，18comic，使用qt实现的PC客户端，支持Windows，Linux，MacOS | [在 GitHub 上查看](https://github.com/tonquer/JMComic-qt) |
 | [tonquer/picacg-qt](https://github.com/tonquer/picacg-qt) | 哔咔漫画, PicACG comic PC client(Windows, Linux, MacOS)  | [在 GitHub 上查看](https://github.com/tonquer/picacg-qt) |
+| [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) | Send files and folders anywhere in the world without storing in cloud - any s... | [在 GitHub 上查看](https://github.com/tonyantony300/alt-sendme) |
 | [tonyfettes/fcitx5-nord](https://github.com/tonyfettes/fcitx5-nord) | Fcitx5 theme based on Nord color. | [在 GitHub 上查看](https://github.com/tonyfettes/fcitx5-nord) |
 | [toon-format/toon](https://github.com/toon-format/toon) | 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-awa... | [在 GitHub 上查看](https://github.com/toon-format/toon) |
 | [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) | The Magic Mask for Android | [在 GitHub 上查看](https://github.com/topjohnwu/Magisk) |
