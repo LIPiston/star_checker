@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Wed Dec 24 01:57:19 UTC 2025 | 总计: **1488** 个未分类项目
+> 生成于 UTC 时间: Thu Dec 25 01:59:28 UTC 2025 | 总计: **1488** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) | 操作 (Action) |
 | --- | --- | --- |
@@ -206,7 +206,6 @@
 | [catppuccin/fcitx5](https://github.com/catppuccin/fcitx5) | 🧃 Soothing pastel theme for Fcitx5 | [在 GitHub 上查看](https://github.com/catppuccin/fcitx5) |
 | [Cats-Team/AdRules](https://github.com/Cats-Team/AdRules) | List for blocking ads in the Chinese region | [在 GitHub 上查看](https://github.com/Cats-Team/AdRules) |
 | [CCBlueX/LiquidBounce](https://github.com/CCBlueX/LiquidBounce) | A free Minecraft hacked client (utility mod) for Fabric | [在 GitHub 上查看](https://github.com/CCBlueX/LiquidBounce) |
-| [CelestialArtistry/Tenet](https://github.com/CelestialArtistry/Tenet) | Minecraft Forge Hybrid server implementing the Spigot/Bukkit API, formerly kn... | [在 GitHub 上查看](https://github.com/CelestialArtistry/Tenet) |
 | [CeuiLiSA/Pixiv-Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft) | Pixiv第三方Android客户端 | [在 GitHub 上查看](https://github.com/CeuiLiSA/Pixiv-Shaft) |
 | [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) | Github Starred Repositories Manager | [在 GitHub 上查看](https://github.com/cfour-hi/gitstars) |
 | [CFPAOrg/Minecraft-Mod-Language-Package](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package) | A language package for Minecraft Mods. | [在 GitHub 上查看](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package) |
@@ -1205,6 +1204,7 @@
 | [TecoStudio/Frozen_Pear_Pack](https://github.com/TecoStudio/Frozen_Pear_Pack) | The continuation package of PTP, adding some functions. | [在 GitHub 上查看](https://github.com/TecoStudio/Frozen_Pear_Pack) |
 | [teddysun/across](https://github.com/teddysun/across) | Across the Great Wall we can reach every corner in the world | [在 GitHub 上查看](https://github.com/teddysun/across) |
 | [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) | ✒7000+ Material Design Icons from the Community | [在 GitHub 上查看](https://github.com/Templarian/MaterialDesign) |
+| [Teneted/Tenet](https://github.com/Teneted/Tenet) | Minecraft Forge Hybrid server implementing the Spigot/Bukkit API, formerly kn... | [在 GitHub 上查看](https://github.com/Teneted/Tenet) |
 | [Terminus2049/Not-exist-in-douban](https://github.com/Terminus2049/Not-exist-in-douban) | 豆瓣不存在的书影音 | [在 GitHub 上查看](https://github.com/Terminus2049/Not-exist-in-douban) |
 | [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) | Termix is a web-based server management platform with SSH terminal, tunneling... | [在 GitHub 上查看](https://github.com/Termix-SSH/Termix) |
 | [termux/termux-app](https://github.com/termux/termux-app) | Termux - a terminal emulator application for Android OS extendible by variety... | [在 GitHub 上查看](https://github.com/termux/termux-app) |
