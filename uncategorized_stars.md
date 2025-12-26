@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Thu Dec 25 01:59:28 UTC 2025 | 总计: **1488** 个未分类项目
+> 生成于 UTC 时间: Fri Dec 26 01:58:36 UTC 2025 | 总计: **1488** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) | 操作 (Action) |
 | --- | --- | --- |
@@ -588,7 +588,7 @@
 | [jpenilla/TabTPS](https://github.com/jpenilla/TabTPS) | Minecraft server mod/plugin to monitor TPS, MSPT, and other information in th... | [在 GitHub 上查看](https://github.com/jpenilla/TabTPS) |
 | [Jsnzkpg/Jsnzkpg](https://github.com/Jsnzkpg/Jsnzkpg) | 已持续维护4年多，每天都会检测可用性，全网质量最高的免费节点订阅，魔鬼式筛选出高质量的免费节点，shadowrocket丨stash丨singbox丨cl... | [在 GitHub 上查看](https://github.com/Jsnzkpg/Jsnzkpg) |
 | [jsorrell/CarpetSkyAdditions](https://github.com/jsorrell/CarpetSkyAdditions) | Empty world generation with new ways to obtain resources | [在 GitHub 上查看](https://github.com/jsorrell/CarpetSkyAdditions) |
-| [JStone2934/LiveGalGame](https://github.com/JStone2934/LiveGalGame) | 让你在和美少女聊天时能像GalGame一样有选项和字幕的神人应用 | [在 GitHub 上查看](https://github.com/JStone2934/LiveGalGame) |
+| [JStone2934/LiveGalGame](https://github.com/JStone2934/LiveGalGame) | 修复了现实世界里和异性对话没有选择项的 Bug | [在 GitHub 上查看](https://github.com/JStone2934/LiveGalGame) |
 | [JudouEco/JudouSans](https://github.com/JudouEco/JudouSans) | 句读黑体，商用免费的多文种混排字体。Judou Sans, a multilingual open-source typeface. | [在 GitHub 上查看](https://github.com/JudouEco/JudouSans) |
 | [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) | Run sing-box/mihomo as client in shell | [在 GitHub 上查看](https://github.com/juewuy/ShellCrash) |
 | [juliangarnier/anime](https://github.com/juliangarnier/anime) | JavaScript animation engine | [在 GitHub 上查看](https://github.com/juliangarnier/anime) |
