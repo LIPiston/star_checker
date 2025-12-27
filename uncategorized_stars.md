@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Fri Dec 26 01:58:36 UTC 2025 | 总计: **1488** 个未分类项目
+> 生成于 UTC 时间: Sat Dec 27 01:56:39 UTC 2025 | 总计: **1488** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) | 操作 (Action) |
 | --- | --- | --- |
@@ -1452,7 +1452,7 @@
 | [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) | Create web-based user interfaces with Python. The nice way. | [在 GitHub 上查看](https://github.com/zauberzeug/nicegui) |
 | [zed-industries/zed](https://github.com/zed-industries/zed) | Code at the speed of thought – Zed is a high-performance, multiplayer code ed... | [在 GitHub 上查看](https://github.com/zed-industries/zed) |
 | [zen-browser/desktop](https://github.com/zen-browser/desktop) | Welcome to a calmer internet | [在 GitHub 上查看](https://github.com/zen-browser/desktop) |
-| [Zephyruso/zashboard](https://github.com/Zephyruso/zashboard) | A Dashboard Using Clash API | [在 GitHub 上查看](https://github.com/Zephyruso/zashboard) |
+| [Zephyruso/zashboard](https://github.com/Zephyruso/zashboard) | None | [在 GitHub 上查看](https://github.com/Zephyruso/zashboard) |
 | [zer0k-z/cs2-movement-issues](https://github.com/zer0k-z/cs2-movement-issues) | List of movement related issues related to CS2 which did not exist in CS:GO* | [在 GitHub 上查看](https://github.com/zer0k-z/cs2-movement-issues) |
 | [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega) | Manage and switch between multiple proxies quickly & easily. | [在 GitHub 上查看](https://github.com/zero-peak/ZeroOmega) |
 | [zeruniverse/boardgame_helper](https://github.com/zeruniverse/boardgame_helper) | Forked from https://github.com/zeruniverse/texas_game | [在 GitHub 上查看](https://github.com/zeruniverse/boardgame_helper) |
