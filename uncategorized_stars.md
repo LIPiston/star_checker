@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sat Dec 27 01:56:39 UTC 2025 | 总计: **1488** 个未分类项目
+> 生成于 UTC 时间: Sun Dec 28 02:10:05 UTC 2025 | 总计: **1489** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) | 操作 (Action) |
 | --- | --- | --- |
@@ -189,6 +189,7 @@
 | [CaaMoe/MultiLogin](https://github.com/CaaMoe/MultiLogin) | 外置共存 | [在 GitHub 上查看](https://github.com/CaaMoe/MultiLogin) |
 | [Cabbagec/termux-ohmyzsh](https://github.com/Cabbagec/termux-ohmyzsh) | Colorize your termux! Oh-my-zsh included! | [在 GitHub 上查看](https://github.com/Cabbagec/termux-ohmyzsh) |
 | [CaffeineMC/sodium](https://github.com/CaffeineMC/sodium) | A Minecraft mod designed to improve frame rates and reduce micro-stutter | [在 GitHub 上查看](https://github.com/CaffeineMC/sodium) |
+| [callng/TCQT](https://github.com/callng/TCQT) | 一个针对QQ(TIM)的多功能XPosed模块 | [在 GitHub 上查看](https://github.com/callng/TCQT) |
 | [candydale/candy-pickaxe](https://github.com/candydale/candy-pickaxe) | 镐击榜数据包 对每个玩家使用各钟材料的镐子破坏方块数量的总和进行排名 | [在 GitHub 上查看](https://github.com/candydale/candy-pickaxe) |
 | [cao-awa/Apricot](https://github.com/cao-awa/Apricot) | A qq bot | [在 GitHub 上查看](https://github.com/cao-awa/Apricot) |
 | [cao-awa/Conium](https://github.com/cao-awa/Conium) | Conium is a datapack and script framework for modern Minecraft, it provides v... | [在 GitHub 上查看](https://github.com/cao-awa/Conium) |
