@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sun Dec 28 02:10:05 UTC 2025 | 总计: **1489** 个未分类项目
+> 生成于 UTC 时间: Mon Dec 29 02:08:17 UTC 2025 | 总计: **1490** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) | 操作 (Action) |
 | --- | --- | --- |
@@ -659,7 +659,7 @@
 | [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) | Feature-rich wifi hotspot creator for Linux which provides both GUI and comma... | [在 GitHub 上查看](https://github.com/lakinduakash/linux-wifi-hotspot) |
 | [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) | 2023-2025中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅，包含节假日API | [在 GitHub 上查看](https://github.com/lanceliao/china-holiday-calender) |
 | [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) | No clever tagline needed. | [在 GitHub 上查看](https://github.com/LawnchairLauncher/lawnchair) |
-| [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons) | Adds themed icons to Lawnchair. | [在 GitHub 上查看](https://github.com/LawnchairLauncher/lawnicons) |
+| [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons) | Monochrome outlined brand icons for Android launchers. | [在 GitHub 上查看](https://github.com/LawnchairLauncher/lawnicons) |
 | [layou233/ZBProxy](https://github.com/layou233/ZBProxy) | 🚀Transfer your network data, bypassing the Hypixel unofficial address detection! | [在 GitHub 上查看](https://github.com/layou233/ZBProxy) |
 | [layui/layui](https://github.com/layui/layui) | 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。 | [在 GitHub 上查看](https://github.com/layui/layui) |
 | [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) | Neovim config for the lazy | [在 GitHub 上查看](https://github.com/LazyVim/LazyVim) |
@@ -1168,6 +1168,7 @@
 | [sub-store-org/Sub-Store](https://github.com/sub-store-org/Sub-Store) | Advanced Subscription Manager for QX, Loon, Surge, Stash, Egern and Shadowroc... | [在 GitHub 上查看](https://github.com/sub-store-org/Sub-Store) |
 | [subframe7536/maple-font](https://github.com/subframe7536/maple-font) | Maple Mono: Open source monospace font with round corner, ligatures and Nerd-... | [在 GitHub 上查看](https://github.com/subframe7536/maple-font) |
 | [SuGar0218/PreLaunchTaskr](https://github.com/SuGar0218/PreLaunchTaskr) | 通过映像劫持，在应用程序启动前做一些事情，例如：更改启动参数、设置环境变量、执行程序或脚本。 | [在 GitHub 上查看](https://github.com/SuGar0218/PreLaunchTaskr) |
+| [suitenumerique/docs](https://github.com/suitenumerique/docs) | A collaborative note taking, wiki and documentation platform that scales. Bui... | [在 GitHub 上查看](https://github.com/suitenumerique/docs) |
 | [suiyuanlixin/fas-rs-usage-clamping](https://github.com/suiyuanlixin/fas-rs-usage-clamping) | Frame aware scheduling for android, work with cpufreq clamping. Requires 5.10... | [在 GitHub 上查看](https://github.com/suiyuanlixin/fas-rs-usage-clamping) |
 | [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra) | Kernel-based Android Root Solution & KPM | [在 GitHub 上查看](https://github.com/SukiSU-Ultra/SukiSU-Ultra) |
 | [SunsetMkt/anti-ip-attribution](https://github.com/SunsetMkt/anti-ip-attribution) | 针对部分网站显示IP归属地的流量分流规则 | [在 GitHub 上查看](https://github.com/SunsetMkt/anti-ip-attribution) |
