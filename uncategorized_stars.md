@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Mon Dec 29 02:08:17 UTC 2025 | 总计: **1490** 个未分类项目
+> 生成于 UTC 时间: Tue Dec 30 02:00:02 UTC 2025 | 总计: **1491** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) | 操作 (Action) |
 | --- | --- | --- |
@@ -65,7 +65,7 @@
 | [amchii/tg-signer](https://github.com/amchii/tg-signer) | 电报自动执行（签到、发送消息、点击键盘、AI回复等）；个人、群组、频道消息监控、转发与自动回复。Automated Telegram tasks (che... | [在 GitHub 上查看](https://github.com/amchii/tg-signer) |
 | [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) | An app for managing github starred repositories.  | [在 GitHub 上查看](https://github.com/AmintaCCCP/GithubStarsManager) |
 | [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) | A Download Manager that speeds up your downloads | [在 GitHub 上查看](https://github.com/amir1376/ab-download-manager) |
-| [amzxyz/RIME-LMDG](https://github.com/amzxyz/RIME-LMDG) | Rime输入法语法模型全流程构建教程，全局带声调词库，最全声调标注工具链：LMDG - Language, Model, Dictionary, Gram... | [在 GitHub 上查看](https://github.com/amzxyz/RIME-LMDG) |
+| [amzxyz/RIME-LMDG](https://github.com/amzxyz/RIME-LMDG) | fcitx5扩展词库/Rime全局带声调词库，最全声调标注工具链，Rime语法模型：LMDG - Language, Model, Dictionary,... | [在 GitHub 上查看](https://github.com/amzxyz/RIME-LMDG) |
 | [amzxyz/rime_wanxiang](https://github.com/amzxyz/rime_wanxiang) | Rime万象拼音输入方案：一个类大厂习惯的输入方案，首个全带调词库。多版可选，词库基于AI筛选和语料辅助筛选精干高效，配合全新语法模型，输入不再纠结。PR... | [在 GitHub 上查看](https://github.com/amzxyz/rime_wanxiang) |
 | [anasfanani/magisk-tailscaled](https://github.com/anasfanani/magisk-tailscaled) | Magisk/KernelSU module for running Tailscale on rooted Android devices. The e... | [在 GitHub 上查看](https://github.com/anasfanani/magisk-tailscaled) |
 | [Andrews54757/tweakfork](https://github.com/Andrews54757/tweakfork) | A modified small client-side Minecraft mod that adds various configurable twe... | [在 GitHub 上查看](https://github.com/Andrews54757/tweakfork) |
@@ -1099,7 +1099,7 @@
 | [samolego/Canta](https://github.com/samolego/Canta) | Uninstall any Android app without root (with power of Shizuku). Debloat your ... | [在 GitHub 上查看](https://github.com/samolego/Canta) |
 | [samolego/FabricTailor](https://github.com/samolego/FabricTailor) | A server-side or singleplayer skin changing mod for fabric. | [在 GitHub 上查看](https://github.com/samolego/FabricTailor) |
 | [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) | Sandboxie Plus & Classic | [在 GitHub 上查看](https://github.com/sandboxie-plus/Sandboxie) |
-| [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔... | [在 GitHub 上查看](https://github.com/sansan0/TrendRadar) |
+| [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 🎯 告别信息过载，AI 助你看懂新闻资讯热点，支持 RSS 订阅，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖... | [在 GitHub 上查看](https://github.com/sansan0/TrendRadar) |
 | [SchneeSchmitt/ADB-Android-Optimizer](https://github.com/SchneeSchmitt/ADB-Android-Optimizer) | Rootless (ADB) Android performance optimizer for every condition, from pure p... | [在 GitHub 上查看](https://github.com/SchneeSchmitt/ADB-Android-Optimizer) |
 | [schollz/croc](https://github.com/schollz/croc) | Easily and securely send things from one computer to another :crocodile: :pac... | [在 GitHub 上查看](https://github.com/schollz/croc) |
 | [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) | A command-line installer for Windows. | [在 GitHub 上查看](https://github.com/ScoopInstaller/Scoop) |
@@ -1228,6 +1228,7 @@
 | [TheresaQWQ/BroadcastOnAirDanmaku](https://github.com/TheresaQWQ/BroadcastOnAirDanmaku) | 一个直播间弹幕姬 | [在 GitHub 上查看](https://github.com/TheresaQWQ/BroadcastOnAirDanmaku) |
 | [ThirtyDegreesRay/OpenHub](https://github.com/ThirtyDegreesRay/OpenHub) | An open source GitHub Android client app, faster and concise. | [在 GitHub 上查看](https://github.com/ThirtyDegreesRay/OpenHub) |
 | [thunlp/THUOCL](https://github.com/thunlp/THUOCL) | THUOCL（THU Open Chinese Lexicon）中文词库 | [在 GitHub 上查看](https://github.com/thunlp/THUOCL) |
+| [tiagozip/cap](https://github.com/tiagozip/cap) | The privacy-first, self-hosted CAPTCHA for the modern web. | [在 GitHub 上查看](https://github.com/tiagozip/cap) |
 | [tianma8023/XposedSmsCode](https://github.com/tianma8023/XposedSmsCode) | :lollipop: An Xposed Module which can recognize, parse verification code and ... | [在 GitHub 上查看](https://github.com/tianma8023/XposedSmsCode) |
 | [tiann/KernelSU](https://github.com/tiann/KernelSU) | A Kernel based root solution for Android | [在 GitHub 上查看](https://github.com/tiann/KernelSU) |
 | [tianshiyeben/wgcloud](https://github.com/tianshiyeben/wgcloud) | Linux运维监控工具，支持系统硬件信息，内存，CPU，温度，磁盘空间及IO，硬盘smart，GPU，防火墙，网络流量速率等监控，服务接口监测，大屏展示，... | [在 GitHub 上查看](https://github.com/tianshiyeben/wgcloud) |
