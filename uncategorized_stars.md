@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Tue Dec 30 02:00:02 UTC 2025 | 总计: **1491** 个未分类项目
+> 生成于 UTC 时间: Wed Dec 31 02:00:30 UTC 2025 | 总计: **1492** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) | 操作 (Action) |
 | --- | --- | --- |
@@ -100,7 +100,7 @@
 | [artisticat1/obsidian-latex-suite](https://github.com/artisticat1/obsidian-latex-suite) | Make typesetting LaTeX as fast as handwriting through snippets, text expansio... | [在 GitHub 上查看](https://github.com/artisticat1/obsidian-latex-suite) |
 | [aseprite/aseprite](https://github.com/aseprite/aseprite) | Animated sprite editor & pixel art tool (Windows, macOS, Linux) | [在 GitHub 上查看](https://github.com/aseprite/aseprite) |
 | [astei/lazydfu](https://github.com/astei/lazydfu) | Fabric mod that makes Minecraft DataFixerUpper initialization lazy | [在 GitHub 上查看](https://github.com/astei/lazydfu) |
-| [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ✨ Agentic IM ChatBot Infrastructure — 聊天智能体基础设施 ✨ 多消息平台集成（QQ / Telegram / 企微 ... | [在 GitHub 上查看](https://github.com/AstrBotDevs/AstrBot) |
+| [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ✨ Agentic IM ChatBot Infrastructure — 聊天智能体基础设施 ✨ 多消息平台集成（QQ / 企微 / 飞书 / 钉钉 /... | [在 GitHub 上查看](https://github.com/AstrBotDevs/AstrBot) |
 | [Astro-2539/ZLabs-Bitmap](https://github.com/Astro-2539/ZLabs-Bitmap) | 一款开源的小型化像素字体 | [在 GitHub 上查看](https://github.com/Astro-2539/ZLabs-Bitmap) |
 | [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) | 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体 | [在 GitHub 上查看](https://github.com/atelier-anchor/smiley-sans) |
 | [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) | 🚀 An open and lightweight modification to Windows, designed to optimize perfo... | [在 GitHub 上查看](https://github.com/Atlas-OS/Atlas) |
@@ -1194,7 +1194,7 @@
 | [takagen99/Box](https://github.com/takagen99/Box) | Experimental | [在 GitHub 上查看](https://github.com/takagen99/Box) |
 | [takayama-lily/oicq](https://github.com/takayama-lily/oicq) | Tencent QQ Bot Library for Node.js | [在 GitHub 上查看](https://github.com/takayama-lily/oicq) |
 | [takayama-lily/vscode-qq](https://github.com/takayama-lily/vscode-qq) | vscode qq extension based on android qq protocol | [在 GitHub 上查看](https://github.com/takayama-lily/vscode-qq) |
-| [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) | Open source Pan-CJK pixel font / 开源的泛中日韩像素字体 | [在 GitHub 上查看](https://github.com/TakWolf/ark-pixel-font) |
+| [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) | 开源的泛中日韩像素字体，黑体风格 | [在 GitHub 上查看](https://github.com/TakWolf/ark-pixel-font) |
 | [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) | 开源的泛中日韩像素字体，黑体无衬线风格，支持 8、10 和 12 像素 | [在 GitHub 上查看](https://github.com/TakWolf/fusion-pixel-font) |
 | [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) | 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A st... | [在 GitHub 上查看](https://github.com/tangly1024/NotionNext) |
 | [TankNee/LOL_Game_Subscription](https://github.com/TankNee/LOL_Game_Subscription) | lpl,ldl professional match calendar subscription! | [在 GitHub 上查看](https://github.com/TankNee/LOL_Game_Subscription) |
@@ -1295,6 +1295,7 @@
 | [urwid/urwid](https://github.com/urwid/urwid) | Console user interface library for Python (official repo) | [在 GitHub 上查看](https://github.com/urwid/urwid) |
 | [usememos/memos](https://github.com/usememos/memos) | An open-source, self-hosted note-taking service. Your thoughts, your data, yo... | [在 GitHub 上查看](https://github.com/usememos/memos) |
 | [ustbhuangyi/better-scroll](https://github.com/ustbhuangyi/better-scroll) | :scroll: inspired by iscroll, and it supports more features and has a better ... | [在 GitHub 上查看](https://github.com/ustbhuangyi/better-scroll) |
+| [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative) | Lightweight unofficial Steam client for Android | [在 GitHub 上查看](https://github.com/utkarshdalal/GameNative) |
 | [utterance/utterances](https://github.com/utterance/utterances) | :crystal_ball: A lightweight comments widget built on GitHub issues | [在 GitHub 上查看](https://github.com/utterance/utterances) |
 | [v2er-app/Android](https://github.com/v2er-app/Android) | The source of V2er.Android | [在 GitHub 上查看](https://github.com/v2er-app/Android) |
 | [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) | A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, T... | [在 GitHub 上查看](https://github.com/v2rayA/v2rayA) |
@@ -1420,7 +1421,7 @@
 | [xuwd1/wemeet-wayland-screenshare](https://github.com/xuwd1/wemeet-wayland-screenshare) | 实现Linux Wayland下腾讯会议屏幕共享（非虚拟相机）. Hook library that enables screenshare with T... | [在 GitHub 上查看](https://github.com/xuwd1/wemeet-wayland-screenshare) |
 | [xwmx/nb](https://github.com/xwmx/nb) | CLI and local web plain text note‑taking, bookmarking, and archiving with lin... | [在 GitHub 上查看](https://github.com/xwmx/nb) |
 | [xx025/carrot](https://github.com/xx025/carrot) | Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点 | [在 GitHub 上查看](https://github.com/xx025/carrot) |
-| [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) | Offline translation server with low resource consumption, fast speed, and pri... | [在 GitHub 上查看](https://github.com/xxnuo/MTranServer) |
+| [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) | Offline translation model server with low resource consumption, fast speed, a... | [在 GitHub 上查看](https://github.com/xxnuo/MTranServer) |
 | [xxxily/h5player](https://github.com/xxxily/h5player) | This software supports all audio and video websites, such as TikTok, YouTube,... | [在 GitHub 上查看](https://github.com/xxxily/h5player) |
 | [XYenon/catppuccin-fcitx5-android](https://github.com/XYenon/catppuccin-fcitx5-android) | 🐧 Soothing pastel theme for fcitx5-android | [在 GitHub 上查看](https://github.com/XYenon/catppuccin-fcitx5-android) |
 | [YanG-1989/m3u](https://github.com/YanG-1989/m3u) | 直播源 | [在 GitHub 上查看](https://github.com/YanG-1989/m3u) |
