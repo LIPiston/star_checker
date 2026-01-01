@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Wed Dec 31 02:00:30 UTC 2025 | 总计: **1492** 个未分类项目
+> 生成于 UTC 时间: Thu Jan  1 02:10:41 UTC 2026 | 总计: **1493** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) | 操作 (Action) |
 | --- | --- | --- |
@@ -952,7 +952,7 @@
 | [olegos2/mobox](https://github.com/olegos2/mobox) | None | [在 GitHub 上查看](https://github.com/olegos2/mobox) |
 | [One-Studio/better-github-api](https://github.com/One-Studio/better-github-api) | 基于 gh-proxy + Jsdelivr+ cnpmjs + cloudflare workers 的 GitHub Serverless API 工具。 | [在 GitHub 上查看](https://github.com/One-Studio/better-github-api) |
 | [OneDragon-Anything/StarRailOneDragon](https://github.com/OneDragon-Anything/StarRailOneDragon) | 崩坏：星穹铁道 - 一条龙 Honkai Star Rail - One Dragon / 全日常自动 /  | [在 GitHub 上查看](https://github.com/OneDragon-Anything/StarRailOneDragon) |
-| [OOM-WG/ShiroSU-Utils](https://github.com/OOM-WG/ShiroSU-Utils) | ShiroSU Utils/SSUU/SUU/苏柚 | [在 GitHub 上查看](https://github.com/OOM-WG/ShiroSU-Utils) |
+| [OOM-WG/ShiroSU-Utils](https://github.com/OOM-WG/ShiroSU-Utils) | Multi-platform Android Modding & Tweaking Utility / 多平台 Android 玩机工具 | [在 GitHub 上查看](https://github.com/OOM-WG/ShiroSU-Utils) |
 | [open-ani/animeko](https://github.com/open-ani/animeko) | 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose... | [在 GitHub 上查看](https://github.com/open-ani/animeko) |
 | [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) | Classic Shell Reborn. | [在 GitHub 上查看](https://github.com/Open-Shell/Open-Shell-Menu) |
 | [Open4Es/Open4Es-Shader-Android](https://github.com/Open4Es/Open4Es-Shader-Android) | This is a shader can running on Minecraft Java Edition For Phone project whic... | [在 GitHub 上查看](https://github.com/Open4Es/Open4Es-Shader-Android) |
@@ -989,6 +989,7 @@
 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) | The homepage of Phosphor Icons, a flexible icon family for everyone | [在 GitHub 上查看](https://github.com/phosphor-icons/homepage) |
 | [pickle-com/glass](https://github.com/pickle-com/glass) | Digital Mind Extension | [在 GitHub 上查看](https://github.com/pickle-com/glass) |
 | [ping11700/LOLkit](https://github.com/ping11700/LOLkit) | One gift for all LOL gamers， League of Legends工具 | [在 GitHub 上查看](https://github.com/ping11700/LOLkit) |
+| [pinokiocomputer/pinokio](https://github.com/pinokiocomputer/pinokio) | AI Browser | [在 GitHub 上查看](https://github.com/pinokiocomputer/pinokio) |
 | [PintaProject/Pinta](https://github.com/PintaProject/Pinta) | Simple GTK Paint Program | [在 GitHub 上查看](https://github.com/PintaProject/Pinta) |
 | [plait-board/drawnix](https://github.com/plait-board/drawnix) | 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool wit... | [在 GitHub 上查看](https://github.com/plait-board/drawnix) |
 | [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) | 🧩 The Browser Extension Framework | [在 GitHub 上查看](https://github.com/PlasmoHQ/plasmo) |
