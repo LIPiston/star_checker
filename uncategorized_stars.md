@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sat Dec 13 16:30:32 UTC 2025 | 总计: **1478** 个未分类项目
+> 生成于 UTC 时间: Thu Jan  1 02:10:41 UTC 2026 | 总计: **1493** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) | 操作 (Action) |
 | --- | --- | --- |
@@ -26,10 +26,10 @@
 | [8Mi-Tech/LSPatch-ApkFactory](https://github.com/8Mi-Tech/LSPatch-ApkFactory) | 一个基于LSPatch的打包工具，自动为常见应用打LSPatch补丁的仓库，包括 OPatch / ONPatch / NPatch | [在 GitHub 上查看](https://github.com/8Mi-Tech/LSPatch-ApkFactory) |
 | [aa2013/ClipShare](https://github.com/aa2013/ClipShare) | 一个支持跨平台（目前为Android、Windows、MacOS）的剪贴板历史记录与同步软件，支持Android10以上版本后台同步，支持文本、图片、文件... | [在 GitHub 上查看](https://github.com/aa2013/ClipShare) |
 | [aaa1115910/bv](https://github.com/aaa1115910/bv) | 哔哩哔哩 的第三方 Android 应用。A third-party Android app for Bilibili. | [在 GitHub 上查看](https://github.com/aaa1115910/bv) |
-| [abbodi1406/KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) | Smart Activation Script | [在 GitHub 上查看](https://github.com/abbodi1406/KMS_VL_ALL_AIO) |
 | [abcz316/SKRoot-linuxKernelRoot](https://github.com/abcz316/SKRoot-linuxKernelRoot) | 新一代SKRoot，完美隐藏root功能，挑战全网root检测手段，实现真正的SELinux 0%触碰、无挂载，通用性强，通杀所有内核，不需要内核源码，直... | [在 GitHub 上查看](https://github.com/abcz316/SKRoot-linuxKernelRoot) |
 | [Acfboy/twt-werewolf-master-ng](https://github.com/Acfboy/twt-werewolf-master-ng) | Modern generation of twt-werewolf-master | [在 GitHub 上查看](https://github.com/Acfboy/twt-werewolf-master-ng) |
 | [AChep/keyguard-app](https://github.com/AChep/keyguard-app) | Keyguard is an alternative client for the Bitwarden® platform & KeePass (KDBX... | [在 GitHub 上查看](https://github.com/AChep/keyguard-app) |
+| [Achuan-2/SlideSCI](https://github.com/Achuan-2/SlideSCI) | PPT plugin, supports one-click to add image titles, copy and paste positions,... | [在 GitHub 上查看](https://github.com/Achuan-2/SlideSCI) |
 | [acl4ssr-sub/acl4ssr-sub.github.io](https://github.com/acl4ssr-sub/acl4ssr-sub.github.io) | None | [在 GitHub 上查看](https://github.com/acl4ssr-sub/acl4ssr-sub.github.io) |
 | [actions/setup-python](https://github.com/actions/setup-python) | Set up your GitHub Actions workflow with a specific version of Python | [在 GitHub 上查看](https://github.com/actions/setup-python) |
 | [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) | The best free and open-source automated time tracker. Cross-platform, extensi... | [在 GitHub 上查看](https://github.com/ActivityWatch/activitywatch) |
@@ -41,6 +41,7 @@
 | [Aefyr/SAI](https://github.com/Aefyr/SAI) | Android split APKs installer | [在 GitHub 上查看](https://github.com/Aefyr/SAI) |
 | [afeimod/winlator-mod](https://github.com/afeimod/winlator-mod) | Android application for running Windows applications with Wine and Box86/Box64 | [在 GitHub 上查看](https://github.com/afeimod/winlator-mod) |
 | [agalwood/Motrix](https://github.com/agalwood/Motrix) | A full-featured download manager. | [在 GitHub 上查看](https://github.com/agalwood/Motrix) |
+| [agentskills/agentskills](https://github.com/agentskills/agentskills) | Specification and documentation for Agent Skills | [在 GitHub 上查看](https://github.com/agentskills/agentskills) |
 | [AHCorn/Bilibili-Auto-Quality](https://github.com/AHCorn/Bilibili-Auto-Quality) | 自动解锁并更改哔哩哔哩视频的画质和音质及直播画质，实现自动选择最高画质、无损音频、杜比全景声。 / Automatically unlock and se... | [在 GitHub 上查看](https://github.com/AHCorn/Bilibili-Auto-Quality) |
 | [aidenlx/cm-chs-patch](https://github.com/aidenlx/cm-chs-patch) | A patch for Obsidian's built-in CodeMirror Editor to support Simplified Chine... | [在 GitHub 上查看](https://github.com/aidenlx/cm-chs-patch) |
 | [Aira-Sakuranomiya/CleanFlashInstaller](https://github.com/Aira-Sakuranomiya/CleanFlashInstaller) | Please see https://gitlab.com/cleanflash/installer/-/releases | [在 GitHub 上查看](https://github.com/Aira-Sakuranomiya/CleanFlashInstaller) |
@@ -64,7 +65,7 @@
 | [amchii/tg-signer](https://github.com/amchii/tg-signer) | 电报自动执行（签到、发送消息、点击键盘、AI回复等）；个人、群组、频道消息监控、转发与自动回复。Automated Telegram tasks (che... | [在 GitHub 上查看](https://github.com/amchii/tg-signer) |
 | [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) | An app for managing github starred repositories.  | [在 GitHub 上查看](https://github.com/AmintaCCCP/GithubStarsManager) |
 | [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) | A Download Manager that speeds up your downloads | [在 GitHub 上查看](https://github.com/amir1376/ab-download-manager) |
-| [amzxyz/RIME-LMDG](https://github.com/amzxyz/RIME-LMDG) | Rime输入法语法模型全流程构建教程，全局带声调词库，最全声调标注工具链：LMDG - Language, Model, Dictionary, Gram... | [在 GitHub 上查看](https://github.com/amzxyz/RIME-LMDG) |
+| [amzxyz/RIME-LMDG](https://github.com/amzxyz/RIME-LMDG) | fcitx5扩展词库/Rime全局带声调词库，最全声调标注工具链，Rime语法模型：LMDG - Language, Model, Dictionary,... | [在 GitHub 上查看](https://github.com/amzxyz/RIME-LMDG) |
 | [amzxyz/rime_wanxiang](https://github.com/amzxyz/rime_wanxiang) | Rime万象拼音输入方案：一个类大厂习惯的输入方案，首个全带调词库。多版可选，词库基于AI筛选和语料辅助筛选精干高效，配合全新语法模型，输入不再纠结。PR... | [在 GitHub 上查看](https://github.com/amzxyz/rime_wanxiang) |
 | [anasfanani/magisk-tailscaled](https://github.com/anasfanani/magisk-tailscaled) | Magisk/KernelSU module for running Tailscale on rooted Android devices. The e... | [在 GitHub 上查看](https://github.com/anasfanani/magisk-tailscaled) |
 | [Andrews54757/tweakfork](https://github.com/Andrews54757/tweakfork) | A modified small client-side Minecraft mod that adds various configurable twe... | [在 GitHub 上查看](https://github.com/Andrews54757/tweakfork) |
@@ -76,6 +77,7 @@
 | [Angey40/BaiduPCS-Go](https://github.com/Angey40/BaiduPCS-Go) | 百度网盘工具箱 - Go语言编写 | [在 GitHub 上查看](https://github.com/Angey40/BaiduPCS-Go) |
 | [ansh/jiffyreader-public-archive](https://github.com/ansh/jiffyreader-public-archive) | A Browser Extension for faster reading on ANY website! | [在 GitHub 上查看](https://github.com/ansh/jiffyreader-public-archive) |
 | [antfu-collective/icones](https://github.com/antfu-collective/icones) | ⚡️ Icon Explorer with Instant searching, powered by Iconify | [在 GitHub 上查看](https://github.com/antfu-collective/icones) |
+| [antfu/changelogithub](https://github.com/antfu/changelogithub) | Generate changelog for GitHub | [在 GitHub 上查看](https://github.com/antfu/changelogithub) |
 | [antfu/handle](https://github.com/antfu/handle) | A Chinese Hanzi variation of Wordle - 汉字 Wordle | [在 GitHub 上查看](https://github.com/antfu/handle) |
 | [antfu/starter-vscode](https://github.com/antfu/starter-vscode) | Starter template for VS Code Extension | [在 GitHub 上查看](https://github.com/antfu/starter-vscode) |
 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Claude Code is an agentic coding tool that lives in your terminal, understand... | [在 GitHub 上查看](https://github.com/anthropics/claude-code) |
@@ -98,7 +100,7 @@
 | [artisticat1/obsidian-latex-suite](https://github.com/artisticat1/obsidian-latex-suite) | Make typesetting LaTeX as fast as handwriting through snippets, text expansio... | [在 GitHub 上查看](https://github.com/artisticat1/obsidian-latex-suite) |
 | [aseprite/aseprite](https://github.com/aseprite/aseprite) | Animated sprite editor & pixel art tool (Windows, macOS, Linux) | [在 GitHub 上查看](https://github.com/aseprite/aseprite) |
 | [astei/lazydfu](https://github.com/astei/lazydfu) | Fabric mod that makes Minecraft DataFixerUpper initialization lazy | [在 GitHub 上查看](https://github.com/astei/lazydfu) |
-| [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ✨ Agentic IM ChatBot Infrastructure — 聊天智能体基础设施 ✨ 多消息平台集成（QQ / Telegram / 企微 ... | [在 GitHub 上查看](https://github.com/AstrBotDevs/AstrBot) |
+| [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ✨ Agentic IM ChatBot Infrastructure — 聊天智能体基础设施 ✨ 多消息平台集成（QQ / 企微 / 飞书 / 钉钉 /... | [在 GitHub 上查看](https://github.com/AstrBotDevs/AstrBot) |
 | [Astro-2539/ZLabs-Bitmap](https://github.com/Astro-2539/ZLabs-Bitmap) | 一款开源的小型化像素字体 | [在 GitHub 上查看](https://github.com/Astro-2539/ZLabs-Bitmap) |
 | [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) | 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体 | [在 GitHub 上查看](https://github.com/atelier-anchor/smiley-sans) |
 | [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) | 🚀 An open and lightweight modification to Windows, designed to optimize perfo... | [在 GitHub 上查看](https://github.com/Atlas-OS/Atlas) |
@@ -162,7 +164,6 @@
 | [bobeff/open-source-games](https://github.com/bobeff/open-source-games) | A list of open source games. | [在 GitHub 上查看](https://github.com/bobeff/open-source-games) |
 | [bobranten/Ext4Fsd](https://github.com/bobranten/Ext4Fsd) | Ext4 file system driver for Windows | [在 GitHub 上查看](https://github.com/bobranten/Ext4Fsd) |
 | [bohanwood/debi](https://github.com/bohanwood/debi) | Reinstall your VPS to minimal Debian | [在 GitHub 上查看](https://github.com/bohanwood/debi) |
-| [bojue/lemon-form](https://github.com/bojue/lemon-form) | lemon form 柠檬轻表单（Vue3） | [在 GitHub 上查看](https://github.com/bojue/lemon-form) |
 | [booksources/booksources.github.io](https://github.com/booksources/booksources.github.io) | 阅读在线书源分享库 | [在 GitHub 上查看](https://github.com/booksources/booksources.github.io) |
 | [boomker/rime-fast-xhup](https://github.com/boomker/rime-fast-xhup) | 基于小鹤双拼加鹤形辅助码的 Rime 配置方案，内附多种特色功能：词条置顶，强制删词，隐藏词条，词条降频，手动造词(中英)，全码唯一自动顶词上屏(单字和部... | [在 GitHub 上查看](https://github.com/boomker/rime-fast-xhup) |
 | [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) | A GUI to quickly manage your WSL2 instances | [在 GitHub 上查看](https://github.com/bostrot/wsl2-distro-manager) |
@@ -188,6 +189,7 @@
 | [CaaMoe/MultiLogin](https://github.com/CaaMoe/MultiLogin) | 外置共存 | [在 GitHub 上查看](https://github.com/CaaMoe/MultiLogin) |
 | [Cabbagec/termux-ohmyzsh](https://github.com/Cabbagec/termux-ohmyzsh) | Colorize your termux! Oh-my-zsh included! | [在 GitHub 上查看](https://github.com/Cabbagec/termux-ohmyzsh) |
 | [CaffeineMC/sodium](https://github.com/CaffeineMC/sodium) | A Minecraft mod designed to improve frame rates and reduce micro-stutter | [在 GitHub 上查看](https://github.com/CaffeineMC/sodium) |
+| [callng/TCQT](https://github.com/callng/TCQT) | 一个针对QQ(TIM)的多功能XPosed模块 | [在 GitHub 上查看](https://github.com/callng/TCQT) |
 | [candydale/candy-pickaxe](https://github.com/candydale/candy-pickaxe) | 镐击榜数据包 对每个玩家使用各钟材料的镐子破坏方块数量的总和进行排名 | [在 GitHub 上查看](https://github.com/candydale/candy-pickaxe) |
 | [cao-awa/Apricot](https://github.com/cao-awa/Apricot) | A qq bot | [在 GitHub 上查看](https://github.com/cao-awa/Apricot) |
 | [cao-awa/Conium](https://github.com/cao-awa/Conium) | Conium is a datapack and script framework for modern Minecraft, it provides v... | [在 GitHub 上查看](https://github.com/cao-awa/Conium) |
@@ -283,6 +285,7 @@
 | [daybreak1929/ViaBrowserCollection](https://github.com/daybreak1929/ViaBrowserCollection) | 个人为 via 浏览器自定义/功能保留的一份完整资料，仍在持续补全，来源于：https://gitee.com/daybreak166/ViaBrowse... | [在 GitHub 上查看](https://github.com/daybreak1929/ViaBrowserCollection) |
 | [dbcli/mycli](https://github.com/dbcli/mycli) | A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting. | [在 GitHub 上查看](https://github.com/dbcli/mycli) |
 | [ddgth/cf2dns](https://github.com/ddgth/cf2dns) | 筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式 | [在 GitHub 上查看](https://github.com/ddgth/cf2dns) |
+| [DearVa/Everywhere](https://github.com/DearVa/Everywhere) | A context-aware AI assistant for your desktop. Ready to respond intelligently... | [在 GitHub 上查看](https://github.com/DearVa/Everywhere) |
 | [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) | Contexts Optical Compression | [在 GitHub 上查看](https://github.com/deepseek-ai/DeepSeek-OCR) |
 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | None | [在 GitHub 上查看](https://github.com/deepseek-ai/DeepSeek-R1) |
 | [Delta-Icons/android](https://github.com/Delta-Icons/android) | 🤖 Icon Pack for Android | [在 GitHub 上查看](https://github.com/Delta-Icons/android) |
@@ -310,7 +313,7 @@
 | [Dr-TSNG/Hide-My-Applist](https://github.com/Dr-TSNG/Hide-My-Applist) | An Xposed module to intercept applist detections | [在 GitHub 上查看](https://github.com/Dr-TSNG/Hide-My-Applist) |
 | [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) | Standalone implementation of Zygisk | [在 GitHub 上查看](https://github.com/Dr-TSNG/ZygiskNext) |
 | [DreamingLri/masa-mods-chinese](https://github.com/DreamingLri/masa-mods-chinese) | 一个masa mods的汉化资源包 | [在 GitHub 上查看](https://github.com/DreamingLri/masa-mods-chinese) |
-| [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) | Generate audiobooks from e-books, voice cloning & 1107+ languages! | [在 GitHub 上查看](https://github.com/DrewThomasson/ebook2audiobook) |
+| [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) | Generate audiobooks from e-books, voice cloning & 1158+ languages! | [在 GitHub 上查看](https://github.com/DrewThomasson/ebook2audiobook) |
 | [Droid-ify/client](https://github.com/Droid-ify/client) | Clutterfree F-Droid client | [在 GitHub 上查看](https://github.com/Droid-ify/client) |
 | [droidrun/droidrun](https://github.com/droidrun/droidrun) | Automate your mobile devices with natural language commands - an LLM agnostic... | [在 GitHub 上查看](https://github.com/droidrun/droidrun) |
 | [duckdb/duckdb](https://github.com/duckdb/duckdb) | DuckDB is an analytical in-process SQL database management system | [在 GitHub 上查看](https://github.com/duckdb/duckdb) |
@@ -349,7 +352,7 @@
 | [f-droid/fdroidclient](https://github.com/f-droid/fdroidclient) | Android client application. | [在 GitHub 上查看](https://github.com/f-droid/fdroidclient) |
 | [F9y4ng/GreasyFork-Scripts](https://github.com/F9y4ng/GreasyFork-Scripts) | The open source code of this project is used for userscripts (油猴脚本) for deskt... | [在 GitHub 上查看](https://github.com/F9y4ng/GreasyFork-Scripts) |
 | [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline) | Linux Distributions Timeline | [在 GitHub 上查看](https://github.com/FabioLolix/LinuxTimeline) |
-| [FabricMC/fabric](https://github.com/FabricMC/fabric) | Essential hooks for modding with Fabric. | [在 GitHub 上查看](https://github.com/FabricMC/fabric) |
+| [FabricMC/fabric-api](https://github.com/FabricMC/fabric-api) | Essential hooks for modding with Fabric. | [在 GitHub 上查看](https://github.com/FabricMC/fabric-api) |
 | [Fabulously-Optimized/fabulously-optimized](https://github.com/Fabulously-Optimized/fabulously-optimized) | A simple Minecraft modpack focusing on performance and graphics enhancements. | [在 GitHub 上查看](https://github.com/Fabulously-Optimized/fabulously-optimized) |
 | [facebook/docusaurus](https://github.com/facebook/docusaurus) | Easy to maintain open source documentation websites. | [在 GitHub 上查看](https://github.com/facebook/docusaurus) |
 | [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) | Daemon to ban hosts that cause multiple authentication errors | [在 GitHub 上查看](https://github.com/fail2ban/fail2ban) |
@@ -426,7 +429,7 @@
 | [gitify-app/gitify](https://github.com/gitify-app/gitify) | GitHub notifications on your menu bar. Available on macOS, Windows & Linux. | [在 GitHub 上查看](https://github.com/gitify-app/gitify) |
 | [GitMetaio/Surfing](https://github.com/GitMetaio/Surfing) | Magisk and KernelSU modules for  Clash/mihomo services. | [在 GitHub 上查看](https://github.com/GitMetaio/Surfing) |
 | [gitui-org/gitui](https://github.com/gitui-org/gitui) | Blazing 💥 fast terminal-ui for git written in rust 🦀 | [在 GitHub 上查看](https://github.com/gitui-org/gitui) |
-| [gkd-kit/gkd](https://github.com/gkd-kit/gkd) | 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 / An Android APP with custom screen tappi... | [在 GitHub 上查看](https://github.com/gkd-kit/gkd) |
+| [gkd-kit/gkd](https://github.com/gkd-kit/gkd) | 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 / An Android APP with custom screen tapping base... | [在 GitHub 上查看](https://github.com/gkd-kit/gkd) |
 | [glanceapp/glance](https://github.com/glanceapp/glance) | A self-hosted dashboard that puts all your feeds in one place | [在 GitHub 上查看](https://github.com/glanceapp/glance) |
 | [GlobeMC/crashmc.com](https://github.com/GlobeMC/crashmc.com) | CrashMC.com Website | [在 GitHub 上查看](https://github.com/GlobeMC/crashmc.com) |
 | [gloeyisk/universal-gms-doze](https://github.com/gloeyisk/universal-gms-doze) | Patches Google Play services app and certain processes/services to be able to... | [在 GitHub 上查看](https://github.com/gloeyisk/universal-gms-doze) |
@@ -440,7 +443,7 @@
 | [grayddq/GScan](https://github.com/grayddq/GScan) | 本程序旨在为安全应急响应人员对Linux主机排查时提供便利，实现主机侧Checklist的自动全面化检测，根据检测结果自动数据聚合，进行黑客攻击路径溯源。 | [在 GitHub 上查看](https://github.com/grayddq/GScan) |
 | [grbnb/xp_module](https://github.com/grbnb/xp_module) | 备份午夜神大佬分享的应用集 【下面是Gitee仓库链接】https://gitee.com/grbnb/xp_module.git | [在 GitHub 上查看](https://github.com/grbnb/xp_module) |
 | [greyCloudTeam/MCDrink](https://github.com/greyCloudTeam/MCDrink) | 我的世界motd压测程序 | [在 GitHub 上查看](https://github.com/greyCloudTeam/MCDrink) |
-| [groupultra/telegram-search](https://github.com/groupultra/telegram-search) | 🔍  Semantic search your Telegram chat history / 语义化搜索您的 Telegram 聊天记录 | [在 GitHub 上查看](https://github.com/groupultra/telegram-search) |
+| [groupultra/telegram-search](https://github.com/groupultra/telegram-search) | 🔍 导出并模糊搜索 Telegram 聊天记录 / Export and fuzzy search your Telegram chat history | [在 GitHub 上查看](https://github.com/groupultra/telegram-search) |
 | [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | :cn: GitHub中文排行榜，各语言分设「软件 / 资料」榜单，精准定位中文好项目。各取所需，高效学习。 | [在 GitHub 上查看](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) |
 | [gsantner/markor](https://github.com/gsantner/markor) | Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, mat... | [在 GitHub 上查看](https://github.com/gsantner/markor) |
 | [GSWXXN/RestoreSplashScreen](https://github.com/GSWXXN/RestoreSplashScreen) | 启动遮罩进化 / RestoreSplashScreen | [在 GitHub 上查看](https://github.com/GSWXXN/RestoreSplashScreen) |
@@ -461,7 +464,7 @@
 | [halo-sigs/plugin-hybrid-edit-block](https://github.com/halo-sigs/plugin-hybrid-edit-block) | 为默认富文本编辑器提供编写 Markdown / HTML 的内容块扩展 | [在 GitHub 上查看](https://github.com/halo-sigs/plugin-hybrid-edit-block) |
 | [halo-sigs/plugin-katex](https://github.com/halo-sigs/plugin-katex) | 为默认编辑器和文章渲染提供 KaTeX 支持。 | [在 GitHub 上查看](https://github.com/halo-sigs/plugin-katex) |
 | [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) | HandBrake's development repository  | [在 GitHub 上查看](https://github.com/HandBrake/HandBrake) |
-| [hankcs/HanLP](https://github.com/hankcs/HanLP) | Natural Language Processing for the next decade. Tokenization, Part-of-Speech... | [在 GitHub 上查看](https://github.com/hankcs/HanLP) |
+| [hankcs/HanLP](https://github.com/hankcs/HanLP) | 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘... | [在 GitHub 上查看](https://github.com/hankcs/HanLP) |
 | [hantang/rime-list](https://github.com/hantang/rime-list) | RIME相关配置、词库和输入法方案汇集。 | [在 GitHub 上查看](https://github.com/hantang/rime-list) |
 | [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) | 一款跳过小电视视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored s... | [在 GitHub 上查看](https://github.com/hanydd/BilibiliSponsorBlock) |
 | [happycola233/tchMaterial-parser](https://github.com/happycola233/tchMaterial-parser) | 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。 | [在 GitHub 上查看](https://github.com/happycola233/tchMaterial-parser) |
@@ -557,7 +560,7 @@
 | [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 | [在 GitHub 上查看](https://github.com/jackfrued/Python-100-Days) |
 | [jadepeng/XMusicDownloader](https://github.com/jadepeng/XMusicDownloader) | 一款 支持从百度、网易、qq、酷狗、咪咕等音乐网站搜索并下载歌曲的程序，支持下载无损音乐 | [在 GitHub 上查看](https://github.com/jadepeng/XMusicDownloader) |
 | [jaredcat/WiFiList](https://github.com/jaredcat/WiFiList) | None | [在 GitHub 上查看](https://github.com/jaredcat/WiFiList) |
-| [jark006/JarkViewer](https://github.com/jark006/JarkViewer) | A simple image viewer   一款简单的看图软件 | [在 GitHub 上查看](https://github.com/jark006/JarkViewer) |
+| [jark006/JarkViewer](https://github.com/jark006/JarkViewer) | 一款轻量、飞快且强大的图像查看器，支持从 JPEG 到 AVIF、HEIC 和 JPEG XL 等最新格式的超多图像格式！A lightweight, l... | [在 GitHub 上查看](https://github.com/jark006/JarkViewer) |
 | [jart/cosmopolitan](https://github.com/jart/cosmopolitan) | build-once run-anywhere c library | [在 GitHub 上查看](https://github.com/jart/cosmopolitan) |
 | [Java-S12138/frank](https://github.com/Java-S12138/frank) | A bran-new League of Legends assistant software, a replacement for WeGame. | [在 GitHub 上查看](https://github.com/Java-S12138/frank) |
 | [jaywcjlove/free-font](https://github.com/jaywcjlove/free-font) | Collection of Free English/Chinese Fonts for Commercial Use. 收录可商用的免费英文/汉字字体。 | [在 GitHub 上查看](https://github.com/jaywcjlove/free-font) |
@@ -586,7 +589,7 @@
 | [jpenilla/TabTPS](https://github.com/jpenilla/TabTPS) | Minecraft server mod/plugin to monitor TPS, MSPT, and other information in th... | [在 GitHub 上查看](https://github.com/jpenilla/TabTPS) |
 | [Jsnzkpg/Jsnzkpg](https://github.com/Jsnzkpg/Jsnzkpg) | 已持续维护4年多，每天都会检测可用性，全网质量最高的免费节点订阅，魔鬼式筛选出高质量的免费节点，shadowrocket丨stash丨singbox丨cl... | [在 GitHub 上查看](https://github.com/Jsnzkpg/Jsnzkpg) |
 | [jsorrell/CarpetSkyAdditions](https://github.com/jsorrell/CarpetSkyAdditions) | Empty world generation with new ways to obtain resources | [在 GitHub 上查看](https://github.com/jsorrell/CarpetSkyAdditions) |
-| [JStone2934/LiveGalGame](https://github.com/JStone2934/LiveGalGame) | 让你在和美少女聊天时能像GalGame一样有选项和字幕的神人应用 | [在 GitHub 上查看](https://github.com/JStone2934/LiveGalGame) |
+| [JStone2934/LiveGalGame](https://github.com/JStone2934/LiveGalGame) | 修复了现实世界里和异性对话没有选择项的 Bug | [在 GitHub 上查看](https://github.com/JStone2934/LiveGalGame) |
 | [JudouEco/JudouSans](https://github.com/JudouEco/JudouSans) | 句读黑体，商用免费的多文种混排字体。Judou Sans, a multilingual open-source typeface. | [在 GitHub 上查看](https://github.com/JudouEco/JudouSans) |
 | [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) | Run sing-box/mihomo as client in shell | [在 GitHub 上查看](https://github.com/juewuy/ShellCrash) |
 | [juliangarnier/anime](https://github.com/juliangarnier/anime) | JavaScript animation engine | [在 GitHub 上查看](https://github.com/juliangarnier/anime) |
@@ -604,6 +607,7 @@
 | [kaniol-lck/modmanager](https://github.com/kaniol-lck/modmanager) | A Qt-based mod manager for minecraft. | [在 GitHub 上查看](https://github.com/kaniol-lck/modmanager) |
 | [Karben233/bili-hardcore](https://github.com/Karben233/bili-hardcore) | bilibili 硬核会员 AI 自动答题脚本，直接调用 B 站 API，非 OCR 实现 | [在 GitHub 上查看](https://github.com/Karben233/bili-hardcore) |
 | [karpathy/nanochat](https://github.com/karpathy/nanochat) | The best ChatGPT that $100 can buy. | [在 GitHub 上查看](https://github.com/karpathy/nanochat) |
+| [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC) | Modern VNC Server and client, web based and secure | [在 GitHub 上查看](https://github.com/kasmtech/KasmVNC) |
 | [Katana-Official/SPatch-Update](https://github.com/Katana-Official/SPatch-Update) | Update for SPatch nightly | [在 GitHub 上查看](https://github.com/Katana-Official/SPatch-Update) |
 | [kawamataryo/sky-follower-bridge](https://github.com/kawamataryo/sky-follower-bridge) | Instantly find and follow the same users from your X(Twitter) follower on Blu... | [在 GitHub 上查看](https://github.com/kawamataryo/sky-follower-bridge) |
 | [kazutoiris/infinite-illusion](https://github.com/kazutoiris/infinite-illusion) | Infinite Illusion （无限幻境） | [在 GitHub 上查看](https://github.com/kazutoiris/infinite-illusion) |
@@ -645,6 +649,7 @@
 | [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) | :cake: Desktop utility to download images/videos/music/text from various webs... | [在 GitHub 上查看](https://github.com/KurtBestor/Hitomi-Downloader) |
 | [KusStar/rewind-apks](https://github.com/KusStar/rewind-apks) | 倒带 App｜应用安装包仓库 | [在 GitHub 上查看](https://github.com/KusStar/rewind-apks) |
 | [KusStar/rewind-docs](https://github.com/KusStar/rewind-docs) | 倒带 App｜应用主页 | [在 GitHub 上查看](https://github.com/KusStar/rewind-docs) |
+| [kwsch/PKHeX](https://github.com/kwsch/PKHeX) | Pokémon Save File Editor | [在 GitHub 上查看](https://github.com/kwsch/PKHeX) |
 | [KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian) | 86五笔极点码表 for 鼠须管(macOS)、小狼毫(Windows)、中州韵(Ubuntu) 、仓（iOS）、同文（Android）五笔输入方案，五笔... | [在 GitHub 上查看](https://github.com/KyleBing/rime-wubi86-jidian) |
 | [Kyome22/RunCat365](https://github.com/Kyome22/RunCat365) | A cute running cat animation on your windows taskbar. | [在 GitHub 上查看](https://github.com/Kyome22/RunCat365) |
 | [kyujin-cho/pixel-volte-patch](https://github.com/kyujin-cho/pixel-volte-patch) | Pixel IMS: Rootless replacement for Tensor Pixel VoLTE patch | [在 GitHub 上查看](https://github.com/kyujin-cho/pixel-volte-patch) |
@@ -654,7 +659,7 @@
 | [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) | Feature-rich wifi hotspot creator for Linux which provides both GUI and comma... | [在 GitHub 上查看](https://github.com/lakinduakash/linux-wifi-hotspot) |
 | [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) | 2023-2025中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅，包含节假日API | [在 GitHub 上查看](https://github.com/lanceliao/china-holiday-calender) |
 | [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) | No clever tagline needed. | [在 GitHub 上查看](https://github.com/LawnchairLauncher/lawnchair) |
-| [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons) | Adds themed icons to Lawnchair. | [在 GitHub 上查看](https://github.com/LawnchairLauncher/lawnicons) |
+| [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons) | Monochrome outlined brand icons for Android launchers. | [在 GitHub 上查看](https://github.com/LawnchairLauncher/lawnicons) |
 | [layou233/ZBProxy](https://github.com/layou233/ZBProxy) | 🚀Transfer your network data, bypassing the Hypixel unofficial address detection! | [在 GitHub 上查看](https://github.com/layou233/ZBProxy) |
 | [layui/layui](https://github.com/layui/layui) | 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。 | [在 GitHub 上查看](https://github.com/layui/layui) |
 | [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) | Neovim config for the lazy | [在 GitHub 上查看](https://github.com/LazyVim/LazyVim) |
@@ -759,7 +764,7 @@
 | [Lxtharia/minegrub-world-sel-theme](https://github.com/Lxtharia/minegrub-world-sel-theme) | A grub theme in the style of the Minecraft singleplayer (sp) world selection ... | [在 GitHub 上查看](https://github.com/Lxtharia/minegrub-world-sel-theme) |
 | [LXYan2333/Fabric-Bedrock-Miner](https://github.com/LXYan2333/Fabric-Bedrock-Miner) | A fabric client mod to mine bedrock! | [在 GitHub 上查看](https://github.com/LXYan2333/Fabric-Bedrock-Miner) |
 | [LYOfficial/MinecraftPlayGuide](https://github.com/LYOfficial/MinecraftPlayGuide) | Minecraft Play Chinese Guide - 我的世界游玩中文指南 | [在 GitHub 上查看](https://github.com/LYOfficial/MinecraftPlayGuide) |
-| [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) | 一个基于 electron 的音乐软件 | [在 GitHub 上查看](https://github.com/lyswhut/lx-music-desktop) |
+| [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) | 一个基于 Electron 的音乐软件 | [在 GitHub 上查看](https://github.com/lyswhut/lx-music-desktop) |
 | [lyswhut/lx-music-mobile](https://github.com/lyswhut/lx-music-mobile) | 一个基于 React native 开发的音乐软件 | [在 GitHub 上查看](https://github.com/lyswhut/lx-music-mobile) |
 | [lz233/OneText-Library](https://github.com/lz233/OneText-Library) | Some sentences collected by myself | [在 GitHub 上查看](https://github.com/lz233/OneText-Library) |
 | [lz233/OneText_For_Android](https://github.com/lz233/OneText_For_Android) | A neat little application that can display some custom sentences through widg... | [在 GitHub 上查看](https://github.com/lz233/OneText_For_Android) |
@@ -908,6 +913,7 @@
 | [niuhuan/daisy](https://github.com/niuhuan/daisy) | 美观易用且无广告的漫画和轻小说客户端, 同时支持MacOS，Windows，Android，iOS。(动漫之家) | [在 GitHub 上查看](https://github.com/niuhuan/daisy) |
 | [NLR-DevTeam/Fcitx5-Enhancer](https://github.com/NLR-DevTeam/Fcitx5-Enhancer) | A  fcitx5 compatibility mod for Minecraft | [在 GitHub 上查看](https://github.com/NLR-DevTeam/Fcitx5-Enhancer) |
 | [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) | Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad! | [在 GitHub 上查看](https://github.com/noah-nuebling/mac-mouse-fix) |
+| [nocokit/noco-form](https://github.com/nocokit/noco-form) | noco-form | [在 GitHub 上查看](https://github.com/nocokit/noco-form) |
 | [nohajc/termux-adb](https://github.com/nohajc/termux-adb) | Run adb in Termux without root permissions! | [在 GitHub 上查看](https://github.com/nohajc/termux-adb) |
 | [nonebot/cli-plugin-docker](https://github.com/nonebot/cli-plugin-docker) | docker support for nb-cli | [在 GitHub 上查看](https://github.com/nonebot/cli-plugin-docker) |
 | [nopdan/danjing](https://github.com/nopdan/danjing) | An exquisite Trime theme. 一个精致的同文输入法主题. | [在 GitHub 上查看](https://github.com/nopdan/danjing) |
@@ -946,7 +952,7 @@
 | [olegos2/mobox](https://github.com/olegos2/mobox) | None | [在 GitHub 上查看](https://github.com/olegos2/mobox) |
 | [One-Studio/better-github-api](https://github.com/One-Studio/better-github-api) | 基于 gh-proxy + Jsdelivr+ cnpmjs + cloudflare workers 的 GitHub Serverless API 工具。 | [在 GitHub 上查看](https://github.com/One-Studio/better-github-api) |
 | [OneDragon-Anything/StarRailOneDragon](https://github.com/OneDragon-Anything/StarRailOneDragon) | 崩坏：星穹铁道 - 一条龙 Honkai Star Rail - One Dragon / 全日常自动 /  | [在 GitHub 上查看](https://github.com/OneDragon-Anything/StarRailOneDragon) |
-| [OOM-WG/ShiroSU-Utils](https://github.com/OOM-WG/ShiroSU-Utils) | ShiroSU Utils/SSUU/SUU/苏柚 | [在 GitHub 上查看](https://github.com/OOM-WG/ShiroSU-Utils) |
+| [OOM-WG/ShiroSU-Utils](https://github.com/OOM-WG/ShiroSU-Utils) | Multi-platform Android Modding & Tweaking Utility / 多平台 Android 玩机工具 | [在 GitHub 上查看](https://github.com/OOM-WG/ShiroSU-Utils) |
 | [open-ani/animeko](https://github.com/open-ani/animeko) | 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose... | [在 GitHub 上查看](https://github.com/open-ani/animeko) |
 | [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) | Classic Shell Reborn. | [在 GitHub 上查看](https://github.com/Open-Shell/Open-Shell-Menu) |
 | [Open4Es/Open4Es-Shader-Android](https://github.com/Open4Es/Open4Es-Shader-Android) | This is a shader can running on Minecraft Java Edition For Phone project whic... | [在 GitHub 上查看](https://github.com/Open4Es/Open4Es-Shader-Android) |
@@ -983,6 +989,7 @@
 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) | The homepage of Phosphor Icons, a flexible icon family for everyone | [在 GitHub 上查看](https://github.com/phosphor-icons/homepage) |
 | [pickle-com/glass](https://github.com/pickle-com/glass) | Digital Mind Extension | [在 GitHub 上查看](https://github.com/pickle-com/glass) |
 | [ping11700/LOLkit](https://github.com/ping11700/LOLkit) | One gift for all LOL gamers， League of Legends工具 | [在 GitHub 上查看](https://github.com/ping11700/LOLkit) |
+| [pinokiocomputer/pinokio](https://github.com/pinokiocomputer/pinokio) | AI Browser | [在 GitHub 上查看](https://github.com/pinokiocomputer/pinokio) |
 | [PintaProject/Pinta](https://github.com/PintaProject/Pinta) | Simple GTK Paint Program | [在 GitHub 上查看](https://github.com/PintaProject/Pinta) |
 | [plait-board/drawnix](https://github.com/plait-board/drawnix) | 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool wit... | [在 GitHub 上查看](https://github.com/plait-board/drawnix) |
 | [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) | 🧩 The Browser Extension Framework | [在 GitHub 上查看](https://github.com/PlasmoHQ/plasmo) |
@@ -1028,6 +1035,7 @@
 | [QYG2297248353/appstore-1panel](https://github.com/QYG2297248353/appstore-1panel) | Docker Compose 应用商店 已支持：1Panel, DPanel, Dockge | [在 GitHub 上查看](https://github.com/QYG2297248353/appstore-1panel) |
 | [r0x0r/pywebview](https://github.com/r0x0r/pywebview) | Build GUI for your Python program with JavaScript, HTML, and CSS | [在 GitHub 上查看](https://github.com/r0x0r/pywebview) |
 | [R1ckyH/ChatBridgeReforged](https://github.com/R1ckyH/ChatBridgeReforged) | Reforged of ChatBridge, interaction with other clients(such as Minecraft serv... | [在 GitHub 上查看](https://github.com/R1ckyH/ChatBridgeReforged) |
+| [Radarr/Radarr](https://github.com/Radarr/Radarr) | Movie organizer/manager for usenet and torrent users. | [在 GitHub 上查看](https://github.com/Radarr/Radarr) |
 | [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) | The customization marketplace for Windows programs: https://windhawk.net/ | [在 GitHub 上查看](https://github.com/ramensoftware/windhawk) |
 | [RaspberryPiFoundation/blockly](https://github.com/RaspberryPiFoundation/blockly) | The web-based visual programming editor. | [在 GitHub 上查看](https://github.com/RaspberryPiFoundation/blockly) |
 | [rational-stars/GitHub-Freshness](https://github.com/rational-stars/GitHub-Freshness) | GitHub Freshness 在线文档 | [在 GitHub 上查看](https://github.com/rational-stars/GitHub-Freshness) |
@@ -1047,7 +1055,8 @@
 | [RelativityMC/C2ME-fabric](https://github.com/RelativityMC/C2ME-fabric) | A Fabric mod designed to improve the chunk performance of Minecraft. | [在 GitHub 上查看](https://github.com/RelativityMC/C2ME-fabric) |
 | [RelativityMC/ScalableLux](https://github.com/RelativityMC/ScalableLux) | A Fabric mod based on Starlight that improves the performance of light update... | [在 GitHub 上查看](https://github.com/RelativityMC/ScalableLux) |
 | [RelativityMC/VMP-fabric](https://github.com/RelativityMC/VMP-fabric) | A Fabric mod designed to improve server performance at high playercounts. | [在 GitHub 上查看](https://github.com/RelativityMC/VMP-fabric) |
-| [ResetPower/Epherome](https://github.com/ResetPower/Epherome) | Powerful Minecraft Launcher | [在 GitHub 上查看](https://github.com/ResetPower/Epherome) |
+| [relimus/TAssistant](https://github.com/relimus/TAssistant) | Make TIM Great Again! | [在 GitHub 上查看](https://github.com/relimus/TAssistant) |
+| [ResetPower/Epherome](https://github.com/ResetPower/Epherome) | [Deprecated] This repository is obsolete. Please go to Epheromeers/Epherome i... | [在 GitHub 上查看](https://github.com/ResetPower/Epherome) |
 | [ResetPower/rcs](https://github.com/ResetPower/rcs) | ResetPower's Component Set using TailwindCSS. | [在 GitHub 上查看](https://github.com/ResetPower/rcs) |
 | [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) | Best Material You Design music player for Android | [在 GitHub 上查看](https://github.com/RetroMusicPlayer/RetroMusicPlayer) |
 | [retspen/webvirtcloud](https://github.com/retspen/webvirtcloud) | WebVirtCloud is virtualization web interface for admins and users | [在 GitHub 上查看](https://github.com/retspen/webvirtcloud) |
@@ -1081,7 +1090,6 @@
 | [rverst/stargazer](https://github.com/rverst/stargazer) | Stargazer creates a sorted list of your stared GitHub repositories - your per... | [在 GitHub 上查看](https://github.com/rverst/stargazer) |
 | [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) | 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。 | [在 GitHub 上查看](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) |
 | [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched font... | [在 GitHub 上查看](https://github.com/ryanoasis/nerd-fonts) |
-| [Rz-C/Mohist](https://github.com/Rz-C/Mohist) | Minecraft Forge Hybrid server implementing the Spigot/Bukkit API, formerly kn... | [在 GitHub 上查看](https://github.com/Rz-C/Mohist) |
 | [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) | This repository will assist you in creating a more beautiful and appealing gi... | [在 GitHub 上查看](https://github.com/rzashakeri/beautify-github-profile) |
 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui) | 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library | [在 GitHub 上查看](https://github.com/saadeghi/daisyui) |
 | [saber-notes/saber](https://github.com/saber-notes/saber) | The cross-platform open-source app built for handwriting | [在 GitHub 上查看](https://github.com/saber-notes/saber) |
@@ -1092,7 +1100,7 @@
 | [samolego/Canta](https://github.com/samolego/Canta) | Uninstall any Android app without root (with power of Shizuku). Debloat your ... | [在 GitHub 上查看](https://github.com/samolego/Canta) |
 | [samolego/FabricTailor](https://github.com/samolego/FabricTailor) | A server-side or singleplayer skin changing mod for fabric. | [在 GitHub 上查看](https://github.com/samolego/FabricTailor) |
 | [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) | Sandboxie Plus & Classic | [在 GitHub 上查看](https://github.com/sandboxie-plus/Sandboxie) |
-| [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔... | [在 GitHub 上查看](https://github.com/sansan0/TrendRadar) |
+| [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 🎯 告别信息过载，AI 助你看懂新闻资讯热点，支持 RSS 订阅，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖... | [在 GitHub 上查看](https://github.com/sansan0/TrendRadar) |
 | [SchneeSchmitt/ADB-Android-Optimizer](https://github.com/SchneeSchmitt/ADB-Android-Optimizer) | Rootless (ADB) Android performance optimizer for every condition, from pure p... | [在 GitHub 上查看](https://github.com/SchneeSchmitt/ADB-Android-Optimizer) |
 | [schollz/croc](https://github.com/schollz/croc) | Easily and securely send things from one computer to another :crocodile: :pac... | [在 GitHub 上查看](https://github.com/schollz/croc) |
 | [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) | A command-line installer for Windows. | [在 GitHub 上查看](https://github.com/ScoopInstaller/Scoop) |
@@ -1129,7 +1137,7 @@
 | [sirpdboy/luci-app-ddns-go](https://github.com/sirpdboy/luci-app-ddns-go) | luci-app-ddns-go 自动获得你的公网 IPv4 或 IPv6 地址，并解析到对应的域名服务。支持的域名服务商 阿里云 腾讯云 Dnspod ... | [在 GitHub 上查看](https://github.com/sirpdboy/luci-app-ddns-go) |
 | [SivanLaai/rime-pure](https://github.com/SivanLaai/rime-pure) | 【rime 小狼毫\trime 同文】手机/PC一站式配置【简约皮肤\拼音搜狗词库\原创trime同文 四叶草 九宫格 拼音方案\四叶草拼音\四叶草地球拼... | [在 GitHub 上查看](https://github.com/SivanLaai/rime-pure) |
 | [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) | A privacy-first, self-hosted, fully open source personal knowledge management... | [在 GitHub 上查看](https://github.com/siyuan-note/siyuan) |
-| [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) | Turn any webpage/Vue/React and so on into desktop and mobile app under 5M wit... | [在 GitHub 上查看](https://github.com/Sjj1024/PakePlus) |
+| [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) | Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5... | [在 GitHub 上查看](https://github.com/Sjj1024/PakePlus) |
 | [skanehira/github-tui](https://github.com/skanehira/github-tui) | TUI client for GitHub | [在 GitHub 上查看](https://github.com/skanehira/github-tui) |
 | [skiptools/skip](https://github.com/skiptools/skip) | Skip enables the creation of native SwiftUI apps for iOS and Android | [在 GitHub 上查看](https://github.com/skiptools/skip) |
 | [skittles9823/QuickSwitch](https://github.com/skittles9823/QuickSwitch) | None | [在 GitHub 上查看](https://github.com/skittles9823/QuickSwitch) |
@@ -1161,6 +1169,7 @@
 | [sub-store-org/Sub-Store](https://github.com/sub-store-org/Sub-Store) | Advanced Subscription Manager for QX, Loon, Surge, Stash, Egern and Shadowroc... | [在 GitHub 上查看](https://github.com/sub-store-org/Sub-Store) |
 | [subframe7536/maple-font](https://github.com/subframe7536/maple-font) | Maple Mono: Open source monospace font with round corner, ligatures and Nerd-... | [在 GitHub 上查看](https://github.com/subframe7536/maple-font) |
 | [SuGar0218/PreLaunchTaskr](https://github.com/SuGar0218/PreLaunchTaskr) | 通过映像劫持，在应用程序启动前做一些事情，例如：更改启动参数、设置环境变量、执行程序或脚本。 | [在 GitHub 上查看](https://github.com/SuGar0218/PreLaunchTaskr) |
+| [suitenumerique/docs](https://github.com/suitenumerique/docs) | A collaborative note taking, wiki and documentation platform that scales. Bui... | [在 GitHub 上查看](https://github.com/suitenumerique/docs) |
 | [suiyuanlixin/fas-rs-usage-clamping](https://github.com/suiyuanlixin/fas-rs-usage-clamping) | Frame aware scheduling for android, work with cpufreq clamping. Requires 5.10... | [在 GitHub 上查看](https://github.com/suiyuanlixin/fas-rs-usage-clamping) |
 | [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra) | Kernel-based Android Root Solution & KPM | [在 GitHub 上查看](https://github.com/SukiSU-Ultra/SukiSU-Ultra) |
 | [SunsetMkt/anti-ip-attribution](https://github.com/SunsetMkt/anti-ip-attribution) | 针对部分网站显示IP归属地的流量分流规则 | [在 GitHub 上查看](https://github.com/SunsetMkt/anti-ip-attribution) |
@@ -1186,7 +1195,7 @@
 | [takagen99/Box](https://github.com/takagen99/Box) | Experimental | [在 GitHub 上查看](https://github.com/takagen99/Box) |
 | [takayama-lily/oicq](https://github.com/takayama-lily/oicq) | Tencent QQ Bot Library for Node.js | [在 GitHub 上查看](https://github.com/takayama-lily/oicq) |
 | [takayama-lily/vscode-qq](https://github.com/takayama-lily/vscode-qq) | vscode qq extension based on android qq protocol | [在 GitHub 上查看](https://github.com/takayama-lily/vscode-qq) |
-| [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) | Open source Pan-CJK pixel font / 开源的泛中日韩像素字体 | [在 GitHub 上查看](https://github.com/TakWolf/ark-pixel-font) |
+| [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) | 开源的泛中日韩像素字体，黑体风格 | [在 GitHub 上查看](https://github.com/TakWolf/ark-pixel-font) |
 | [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) | 开源的泛中日韩像素字体，黑体无衬线风格，支持 8、10 和 12 像素 | [在 GitHub 上查看](https://github.com/TakWolf/fusion-pixel-font) |
 | [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) | 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A st... | [在 GitHub 上查看](https://github.com/tangly1024/NotionNext) |
 | [TankNee/LOL_Game_Subscription](https://github.com/TankNee/LOL_Game_Subscription) | lpl,ldl professional match calendar subscription! | [在 GitHub 上查看](https://github.com/TankNee/LOL_Game_Subscription) |
@@ -1198,6 +1207,7 @@
 | [TecoStudio/Frozen_Pear_Pack](https://github.com/TecoStudio/Frozen_Pear_Pack) | The continuation package of PTP, adding some functions. | [在 GitHub 上查看](https://github.com/TecoStudio/Frozen_Pear_Pack) |
 | [teddysun/across](https://github.com/teddysun/across) | Across the Great Wall we can reach every corner in the world | [在 GitHub 上查看](https://github.com/teddysun/across) |
 | [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) | ✒7000+ Material Design Icons from the Community | [在 GitHub 上查看](https://github.com/Templarian/MaterialDesign) |
+| [Teneted/Tenet](https://github.com/Teneted/Tenet) | Minecraft Forge Hybrid server implementing the Spigot/Bukkit API, formerly kn... | [在 GitHub 上查看](https://github.com/Teneted/Tenet) |
 | [Terminus2049/Not-exist-in-douban](https://github.com/Terminus2049/Not-exist-in-douban) | 豆瓣不存在的书影音 | [在 GitHub 上查看](https://github.com/Terminus2049/Not-exist-in-douban) |
 | [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) | Termix is a web-based server management platform with SSH terminal, tunneling... | [在 GitHub 上查看](https://github.com/Termix-SSH/Termix) |
 | [termux/termux-app](https://github.com/termux/termux-app) | Termux - a terminal emulator application for Android OS extendible by variety... | [在 GitHub 上查看](https://github.com/termux/termux-app) |
@@ -1219,6 +1229,7 @@
 | [TheresaQWQ/BroadcastOnAirDanmaku](https://github.com/TheresaQWQ/BroadcastOnAirDanmaku) | 一个直播间弹幕姬 | [在 GitHub 上查看](https://github.com/TheresaQWQ/BroadcastOnAirDanmaku) |
 | [ThirtyDegreesRay/OpenHub](https://github.com/ThirtyDegreesRay/OpenHub) | An open source GitHub Android client app, faster and concise. | [在 GitHub 上查看](https://github.com/ThirtyDegreesRay/OpenHub) |
 | [thunlp/THUOCL](https://github.com/thunlp/THUOCL) | THUOCL（THU Open Chinese Lexicon）中文词库 | [在 GitHub 上查看](https://github.com/thunlp/THUOCL) |
+| [tiagozip/cap](https://github.com/tiagozip/cap) | The privacy-first, self-hosted CAPTCHA for the modern web. | [在 GitHub 上查看](https://github.com/tiagozip/cap) |
 | [tianma8023/XposedSmsCode](https://github.com/tianma8023/XposedSmsCode) | :lollipop: An Xposed Module which can recognize, parse verification code and ... | [在 GitHub 上查看](https://github.com/tianma8023/XposedSmsCode) |
 | [tiann/KernelSU](https://github.com/tiann/KernelSU) | A Kernel based root solution for Android | [在 GitHub 上查看](https://github.com/tiann/KernelSU) |
 | [tianshiyeben/wgcloud](https://github.com/tianshiyeben/wgcloud) | Linux运维监控工具，支持系统硬件信息，内存，CPU，温度，磁盘空间及IO，硬盘smart，GPU，防火墙，网络流量速率等监控，服务接口监测，大屏展示，... | [在 GitHub 上查看](https://github.com/tianshiyeben/wgcloud) |
@@ -1244,11 +1255,13 @@
 | [tonquer/ehentai-qt](https://github.com/tonquer/ehentai-qt) | e-hentai, exhentai，看图，搜索，下载器 | [在 GitHub 上查看](https://github.com/tonquer/ehentai-qt) |
 | [tonquer/JMComic-qt](https://github.com/tonquer/JMComic-qt) | 禁漫天堂，18comic，使用qt实现的PC客户端，支持Windows，Linux，MacOS | [在 GitHub 上查看](https://github.com/tonquer/JMComic-qt) |
 | [tonquer/picacg-qt](https://github.com/tonquer/picacg-qt) | 哔咔漫画, PicACG comic PC client(Windows, Linux, MacOS)  | [在 GitHub 上查看](https://github.com/tonquer/picacg-qt) |
+| [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) | Send files and folders anywhere in the world without storing in cloud - any s... | [在 GitHub 上查看](https://github.com/tonyantony300/alt-sendme) |
 | [tonyfettes/fcitx5-nord](https://github.com/tonyfettes/fcitx5-nord) | Fcitx5 theme based on Nord color. | [在 GitHub 上查看](https://github.com/tonyfettes/fcitx5-nord) |
 | [toon-format/toon](https://github.com/toon-format/toon) | 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-awa... | [在 GitHub 上查看](https://github.com/toon-format/toon) |
 | [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) | The Magic Mask for Android | [在 GitHub 上查看](https://github.com/topjohnwu/Magisk) |
 | [topjohnwu/ndk-busybox](https://github.com/topjohnwu/ndk-busybox) | BusyBox building with command ndk-build | [在 GitHub 上查看](https://github.com/topjohnwu/ndk-busybox) |
 | [Tornaco/Thanox](https://github.com/Tornaco/Thanox) | I am thanos! 😈 👌 | [在 GitHub 上查看](https://github.com/Tornaco/Thanox) |
+| [Tosencen/XMSLEEP](https://github.com/Tosencen/XMSLEEP) | 一款白噪音应用，祝您牛掰，有的是钱 | [在 GitHub 上查看](https://github.com/Tosencen/XMSLEEP) |
 | [tosuapp/tosu](https://github.com/tosuapp/tosu) | osu! Stable and Lazer memory reader and PP counters provider | [在 GitHub 上查看](https://github.com/tosuapp/tosu) |
 | [TouchController/TouchController](https://github.com/TouchController/TouchController) | Touchscreen control mod for Minecraft Java version / Minecraft Java 版触屏控制 mod | [在 GitHub 上查看](https://github.com/TouchController/TouchController) |
 | [tr7zw/Exordium](https://github.com/tr7zw/Exordium) | There is no good reason to render the hotbar at 100+ fps | [在 GitHub 上查看](https://github.com/tr7zw/Exordium) |
@@ -1256,7 +1269,7 @@
 | [trpc/trpc](https://github.com/trpc/trpc) | 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  | [在 GitHub 上查看](https://github.com/trpc/trpc) |
 | [tsoding/nob.h](https://github.com/tsoding/nob.h) | Header only library for writing build recipes in C.  | [在 GitHub 上查看](https://github.com/tsoding/nob.h) |
 | [Tufmoc/W.Tools-Ver.Bat](https://github.com/Tufmoc/W.Tools-Ver.Bat) | 初代工具箱雏形 | [在 GitHub 上查看](https://github.com/Tufmoc/W.Tools-Ver.Bat) |
-| [tukuaiai/vibe-coding-cn](https://github.com/tukuaiai/vibe-coding-cn) | 我的开发经验+vibe-coding 的中文翻译版本—+提示词库=vibecoding工作站 | [在 GitHub 上查看](https://github.com/tukuaiai/vibe-coding-cn) |
+| [tukuaiai/vibe-coding-cn](https://github.com/tukuaiai/vibe-coding-cn) | 我的开发经验+提示词库=vibecoding工作站；My development experience + prompt dictionary = Vib... | [在 GitHub 上查看](https://github.com/tukuaiai/vibe-coding-cn) |
 | [tumuyan/RealSR-NCNN-Android](https://github.com/tumuyan/RealSR-NCNN-Android) | An Android application for super-resolution & interpolation. Contains RealSR-... | [在 GitHub 上查看](https://github.com/tumuyan/RealSR-NCNN-Android) |
 | [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) | A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScri... | [在 GitHub 上查看](https://github.com/tusen-ai/naive-ui) |
 | [tuyafeng/Via](https://github.com/tuyafeng/Via) | Via is a simple browser, and this repository is set for localization. | [在 GitHub 上查看](https://github.com/tuyafeng/Via) |
@@ -1266,6 +1279,7 @@
 | [twt-tec/werewolf-master](https://github.com/twt-tec/werewolf-master) | None | [在 GitHub 上查看](https://github.com/twt-tec/werewolf-master) |
 | [typecho/typecho](https://github.com/typecho/typecho) | A PHP Blogging Platform. Simple and Powerful. | [在 GitHub 上查看](https://github.com/typecho/typecho) |
 | [TypesettingTools/Aegisub](https://github.com/TypesettingTools/Aegisub) | Cross-platform advanced subtitle editor | [在 GitHub 上查看](https://github.com/TypesettingTools/Aegisub) |
+| [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) | Downloads videos and playlists from YouTube | [在 GitHub 上查看](https://github.com/Tyrrrz/YoutubeDownloader) |
 | [tytydraco/LADB](https://github.com/tytydraco/LADB) | A local ADB shell for Android! | [在 GitHub 上查看](https://github.com/tytydraco/LADB) |
 | [u14app/deep-research](https://github.com/u14app/deep-research) | Use any LLMs (Large Language Models) for Deep Research. Support SSE API and M... | [在 GitHub 上查看](https://github.com/u14app/deep-research) |
 | [umami-software/umami](https://github.com/umami-software/umami) | Umami is a modern, privacy-focused analytics platform. An open-source alterna... | [在 GitHub 上查看](https://github.com/umami-software/umami) |
@@ -1282,12 +1296,14 @@
 | [urwid/urwid](https://github.com/urwid/urwid) | Console user interface library for Python (official repo) | [在 GitHub 上查看](https://github.com/urwid/urwid) |
 | [usememos/memos](https://github.com/usememos/memos) | An open-source, self-hosted note-taking service. Your thoughts, your data, yo... | [在 GitHub 上查看](https://github.com/usememos/memos) |
 | [ustbhuangyi/better-scroll](https://github.com/ustbhuangyi/better-scroll) | :scroll: inspired by iscroll, and it supports more features and has a better ... | [在 GitHub 上查看](https://github.com/ustbhuangyi/better-scroll) |
+| [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative) | Lightweight unofficial Steam client for Android | [在 GitHub 上查看](https://github.com/utkarshdalal/GameNative) |
 | [utterance/utterances](https://github.com/utterance/utterances) | :crystal_ball: A lightweight comments widget built on GitHub issues | [在 GitHub 上查看](https://github.com/utterance/utterances) |
 | [v2er-app/Android](https://github.com/v2er-app/Android) | The source of V2er.Android | [在 GitHub 上查看](https://github.com/v2er-app/Android) |
 | [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) | A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, T... | [在 GitHub 上查看](https://github.com/v2rayA/v2rayA) |
 | [vacla/Watson](https://github.com/vacla/Watson) | Updated Watson that displays LogBlock and CoreProtect query results in 3D. | [在 GitHub 上查看](https://github.com/vacla/Watson) |
 | [VandalByte/darkmatter-grub2-theme](https://github.com/VandalByte/darkmatter-grub2-theme) | Dark Matter GRUB Theme  👾💙 | [在 GitHub 上查看](https://github.com/VandalByte/darkmatter-grub2-theme) |
 | [Vanessa219/vditor](https://github.com/Vanessa219/vditor) | ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Mar... | [在 GitHub 上查看](https://github.com/Vanessa219/vditor) |
+| [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) | 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Pa... | [在 GitHub 上查看](https://github.com/vastsa/FileCodeBox) |
 | [vbskycn/iptv](https://github.com/vbskycn/iptv) | iptv最新可用直播源,支持iptv4/iptv6双栈访问。直播电视系统，这里有折腾好的，直接下载用吧。直播电视app电视手机全部兼容。 | [在 GitHub 上查看](https://github.com/vbskycn/iptv) |
 | [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) | :whale: A curated list of Docker resources and projects | [在 GitHub 上查看](https://github.com/veggiemonk/awesome-docker) |
 | [venera-app/venera](https://github.com/venera-app/venera) | A comic app | [在 GitHub 上查看](https://github.com/venera-app/venera) |
@@ -1347,7 +1363,7 @@
 | [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) | This project is deprecated. Check my new project ChatHub: | [在 GitHub 上查看](https://github.com/wong2/chatgpt-google-extension) |
 | [wongdean/rime-settings](https://github.com/wongdean/rime-settings) | 接近原生的鼠须管 Rime 配置 | [在 GitHub 上查看](https://github.com/wongdean/rime-settings) |
 | [wshobson/agents](https://github.com/wshobson/agents) | Intelligent automation and multi-agent orchestration for Claude Code | [在 GitHub 上查看](https://github.com/wshobson/agents) |
-| [WSTxda/ViperFX-RE-Releases](https://github.com/WSTxda/ViperFX-RE-Releases) | ViPER4Android FX with Material 3 Expressive design and improvements | [在 GitHub 上查看](https://github.com/WSTxda/ViperFX-RE-Releases) |
+| [WSTxda/ViperFX-RE-Releases](https://github.com/WSTxda/ViperFX-RE-Releases) | ViPER4Android FX with Material 3 Expressive design and improvements. | [在 GitHub 上查看](https://github.com/WSTxda/ViperFX-RE-Releases) |
 | [WSTxda/ViPERFX_RE](https://github.com/WSTxda/ViPERFX_RE) | Reverse Engineering of ViPER4Android FX | [在 GitHub 上查看](https://github.com/WSTxda/ViPERFX_RE) |
 | [wu-mx/subinfobot](https://github.com/wu-mx/subinfobot) | 一个由Go编写的开源轻量订阅查询Telegram Bot。 | [在 GitHub 上查看](https://github.com/wu-mx/subinfobot) |
 | [wu-mx/URLignore](https://github.com/wu-mx/URLignore) | A simple node tool. | [在 GitHub 上查看](https://github.com/wu-mx/URLignore) |
@@ -1406,7 +1422,7 @@
 | [xuwd1/wemeet-wayland-screenshare](https://github.com/xuwd1/wemeet-wayland-screenshare) | 实现Linux Wayland下腾讯会议屏幕共享（非虚拟相机）. Hook library that enables screenshare with T... | [在 GitHub 上查看](https://github.com/xuwd1/wemeet-wayland-screenshare) |
 | [xwmx/nb](https://github.com/xwmx/nb) | CLI and local web plain text note‑taking, bookmarking, and archiving with lin... | [在 GitHub 上查看](https://github.com/xwmx/nb) |
 | [xx025/carrot](https://github.com/xx025/carrot) | Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点 | [在 GitHub 上查看](https://github.com/xx025/carrot) |
-| [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) | Offline translation server with low resource consumption, fast speed, and pri... | [在 GitHub 上查看](https://github.com/xxnuo/MTranServer) |
+| [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) | Offline translation model server with low resource consumption, fast speed, a... | [在 GitHub 上查看](https://github.com/xxnuo/MTranServer) |
 | [xxxily/h5player](https://github.com/xxxily/h5player) | This software supports all audio and video websites, such as TikTok, YouTube,... | [在 GitHub 上查看](https://github.com/xxxily/h5player) |
 | [XYenon/catppuccin-fcitx5-android](https://github.com/XYenon/catppuccin-fcitx5-android) | 🐧 Soothing pastel theme for fcitx5-android | [在 GitHub 上查看](https://github.com/XYenon/catppuccin-fcitx5-android) |
 | [YanG-1989/m3u](https://github.com/YanG-1989/m3u) | 直播源 | [在 GitHub 上查看](https://github.com/YanG-1989/m3u) |
@@ -1415,7 +1431,6 @@
 | [YatFanLan/Simplify-chat-boxes](https://github.com/YatFanLan/Simplify-chat-boxes) | 精简聊天框 | [在 GitHub 上查看](https://github.com/YatFanLan/Simplify-chat-boxes) |
 | [yc9559/uperf](https://github.com/yc9559/uperf) | Userspace performance controller for android | [在 GitHub 上查看](https://github.com/yc9559/uperf) |
 | [yeahwu/v2ray-wss](https://github.com/yeahwu/v2ray-wss) | A proxy script with multiple protocols. | [在 GitHub 上查看](https://github.com/yeahwu/v2ray-wss) |
-| [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) | [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Curso... | [在 GitHub 上查看](https://github.com/yeongpin/cursor-free-vip) |
 | [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) | Office Tool Plus localization projects. | [在 GitHub 上查看](https://github.com/YerongAI/Office-Tool) |
 | [Yidadaa/shuangpin](https://github.com/Yidadaa/shuangpin) | 纸砚双拼，可能是最好用的双拼练习工具，支持声母 / 韵母 / 长句模式、自定义双拼方案、进度统计、深色模式、成就系统。 | [在 GitHub 上查看](https://github.com/Yidadaa/shuangpin) |
 | [yin-ol/MiPushFaker](https://github.com/yin-ol/MiPushFaker) | Xposed模块，伪装机型让普通应用能够正确识别到MiPush，搭配MiPushFramework使用 | [在 GitHub 上查看](https://github.com/yin-ol/MiPushFaker) |
@@ -1430,7 +1445,7 @@
 | [Yubyf/QuoteLockX](https://github.com/Yubyf/QuoteLockX) | Displays quotes on your lockscreen, because why not. | [在 GitHub 上查看](https://github.com/Yubyf/QuoteLockX) |
 | [yudai/gotty](https://github.com/yudai/gotty) | Share your terminal as a web application | [在 GitHub 上查看](https://github.com/yudai/gotty) |
 | [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) | ArchLinux based WSL Distribution. Supports multiple install. | [在 GitHub 上查看](https://github.com/yuk7/ArchWSL) |
-| [YumeYuka/Tritium](https://github.com/YumeYuka/Tritium) | 最大化Soc的潜力 Maximize the potential of Soc | [在 GitHub 上查看](https://github.com/YumeYuka/Tritium) |
+| [Yume-Li/Tritium](https://github.com/Yume-Li/Tritium) | 最大化Soc的潜力 Maximize the potential of Soc | [在 GitHub 上查看](https://github.com/Yume-Li/Tritium) |
 | [yushijinhun/authlib-injector](https://github.com/yushijinhun/authlib-injector) | Build your own Minecraft authentication system. | [在 GitHub 上查看](https://github.com/yushijinhun/authlib-injector) |
 | [yutto-dev/yutto](https://github.com/yutto-dev/yutto) | :ice_cube: 一个可爱且任性的 B 站视频下载器 | [在 GitHub 上查看](https://github.com/yutto-dev/yutto) |
 | [yuzu233/anti-ocr](https://github.com/yuzu233/anti-ocr) | 對抗文字識別 | [在 GitHub 上查看](https://github.com/yuzu233/anti-ocr) |
@@ -1442,7 +1457,7 @@
 | [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) | Create web-based user interfaces with Python. The nice way. | [在 GitHub 上查看](https://github.com/zauberzeug/nicegui) |
 | [zed-industries/zed](https://github.com/zed-industries/zed) | Code at the speed of thought – Zed is a high-performance, multiplayer code ed... | [在 GitHub 上查看](https://github.com/zed-industries/zed) |
 | [zen-browser/desktop](https://github.com/zen-browser/desktop) | Welcome to a calmer internet | [在 GitHub 上查看](https://github.com/zen-browser/desktop) |
-| [Zephyruso/zashboard](https://github.com/Zephyruso/zashboard) | A Dashboard Using Clash API | [在 GitHub 上查看](https://github.com/Zephyruso/zashboard) |
+| [Zephyruso/zashboard](https://github.com/Zephyruso/zashboard) | None | [在 GitHub 上查看](https://github.com/Zephyruso/zashboard) |
 | [zer0k-z/cs2-movement-issues](https://github.com/zer0k-z/cs2-movement-issues) | List of movement related issues related to CS2 which did not exist in CS:GO* | [在 GitHub 上查看](https://github.com/zer0k-z/cs2-movement-issues) |
 | [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega) | Manage and switch between multiple proxies quickly & easily. | [在 GitHub 上查看](https://github.com/zero-peak/ZeroOmega) |
 | [zeruniverse/boardgame_helper](https://github.com/zeruniverse/boardgame_helper) | Forked from https://github.com/zeruniverse/texas_game | [在 GitHub 上查看](https://github.com/zeruniverse/boardgame_helper) |
