@@ -2,8 +2,13 @@ import requests
 import os
 import sys
 import time
+from dotenv import load_dotenv
 
-# 从 GitHub Actions 的环境变量中读取
+# 为本地开发加载 .env 文件中的环境变量
+# 在 GitHub Actions 中，这将无害地失败或加载空内容，从而优先使用 Actions 自身设置的环境变量
+load_dotenv()
+
+# 从环境变量中读取 (可能是 Actions, .env, 或直接设置)
 TOKEN = os.environ.get("GITHUB_TOKEN")
 USERNAME = os.environ.get("GITHUB_REPOSITORY_OWNER")
 
@@ -36,20 +41,18 @@ def get_graphql_data(query, variables):
 
 # --- 查询语句 ---
 
-# 查询单个 List 的所有项目（包含分页）
-list_items_query = """
-query($listName: String!, $user: String!, $itemCursor: String) {
-  user(login: $user) {
-    lists(query: $listName, first: 1) {
-      nodes {
-        repositories(first: 100, after: $itemCursor) {
-          pageInfo {
-            hasNextPage
-            endCursor
-          }
-          nodes {
-            nameWithOwner
-          }
+# 通过 ID 查询 List 的所有项目（包含分页）
+list_items_by_id_query = """
+query($listId: ID!, $itemCursor: String) {
+  node(id: $listId) {
+    ... on List {
+      repositories(first: 100, after: $itemCursor) {
+        pageInfo {
+          hasNextPage
+          endCursor
+        }
+        nodes {
+          nameWithOwner
         }
       }
     }
@@ -57,7 +60,7 @@ query($listName: String!, $user: String!, $itemCursor: String) {
 }
 """
 
-# 查询所有 Lists 的名称（包含分页）
+# 查询所有 Lists 的名称和 ID（包含分页）
 lists_query = """
 query($user: String!, $cursor: String) {
   user(login: $user) {
@@ -67,6 +70,7 @@ query($user: String!, $cursor: String) {
         endCursor
       }
       nodes {
+        id
         name
       }
     }
@@ -96,39 +100,40 @@ query($user: String!, $cursor: String) {
 def fetch_all_listed_repos():
     """获取所有 List 中的所有项目"""
     print("正在获取所有 List...")
-    list_names = []
+    all_lists = []
     has_next_list = True
     list_cursor = None
     
-    # 1. 获取所有 List 的名称
+    # 1. 获取所有 List 的名称和 ID
     while has_next_list:
         list_data = get_graphql_data(lists_query, {"user": USERNAME, "cursor": list_cursor})
         lists = list_data.get('data', {}).get('user', {}).get('lists', {})
         
-        for lst in lists.get('nodes', []):
-            list_names.append(lst['name'])
+        all_lists.extend(lists.get('nodes', []))
             
         has_next_list = lists.get('pageInfo', {}).get('hasNextPage', False)
         list_cursor = lists.get('pageInfo', {}).get('endCursor')
         print(f".", end="", flush=True)
-    print(f"\n共找到 {len(list_names)} 个 List。")
+    print(f"\n共找到 {len(all_lists)} 个 List。")
 
     # 2. 遍历每个 List 获取其中的所有项目
     listed_repos = set()
     total_items = 0
-    for i, name in enumerate(list_names):
-        print(f"\n正在处理 List '{name}' ({i+1}/{len(list_names)})...")
+    for i, lst in enumerate(all_lists):
+        list_id = lst['id']
+        list_name = lst['name']
+        print(f"\n正在处理 List '{list_name}' ({i+1}/{len(all_lists)})...")
         has_next_item = True
         item_cursor = None
         while has_next_item:
-            item_data = get_graphql_data(list_items_query, {"user": USERNAME, "listName": name, "itemCursor": item_cursor})
+            # 注意：此处改用新的 query 和变量
+            item_data = get_graphql_data(list_items_by_id_query, {"listId": list_id, "itemCursor": item_cursor})
             
-            lists_nodes = item_data.get('data', {}).get('user', {}).get('lists', {}).get('nodes', [])
-            items_node = {}
-            if lists_nodes:
-                items_node = lists_nodes[0].get('repositories', {})
+            # 使用ID查询时，返回的结构是 node -> ... on List -> repositories
+            items_node = item_data.get('data', {}).get('node', {}).get('repositories', {})
+
             if not items_node:
-                print(f"警告: 无法获取 List '{name}' 的项目，可能为空或API问题。")
+                print(f"警告: 无法获取 List '{list_name}' 的项目，可能为空或API问题。")
                 break # 跳出当前 list 的循环
 
             for item in items_node.get('nodes', []):
