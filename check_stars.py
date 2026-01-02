@@ -3,6 +3,7 @@ import os
 import sys
 import time
 from dotenv import load_dotenv
+from bs4 import BeautifulSoup
 
 # 为本地开发加载 .env 文件中的环境变量
 # 在 GitHub Actions 中，这将无害地失败或加载空内容，从而优先使用 Actions 自身设置的环境变量
@@ -38,45 +39,70 @@ def get_graphql_data(query, variables):
             time.sleep(5) # 等待5秒后重试
     raise Exception("多次尝试后 GraphQL 查询仍然失败。")
 
+def fetch_all_listed_repos():
+    """通过网页抓取获取所有公开 List 中的所有项目"""
+    print("正在通过网页抓取获取所有公开 List...")
+    listed_repos = set()
+    
+    # 1. 访问用户 Star 页面，找到所有 List 的链接
+    stars_url = f"https://github.com/{USERNAME}?tab=stars"
+    print(f"正在访问: {stars_url}")
+    try:
+        response = requests.get(stars_url, timeout=30)
+        response.raise_for_status()
+        soup = BeautifulSoup(response.text, 'html.parser')
+        
+        # 查找包含所有 List 链接的容器
+        lists_container = soup.find('div', id='profile-lists-container')
+        
+        if not lists_container:
+            print("警告: 在 Star 页面上没有找到 'profile-lists-container'。可能页面结构已更改。")
+            return listed_repos
+
+        # 从容器中找到所有指向 List 页面的链接
+        list_links = lists_container.find_all('a', href=lambda href: href and href.startswith(f'/stars/{USERNAME}/lists/'))
+        
+        if not list_links:
+            print("警告: 在 Star 页面上没有找到任何公开的 List。")
+            return listed_repos
+
+        list_urls = sorted(list(set(["https://github.com" + a['href'] for a in list_links])))
+        print(f"共找到 {len(list_urls)} 个公开 List。")
+
+        # 2. 遍历每个 List 页面，抓取项目
+        for i, list_url in enumerate(list_urls):
+            print(f"\n正在处理 List 页面 '{list_url.split('/')[-1]}' ({i+1}/{len(list_urls)})...")
+            try:
+                list_response = requests.get(list_url, timeout=30)
+                list_response.raise_for_status()
+                list_soup = BeautifulSoup(list_response.text, 'html.parser')
+
+                # 修正选择器以匹配列表页面的HTML结构
+                repo_tags = list_soup.select('div.col-12 h3 a')
+                
+                if not repo_tags:
+                    print("警告: 在此 List 页面上没有找到任何项目。")
+                    continue
+
+                for tag in repo_tags:
+                    repo_name = tag.get('href')
+                    if repo_name and repo_name.startswith('/'):
+                        repo_name = repo_name[1:] # 移除开头的 '/'
+                        if len(repo_name.split('/')) == 2: # 确保是 'owner/repo' 格式
+                            listed_repos.add(repo_name)
+                            print(f".", end="", flush=True)
+
+            except requests.exceptions.RequestException as e:
+                print(f"抓取 List 页面 {list_url} 失败: {e}")
+
+    except requests.exceptions.RequestException as e:
+        print(f"访问 Star 主页面失败: {e}")
+        raise # 如果主页都访问不了，直接抛出异常
+
+    print(f"\n已从所有 List 中记录 {len(listed_repos)} 个独立的项目。")
+    return listed_repos
 
 # --- 查询语句 ---
-
-# 通过 ID 查询 List 的所有项目（包含分页）
-list_items_by_id_query = """
-query($listId: ID!, $itemCursor: String) {
-  node(id: $listId) {
-    ... on List {
-      repositories(first: 100, after: $itemCursor) {
-        pageInfo {
-          hasNextPage
-          endCursor
-        }
-        nodes {
-          nameWithOwner
-        }
-      }
-    }
-  }
-}
-"""
-
-# 查询所有 Lists 的名称和 ID（包含分页）
-lists_query = """
-query($user: String!, $cursor: String) {
-  user(login: $user) {
-    lists(first: 100, after: $cursor) {
-      pageInfo {
-        hasNextPage
-        endCursor
-      }
-      nodes {
-        id
-        name
-      }
-    }
-  }
-}
-"""
 
 # 查询所有 Stars (包含分页参数)
 stars_query = """
@@ -96,57 +122,6 @@ query($user: String!, $cursor: String) {
   }
 }
 """
-
-def fetch_all_listed_repos():
-    """获取所有 List 中的所有项目"""
-    print("正在获取所有 List...")
-    all_lists = []
-    has_next_list = True
-    list_cursor = None
-    
-    # 1. 获取所有 List 的名称和 ID
-    while has_next_list:
-        list_data = get_graphql_data(lists_query, {"user": USERNAME, "cursor": list_cursor})
-        lists = list_data.get('data', {}).get('user', {}).get('lists', {})
-        
-        all_lists.extend(lists.get('nodes', []))
-            
-        has_next_list = lists.get('pageInfo', {}).get('hasNextPage', False)
-        list_cursor = lists.get('pageInfo', {}).get('endCursor')
-        print(f".", end="", flush=True)
-    print(f"\n共找到 {len(all_lists)} 个 List。")
-
-    # 2. 遍历每个 List 获取其中的所有项目
-    listed_repos = set()
-    total_items = 0
-    for i, lst in enumerate(all_lists):
-        list_id = lst['id']
-        list_name = lst['name']
-        print(f"\n正在处理 List '{list_name}' ({i+1}/{len(all_lists)})...")
-        has_next_item = True
-        item_cursor = None
-        while has_next_item:
-            # 注意：此处改用新的 query 和变量
-            item_data = get_graphql_data(list_items_by_id_query, {"listId": list_id, "itemCursor": item_cursor})
-            
-            # 使用ID查询时，返回的结构是 node -> ... on List -> repositories
-            items_node = item_data.get('data', {}).get('node', {}).get('repositories', {})
-
-            if not items_node:
-                print(f"警告: 无法获取 List '{list_name}' 的项目，可能为空或API问题。")
-                break # 跳出当前 list 的循环
-
-            for item in items_node.get('nodes', []):
-                if item and 'nameWithOwner' in item:
-                    listed_repos.add(item['nameWithOwner'])
-                    total_items += 1
-            
-            has_next_item = items_node.get('pageInfo', {}).get('hasNextPage', False)
-            item_cursor = items_node.get('pageInfo', {}).get('endCursor')
-            print(f".", end="", flush=True)
-
-    print(f"\n已从所有 List 中记录 {len(listed_repos)} 个独立的项目。")
-    return listed_repos
 
 
 def fetch_all_stars():
@@ -195,8 +170,8 @@ def generate_markdown(uncategorized):
         if not uncategorized:
             f.write("🎉 恭喜！所有 Star 的项目都已分类。\n")
         else:
-            f.write("| 项目 (Repository) | 描述 (Description) | 操作 (Action) |\n")
-            f.write("| --- | --- | --- |\n")
+            f.write("| 项目 (Repository) | 描述 (Description) |\n")
+            f.write("| --- | --- |\n")
             for repo in sorted(uncategorized, key=lambda x: x['nameWithOwner'].lower()): # 按字母排序
                 # 防御性地获取字段
                 name = repo.get('nameWithOwner', '未知项目')
@@ -208,7 +183,7 @@ def generate_markdown(uncategorized):
                     desc = desc.replace("\n", " ").replace("\r", " ").replace("|", "/")
                     if len(desc) > 80: desc = desc[:77] + "..."
                 
-                f.write(f"| [{name}]({url}) | {desc} | [在 GitHub 上查看]({url}) |\n")
+                f.write(f"| [{name}]({url}) | {desc} |\n")
     
     print(f"\n报告已生成: {filename}")
 

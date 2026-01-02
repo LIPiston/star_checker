@@ -16,7 +16,7 @@
 
 默认情况下，此工具通过 GitHub Actions 自动运行，无需额外配置。它使用 GitHub Actions 自带的 `GITHUB_TOKEN` 进行身份验证。
 
-您只需要查看仓库根目录下的 `uncategorized_stars.md` 文件即可找到未分类的 Star 项目。
+您只需要查看仓库根目录下的 [uncategorized_stars.md](uncategorized_stars.md) 文件即可找到未分类的 Star 项目。
 
 ### 本地运行
 
@@ -44,17 +44,16 @@
     *   `your_personal_access_token`: 您的 GitHub Personal Access Token (PAT)。您可以在 GitHub 的开发者设置中创建。此 Token 需要以下权限：
 
     **Classic Personal Access Token 权限要求:**
-    *   `repo`: 用于读取您所有 Starred 项目（包括私有项目）。
-    *   `read:user`: 用于读取您的 GitHub Lists。
+    *   `repo`: 用于通过API读取您所有 Starred 项目（包括私有项目）。
+    *   `read:user`: (可选) 如果您的Starred项目包含私有项目，需要此权限来读取部分用户数据。
 
     **Fine-grained Personal Access Token (推荐) 权限要求:**
     1.  **Repository access (仓库访问权限)**:
         *   选择 **"All repositories" (所有仓库)**。
     2.  **Permissions (权限设置)**:
-        *   **Repository permissions (仓库权限)**:
-            *   `Metadata`: 设置为 `Read-only`。
         *   **Account permissions (账户权限)**:
-            *   `Profile`: 设置为 `Read-only`。
+            *   `Starring`: 设置为 `Read-only`（用于读取您所有 Starred 项目，包括私有项目）。
+            *   `Profile`: 设置为 `Read-only`（可选，如果需要读取您的 GitHub 用户数据）。
 
     > **注意**: `.env` 文件已被添加到 `.gitignore` 中，以防止您的敏感信息被意外提交。
 
