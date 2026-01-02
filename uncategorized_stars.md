@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Thu Jan  1 02:10:41 UTC 2026 | 总计: **1493** 个未分类项目
+> 生成于 UTC 时间: Fri Jan  2 02:02:04 UTC 2026 | 总计: **1494** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) | 操作 (Action) |
 | --- | --- | --- |
@@ -436,6 +436,7 @@
 | [gnembon/carpet-extra](https://github.com/gnembon/carpet-extra) | Extra Features for Carpet Mod | [在 GitHub 上查看](https://github.com/gnembon/carpet-extra) |
 | [gnembon/fabric-carpet](https://github.com/gnembon/fabric-carpet) | Fabric Carpet | [在 GitHub 上查看](https://github.com/gnembon/fabric-carpet) |
 | [go-gitea/gitea](https://github.com/go-gitea/gitea) | Git with a cup of tea! Painless self-hosted all-in-one software development s... | [在 GitHub 上查看](https://github.com/go-gitea/gitea) |
+| [go-gost/gost](https://github.com/go-gost/gost) | GO Simple Tunnel - a simple tunnel written in golang | [在 GitHub 上查看](https://github.com/go-gost/gost) |
 | [go-musicfox/go-musicfox](https://github.com/go-musicfox/go-musicfox) | go-musicfox是用Go写的又一款网易云音乐命令行客户端，支持UnblockNeteaseMusic、各种音质级别、lastfm、MPRIS、Mac... | [在 GitHub 上查看](https://github.com/go-musicfox/go-musicfox) |
 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | An open-source AI agent that brings the power of Gemini directly into your te... | [在 GitHub 上查看](https://github.com/google-gemini/gemini-cli) |
 | [Goooler/systemless-fcm-hosts](https://github.com/Goooler/systemless-fcm-hosts) | A Magisk module integrated with FCM hosts for Chinese users. | [在 GitHub 上查看](https://github.com/Goooler/systemless-fcm-hosts) |
@@ -1196,7 +1197,7 @@
 | [takayama-lily/oicq](https://github.com/takayama-lily/oicq) | Tencent QQ Bot Library for Node.js | [在 GitHub 上查看](https://github.com/takayama-lily/oicq) |
 | [takayama-lily/vscode-qq](https://github.com/takayama-lily/vscode-qq) | vscode qq extension based on android qq protocol | [在 GitHub 上查看](https://github.com/takayama-lily/vscode-qq) |
 | [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) | 开源的泛中日韩像素字体，黑体风格 | [在 GitHub 上查看](https://github.com/TakWolf/ark-pixel-font) |
-| [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) | 开源的泛中日韩像素字体，黑体无衬线风格，支持 8、10 和 12 像素 | [在 GitHub 上查看](https://github.com/TakWolf/fusion-pixel-font) |
+| [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) | 开源的泛中日韩像素字体，黑体风格 | [在 GitHub 上查看](https://github.com/TakWolf/fusion-pixel-font) |
 | [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) | 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A st... | [在 GitHub 上查看](https://github.com/tangly1024/NotionNext) |
 | [TankNee/LOL_Game_Subscription](https://github.com/TankNee/LOL_Game_Subscription) | lpl,ldl professional match calendar subscription! | [在 GitHub 上查看](https://github.com/TankNee/LOL_Game_Subscription) |
 | [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 所有小初高、大学PDF教材。 | [在 GitHub 上查看](https://github.com/TapXWorld/ChinaTextbook) |
