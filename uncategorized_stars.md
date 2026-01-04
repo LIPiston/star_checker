@@ -1,11 +1,11 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sat Jan  3 01:55:48 UTC 2026 | 总计: **1471** 个未分类项目
+> 生成于 UTC 时间: Sun Jan  4 02:12:00 UTC 2026 | 总计: **1472** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
 | [Acfboy/twt-werewolf-master-ng](https://github.com/Acfboy/twt-werewolf-master-ng) | Modern generation of twt-werewolf-master |
-| [AChep/keyguard-app](https://github.com/AChep/keyguard-app) | Keyguard is an alternative client for the Bitwarden® platform & KeePass (KDBX... |
+| [AChep/keyguard-app](https://github.com/AChep/keyguard-app) | Alternative client for the Bitwarden® platform & KeePass (KDBX), created to p... |
 | [Achuan-2/SlideSCI](https://github.com/Achuan-2/SlideSCI) | PPT plugin, supports one-click to add image titles, copy and paste positions,... |
 | [acl4ssr-sub/acl4ssr-sub.github.io](https://github.com/acl4ssr-sub/acl4ssr-sub.github.io) | None |
 | [actions/setup-python](https://github.com/actions/setup-python) | Set up your GitHub Actions workflow with a specific version of Python |
@@ -1014,6 +1014,7 @@
 | [r0x0r/pywebview](https://github.com/r0x0r/pywebview) | Build GUI for your Python program with JavaScript, HTML, and CSS |
 | [R1ckyH/ChatBridgeReforged](https://github.com/R1ckyH/ChatBridgeReforged) | Reforged of ChatBridge, interaction with other clients(such as Minecraft serv... |
 | [Radarr/Radarr](https://github.com/Radarr/Radarr) | Movie organizer/manager for usenet and torrent users. |
+| [rainxchzed/Github-Store](https://github.com/rainxchzed/Github-Store) | A free, open-source app store for GitHub releases — browse, discover, and ins... |
 | [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) | The customization marketplace for Windows programs: https://windhawk.net/ |
 | [RaspberryPiFoundation/blockly](https://github.com/RaspberryPiFoundation/blockly) | The web-based visual programming editor. |
 | [rational-stars/GitHub-Freshness](https://github.com/rational-stars/GitHub-Freshness) | GitHub Freshness 在线文档 |
@@ -1078,7 +1079,7 @@
 | [samolego/Canta](https://github.com/samolego/Canta) | Uninstall any Android app without root (with power of Shizuku). Debloat your ... |
 | [samolego/FabricTailor](https://github.com/samolego/FabricTailor) | A server-side or singleplayer skin changing mod for fabric. |
 | [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) | Sandboxie Plus & Classic |
-| [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 🎯 告别信息过载，让算法为你服务，用AI理解热点。简单的舆情监控分析 - 多平台热点聚合+支持 RSS 订阅+基于 MCP 的AI分析。智能筛选+自动推送... |
+| [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。接入 MCP 架构，赋能 AI 自然语言... |
 | [SchneeSchmitt/ADB-Android-Optimizer](https://github.com/SchneeSchmitt/ADB-Android-Optimizer) | Rootless (ADB) Android performance optimizer for every condition, from pure p... |
 | [schollz/croc](https://github.com/schollz/croc) | Easily and securely send things from one computer to another :crocodile: :pac... |
 | [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) | A command-line installer for Windows. |
@@ -1326,7 +1327,7 @@
 | [WEIFENG2333/VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) | 🎬 卡卡字幕助手 / VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A power... |
 | [weixiansen574/HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) | 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！ |
 | [weiyourumeng/RM-Toolbox](https://github.com/weiyourumeng/RM-Toolbox) | 入梦工具箱 |
-| [wekan/wekan](https://github.com/wekan/wekan) | The Open Source kanban (built with Meteor). Keep variable/table/field names c... |
+| [wekan/wekan](https://github.com/wekan/wekan) | The Open Source kanban, built with Meteor. New development has moved to Wami ... |
 | [welai/glow-sans](https://github.com/welai/glow-sans) | SHSans-derived CJK font family with a more concise & modern look. 未来荧黑·未來熒黑·ヒ... |
 | [wgh136/PicaComic](https://github.com/wgh136/PicaComic) | A comic app built with Flutter, supporting multiple comic sources. |
 | [wgpsec/CreateHiddenAccount](https://github.com/wgpsec/CreateHiddenAccount) | A tool for creating hidden accounts using the registry // 一个使用注册表创建隐藏帐户的工具 |
