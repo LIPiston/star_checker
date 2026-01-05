@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sun Jan  4 02:12:00 UTC 2026 | 总计: **1472** 个未分类项目
+> 生成于 UTC 时间: Mon Jan  5 02:11:44 UTC 2026 | 总计: **1472** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -429,7 +429,7 @@
 | [GtxFury/FlyClash](https://github.com/GtxFury/FlyClash) | 简洁美观的代理工具 |
 | [GtxFury/FlyClash-Android](https://github.com/GtxFury/FlyClash-Android) | FlyClash Android |
 | [guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles) | Document Chatbot — multiple files. Powered by GPT / Embedding. |
-| [Guovin/iptv-api](https://github.com/Guovin/iptv-api) | 📺IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成流程🚀』：每日更新两次，提供免费结果订阅，输入播放器即可观看；频道自定义；个性化配置；订阅源/... |
+| [Guovin/iptv-api](https://github.com/Guovin/iptv-api) | 📺IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成流程🚀』：频道自定义；个性化配置；IPv4/IPv6；接口验效；推流；工作流、Docker、命... |
 | [GuoXiCheng/SKIP](https://github.com/GuoXiCheng/SKIP) | 自动跳过APP开屏广告 |
 | [guozhigq/pilipala](https://github.com/guozhigq/pilipala) | PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。 |
 | [gurecn/YuyanIme](https://github.com/gurecn/YuyanIme) | 语燕输入法-一款基于Rime定制开发的九键、全拼、双拼、手写、火星文等方案、支持悬浮、单手、数字行等键盘模式的中文输入法 |
@@ -1327,7 +1327,7 @@
 | [WEIFENG2333/VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) | 🎬 卡卡字幕助手 / VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A power... |
 | [weixiansen574/HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) | 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！ |
 | [weiyourumeng/RM-Toolbox](https://github.com/weiyourumeng/RM-Toolbox) | 入梦工具箱 |
-| [wekan/wekan](https://github.com/wekan/wekan) | The Open Source kanban, built with Meteor. New development has moved to Wami ... |
+| [wekan/wekan](https://github.com/wekan/wekan) | The Open Source kanban, built with Meteor. New English strings for new featur... |
 | [welai/glow-sans](https://github.com/welai/glow-sans) | SHSans-derived CJK font family with a more concise & modern look. 未来荧黑·未來熒黑·ヒ... |
 | [wgh136/PicaComic](https://github.com/wgh136/PicaComic) | A comic app built with Flutter, supporting multiple comic sources. |
 | [wgpsec/CreateHiddenAccount](https://github.com/wgpsec/CreateHiddenAccount) | A tool for creating hidden accounts using the registry // 一个使用注册表创建隐藏帐户的工具 |
