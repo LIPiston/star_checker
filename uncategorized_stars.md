@@ -1,31 +1,15 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Mon Jan  5 02:11:44 UTC 2026 | 总计: **1472** 个未分类项目
+> 生成于 UTC 时间: Tue Jan  6 01:24:52 UTC 2026 | 总计: **1448** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
-| [Acfboy/twt-werewolf-master-ng](https://github.com/Acfboy/twt-werewolf-master-ng) | Modern generation of twt-werewolf-master |
-| [AChep/keyguard-app](https://github.com/AChep/keyguard-app) | Alternative client for the Bitwarden® platform & KeePass (KDBX), created to p... |
-| [Achuan-2/SlideSCI](https://github.com/Achuan-2/SlideSCI) | PPT plugin, supports one-click to add image titles, copy and paste positions,... |
-| [acl4ssr-sub/acl4ssr-sub.github.io](https://github.com/acl4ssr-sub/acl4ssr-sub.github.io) | None |
-| [actions/setup-python](https://github.com/actions/setup-python) | Set up your GitHub Actions workflow with a specific version of Python |
-| [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) | The best free and open-source automated time tracker. Cross-platform, extensi... |
-| [ad-m/github-push-action](https://github.com/ad-m/github-push-action) | GitHub actions to push back to repository eg. updated code |
-| [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf) | Linux running inside a PDF file via a RISC-V emulator |
-| [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) | Source Han Serif / 思源宋体 / 思源宋體 / 思源宋體 香港 / 源ノ明朝 / 본명조 |
 | [adobe-fonts/source-sans](https://github.com/adobe-fonts/source-sans) | Sans serif font family for user interface environments |
 | [adrcotfas/goodtime](https://github.com/adrcotfas/goodtime) | A productivity app that combines pomodoro timers and flow techniques to boost... |
 | [Aefyr/SAI](https://github.com/Aefyr/SAI) | Android split APKs installer |
 | [afeimod/winlator-mod](https://github.com/afeimod/winlator-mod) | Android application for running Windows applications with Wine and Box86/Box64 |
 | [agalwood/Motrix](https://github.com/agalwood/Motrix) | A full-featured download manager. |
 | [agentskills/agentskills](https://github.com/agentskills/agentskills) | Specification and documentation for Agent Skills |
-| [AHCorn/Bilibili-Auto-Quality](https://github.com/AHCorn/Bilibili-Auto-Quality) | 自动解锁并更改哔哩哔哩视频的画质和音质及直播画质，实现自动选择最高画质、无损音频、杜比全景声。 / Automatically unlock and se... |
-| [aidenlx/cm-chs-patch](https://github.com/aidenlx/cm-chs-patch) | A patch for Obsidian's built-in CodeMirror Editor to support Simplified Chine... |
-| [Aira-Sakuranomiya/CleanFlashInstaller](https://github.com/Aira-Sakuranomiya/CleanFlashInstaller) | Please see https://gitlab.com/cleanflash/installer/-/releases |
-| [AIsouler/GKD_subscription](https://github.com/AIsouler/GKD_subscription) | GKD 第三方订阅规则 |
-| [aistra0528/Hail](https://github.com/aistra0528/Hail) | Disable / Hide / Suspend / Uninstall Android apps without root. |
-| [aivanovski/keepassvault](https://github.com/aivanovski/keepassvault) | KeePass client app for Android |
-| [Aizistral-Studios/No-Chat-Reports](https://github.com/Aizistral-Studios/No-Chat-Reports) | Disable Player Chat Reporting and make user messages untrackable. |
 | [Alanrk/LazyCat-Bookmark-Cleaner](https://github.com/Alanrk/LazyCat-Bookmark-Cleaner) | 让书签管理变得轻松愉快！一只可爱的懒猫助手，帮你智能清理和整理浏览器书签。 |
 | [Alanrk/TabMark-Bookmark-New-Tab](https://github.com/Alanrk/TabMark-Bookmark-New-Tab) | TabMark是一款基于书签的新标签页插件，将你的收藏夹变成新标签页，让你收藏的书签一目了然、整洁高效，快速直达你最需要的网站和资源。搭配智能 AI 搜索... |
 | [Alex4SSB/ADB-Explorer](https://github.com/Alex4SSB/ADB-Explorer) | A fluent UI for ADB on Windows |
@@ -44,7 +28,6 @@
 | [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) | A Download Manager that speeds up your downloads |
 | [amzxyz/RIME-LMDG](https://github.com/amzxyz/RIME-LMDG) | fcitx5扩展词库/Rime全局带声调词库，最全声调标注工具链，Rime语法模型：LMDG - Language, Model, Dictionary,... |
 | [amzxyz/rime_wanxiang](https://github.com/amzxyz/rime_wanxiang) | Rime万象拼音输入方案：一个类大厂习惯的输入方案，首个全带调词库。多版可选，词库基于AI筛选和语料辅助筛选精干高效，配合全新语法模型，输入不再纠结。PR... |
-| [anasfanani/magisk-tailscaled](https://github.com/anasfanani/magisk-tailscaled) | Magisk/KernelSU module for running Tailscale on rooted Android devices. The e... |
 | [Andrews54757/tweakfork](https://github.com/Andrews54757/tweakfork) | A modified small client-side Minecraft mod that adds various configurable twe... |
 | [android/ndk](https://github.com/android/ndk) | The Android Native Development Kit |
 | [andstatus/game2048](https://github.com/andstatus/game2048) | 2048 Open Fun Game - multiplatform implementation in Kotlin and KorGE game en... |
@@ -160,7 +143,6 @@
 | [Buernia/Zhudou-Sans](https://github.com/Buernia/Zhudou-Sans) | 煮豆黑体，Noto 风格中日韩标点符号字体。A font family for CJK symbols and punctuation, derived ... |
 | [bukson/steampy](https://github.com/bukson/steampy) | A Steam trading library for python 3 |
 | [burningtnt/Terracotta](https://github.com/burningtnt/Terracotta) | Terracotta / 陶瓦联机 |
-| [byxiaorun/Ruru](https://github.com/byxiaorun/Ruru) | An android sample app of detecting suspicious apps like magisk manager |
 | [C4illin/ConvertX](https://github.com/C4illin/ConvertX) | 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ |
 | [ca110us/epeius](https://github.com/ca110us/epeius) | Deploy Trojan using a Serverless approach |
 | [CaaMoe/MultiLogin](https://github.com/CaaMoe/MultiLogin) | 外置共存 |
@@ -188,14 +170,12 @@
 | [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) | Github Starred Repositories Manager |
 | [CFPAOrg/Minecraft-Mod-Language-Package](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package) | A language package for Minecraft Mods. |
 | [chase535/accurate_battery](https://github.com/chase535/accurate_battery) | 精准电量 |
-| [chase535/turbo-charge](https://github.com/chase535/turbo-charge) | Magisk模块，关闭阶梯式充电，持续修改电池温度及充电电流，以达到最快充电速度 |
 | [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) | Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 AP... |
 | [chen08209/FlClash](https://github.com/chen08209/FlClash) | A multi-platform proxy client based on ClashMeta,simple and easy to use, open... |
 | [chen310/NeteaseCloudMusicTasks](https://github.com/chen310/NeteaseCloudMusicTasks) | None |
 | [chenxiaolong/RSAF](https://github.com/chenxiaolong/RSAF) | An Android Storage Access Framework document provider for rclone |
 | [chenzyadb/CuprumTurbo-Scheduler](https://github.com/chenzyadb/CuprumTurbo-Scheduler) | A Simple and Reliable Performance Scheduler. |
 | [ChinaIceF/PyQt-SiliconUI](https://github.com/ChinaIceF/PyQt-SiliconUI) | A powerful and artistic UI library based on PyQt5，基于 PyQt5 的UI框架，灵动、优雅而轻便 |
-| [CHIZI-0618/box4magisk](https://github.com/CHIZI-0618/box4magisk) | Use sing-box, clash, v2ray, xray tunnel proxy on Android devices. |
 | [Chlumsky/msdfgen](https://github.com/Chlumsky/msdfgen) | Multi-channel signed distance field generator |
 | [chocolatey/choco](https://github.com/chocolatey/choco) | Chocolatey - the package manager for Windows |
 | [chr233/PureNGA](https://github.com/chr233/PureNGA) | NGA 去广告Xposed模块 支持 Lspatch |
@@ -296,7 +276,6 @@
 | [duckdb/duckdb](https://github.com/duckdb/duckdb) | DuckDB is an analytical in-process SQL database management system |
 | [dudor/BookmarkHub](https://github.com/dudor/BookmarkHub) | BookmarkHub , sync bookmarks across different browsers |
 | [dulnan/lazy-brush](https://github.com/dulnan/lazy-brush) | Smooth drawing with mouse, finger or other pointing device |
-| [DUpdateSystem/UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll) | Check updates for Android apps, Magisk modules and more! |
 | [duplicati/duplicati](https://github.com/duplicati/duplicati) | Store securely encrypted backups in the cloud! |
 | [DWNfonts/XiaoyaPixel-Classic](https://github.com/DWNfonts/XiaoyaPixel-Classic) | XiaoyaPixel - 12px rounded pixel SC font. |
 | [dyang886/Game-Cheats-Manager](https://github.com/dyang886/Game-Cheats-Manager) | Easily download and manage single-player game cheats for your convenience |
@@ -404,7 +383,6 @@
 | [github/github-mcp-server](https://github.com/github/github-mcp-server) | GitHub's official MCP Server |
 | [github/spec-kit](https://github.com/github/spec-kit) | 💫 Toolkit to help you get started with Spec-Driven Development |
 | [gitify-app/gitify](https://github.com/gitify-app/gitify) | GitHub notifications on your menu bar. Available on macOS, Windows & Linux. |
-| [GitMetaio/Surfing](https://github.com/GitMetaio/Surfing) | Magisk and KernelSU modules for  Clash/mihomo services. |
 | [gitui-org/gitui](https://github.com/gitui-org/gitui) | Blazing 💥 fast terminal-ui for git written in rust 🦀 |
 | [gkd-kit/gkd](https://github.com/gkd-kit/gkd) | 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 / An Android APP with custom screen tapping base... |
 | [glanceapp/glance](https://github.com/glanceapp/glance) | A self-hosted dashboard that puts all your feeds in one place |
@@ -416,7 +394,6 @@
 | [go-gost/gost](https://github.com/go-gost/gost) | GO Simple Tunnel - a simple tunnel written in golang |
 | [go-musicfox/go-musicfox](https://github.com/go-musicfox/go-musicfox) | go-musicfox是用Go写的又一款网易云音乐命令行客户端，支持UnblockNeteaseMusic、各种音质级别、lastfm、MPRIS、Mac... |
 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | An open-source AI agent that brings the power of Gemini directly into your te... |
-| [Goooler/systemless-fcm-hosts](https://github.com/Goooler/systemless-fcm-hosts) | A Magisk module integrated with FCM hosts for Chinese users. |
 | [goto456/stopwords](https://github.com/goto456/stopwords) | 中文常用停用词表（哈工大停用词表、百度停用词表等） |
 | [grayddq/GScan](https://github.com/grayddq/GScan) | 本程序旨在为安全应急响应人员对Linux主机排查时提供便利，实现主机侧Checklist的自动全面化检测，根据检测结果自动数据聚合，进行黑客攻击路径溯源。 |
 | [grbnb/xp_module](https://github.com/grbnb/xp_module) | 备份午夜神大佬分享的应用集 【下面是Gitee仓库链接】https://gitee.com/grbnb/xp_module.git |
@@ -489,7 +466,6 @@
 | [HunterPie/HunterPie](https://github.com/HunterPie/HunterPie) | A clean, modern and robust overlay for Monster Hunter games. |
 | [HUSX100/IslandCaller](https://github.com/HUSX100/IslandCaller) | 基于ClassIsland插件的轻量级点名器 |
 | [huynhsontung/Screenbox](https://github.com/huynhsontung/Screenbox) | LibVLC-based media player for the Universal Windows Platform |
-| [huzesama/ASGuard](https://github.com/huzesama/ASGuard) | Magisk模块，用于安卓的无障碍服务(或名:辅助功能)辅助管理模块 |
 | [HyDE-Project/HyDE](https://github.com/HyDE-Project/HyDE) | HyDE, your Development Environment 🖥️💻 |
 | [IacobIonut01/Gallery](https://github.com/IacobIonut01/Gallery) | Media Gallery app for Android made with Jetpack Compose |
 | [iamcco/ds-pinyin-lsp](https://github.com/iamcco/ds-pinyin-lsp) | Dead Simple Pinyin Language Server |
@@ -591,7 +567,6 @@
 | [kazutoiris/infinite-illusion](https://github.com/kazutoiris/infinite-illusion) | Infinite Illusion （无限幻境） |
 | [kc0ed/SearchEVO](https://github.com/kc0ed/SearchEVO) | [转载]好用的搜索软件 |
 | [kcat/openal-soft](https://github.com/kcat/openal-soft) | OpenAL Soft is a software implementation of the OpenAL 3D audio API. |
-| [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) | Google SafetyNet attestation workarounds for Magisk |
 | [keldaanCommunity/pokemonAutoChess](https://github.com/keldaanCommunity/pokemonAutoChess) | Pokemon Auto Chess Game. Made by fans for fans. Open source, non profit. All ... |
 | [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme) | 将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora int... |
 | [kelecn/Built-in-wallpaper](https://github.com/kelecn/Built-in-wallpaper) | 😉史上最新最全的内置壁纸仓库，包括但不限于：苹果(Apple)、安卓(Android)、谷歌(Google)、三星(Samsung)、华为(Huawei)... |
@@ -1409,6 +1384,7 @@
 | [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) | Compile shell scripts to static binaries. |
 | [YatFanLan/Simplify-chat-boxes](https://github.com/YatFanLan/Simplify-chat-boxes) | 精简聊天框 |
 | [yc9559/uperf](https://github.com/yc9559/uperf) | Userspace performance controller for android |
+| [ycccccccy/echotrace](https://github.com/ycccccccy/echotrace) | EchoTrace 是一个本地、安全的微信聊天记录导出、分析与年度报告生成工具 / EchoTrace is a local, secure tool f... |
 | [yeahwu/v2ray-wss](https://github.com/yeahwu/v2ray-wss) | A proxy script with multiple protocols. |
 | [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) | Office Tool Plus localization projects. |
 | [Yidadaa/shuangpin](https://github.com/Yidadaa/shuangpin) | 纸砚双拼，可能是最好用的双拼练习工具，支持声母 / 韵母 / 长句模式、自定义双拼方案、进度统计、深色模式、成就系统。 |
