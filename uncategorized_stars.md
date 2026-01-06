@@ -1,18 +1,9 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Tue Jan  6 01:24:52 UTC 2026 | 总计: **1448** 个未分类项目
+> 生成于 UTC 时间: Tue Jan  6 02:02:00 UTC 2026 | 总计: **1440** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
-| [adobe-fonts/source-sans](https://github.com/adobe-fonts/source-sans) | Sans serif font family for user interface environments |
-| [adrcotfas/goodtime](https://github.com/adrcotfas/goodtime) | A productivity app that combines pomodoro timers and flow techniques to boost... |
-| [Aefyr/SAI](https://github.com/Aefyr/SAI) | Android split APKs installer |
-| [afeimod/winlator-mod](https://github.com/afeimod/winlator-mod) | Android application for running Windows applications with Wine and Box86/Box64 |
-| [agalwood/Motrix](https://github.com/agalwood/Motrix) | A full-featured download manager. |
-| [agentskills/agentskills](https://github.com/agentskills/agentskills) | Specification and documentation for Agent Skills |
-| [Alanrk/LazyCat-Bookmark-Cleaner](https://github.com/Alanrk/LazyCat-Bookmark-Cleaner) | 让书签管理变得轻松愉快！一只可爱的懒猫助手，帮你智能清理和整理浏览器书签。 |
-| [Alanrk/TabMark-Bookmark-New-Tab](https://github.com/Alanrk/TabMark-Bookmark-New-Tab) | TabMark是一款基于书签的新标签页插件，将你的收藏夹变成新标签页，让你收藏的书签一目了然、整洁高效，快速直达你最需要的网站和资源。搭配智能 AI 搜索... |
-| [Alex4SSB/ADB-Explorer](https://github.com/Alex4SSB/ADB-Explorer) | A fluent UI for ADB on Windows |
 | [alex8088/electron-vite](https://github.com/alex8088/electron-vite) | Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护 |
 | [alexhua/Aria2-Explorer](https://github.com/alexhua/Aria2-Explorer) | An aria2 download task management extension for chromium based browser |
 | [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) | 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制 |
@@ -652,6 +643,7 @@
 | [LIPiston/csgo-cfg](https://github.com/LIPiston/csgo-cfg) | 这个项目已经跟随 csgo 的结束而死了 |
 | [LIPiston/MinecraftTextureChecker](https://github.com/LIPiston/MinecraftTextureChecker) | None |
 | [LIPiston/rime-ice](https://github.com/LIPiston/rime-ice) | Rime 配置：雾凇拼音 / 长期维护的简体词库 / 由LIPiston修改 |
+| [LIPiston/star_checker](https://github.com/LIPiston/star_checker) | None |
 | [LIPiston/vimplus](https://github.com/LIPiston/vimplus) | 🐑An automatic configuration program for vim |
 | [liquidbounceplusreborn/LiquidbouncePlus-Reborn](https://github.com/liquidbounceplusreborn/LiquidbouncePlus-Reborn) | Minecraft Forge 1.8.9 hacked client, Based on LiquidBounce+ |
 | [liriliri/aya](https://github.com/liriliri/aya) | Android ADB desktop app |
