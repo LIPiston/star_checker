@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Tue Jan  6 02:02:00 UTC 2026 | 总计: **1440** 个未分类项目
+> 生成于 UTC 时间: Wed Jan  7 02:01:43 UTC 2026 | 总计: **1440** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -68,7 +68,7 @@
 | [Ayman-Isam/HungerGames](https://github.com/Ayman-Isam/HungerGames) | A modern HungerGames Plugin for Minecraft |
 | [Ayndpa/ConnectTool](https://github.com/Ayndpa/ConnectTool) | None |
 | [AZ-Studio-2023/AZMusicDownloader](https://github.com/AZ-Studio-2023/AZMusicDownloader) | AZ音乐下载器 - 优雅地下载音乐 - 多API集成客户端 / Download music gracefully |
-| [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) | 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】 |
+| [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) | 2026最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】 |
 | [azhon/AppUpdate](https://github.com/azhon/AppUpdate) | Android App update library.  Android版本更新库，简单、轻量、可随意定制 |
 | [baidusama/EroPassword](https://github.com/baidusama/EroPassword) | 一些常用的解压密码（包括但不限于本子、里番、galgame） |
 | [BakaXL-Launcher/BakaXL](https://github.com/BakaXL-Launcher/BakaXL) | BakaXL 项目门户 / BakaXL Project's Portal |
@@ -397,7 +397,7 @@
 | [GtxFury/FlyClash](https://github.com/GtxFury/FlyClash) | 简洁美观的代理工具 |
 | [GtxFury/FlyClash-Android](https://github.com/GtxFury/FlyClash-Android) | FlyClash Android |
 | [guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles) | Document Chatbot — multiple files. Powered by GPT / Embedding. |
-| [Guovin/iptv-api](https://github.com/Guovin/iptv-api) | 📺IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成流程🚀』：频道自定义；个性化配置；IPv4/IPv6；接口验效；推流；工作流、Docker、命... |
+| [Guovin/iptv-api](https://github.com/Guovin/iptv-api) | 📺IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成流程🚀』：频道自定义；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、命... |
 | [GuoXiCheng/SKIP](https://github.com/GuoXiCheng/SKIP) | 自动跳过APP开屏广告 |
 | [guozhigq/pilipala](https://github.com/guozhigq/pilipala) | PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。 |
 | [gurecn/YuyanIme](https://github.com/gurecn/YuyanIme) | 语燕输入法-一款基于Rime定制开发的九键、全拼、双拼、手写、火星文等方案、支持悬浮、单手、数字行等键盘模式的中文输入法 |
