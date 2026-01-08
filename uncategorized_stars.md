@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Wed Jan  7 02:01:43 UTC 2026 | 总计: **1440** 个未分类项目
+> 生成于 UTC 时间: Thu Jan  8 02:01:56 UTC 2026 | 总计: **1444** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -71,6 +71,7 @@
 | [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) | 2026最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】 |
 | [azhon/AppUpdate](https://github.com/azhon/AppUpdate) | Android App update library.  Android版本更新库，简单、轻量、可随意定制 |
 | [baidusama/EroPassword](https://github.com/baidusama/EroPassword) | 一些常用的解压密码（包括但不限于本子、里番、galgame） |
+| [bajrangCoder/acode-plugin-acodex](https://github.com/bajrangCoder/acode-plugin-acodex) | AcodeX - A Terminal plugin for Acode App |
 | [BakaXL-Launcher/BakaXL](https://github.com/BakaXL-Launcher/BakaXL) | BakaXL 项目门户 / BakaXL Project's Portal |
 | [BakaXL-Support/BakaXL-Document](https://github.com/BakaXL-Support/BakaXL-Document) | BakaXL 用户帮助文档 |
 | [BakaXL-Support/BakaXL-QA-docs](https://github.com/BakaXL-Support/BakaXL-QA-docs) | 本存储库文档已全量转移至下一代文档仓库 |
@@ -198,7 +199,7 @@
 | [cofedream/extensions-copymanga](https://github.com/cofedream/extensions-copymanga) | Mihon的Copymanga扩展 |
 | [ColdWindScholar/D.N.A3](https://github.com/ColdWindScholar/D.N.A3) | 【开源】安卓一般固件解包打包助手【 Droid Normal Assistant 】 |
 | [CollegesChat/university-information](https://github.com/CollegesChat/university-information) | 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节 |
-| [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) | The most powerful and modular diffusion model GUI, api and backend with a gra... |
+| [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | The most powerful and modular diffusion model GUI, api and backend with a gra... |
 | [ComicSparks/jasmine](https://github.com/ComicSparks/jasmine) | A comic browser，support Android / iOS / MacOS / Windows / Linux.  |
 | [ComicSparks/pikapika](https://github.com/ComicSparks/pikapika) | A comic browser，support Android / iOS / MacOS / Windows / Linux. |
 | [commaai/openpilot](https://github.com/commaai/openpilot) | openpilot is an operating system for robotics. Currently, it upgrades the dri... |
@@ -257,7 +258,7 @@
 | [dongyuwei/hallelujahIM](https://github.com/dongyuwei/hallelujahIM) | hallelujahIM(哈利路亚 英文输入法) is  an intelligent English input method with auto-su... |
 | [Doraemonliu/com.houvven.guise](https://github.com/Doraemonliu/com.houvven.guise) | Guise |
 | [dorssel/usbipd-win](https://github.com/dorssel/usbipd-win) | Windows software for sharing locally connected USB devices to other machines,... |
-| [DowneyRem/PixivSource](https://github.com/DowneyRem/PixivSource) | 最好的 Pixiv 小说阅读器——开源阅读 + Pixiv 书源 / Legado with Pixiv BookSource, A Best Novel... |
+| [DowneyRem/PixivSource](https://github.com/DowneyRem/PixivSource) | 最好的 Pixiv 小说阅读器——开源阅读 + Pixiv 书源 / Legado with Pixiv BookSource, The Best Nov... |
 | [Dr-TSNG/Hide-My-Applist](https://github.com/Dr-TSNG/Hide-My-Applist) | An Xposed module to intercept applist detections |
 | [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) | Standalone implementation of Zygisk |
 | [DreamingLri/masa-mods-chinese](https://github.com/DreamingLri/masa-mods-chinese) | 一个masa mods的汉化资源包 |
@@ -490,11 +491,13 @@
 | [InkCanvas/Ink-Canvas-Artistry](https://github.com/InkCanvas/Ink-Canvas-Artistry) | A fantastic Ink Canvas in WPF/C#, based on WXRIW/Ink-Canvas. |
 | [InkCanvas/InkCanvasForClass](https://github.com/InkCanvas/InkCanvasForClass) | InkCanvasForClass 是一款开源易用的电子教鞭软件 |
 | [InkCanvasForClass/community](https://github.com/InkCanvasForClass/community) | InkCanvasForClass Community Open Source Project |
+| [InMomo/StealthReader](https://github.com/InMomo/StealthReader) | 这是一个专为上班族打造的极简、隐蔽、高定制度的桌面阅读器。它不存储书籍，而是作为手机端Legado (阅读)(https://github.com/ged... |
 | [InputShare/InputShare](https://github.com/InputShare/InputShare) | InputShare enables you to share the keyboard and mouse of your computer with ... |
 | [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) | A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (e... |
 | [IrisShaders/Iris](https://github.com/IrisShaders/Iris) | A modern shaders mod for Minecraft compatible with existing OptiFine shader p... |
 | [Iru21/Authy](https://github.com/Iru21/Authy) | A simple authentication plugin for Minecraft 1.17+! |
 | [ish-app/ish](https://github.com/ish-app/ish) | Linux shell for iOS |
+| [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) | A pure JavaScript implementation of git for node and browsers! |
 | [itchaox/annotree](https://github.com/itchaox/annotree) | Generate folder directory annotation tree / 生成文件夹目录注释树 |
 | [ItMarki/MisekiBitmap](https://github.com/ItMarki/MisekiBitmap) | 基於美咲ゴチック／明朝製作的全面漢字字型 |
 | [itorr/eva-title](https://github.com/itorr/eva-title) | 🐧「福音战士标题生成器」 Evangelion Title Card Generator |
@@ -594,6 +597,7 @@
 | [KusStar/rewind-apks](https://github.com/KusStar/rewind-apks) | 倒带 App｜应用安装包仓库 |
 | [KusStar/rewind-docs](https://github.com/KusStar/rewind-docs) | 倒带 App｜应用主页 |
 | [kwsch/PKHeX](https://github.com/kwsch/PKHeX) | Pokémon Save File Editor |
+| [KyleBing/english-vocabulary](https://github.com/KyleBing/english-vocabulary) | 英文单词，英语单词，四六级 CET4 CET6、考研、SAT单词，txt 文件, json 文件 |
 | [KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian) | 86五笔极点码表 for 鼠须管(macOS)、小狼毫(Windows)、中州韵(Ubuntu) 、仓（iOS）、同文（Android）五笔输入方案，五笔... |
 | [Kyome22/RunCat365](https://github.com/Kyome22/RunCat365) | A cute running cat animation on your windows taskbar. |
 | [kyujin-cho/pixel-volte-patch](https://github.com/kyujin-cho/pixel-volte-patch) | Pixel IMS: Rootless replacement for Tensor Pixel VoLTE patch |
