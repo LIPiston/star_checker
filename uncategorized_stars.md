@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Thu Jan  8 02:01:56 UTC 2026 | 总计: **1444** 个未分类项目
+> 生成于 UTC 时间: Fri Jan  9 02:03:11 UTC 2026 | 总计: **1445** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -522,6 +522,7 @@
 | [jianchang512/stt](https://github.com/jianchang512/stt) | Voice Recognition to Text Tool / 一个离线运行的本地音视频转字幕工具，输出json、srt字幕、纯文字格式 |
 | [jiangrui1994/CloudSaver](https://github.com/jiangrui1994/CloudSaver) | 一个基于 Vue 3 + Express 的网盘资源搜索与转存工具。 |
 | [jiangxianli/ProxyIpLib](https://github.com/jiangxianli/ProxyIpLib) | 全球免费代理IP库，高可用IP，精心筛选优质IP,2s必达 |
+| [JiGuroLGC/BetterVia](https://github.com/JiGuroLGC/BetterVia) | 让Via变得更好 / Make Via Better |
 | [jindrapetrik/jpexs-decompiler](https://github.com/jindrapetrik/jpexs-decompiler) | JPEXS Free Flash Decompiler |
 | [jinenge/tvbox](https://github.com/jinenge/tvbox) | TVBox(自带配置版)，内置源，随时更新内置源，不必担心不能用 |
 | [jing332/tts-server-android](https://github.com/jing332/tts-server-android) | 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有... |
