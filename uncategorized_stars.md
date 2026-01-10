@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Fri Jan  9 02:03:11 UTC 2026 | 总计: **1445** 个未分类项目
+> 生成于 UTC 时间: Sat Jan 10 01:59:05 UTC 2026 | 总计: **1448** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -387,6 +387,7 @@
 | [go-musicfox/go-musicfox](https://github.com/go-musicfox/go-musicfox) | go-musicfox是用Go写的又一款网易云音乐命令行客户端，支持UnblockNeteaseMusic、各种音质级别、lastfm、MPRIS、Mac... |
 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | An open-source AI agent that brings the power of Gemini directly into your te... |
 | [goto456/stopwords](https://github.com/goto456/stopwords) | 中文常用停用词表（哈工大停用词表、百度停用词表等） |
+| [gpakosz/.tmux](https://github.com/gpakosz/.tmux) | Oh my tmux! My self-contained, pretty & versatile tmux configuration made wit... |
 | [grayddq/GScan](https://github.com/grayddq/GScan) | 本程序旨在为安全应急响应人员对Linux主机排查时提供便利，实现主机侧Checklist的自动全面化检测，根据检测结果自动数据聚合，进行黑客攻击路径溯源。 |
 | [grbnb/xp_module](https://github.com/grbnb/xp_module) | 备份午夜神大佬分享的应用集 【下面是Gitee仓库链接】https://gitee.com/grbnb/xp_module.git |
 | [greyCloudTeam/MCDrink](https://github.com/greyCloudTeam/MCDrink) | 我的世界motd压测程序 |
@@ -425,6 +426,7 @@
 | [heapwolf/levelui](https://github.com/heapwolf/levelui) | A GUI for LevelDB management based on atom-shell. |
 | [Heavrnl/nexus-terminal](https://github.com/Heavrnl/nexus-terminal) |  一款现代化的 Web SSH / RDP / VNC 客户端，提供独立桌面端，支持人机验证、2FA、界面定制、操作审计等强大功能。 |
 | [hectorqin/reader](https://github.com/hectorqin/reader) | 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + E... |
+| [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab) | 本地化的聊天记录分析工具，通过 SQL 和AI Agent 回顾你的聊天记录。 A local-first chat analysis tool: Rel... |
 | [helloqingfeng/Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource) | :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等） |
 | [helloworldpxy/thunder-https](https://github.com/helloworldpxy/thunder-https) | 专业的迅雷专用链转换工具，可将thunder://开头的加密链接转换为可直接使用的HTTP/HTTPS下载地址。支持Windows/macOS双平台（li... |
 | [Hendrix-Shen/MagicLib](https://github.com/Hendrix-Shen/MagicLib) | To beat magic with magic :( |
@@ -647,7 +649,7 @@
 | [linxuan8233/Kalmiagram](https://github.com/linxuan8233/Kalmiagram) | None |
 | [LIPiston/csgo-cfg](https://github.com/LIPiston/csgo-cfg) | 这个项目已经跟随 csgo 的结束而死了 |
 | [LIPiston/MinecraftTextureChecker](https://github.com/LIPiston/MinecraftTextureChecker) | None |
-| [LIPiston/rime-ice](https://github.com/LIPiston/rime-ice) | Rime 配置：雾凇拼音 / 长期维护的简体词库 / 由LIPiston修改 |
+| [LIPiston/rime-LIcen](https://github.com/LIPiston/rime-LIcen) | None |
 | [LIPiston/star_checker](https://github.com/LIPiston/star_checker) | None |
 | [LIPiston/vimplus](https://github.com/LIPiston/vimplus) | 🐑An automatic configuration program for vim |
 | [liquidbounceplusreborn/LiquidbouncePlus-Reborn](https://github.com/liquidbounceplusreborn/LiquidbouncePlus-Reborn) | Minecraft Forge 1.8.9 hacked client, Based on LiquidBounce+ |
@@ -1101,6 +1103,7 @@
 | [SoLegendary/reignofnether](https://github.com/SoLegendary/reignofnether) | None |
 | [SolidZORO/zpix-pixel-font](https://github.com/SolidZORO/zpix-pixel-font) | Zpix (最像素) is a pixel font (中文像素字体), supporting English, Chinese (Simplified ... |
 | [sorayuki/obs-multi-rtmp](https://github.com/sorayuki/obs-multi-rtmp) | OBS複数サイト同時配信プラグイン |
+| [soxoj/maigret](https://github.com/soxoj/maigret) | 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites |
 | [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtu... |
 | [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) | Chinese copywriting guidelines for better written communication／中文文案排版指北 |
 | [squeek502/AppleSkin](https://github.com/squeek502/AppleSkin) | Food-related HUD improvements for Minecraft (AppleCore without the core) |
