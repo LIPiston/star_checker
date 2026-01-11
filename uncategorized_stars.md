@@ -1,31 +1,10 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sat Jan 10 01:59:05 UTC 2026 | 总计: **1448** 个未分类项目
+> 生成于 UTC 时间: Sun Jan 11 02:11:49 UTC 2026 | 总计: **1428** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
-| [alex8088/electron-vite](https://github.com/alex8088/electron-vite) | Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护 |
-| [alexhua/Aria2-Explorer](https://github.com/alexhua/Aria2-Explorer) | An aria2 download task management extension for chromium based browser |
-| [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) | 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制 |
-| [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) | Tongyi Deep Research, the Leading Open-source Deep Research Agent |
-| [AlistGo/alist](https://github.com/AlistGo/alist) | 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin ... |
-| [allrobot/KeyCastOW_chinese](https://github.com/allrobot/KeyCastOW_chinese) | 按键击键可视化，感谢Brook Hong的贡献 Keystroke visualization, thanks to Brook Hong |
-| [Almamu/linux-wallpaperengine](https://github.com/Almamu/linux-wallpaperengine) | Wallpaper Engine backgrounds for Linux! |
-| [alovajs/alova](https://github.com/alovajs/alova) | A request toolkit for ultimate efficiency |
 | [alpha-liu-01/SpeedyNote](https://github.com/alpha-liu-01/SpeedyNote) | A simple note app with good performance and PDF import support |
-| [alvatip/Borealis-cursors](https://github.com/alvatip/Borealis-cursors) | None |
-| [amchii/tg-signer](https://github.com/amchii/tg-signer) | 电报自动执行（签到、发送消息、点击键盘、AI回复等）；个人、群组、频道消息监控、转发与自动回复。Automated Telegram tasks (che... |
-| [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) | An app for managing github starred repositories.  |
-| [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) | A Download Manager that speeds up your downloads |
-| [amzxyz/RIME-LMDG](https://github.com/amzxyz/RIME-LMDG) | fcitx5扩展词库/Rime全局带声调词库，最全声调标注工具链，Rime语法模型：LMDG - Language, Model, Dictionary,... |
-| [amzxyz/rime_wanxiang](https://github.com/amzxyz/rime_wanxiang) | Rime万象拼音输入方案：一个类大厂习惯的输入方案，首个全带调词库。多版可选，词库基于AI筛选和语料辅助筛选精干高效，配合全新语法模型，输入不再纠结。PR... |
-| [Andrews54757/tweakfork](https://github.com/Andrews54757/tweakfork) | A modified small client-side Minecraft mod that adds various configurable twe... |
-| [android/ndk](https://github.com/android/ndk) | The Android Native Development Kit |
-| [andstatus/game2048](https://github.com/andstatus/game2048) | 2048 Open Fun Game - multiplatform implementation in Kotlin and KorGE game en... |
-| [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) | 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese ... |
-| [Angel-Studio/MaterialYou-Dynamic-Island](https://github.com/Angel-Studio/MaterialYou-Dynamic-Island) | Free Android version of Dynamic Island feature stylized with Material You. |
-| [angel333/infinimouse](https://github.com/angel333/infinimouse) | If you move mouse to one border, it'll come from the other. |
-| [Angey40/BaiduPCS-Go](https://github.com/Angey40/BaiduPCS-Go) | 百度网盘工具箱 - Go语言编写 |
 | [ansh/jiffyreader-public-archive](https://github.com/ansh/jiffyreader-public-archive) | A Browser Extension for faster reading on ANY website! |
 | [antfu-collective/icones](https://github.com/antfu-collective/icones) | ⚡️ Icon Explorer with Instant searching, powered by Iconify |
 | [antfu/changelogithub](https://github.com/antfu/changelogithub) | Generate changelog for GitHub |
@@ -649,7 +628,7 @@
 | [linxuan8233/Kalmiagram](https://github.com/linxuan8233/Kalmiagram) | None |
 | [LIPiston/csgo-cfg](https://github.com/LIPiston/csgo-cfg) | 这个项目已经跟随 csgo 的结束而死了 |
 | [LIPiston/MinecraftTextureChecker](https://github.com/LIPiston/MinecraftTextureChecker) | None |
-| [LIPiston/rime-LIcen](https://github.com/LIPiston/rime-LIcen) | None |
+| [LIPiston/rime-ice](https://github.com/LIPiston/rime-ice) | Rime 配置：雾凇拼音 / 长期维护的简体词库 / 由 LIPiston 修改 |
 | [LIPiston/star_checker](https://github.com/LIPiston/star_checker) | None |
 | [LIPiston/vimplus](https://github.com/LIPiston/vimplus) | 🐑An automatic configuration program for vim |
 | [liquidbounceplusreborn/LiquidbouncePlus-Reborn](https://github.com/liquidbounceplusreborn/LiquidbouncePlus-Reborn) | Minecraft Forge 1.8.9 hacked client, Based on LiquidBounce+ |
@@ -1053,7 +1032,7 @@
 | [samolego/Canta](https://github.com/samolego/Canta) | Uninstall any Android app without root (with power of Shizuku). Debloat your ... |
 | [samolego/FabricTailor](https://github.com/samolego/FabricTailor) | A server-side or singleplayer skin changing mod for fabric. |
 | [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) | Sandboxie Plus & Classic |
-| [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。接入 MCP 架构，赋能 AI 自然语言... |
+| [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。 AI 分析简报直推手机，也支持接入 M... |
 | [SchneeSchmitt/ADB-Android-Optimizer](https://github.com/SchneeSchmitt/ADB-Android-Optimizer) | Rootless (ADB) Android performance optimizer for every condition, from pure p... |
 | [schollz/croc](https://github.com/schollz/croc) | Easily and securely send things from one computer to another :crocodile: :pac... |
 | [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) | A command-line installer for Windows. |
@@ -1319,6 +1298,7 @@
 | [wshobson/agents](https://github.com/wshobson/agents) | Intelligent automation and multi-agent orchestration for Claude Code |
 | [WSTxda/ViperFX-RE-Releases](https://github.com/WSTxda/ViperFX-RE-Releases) | ViPER4Android FX with Material 3 Expressive design and improvements. |
 | [WSTxda/ViPERFX_RE](https://github.com/WSTxda/ViPERFX_RE) | Reverse Engineering of ViPER4Android FX |
+| [wsu2059q/ErisPulse-QvQChat](https://github.com/wsu2059q/ErisPulse-QvQChat) | 基于多AI协同的智能对话模块，让AI像真人一样自然参与聊天 |
 | [wu-mx/subinfobot](https://github.com/wu-mx/subinfobot) | 一个由Go编写的开源轻量订阅查询Telegram Bot。 |
 | [wu-mx/URLignore](https://github.com/wu-mx/URLignore) | A simple node tool. |
 | [WuDi-ZhanShen/ShizukuRunner](https://github.com/WuDi-ZhanShen/ShizukuRunner) | 以shizuku身份执行命令的安卓小工具。A 50KB android app to run any commands via Shizuku. |
