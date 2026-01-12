@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sun Jan 11 02:11:49 UTC 2026 | 总计: **1428** 个未分类项目
+> 生成于 UTC 时间: Mon Jan 12 02:08:13 UTC 2026 | 总计: **1434** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -480,6 +480,7 @@
 | [ish-app/ish](https://github.com/ish-app/ish) | Linux shell for iOS |
 | [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) | A pure JavaScript implementation of git for node and browsers! |
 | [itchaox/annotree](https://github.com/itchaox/annotree) | Generate folder directory annotation tree / 生成文件夹目录注释树 |
+| [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) | Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Az... |
 | [ItMarki/MisekiBitmap](https://github.com/ItMarki/MisekiBitmap) | 基於美咲ゴチック／明朝製作的全面漢字字型 |
 | [itorr/eva-title](https://github.com/itorr/eva-title) | 🐧「福音战士标题生成器」 Evangelion Title Card Generator |
 | [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) | Docker image that provides a Minecraft Server for Java Edition that automatic... |
@@ -535,6 +536,7 @@
 | [kaisar945/Xposed-GodMode](https://github.com/kaisar945/Xposed-GodMode) | A xposed module similar to AdBlock, You can edit the application user interfa... |
 | [kando-menu/kando](https://github.com/kando-menu/kando) | 🌸 Do things with utmost efficiency. |
 | [kaniol-lck/modmanager](https://github.com/kaniol-lck/modmanager) | A Qt-based mod manager for minecraft. |
+| [kapitainsky/RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser) | Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family a... |
 | [Karben233/bili-hardcore](https://github.com/Karben233/bili-hardcore) | bilibili 硬核会员 AI 自动答题脚本，直接调用 B 站 API，非 OCR 实现 |
 | [karpathy/nanochat](https://github.com/karpathy/nanochat) | The best ChatGPT that $100 can buy. |
 | [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC) | Modern VNC Server and client, web based and secure |
@@ -588,6 +590,7 @@
 | [laishulu/Sarasa-Term-SC-Nerd](https://github.com/laishulu/Sarasa-Term-SC-Nerd) | 简体中文终端更纱黑体+Nerd图标字体库。中英文宽度完美2:1，图标长宽经过调整，不会出现对齐问题，尤其适合作为终端字体。  |
 | [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) | Feature-rich wifi hotspot creator for Linux which provides both GUI and comma... |
 | [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) | 2023-2025中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅，包含节假日API |
+| [laurent22/joplin](https://github.com/laurent22/joplin) | Joplin - the privacy-focused note taking app with sync capabilities for Windo... |
 | [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) | No clever tagline needed. |
 | [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons) | Monochrome outlined brand icons for Android launchers. |
 | [layou233/ZBProxy](https://github.com/layou233/ZBProxy) | 🚀Transfer your network data, bypassing the Hypixel unofficial address detection! |
@@ -779,6 +782,7 @@
 | [MkQtS/Carefree](https://github.com/MkQtS/Carefree) | An elegant Potplayer skin |
 | [MlgmXyysd/Xiaomi-BootLoader-Questionnaire](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire) | 小米 BootLoader《解锁资格答题测试》更新记录 |
 | [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) | Easily install PHP extensions in Docker containers |
+| [mmozeiko/RcloneBrowser](https://github.com/mmozeiko/RcloneBrowser) | Simple cross platform GUI for rclone |
 | [MMPI-CHN/MMPI-CHN.github.io](https://github.com/MMPI-CHN/MMPI-CHN.github.io) | MMPI-2中文测试-全免费-带结果 |
 | [mmulet/term.everything](https://github.com/mmulet/term.everything) | Run any GUI app in the terminal❗ |
 | [MobileGL-Dev/MobileGlues-release](https://github.com/MobileGL-Dev/MobileGlues-release) | MobileGlues, which stands for "(on) Mobile, GL uses ES", is a GL implementati... |
@@ -1194,6 +1198,7 @@
 | [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) | The Magic Mask for Android |
 | [topjohnwu/ndk-busybox](https://github.com/topjohnwu/ndk-busybox) | BusyBox building with command ndk-build |
 | [Tornaco/Thanox](https://github.com/Tornaco/Thanox) | I am thanos! 😈 👌 |
+| [torvalds/AudioNoise](https://github.com/torvalds/AudioNoise) | Random digital audio effects |
 | [Tosencen/XMSLEEP](https://github.com/Tosencen/XMSLEEP) | 一款白噪音应用，祝您牛掰，有的是钱 |
 | [tosuapp/tosu](https://github.com/tosuapp/tosu) | osu! Stable and Lazer memory reader and PP counters provider |
 | [TouchController/TouchController](https://github.com/TouchController/TouchController) | Touchscreen control mod for Minecraft Java version / Minecraft Java 版触屏控制 mod |
@@ -1389,6 +1394,7 @@
 | [Zackptg5/Disable_Dm-Verity_ForceEncrypt](https://github.com/Zackptg5/Disable_Dm-Verity_ForceEncrypt) | Disables dm-verity and forceencrypt |
 | [ZalithLauncher/ZalithLauncher](https://github.com/ZalithLauncher/ZalithLauncher) | Zalith Launcher is a Minecraft launcher developed based on PojavLauncher, cap... |
 | [ZalithLauncher/ZalithLauncher2](https://github.com/ZalithLauncher/ZalithLauncher2) | A Minecraft: Java Edition Launcher for Android |
+| [Zarestia-Dev/rclone-manager](https://github.com/Zarestia-Dev/rclone-manager) | RClone Manager is a cross-platform GUI application designed to help users man... |
 | [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) | Create web-based user interfaces with Python. The nice way. |
 | [zed-industries/zed](https://github.com/zed-industries/zed) | Code at the speed of thought – Zed is a high-performance, multiplayer code ed... |
 | [zen-browser/desktop](https://github.com/zen-browser/desktop) | Welcome to a calmer internet |
