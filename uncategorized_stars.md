@@ -1,9 +1,10 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Thu Jan 15 02:01:44 UTC 2026 | 总计: **1436** 个未分类项目
+> 生成于 UTC 时间: Fri Jan 16 02:03:45 UTC 2026 | 总计: **1442** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
+| [ACGaming/UniversalTweaks](https://github.com/ACGaming/UniversalTweaks) | A community project to consolidate various bugfixes and tweaks into a single ... |
 | [alpha-liu-01/SpeedyNote](https://github.com/alpha-liu-01/SpeedyNote) | A simple note app with good performance and PDF import support |
 | [ansh/jiffyreader-public-archive](https://github.com/ansh/jiffyreader-public-archive) | A Browser Extension for faster reading on ANY website! |
 | [antfu-collective/icones](https://github.com/antfu-collective/icones) | ⚡️ Icon Explorer with Instant searching, powered by Iconify |
@@ -399,6 +400,7 @@
 | [hardhackerlabs/themes](https://github.com/hardhackerlabs/themes) | 🧑🏾‍🚀 One Theme to Rule Them All 🌈 |
 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
 | [hashcat/hashcat](https://github.com/hashcat/hashcat) | World's fastest and most advanced password recovery utility |
+| [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) | 🪓 Run Background Tasks at Scale |
 | [hax/heshijun_v_360](https://github.com/hax/heshijun_v_360) | 贺师俊与360的劳动争议诉讼 |
 | [HChenX/AppRetention](https://github.com/HChenX/AppRetention) | Hook 系统 kill 逻辑来实现后台保活 / Hook system kill logic to implement background keep ... |
 | [hchunhui/librime-lua](https://github.com/hchunhui/librime-lua) | Extending RIME with Lua scripts |
@@ -813,7 +815,7 @@
 | [mywalkb/LSPosed_mod](https://github.com/mywalkb/LSPosed_mod) | My changes to LSPosed |
 | [Mzdyl/LiteLoaderQQNT_Install](https://github.com/Mzdyl/LiteLoaderQQNT_Install) | 针对 LiteLoaderQQNT 的安装脚本 |
 | [nakanomikuorg/arch-guide](https://github.com/nakanomikuorg/arch-guide) | ✨ archlinux 简明指南 / 本指南包含从 archlinux 安装、显卡驱动、日常软件配置、多媒体制作、编程等你可能需要的全部内容 / 提供在线... |
-| [nakixii/Magisk_AsoulOpt](https://github.com/nakixii/Magisk_AsoulOpt) | 由于近期出现太多无效（不附带任何数据）适配申请，暂时停止接收任何申请。 |
+| [nakixii/Magisk_AsoulOpt](https://github.com/nakixii/Magisk_AsoulOpt) | None |
 | [NapNeko/NapCat-Docker](https://github.com/NapNeko/NapCat-Docker) | NapCat-Docker |
 | [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) | Modern protocol-side framework based on NTQQ |
 | [Naruto-Senki/files](https://github.com/Naruto-Senki/files) | Naruto Senki: V2 File Host |
@@ -850,6 +852,7 @@
 | [NLR-DevTeam/Fcitx5-Enhancer](https://github.com/NLR-DevTeam/Fcitx5-Enhancer) | A  fcitx5 compatibility mod for Minecraft |
 | [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) | Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad! |
 | [nocokit/noco-form](https://github.com/nocokit/noco-form) | noco-form |
+| [NodePassProject/nodepass](https://github.com/NodePassProject/nodepass) | A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable a... |
 | [nohajc/termux-adb](https://github.com/nohajc/termux-adb) | Run adb in Termux without root permissions! |
 | [nonebot/cli-plugin-docker](https://github.com/nonebot/cli-plugin-docker) | docker support for nb-cli |
 | [nopdan/danjing](https://github.com/nopdan/danjing) | An exquisite Trime theme. 一个精致的同文输入法主题. |
@@ -872,7 +875,7 @@
 | [o0HalfLife0o/TVBoxOSC](https://github.com/o0HalfLife0o/TVBoxOSC) | None |
 | [oasisfeng/island](https://github.com/oasisfeng/island) | Island for Android |
 | [objective-see/LuLu](https://github.com/objective-see/LuLu) | LuLu is the free open-source macOS firewall |
-| [obra/superpowers](https://github.com/obra/superpowers) | Claude Code superpowers: core skills library |
+| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. |
 | [obsproject/obs-studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen reco... |
 | [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be sea... |
 | [OdysseusYuan/LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) | 一键自动化 下载、安装、激活 Office 的利器。 |
@@ -898,6 +901,7 @@
 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 🙌 OpenHands: AI-Driven Development |
 | [openjdk/mobile](https://github.com/openjdk/mobile) | https://openjdk.org/projects/mobile |
 | [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) | A new AList Fork to Anti Trust Crisis |
+| [OpenListTeam/OpenList-Desktop](https://github.com/OpenListTeam/OpenList-Desktop) | A desktop application for OpenList |
 | [OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) | Open source, cross-platform, user-mode tablet driver |
 | [openwrt/openwrt](https://github.com/openwrt/openwrt) | This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It... |
 | [OrangeX4/Termux-Finux](https://github.com/OrangeX4/Termux-Finux) | A file manager for mobile linux like termux. |
@@ -993,6 +997,7 @@
 | [RelativityMC/ScalableLux](https://github.com/RelativityMC/ScalableLux) | A Fabric mod based on Starlight that improves the performance of light update... |
 | [RelativityMC/VMP-fabric](https://github.com/RelativityMC/VMP-fabric) | A Fabric mod designed to improve server performance at high playercounts. |
 | [relimus/TAssistant](https://github.com/relimus/TAssistant) | Make TIM Great Again! |
+| [remorses/playwriter](https://github.com/remorses/playwriter) | The better playwright MCP: works as a browser extension. No context bloat. Mo... |
 | [ResetPower/Epherome](https://github.com/ResetPower/Epherome) | [Deprecated] This repository is obsolete. Please go to Epheromeers/Epherome i... |
 | [ResetPower/rcs](https://github.com/ResetPower/rcs) | ResetPower's Component Set using TailwindCSS. |
 | [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) | Best Material You Design music player for Android |
@@ -1173,7 +1178,7 @@
 | [tianshiyeben/wgcloud](https://github.com/tianshiyeben/wgcloud) | Linux运维监控工具，支持系统硬件信息，内存，CPU，温度，磁盘空间及IO，硬盘smart，GPU，防火墙，网络流量速率等监控，服务接口监测，大屏展示，... |
 | [TibixDev/winboat](https://github.com/TibixDev/winboat) | Run Windows apps on 🐧 Linux with ✨ seamless integration |
 | [Tichau/FileConverter](https://github.com/Tichau/FileConverter) | File Converter is a very simple tool which allows you to convert and compress... |
-| [tickmao/Novel](https://github.com/tickmao/Novel) | 📚 Novle setting / 小说书源及软件整理 爱阅书香 / 阅读 / 香色闺阁 |
+| [tickmao/Novel](https://github.com/tickmao/Novel) | 📚 Novle setting / 小说书源及软件整理 爱阅书香 / 香色闺阁 / 阅读（含字体、净化规则、TTS配置）  |
 | [timburgan/timburgan](https://github.com/timburgan/timburgan) | Play chess via GitHub |
 | [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) | Curated list of awesome Android apps making use of Shizuku |
 | [timschneeb/RootlessJamesDSP](https://github.com/timschneeb/RootlessJamesDSP) | An implementation of the system-wide JamesDSP audio processing engine for non... |
@@ -1347,6 +1352,7 @@
 | [xming521/WeClone](https://github.com/xming521/WeClone) | 🚀 One-stop solution for creating your digital avatar from chat history 💡 Fine... |
 | [xoureldeen/Vectras-VM-Android](https://github.com/xoureldeen/Vectras-VM-Android) | It's a Virtual Machine App for Android Which is Based on QEMU |
 | [XPoet/picx](https://github.com/XPoet/picx) | 🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。 |
+| [Xposed-Modules-Repo/balti.xposed.pixelifygooglephotos](https://github.com/Xposed-Modules-Repo/balti.xposed.pixelifygooglephotos) | Pixelify GPhotos |
 | [Xposed-Modules-Repo/cn.myflv.noactive](https://github.com/Xposed-Modules-Repo/cn.myflv.noactive) | NoActive |
 | [Xposed-Modules-Repo/cn.yhfcn.mipushfaker](https://github.com/Xposed-Modules-Repo/cn.yhfcn.mipushfaker) | MiPushFaker |
 | [Xposed-Modules-Repo/com.bug.hookvip](https://github.com/Xposed-Modules-Repo/com.bug.hookvip) | Fuck for VIP |
@@ -1381,7 +1387,6 @@
 | [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) | Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个... |
 | [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) | warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netfli... |
 | [yoopta-editor/Yoopta-Editor](https://github.com/yoopta-editor/Yoopta-Editor) | Build Notion-like, Craft-like, Coda-like, Medium-like editors with Yoopta |
-| [yosebyte/nodepass](https://github.com/yosebyte/nodepass) | A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable a... |
 | [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) | This GitHub Action creates a GitHub contribution calendar on a 3D profile image. |
 | [youniaogu/MangaReader](https://github.com/youniaogu/MangaReader) | 一个漫画 APP📱，基于 react-native 构建，兼容 Android、Ios 平台 |
 | [Yubyf/QuoteLockX](https://github.com/Yubyf/QuoteLockX) | Displays quotes on your lockscreen, because why not. |
@@ -1423,6 +1428,7 @@
 | [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) | Static analysis for GitHub Actions |
 | [zjyzip/AdClose](https://github.com/zjyzip/AdClose) | Block ads and remove app limit for Xposed. |
 | [zmister2016/MrDoc](https://github.com/zmister2016/MrDoc) | mrdoc,online document system developed based on python. It is suitable for in... |
+| [zoicware/RepairBadTweaks](https://github.com/zoicware/RepairBadTweaks) | Fix Commonly Used Windows Tweaks |
 | [Zolyn/TsukuARdGothic-Std](https://github.com/Zolyn/TsukuARdGothic-Std) | 筑紫A丸ゴシック 5字重，原作者：宁静之雨 |
 | [Zolyn/TsukuBRdGothic-Std](https://github.com/Zolyn/TsukuBRdGothic-Std) | 筑紫B丸ゴシック 5字重，原作者：宁静之雨 |
 | [Zouuup/landrun](https://github.com/Zouuup/landrun) | Run any Linux process in a secure, unprivileged sandbox using Landlock. Think... |
