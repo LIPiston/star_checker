@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Fri Jan 16 02:03:45 UTC 2026 | 总计: **1442** 个未分类项目
+> 生成于 UTC 时间: Sat Jan 17 01:57:37 UTC 2026 | 总计: **1443** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -1042,7 +1042,7 @@
 | [samolego/Canta](https://github.com/samolego/Canta) | Uninstall any Android app without root (with power of Shizuku). Debloat your ... |
 | [samolego/FabricTailor](https://github.com/samolego/FabricTailor) | A server-side or singleplayer skin changing mod for fabric. |
 | [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) | Sandboxie Plus & Classic |
-| [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。 AI 分析简报直推手机，也支持接入 M... |
+| [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 翻译 +  AI 分析简报直推手机... |
 | [SchneeSchmitt/ADB-Android-Optimizer](https://github.com/SchneeSchmitt/ADB-Android-Optimizer) | Rootless (ADB) Android performance optimizer for every condition, from pure p... |
 | [schollz/croc](https://github.com/schollz/croc) | Easily and securely send things from one computer to another :crocodile: :pac... |
 | [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) | A command-line installer for Windows. |
@@ -1255,6 +1255,7 @@
 | [venera-app/venera-configs](https://github.com/venera-app/venera-configs) | None |
 | [ventoy/Ventoy](https://github.com/ventoy/Ventoy) | A new bootable USB solution. |
 | [Vera-Firefly/Pojav-Glow-Worm](https://github.com/Vera-Firefly/Pojav-Glow-Worm) | PojavLauncher with more practical functions,A modified Launcher from the Poja... |
+| [vercel-labs/json-render](https://github.com/vercel-labs/json-render) | AI → JSON → UI |
 | [vernesong/OpenClash](https://github.com/vernesong/OpenClash) | A Clash Client For OpenWrt |
 | [VERT-sh/VERT](https://github.com/VERT-sh/VERT) | The next-generation file converter. Open source, fully local* and free forever. |
 | [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) | An Android application for streaming music from YouTube Music. |
