@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sat Jan 17 01:57:37 UTC 2026 | 总计: **1443** 个未分类项目
+> 生成于 UTC 时间: Sun Jan 18 02:10:30 UTC 2026 | 总计: **1443** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -123,7 +123,7 @@
 | [callng/TCQT](https://github.com/callng/TCQT) | 一个针对QQ(TIM)的多功能XPosed模块 |
 | [candydale/candy-pickaxe](https://github.com/candydale/candy-pickaxe) | 镐击榜数据包 对每个玩家使用各钟材料的镐子破坏方块数量的总和进行排名 |
 | [cao-awa/Apricot](https://github.com/cao-awa/Apricot) | A qq bot |
-| [cao-awa/Conium](https://github.com/cao-awa/Conium) | Conium is a datapack and script framework for modern Minecraft, it provides v... |
+| [cao-awa/Conium](https://github.com/cao-awa/Conium) | Conium is a datapack and script framework for modern Minecraft, provides very... |
 | [cao-awa/Kalmia](https://github.com/cao-awa/Kalmia) | Chats |
 | [cao-awa/KalmiaClient-Android](https://github.com/cao-awa/KalmiaClient-Android) | None |
 | [cao-awa/Lycoris](https://github.com/cao-awa/Lycoris) | Foo! |
@@ -997,7 +997,7 @@
 | [RelativityMC/ScalableLux](https://github.com/RelativityMC/ScalableLux) | A Fabric mod based on Starlight that improves the performance of light update... |
 | [RelativityMC/VMP-fabric](https://github.com/RelativityMC/VMP-fabric) | A Fabric mod designed to improve server performance at high playercounts. |
 | [relimus/TAssistant](https://github.com/relimus/TAssistant) | Make TIM Great Again! |
-| [remorses/playwriter](https://github.com/remorses/playwriter) | The better playwright MCP: works as a browser extension. No context bloat. Mo... |
+| [remorses/playwriter](https://github.com/remorses/playwriter) | MCP to control your Chrome window via extension. Runs Playwright code in a st... |
 | [ResetPower/Epherome](https://github.com/ResetPower/Epherome) | [Deprecated] This repository is obsolete. Please go to Epheromeers/Epherome i... |
 | [ResetPower/rcs](https://github.com/ResetPower/rcs) | ResetPower's Component Set using TailwindCSS. |
 | [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) | Best Material You Design music player for Android |
