@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sun Jan 18 02:10:30 UTC 2026 | 总计: **1443** 个未分类项目
+> 生成于 UTC 时间: Mon Jan 19 02:08:32 UTC 2026 | 总计: **1446** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -667,6 +667,7 @@
 | [Losketch/LorchinSans](https://github.com/Losketch/LorchinSans) | 落尘无衬（Lorchin Sans）是一款由 Kage 引擎生成的以WTFPL协议发布并且开源的字体。尽管字形可能略显粗糙，但这款字体的最大亮点在于它补全... |
 | [lotem/rime-octagram-data](https://github.com/lotem/rime-octagram-data) | 八股文（語法） |
 | [louis-e/arnis](https://github.com/louis-e/arnis) | Generate any location from the real world in Minecraft with a high level of d... |
+| [louislam/dockge](https://github.com/louislam/dockge) | A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-orien... |
 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | A fancy self-hosted monitoring tool |
 | [loweisz/generate-avatar](https://github.com/loweisz/generate-avatar) | Generate your 100% fingerprinted example avatar from id, email, username etc. |
 | [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) | 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash ... |
@@ -1042,7 +1043,7 @@
 | [samolego/Canta](https://github.com/samolego/Canta) | Uninstall any Android app without root (with power of Shizuku). Debloat your ... |
 | [samolego/FabricTailor](https://github.com/samolego/FabricTailor) | A server-side or singleplayer skin changing mod for fabric. |
 | [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) | Sandboxie Plus & Classic |
-| [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 翻译 +  AI 分析简报直推手机... |
+| [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RS... |
 | [SchneeSchmitt/ADB-Android-Optimizer](https://github.com/SchneeSchmitt/ADB-Android-Optimizer) | Rootless (ADB) Android performance optimizer for every condition, from pure p... |
 | [schollz/croc](https://github.com/schollz/croc) | Easily and securely send things from one computer to another :crocodile: :pac... |
 | [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) | A command-line installer for Windows. |
@@ -1390,6 +1391,8 @@
 | [yoopta-editor/Yoopta-Editor](https://github.com/yoopta-editor/Yoopta-Editor) | Build Notion-like, Craft-like, Coda-like, Medium-like editors with Yoopta |
 | [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) | This GitHub Action creates a GitHub contribution calendar on a 3D profile image. |
 | [youniaogu/MangaReader](https://github.com/youniaogu/MangaReader) | 一个漫画 APP📱，基于 react-native 构建，兼容 Android、Ios 平台 |
+| [youshen2/com.bandbbs.ebook](https://github.com/youshen2/com.bandbbs.ebook) | 喵喵电子书 MiaoReader Vela 端 |
+| [youshen2/com.bandbbs.ebook-android](https://github.com/youshen2/com.bandbbs.ebook-android) | None |
 | [Yubyf/QuoteLockX](https://github.com/Yubyf/QuoteLockX) | Displays quotes on your lockscreen, because why not. |
 | [yudai/gotty](https://github.com/yudai/gotty) | Share your terminal as a web application |
 | [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) | ArchLinux based WSL Distribution. Supports multiple install. |
