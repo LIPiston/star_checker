@@ -1,16 +1,9 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Mon Jan 19 02:08:32 UTC 2026 | 总计: **1446** 个未分类项目
+> 生成于 UTC 时间: Tue Jan 20 02:03:36 UTC 2026 | 总计: **1440** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
-| [ACGaming/UniversalTweaks](https://github.com/ACGaming/UniversalTweaks) | A community project to consolidate various bugfixes and tweaks into a single ... |
-| [alpha-liu-01/SpeedyNote](https://github.com/alpha-liu-01/SpeedyNote) | A simple note app with good performance and PDF import support |
-| [ansh/jiffyreader-public-archive](https://github.com/ansh/jiffyreader-public-archive) | A Browser Extension for faster reading on ANY website! |
-| [antfu-collective/icones](https://github.com/antfu-collective/icones) | ⚡️ Icon Explorer with Instant searching, powered by Iconify |
-| [antfu/changelogithub](https://github.com/antfu/changelogithub) | Generate changelog for GitHub |
-| [antfu/handle](https://github.com/antfu/handle) | A Chinese Hanzi variation of Wordle - 汉字 Wordle |
-| [antfu/starter-vscode](https://github.com/antfu/starter-vscode) | Starter template for VS Code Extension |
 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Claude Code is an agentic coding tool that lives in your terminal, understand... |
 | [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) | Personal theme for Obsidian |
 | [Anuken/Mindustry](https://github.com/Anuken/Mindustry) | The automation tower defense RTS |
@@ -380,7 +373,7 @@
 | [GtxFury/FlyClash](https://github.com/GtxFury/FlyClash) | 简洁美观的代理工具 |
 | [GtxFury/FlyClash-Android](https://github.com/GtxFury/FlyClash-Android) | FlyClash Android |
 | [guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles) | Document Chatbot — multiple files. Powered by GPT / Embedding. |
-| [Guovin/iptv-api](https://github.com/Guovin/iptv-api) | 📺IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成流程🚀』：自定义获取频道；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker... |
+| [Guovin/iptv-api](https://github.com/Guovin/iptv-api) | ⚡️IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成🚀』：自定义获取频道；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、... |
 | [GuoXiCheng/SKIP](https://github.com/GuoXiCheng/SKIP) | 自动跳过APP开屏广告 |
 | [guozhigq/pilipala](https://github.com/guozhigq/pilipala) | PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。 |
 | [gurecn/YuyanIme](https://github.com/gurecn/YuyanIme) | 语燕输入法-一款基于Rime定制开发的九键、全拼、双拼、手写、火星文等方案、支持悬浮、单手、数字行等键盘模式的中文输入法 |
@@ -507,6 +500,7 @@
 | [jianchang512/stt](https://github.com/jianchang512/stt) | Voice Recognition to Text Tool / 一个离线运行的本地音视频转字幕工具，输出json、srt字幕、纯文字格式 |
 | [jiangrui1994/CloudSaver](https://github.com/jiangrui1994/CloudSaver) | 一个基于 Vue 3 + Express 的网盘资源搜索与转存工具。 |
 | [jiangxianli/ProxyIpLib](https://github.com/jiangxianli/ProxyIpLib) | 全球免费代理IP库，高可用IP，精心筛选优质IP,2s必达 |
+| [jiffyreader/jiffyreader-plugin](https://github.com/jiffyreader/jiffyreader-plugin) | A Browser Extension for faster reading on ANY website! |
 | [JiGuroLGC/BetterVia](https://github.com/JiGuroLGC/BetterVia) | 让Via变得更好 / Make Via Better |
 | [jindrapetrik/jpexs-decompiler](https://github.com/jindrapetrik/jpexs-decompiler) | JPEXS Free Flash Decompiler |
 | [jinenge/tvbox](https://github.com/jinenge/tvbox) | TVBox(自带配置版)，内置源，随时更新内置源，不必担心不能用 |
