@@ -1,16 +1,9 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Tue Jan 20 02:03:36 UTC 2026 | 总计: **1440** 个未分类项目
+> 生成于 UTC 时间: Wed Jan 21 02:06:09 UTC 2026 | 总计: **1431** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | Claude Code is an agentic coding tool that lives in your terminal, understand... |
-| [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) | Personal theme for Obsidian |
-| [Anuken/Mindustry](https://github.com/Anuken/Mindustry) | The automation tower defense RTS |
-| [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | :zap: Dynamically generated stats for your github readmes |
-| [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) | Featuring powerful AI capabilities and supporting various e-book formats, it ... |
-| [anyneko/OneTextLibrary_Netease_Unoffical](https://github.com/anyneko/OneTextLibrary_Netease_Unoffical) | 一个塞满网易云评论的库（ |
-| [AnzhiZhang/MCDReforgedPlugins](https://github.com/AnzhiZhang/MCDReforgedPlugins) | MCDReforged Plugins |
 | [aoaostar/legado](https://github.com/aoaostar/legado) | 阅读APP书源 |
 | [AOF-Dev/Boat](https://github.com/AOF-Dev/Boat) | Environment for running Minecraft Java Edition on Android |
 | [aormsby/Fork-Sync-With-Upstream-action](https://github.com/aormsby/Fork-Sync-With-Upstream-action) | An action to automatically update your fork with new commits from the upstrea... |
@@ -401,7 +394,6 @@
 | [heapwolf/levelui](https://github.com/heapwolf/levelui) | A GUI for LevelDB management based on atom-shell. |
 | [Heavrnl/nexus-terminal](https://github.com/Heavrnl/nexus-terminal) |  一款现代化的 Web SSH / RDP / VNC 客户端，提供独立桌面端，支持人机验证、2FA、界面定制、操作审计等强大功能。 |
 | [hectorqin/reader](https://github.com/hectorqin/reader) | 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + E... |
-| [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab) | 本地化的聊天记录分析工具，通过 SQL 和AI Agent 回顾你的聊天记录。 A local-first chat analysis tool: Rel... |
 | [helloqingfeng/Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource) | :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等） |
 | [helloworldpxy/thunder-https](https://github.com/helloworldpxy/thunder-https) | 专业的迅雷专用链转换工具，可将thunder://开头的加密链接转换为可直接使用的HTTP/HTTPS下载地址。支持Windows/macOS双平台（li... |
 | [Hendrix-Shen/MagicLib](https://github.com/Hendrix-Shen/MagicLib) | To beat magic with magic :( |
@@ -434,7 +426,6 @@
 | [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) | github release、archive以及项目文件的加速项目 |
 | [HunterPie/HunterPie](https://github.com/HunterPie/HunterPie) | A clean, modern and robust overlay for Monster Hunter games. |
 | [HUSX100/IslandCaller](https://github.com/HUSX100/IslandCaller) | 基于ClassIsland插件的轻量级点名器 |
-| [huynhsontung/Screenbox](https://github.com/huynhsontung/Screenbox) | LibVLC-based media player for the Universal Windows Platform |
 | [HyDE-Project/HyDE](https://github.com/HyDE-Project/HyDE) | HyDE, your Development Environment 🖥️💻 |
 | [IacobIonut01/Gallery](https://github.com/IacobIonut01/Gallery) | Media Gallery app for Android made with Jetpack Compose |
 | [iamcco/ds-pinyin-lsp](https://github.com/iamcco/ds-pinyin-lsp) | Dead Simple Pinyin Language Server |
@@ -835,7 +826,6 @@
 | [ngosang/trackerslist](https://github.com/ngosang/trackerslist) | Updated list of public BitTorrent trackers |
 | [nickrunning/wechat-selkies](https://github.com/nickrunning/wechat-selkies) | 基于Selkies的Linux网页版微信/QQ，支持本地中文输入法，支持AMD64和ARM64。 |
 | [nieheyong/starflare](https://github.com/nieheyong/starflare) | A web app helps you manage your GitHub stars simply and efficiently  |
-| [Nigh/I-wanna-clean-keyboard](https://github.com/Nigh/I-wanna-clean-keyboard) | Block the keyboard input while you were eating instant noodles on your laptop... |
 | [nightmare-space/code_lfa](https://github.com/nightmare-space/code_lfa) | Port VS Code to Android and support local operation |
 | [NihilityT/MiPush](https://github.com/NihilityT/MiPush) | 让 MiPushFramework 支持分应用 |
 | [NihilityT/MiPushConfigurations](https://github.com/NihilityT/MiPushConfigurations) | None |
@@ -1221,6 +1211,7 @@
 | [TypesettingTools/Aegisub](https://github.com/TypesettingTools/Aegisub) | Cross-platform advanced subtitle editor |
 | [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) | Downloads videos and playlists from YouTube |
 | [tytydraco/LADB](https://github.com/tytydraco/LADB) | A local ADB shell for Android! |
+| [u-Sir/peek-pop](https://github.com/u-Sir/peek-pop) | A lightweight, open-source browser extension lets you preview, search, and sa... |
 | [u14app/deep-research](https://github.com/u14app/deep-research) | Use any LLMs (Large Language Models) for Deep Research. Support SSE API and M... |
 | [umami-software/umami](https://github.com/umami-software/umami) | Umami is a modern, privacy-focused analytics platform. An open-source alterna... |
 | [uncle-novel/jfx-launcher](https://github.com/uncle-novel/jfx-launcher) | OpenJFX应用的启动器，支持热更新。使用模块化API动态加载模块启动，支持动态修改模块化打破规则。 |
