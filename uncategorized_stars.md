@@ -1,15 +1,9 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Thu Jan 22 02:07:21 UTC 2026 | 总计: **1431** 个未分类项目
+> 生成于 UTC 时间: Fri Jan 23 02:03:21 UTC 2026 | 总计: **1415** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
-| [aoaostar/legado](https://github.com/aoaostar/legado) | 阅读APP书源 |
-| [AOF-Dev/Boat](https://github.com/AOF-Dev/Boat) | Environment for running Minecraft Java Edition on Android |
-| [aormsby/Fork-Sync-With-Upstream-action](https://github.com/aormsby/Fork-Sync-With-Upstream-action) | An action to automatically update your fork with new commits from the upstrea... |
-| [ApliNi/IpacLinker](https://github.com/ApliNi/IpacLinker) | IpacLinker 是一款点对点网络连接工具, 基于 WebRTC. 可用于 Minecraft 联机和开服, 或者远程桌面 / 网络驱动器等应用的连接 |
-| [archlinux/archinstall](https://github.com/archlinux/archinstall) | Arch Linux installer - guided, templates etc. |
-| [archlinuxcn/mirrorlist-repo](https://github.com/archlinuxcn/mirrorlist-repo) | Arch Linux CN Community repo mirrors list |
 | [Archmage83/Android_apk](https://github.com/Archmage83/Android_apk) | 手机安卓手机端电影软件，希望大家一起维护 |
 | [Archmage83/tvapk](https://github.com/Archmage83/tvapk) | 收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。 |
 | [aria2/aria2](https://github.com/aria2/aria2) | aria2 is a lightweight multi-protocol & multi-source, cross platform download... |
@@ -83,7 +77,6 @@
 | [bobranten/Ext4Fsd](https://github.com/bobranten/Ext4Fsd) | Ext4 file system driver for Windows |
 | [bohanwood/debi](https://github.com/bohanwood/debi) | Reinstall your VPS to minimal Debian |
 | [booksources/booksources.github.io](https://github.com/booksources/booksources.github.io) | 阅读在线书源分享库 |
-| [boomker/rime-fast-xhup](https://github.com/boomker/rime-fast-xhup) | 基于小鹤双拼加鹤形辅助码的 Rime 配置方案，内附多种特色功能：词条置顶，强制删词，隐藏词条，词条降频，手动造词(中英)，全码唯一自动顶词上屏(单字和部... |
 | [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) | A GUI to quickly manage your WSL2 instances |
 | [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) | Run Windows software and games on Linux |
 | [bozbez/win-capture-audio](https://github.com/bozbez/win-capture-audio) | An OBS plugin that allows capture of independant application audio streams on... |
@@ -315,7 +308,6 @@
 | [FxMorin/carpet-fixes](https://github.com/FxMorin/carpet-fixes) | fabric-carpet extension mod which attempts to fix as many vanilla minecraft b... |
 | [FxMorin/MemoryLeakFix](https://github.com/FxMorin/MemoryLeakFix) | A Fabric Mod that fixes multiple memory leaks in minecraft |
 | [gaboolic/rime-frost](https://github.com/gaboolic/rime-frost) | 白霜拼音：蒹葭苍苍，白露为霜。白霜拼音使用使用745396750字的高质量语料，进行分词，重新统计字频、词频，归一化，打造纯净、词频准确、智能的词库。白霜... |
-| [gaboolic/rime-shuangpin-fuzhuma](https://github.com/gaboolic/rime-shuangpin-fuzhuma) | 墨奇音形，打造最强双拼辅助码rime输入方案，让天下双拼用户人人用得上辅助码。基于雾凇-白霜词库，支持小鹤双拼、自然码双拼、搜狗双拼、微软双拼等多种双拼，... |
 | [GamerNoTitle/BiliLive-Utility](https://github.com/GamerNoTitle/BiliLive-Utility) | 新一代 B 站小主播直播助手！开启 B 站直播并获得推流链接与推流密钥（推流码），一键修改标题、标签和直播分区，是给不满足 B 站新规定 5k 粉丝要求的... |
 | [GamerNoTitle/CraftMon](https://github.com/GamerNoTitle/CraftMon) | A website that help you get Minecraft server status / 一个用于显示Minecraft服务器在线信息及... |
 | [GamerNoTitle/Hitokoto-Spider](https://github.com/GamerNoTitle/Hitokoto-Spider) | 还在用八爪鱼抓一言吗？这样的时代要结束啦！开发日记链接→ |
@@ -369,8 +361,6 @@
 | [Guovin/iptv-api](https://github.com/Guovin/iptv-api) | ⚡️IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成🚀』：自定义获取频道；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、... |
 | [GuoXiCheng/SKIP](https://github.com/GuoXiCheng/SKIP) | 自动跳过APP开屏广告 |
 | [guozhigq/pilipala](https://github.com/guozhigq/pilipala) | PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。 |
-| [gurecn/YuyanIme](https://github.com/gurecn/YuyanIme) | 语燕输入法-一款基于Rime定制开发的九键、全拼、双拼、手写、火星文等方案、支持悬浮、单手、数字行等键盘模式的中文输入法 |
-| [gurecn/yuyansdk](https://github.com/gurecn/yuyansdk) | 语燕输入法引擎-一款基于Rime定制开发的九键、全拼、双拼、手写、火星文等方案、支持悬浮、单手、数字行等模式的中文输入法引擎 |
 | [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) | 小巧精悍、准确、实用 GeoIP2 数据库 |
 | [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) | 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) ... |
 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | real time face swap and one-click video deepfake with only a single image |
@@ -600,7 +590,6 @@
 | [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker) | An app to view libraries used in apps in your device. |
 | [libnoname/noname](https://github.com/libnoname/noname) | None |
 | [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) | Clash Nyanpasu～(∠・ω< )⌒☆​ |
-| [LibreService/my_rime](https://github.com/LibreService/my_rime) | Free and Open Source online Chinese IME powered by RIME. 自由开源在线中文输入法 拼音 双拼 粤语... |
 | [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) | 一分钟搭建影视站，支持Vercel/Docker等部署方式 |
 | [librespeed/speedtest](https://github.com/librespeed/speedtest) | Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable... |
 | [libvirt/libvirt](https://github.com/libvirt/libvirt) | Read-only mirror. Please submit merge requests / issues to https://gitlab.com... |
@@ -669,7 +658,6 @@
 | [lucko/BungeeGuard](https://github.com/lucko/BungeeGuard) | A plugin-based security/firewall solution for BungeeCord and Velocity proxies. |
 | [lucko/spark](https://github.com/lucko/spark) | A performance profiler for Minecraft clients, servers, and proxies. |
 | [LuckyPray/XAutoDaily](https://github.com/LuckyPray/XAutoDaily) | 一个基于QQ的全自动签到模块 |
-| [LufsX/rime](https://github.com/LufsX/rime) | Rime（中州韵）全拼与双拼的自用配置方案 |
 | [lutris/lutris](https://github.com/lutris/lutris) | Lutris desktop client |
 | [lwch/natpass](https://github.com/lwch/natpass) | 🔥居家办公，远程开发神器 |
 | [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) | A terminal based Pokemon like game |
@@ -764,7 +752,6 @@
 | [Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime) | The Simple Config Template Of Rime By Mintimate.   |
 | [mir1ce/Hawkeye](https://github.com/mir1ce/Hawkeye) | Windows应急响应工具---Hawkeye(鹰眼)。集Windows日志分析，进程扫描，主机信息于一体的综合应急响应分析工具 |
 | [mircokroon/minecraft-world-downloader](https://github.com/mircokroon/minecraft-world-downloader) | Download Minecraft worlds, extend server's render distance. 1.12.2 - 1.21 |
-| [mirtlecn/rime-radical-pinyin](https://github.com/mirtlecn/rime-radical-pinyin) | RIME 汉字部件拆字 / 全拼双拼输入方案。笔画、部首、音调反查辅码 lua。 |
 | [miru-project/miru-app](https://github.com/miru-project/miru-app) | 🎉 A versatile application that is free, open-source, and supports extension s... |
 | [mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) | completely free for everyone. Its build-in Flutter Dart. |
 | [MIUI-Monet-Project/Module](https://github.com/MIUI-Monet-Project/Module) | Material You wallpaper-based dynamic theme for MIUI & HyperOS system apps on ... |
@@ -1062,7 +1049,6 @@
 | [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) | Git blame for file trees |
 | [sinelaw/fresh](https://github.com/sinelaw/fresh) | Text editor for your terminal: easy, powerful and fast |
 | [sirpdboy/luci-app-ddns-go](https://github.com/sirpdboy/luci-app-ddns-go) | luci-app-ddns-go 自动获得你的公网 IPv4 或 IPv6 地址，并解析到对应的域名服务。支持的域名服务商 阿里云 腾讯云 Dnspod ... |
-| [SivanLaai/rime-pure](https://github.com/SivanLaai/rime-pure) | 【rime 小狼毫\trime 同文】手机/PC一站式配置【简约皮肤\拼音搜狗词库\原创trime同文 四叶草 九宫格 拼音方案\四叶草拼音\四叶草地球拼... |
 | [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) | A privacy-first, self-hosted, fully open source personal knowledge management... |
 | [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) | Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5... |
 | [skanehira/github-tui](https://github.com/skanehira/github-tui) | TUI client for GitHub |
@@ -1082,7 +1068,6 @@
 | [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) | Chinese copywriting guidelines for better written communication／中文文案排版指北 |
 | [squeek502/AppleSkin](https://github.com/squeek502/AppleSkin) | Food-related HUD improvements for Minecraft (AppleCore without the core) |
 | [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) | Everything integration for the Windows taskbar. |
-| [ssnhd/rime](https://github.com/ssnhd/rime) | Rime Squirrel 鼠须管配置文件（朙月拼音、小鹤双拼、自然码双拼） |
 | [ssut/payload-dumper-go](https://github.com/ssut/payload-dumper-go) | an android OTA payload dumper written in Go |
 | [Stapxs/Stapxs-QQ-Lite-2.0](https://github.com/Stapxs/Stapxs-QQ-Lite-2.0) | 一个兼容 OneBot 协议的第三方 QQ 客户端。 Web、全平台实现！ |
 | [Stardust-Labs-MC/Terralith](https://github.com/Stardust-Labs-MC/Terralith) | A popular Minecraft worldgen datapack for the Overworld |
@@ -1367,7 +1352,6 @@
 | [ycccccccy/echotrace](https://github.com/ycccccccy/echotrace) | EchoTrace 是一个本地、安全的微信聊天记录导出、分析与年度报告生成工具 / EchoTrace is a local, secure tool f... |
 | [yeahwu/v2ray-wss](https://github.com/yeahwu/v2ray-wss) | A proxy script with multiple protocols. |
 | [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) | Office Tool Plus localization projects. |
-| [Yidadaa/shuangpin](https://github.com/Yidadaa/shuangpin) | 纸砚双拼，可能是最好用的双拼练习工具，支持声母 / 韵母 / 长句模式、自定义双拼方案、进度统计、深色模式、成就系统。 |
 | [yin-ol/MiPushFaker](https://github.com/yin-ol/MiPushFaker) | Xposed模块，伪装机型让普通应用能够正确识别到MiPush，搭配MiPushFramework使用 |
 | [yinwanxi/Uperf-Game-Turbo](https://github.com/yinwanxi/Uperf-Game-Turbo) | Userspace performance controller for android |
 | [ymyuuu/Cloudflare-Workers-Proxy](https://github.com/ymyuuu/Cloudflare-Workers-Proxy) | 简单而功能强大的反代服务，允许你将一个网址映射到另一个网址，并处理跨域请求 |
@@ -1433,5 +1417,5 @@
 | [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) | 人人都能用英语 |
 | [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) | Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working) |
 | [ZyperWave/ZyperWinOptimize](https://github.com/ZyperWave/ZyperWinOptimize) | ZyperWin++是一个轻便的Windows优化工具，适用于Win7-Win11最新版的优化，包括性能优化、服务项优化、垃圾清理等操作，还支持系统激活和... |
-| [zyronon/TypeWords](https://github.com/zyronon/TypeWords) | 练习英语，一次敲击，一点进步；Practice English, one strike, one step forward |
+| [zyronon/TypeWords](https://github.com/zyronon/TypeWords) | Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步； |
 | [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) | A Clash GUI based on tauri. Supports Windows, macOS and Linux. |
