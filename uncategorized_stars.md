@@ -1,13 +1,9 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Fri Jan 23 02:03:21 UTC 2026 | 总计: **1415** 个未分类项目
+> 生成于 UTC 时间: Sat Jan 24 01:59:23 UTC 2026 | 总计: **1412** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
-| [Archmage83/Android_apk](https://github.com/Archmage83/Android_apk) | 手机安卓手机端电影软件，希望大家一起维护 |
-| [Archmage83/tvapk](https://github.com/Archmage83/tvapk) | 收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。 |
-| [aria2/aria2](https://github.com/aria2/aria2) | aria2 is a lightweight multi-protocol & multi-source, cross platform download... |
-| [aristocratos/btop](https://github.com/aristocratos/btop) | A monitor of resources |
 | [artisticat1/obsidian-latex-suite](https://github.com/artisticat1/obsidian-latex-suite) | Make typesetting LaTeX as fast as handwriting through snippets, text expansio... |
 | [aseprite/aseprite](https://github.com/aseprite/aseprite) | Animated sprite editor & pixel art tool (Windows, macOS, Linux) |
 | [astei/lazydfu](https://github.com/astei/lazydfu) | Fabric mod that makes Minecraft DataFixerUpper initialization lazy |
@@ -464,6 +460,7 @@
 | [Ivan-1F/VillagerHelper](https://github.com/Ivan-1F/VillagerHelper) | A fabric mod to show villager's information. Including bed & job site and enc... |
 | [izabera/bitwise-challenge-2048](https://github.com/izabera/bitwise-challenge-2048) | 2048 with only 64 bits of state |
 | [J-11/Aseprite-Simplified-Chinese](https://github.com/J-11/Aseprite-Simplified-Chinese) | Aseprite汉化文件 |
+| [j4Uq/TVBoxOSC](https://github.com/j4Uq/TVBoxOSC) | None |
 | [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 |
 | [jadepeng/XMusicDownloader](https://github.com/jadepeng/XMusicDownloader) | 一款 支持从百度、网易、qq、酷狗、咪咕等音乐网站搜索并下载歌曲的程序，支持下载无损音乐 |
 | [jaredcat/WiFiList](https://github.com/jaredcat/WiFiList) | None |
@@ -494,6 +491,7 @@
 | [jonz94/Sarasa-Gothic-Nerd-Fonts](https://github.com/jonz94/Sarasa-Gothic-Nerd-Fonts) | Nerd fonts patched Sarasa Gothic font. |
 | [jordanbaird/Ice](https://github.com/jordanbaird/Ice) | Powerful menu bar manager for macOS |
 | [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) | Moe counter badge with multiple themes! - 多种风格可选的萌萌计数器 |
+| [JoyinJoester/Monica](https://github.com/JoyinJoester/Monica) | Password Management, 2FA Generator |
 | [joyqi/sfz](https://github.com/joyqi/sfz) | 专门用于给图片加水印打码的工具，完全基于浏览器本地API，无任何网络请求（特别适合身份证等敏感证件） |
 | [jpenilla/TabTPS](https://github.com/jpenilla/TabTPS) | Minecraft server mod/plugin to monitor TPS, MSPT, and other information in th... |
 | [Jsnzkpg/Jsnzkpg](https://github.com/Jsnzkpg/Jsnzkpg) | 已持续维护4年多，每天都会检测可用性，全网质量最高的免费节点订阅，魔鬼式筛选出高质量的免费节点，shadowrocket丨stash丨singbox丨cl... |
@@ -844,7 +842,6 @@
 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage multiple active ... |
 | [nxshell/nxshell](https://github.com/nxshell/nxshell) | An easy to use new terminal.  |
 | [Nyan-Work/oh-my-minecraft-client](https://github.com/Nyan-Work/oh-my-minecraft-client) | oh-my-minecraft-client |
-| [o0HalfLife0o/TVBoxOSC](https://github.com/o0HalfLife0o/TVBoxOSC) | None |
 | [oasisfeng/island](https://github.com/oasisfeng/island) | Island for Android |
 | [objective-see/LuLu](https://github.com/objective-see/LuLu) | LuLu is the free open-source macOS firewall |
 | [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. |
