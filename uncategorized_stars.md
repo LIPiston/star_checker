@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sat Jan 24 01:59:23 UTC 2026 | 总计: **1412** 个未分类项目
+> 生成于 UTC 时间: Sun Jan 25 02:20:11 UTC 2026 | 总计: **1414** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -1264,6 +1264,7 @@
 | [weiyourumeng/RM-Toolbox](https://github.com/weiyourumeng/RM-Toolbox) | 入梦工具箱 |
 | [wekan/wekan](https://github.com/wekan/wekan) | The Open Source kanban, built with Meteor. New English strings for new featur... |
 | [welai/glow-sans](https://github.com/welai/glow-sans) | SHSans-derived CJK font family with a more concise & modern look. 未来荧黑·未來熒黑·ヒ... |
+| [wenfeng110402/AppleMusic-Downloader](https://github.com/wenfeng110402/AppleMusic-Downloader) | 一个图形化AppleMusic下载器 |
 | [wgh136/PicaComic](https://github.com/wgh136/PicaComic) | A comic app built with Flutter, supporting multiple comic sources. |
 | [wgpsec/CreateHiddenAccount](https://github.com/wgpsec/CreateHiddenAccount) | A tool for creating hidden accounts using the registry // 一个使用注册表创建隐藏帐户的工具 |
 | [Wiederhoeft/okjiasu_action](https://github.com/Wiederhoeft/okjiasu_action) | 机场https://okjiasu.com    的自动签到脚本 |
@@ -1347,6 +1348,7 @@
 | [YatFanLan/Simplify-chat-boxes](https://github.com/YatFanLan/Simplify-chat-boxes) | 精简聊天框 |
 | [yc9559/uperf](https://github.com/yc9559/uperf) | Userspace performance controller for android |
 | [ycccccccy/echotrace](https://github.com/ycccccccy/echotrace) | EchoTrace 是一个本地、安全的微信聊天记录导出、分析与年度报告生成工具 / EchoTrace is a local, secure tool f... |
+| [ycccccccy/wx_key](https://github.com/ycccccccy/wx_key) | 获取微信4.0版本以上数据库密钥和图片密钥的工具 / A tool for obtaining database keys and image keys ... |
 | [yeahwu/v2ray-wss](https://github.com/yeahwu/v2ray-wss) | A proxy script with multiple protocols. |
 | [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) | Office Tool Plus localization projects. |
 | [yin-ol/MiPushFaker](https://github.com/yin-ol/MiPushFaker) | Xposed模块，伪装机型让普通应用能够正确识别到MiPush，搭配MiPushFramework使用 |
