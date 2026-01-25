@@ -1,21 +1,10 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sun Jan 25 02:20:11 UTC 2026 | 总计: **1414** 个未分类项目
+> 生成于 UTC 时间: Sun Jan 25 09:40:19 UTC 2026 | 总计: **1404** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
-| [artisticat1/obsidian-latex-suite](https://github.com/artisticat1/obsidian-latex-suite) | Make typesetting LaTeX as fast as handwriting through snippets, text expansio... |
 | [aseprite/aseprite](https://github.com/aseprite/aseprite) | Animated sprite editor & pixel art tool (Windows, macOS, Linux) |
-| [astei/lazydfu](https://github.com/astei/lazydfu) | Fabric mod that makes Minecraft DataFixerUpper initialization lazy |
-| [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs,... |
-| [Astro-2539/ZLabs-Bitmap](https://github.com/Astro-2539/ZLabs-Bitmap) | 一款开源的小型化像素字体 |
-| [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) | 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体 |
-| [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) | 🚀 An open and lightweight modification to Windows, designed to optimize perfo... |
-| [atuinsh/desktop](https://github.com/atuinsh/desktop) | 📖 Runbooks that run  |
-| [auag0/DisableAudioFocus](https://github.com/auag0/DisableAudioFocus) | Xposed module for Android to Disable audio focus |
-| [aui/font-spider](https://github.com/aui/font-spider) | Smart webfont compression and format conversion tool |
-| [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) | Authenticator generates 2-Step Verification codes in your browser. |
-| [Auto-Plugin/milkup](https://github.com/Auto-Plugin/milkup) | a free WYSIWYG desktop markdown editor |
 | [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) | Pydoll is a library for automating chromium-based browsers without a WebDrive... |
 | [awesome-iwb/awesome-iwb](https://github.com/awesome-iwb/awesome-iwb) | ✨ 「Awesome Iwb」是专为广大中小学电教打造的班级希沃/鸿合等一体机/数字白板/班班通一站式软件推荐清单和实用知识手册，助你在新学期快速上手班级... |
 | [Axeryok/CocoaInput](https://github.com/Axeryok/CocoaInput) | A best way to input characters with native mac IM in Minecraft  |
@@ -178,6 +167,7 @@
 | [Cute-Dress/Dress](https://github.com/Cute-Dress/Dress) | 好耶 是女装 / 备份·接受PR |
 | [cxasm/notepad--](https://github.com/cxasm/notepad--) | 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。 |
 | [cyao2q/files](https://github.com/cyao2q/files) | TVBox开源版,盒子软件分享 |
+| [cypressincloud/Tally](https://github.com/cypressincloud/Tally) | None |
 | [czy0729/Bangumi](https://github.com/czy0729/Bangumi) | :electron: An unofficial https://bgm.tv ui first app client for Android and i... |
 | [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se) | SD Maid 2/SE is Android's most thorough cleaning tool. |
 | [daeuniverse/dae](https://github.com/daeuniverse/dae) | eBPF-based Linux high-performance transparent proxy solution. |
