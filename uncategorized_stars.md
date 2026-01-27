@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Mon Jan 26 02:13:22 UTC 2026 | 总计: **1393** 个未分类项目
+> 生成于 UTC 时间: Tue Jan 27 02:10:02 UTC 2026 | 总计: **1393** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -746,7 +746,7 @@
 | [moeyy01/gh-proxy-go](https://github.com/moeyy01/gh-proxy-go) | None |
 | [mon5termatt/medicat_installer](https://github.com/mon5termatt/medicat_installer) | Medicat Installer Repo |
 | [mono/SkiaSharp](https://github.com/mono/SkiaSharp) | SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Goo... |
-| [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) | Kimi CLI is your next CLI agent. |
+| [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) | Kimi Code CLI is your next CLI agent. |
 | [Moriafly/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource) | Salt Player (A local music player trusted and chosen by hundreds of thousands... |
 | [MotooriKashin/Bilibili-Old](https://github.com/MotooriKashin/Bilibili-Old) | 恢复旧版Bilibili页面，为了那些念旧的人。 |
 | [moudey/Shell](https://github.com/moudey/Shell) | Powerful context menu manager for Windows File Explorer |
