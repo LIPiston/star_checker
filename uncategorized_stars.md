@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Thu Jan 29 02:27:53 UTC 2026 | 总计: **1543** 个未分类项目
+> 生成于 UTC 时间: Fri Jan 30 02:27:41 UTC 2026 | 总计: **1544** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -906,6 +906,7 @@
 | [myflavor/NoActive-V2](https://github.com/myflavor/NoActive-V2) | NoActive UI版本 |
 | [mywalkb/LSPosed_mod](https://github.com/mywalkb/LSPosed_mod) | My changes to LSPosed |
 | [Mzdyl/LiteLoaderQQNT_Install](https://github.com/Mzdyl/LiteLoaderQQNT_Install) | 针对 LiteLoaderQQNT 的安装脚本 |
+| [Nagi-ovo/gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager) | An all-in-one enhancement suite for Google Gemini - timeline navigation, fold... |
 | [nakanomikuorg/arch-guide](https://github.com/nakanomikuorg/arch-guide) | ✨ archlinux 简明指南 / 本指南包含从 archlinux 安装、显卡驱动、日常软件配置、多媒体制作、编程等你可能需要的全部内容 / 提供在线... |
 | [nakixii/Magisk_AsoulOpt](https://github.com/nakixii/Magisk_AsoulOpt) | None |
 | [NapNeko/NapCat-Docker](https://github.com/NapNeko/NapCat-Docker) | NapCat-Docker |
