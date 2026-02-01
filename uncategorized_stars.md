@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sat Jan 31 02:23:14 UTC 2026 | 总计: **1544** 个未分类项目
+> 生成于 UTC 时间: Sun Feb  1 02:47:44 UTC 2026 | 总计: **1545** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -68,7 +68,7 @@
 | [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) | An app for managing github starred repositories.  |
 | [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) | A Download Manager that speeds up your downloads |
 | [amzxyz/RIME-LMDG](https://github.com/amzxyz/RIME-LMDG) | fcitx5扩展词库/Rime全局带声调词库，最全声调标注工具链，Rime语法模型：LMDG - Language, Model, Dictionary,... |
-| [amzxyz/rime_wanxiang](https://github.com/amzxyz/rime_wanxiang) | Rime万象拼音输入方案：一个类大厂习惯的输入方案，首个全带调词库。多版可选，词库基于AI筛选和语料辅助筛选精干高效，配合全新语法模型，输入不再纠结。PR... |
+| [amzxyz/rime_wanxiang](https://github.com/amzxyz/rime_wanxiang) | Rime方案配置：万象拼音，一个类大厂习惯的输入方案，首个全带调词库。多版可选，词库基于AI筛选和语料辅助筛选精干高效，配合全新语法模型，输入不再纠结。P... |
 | [anasfanani/magisk-tailscaled](https://github.com/anasfanani/magisk-tailscaled) | Magisk/KernelSU module for running Tailscale on rooted Android devices. The e... |
 | [Andrews54757/tweakfork](https://github.com/Andrews54757/tweakfork) | A modified small client-side Minecraft mod that adds various configurable twe... |
 | [android/ndk](https://github.com/android/ndk) | The Android Native Development Kit |
@@ -236,7 +236,7 @@
 | [clansty/Q2TG](https://github.com/clansty/Q2TG) | QQ 与 Telegram 群相互转发的 bot |
 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | A modern GUI client based on Tauri, designed to run in Windows, macOS and Lin... |
 | [ClashConnectRules/Self-Configuration](https://github.com/ClashConnectRules/Self-Configuration) | None |
-| [Class-Widgets/Class-Widgets](https://github.com/Class-Widgets/Class-Widgets) | Class Widgets 1 |
+| [Class-Widgets/Class-Widgets](https://github.com/Class-Widgets/Class-Widgets) | 请转用 Class Widgets 2，谢谢。 |
 | [ClassicOldSong/moonlight-android](https://github.com/ClassicOldSong/moonlight-android) | GameStream client for Android |
 | [ClassIsland/ClassIsland](https://github.com/ClassIsland/ClassIsland) | 一款功能强、可定制、跨平台，适用于班级多媒体屏幕的课表信息显示工具，可以一目了然地显示各种信息。 |
 | [CloudLoaderMC/CloudLoader](https://github.com/CloudLoaderMC/CloudLoader) | A mod loader built for inter-loader compatibility and the end-user experience. |
@@ -866,6 +866,7 @@
 | [mihonapp/mihon](https://github.com/mihonapp/mihon) | Free and open source manga reader for Android |
 | [Milkdown/milkdown](https://github.com/Milkdown/milkdown) | 🍼 Plugin driven WYSIWYG  markdown editor framework. |
 | [MincraftEinstein/SubtleEffects](https://github.com/MincraftEinstein/SubtleEffects) | Adding many new subtle details through particles and a few sounds |
+| [Minecraft-Radiance/Radiance](https://github.com/Minecraft-Radiance/Radiance) | Radiance is rebuilt of Minecraft renderer on a Vulkan C++ backend, featuring ... |
 | [Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime) | The Simple Config Template Of Rime By Mintimate.   |
 | [mir1ce/Hawkeye](https://github.com/mir1ce/Hawkeye) | Windows应急响应工具---Hawkeye(鹰眼)。集Windows日志分析，进程扫描，主机信息于一体的综合应急响应分析工具 |
 | [mircokroon/minecraft-world-downloader](https://github.com/mircokroon/minecraft-world-downloader) | Download Minecraft worlds, extend server's render distance. 1.12.2 - 1.21 |
@@ -1091,7 +1092,7 @@
 | [RelativityMC/ScalableLux](https://github.com/RelativityMC/ScalableLux) | A Fabric mod based on Starlight that improves the performance of light update... |
 | [RelativityMC/VMP-fabric](https://github.com/RelativityMC/VMP-fabric) | A Fabric mod designed to improve server performance at high playercounts. |
 | [relimus/TAssistant](https://github.com/relimus/TAssistant) | Make TIM Great Again! |
-| [remorses/playwriter](https://github.com/remorses/playwriter) | MCP to control your Chrome window via extension. Runs Playwright code in a st... |
+| [remorses/playwriter](https://github.com/remorses/playwriter) | Chrome extension to let agents control your browser. Runs Playwright snippets... |
 | [ResetPower/Epherome](https://github.com/ResetPower/Epherome) | [Deprecated] This repository is obsolete. Please go to Epheromeers/Epherome i... |
 | [ResetPower/rcs](https://github.com/ResetPower/rcs) | ResetPower's Component Set using TailwindCSS. |
 | [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) | Best Material You Design music player for Android |
