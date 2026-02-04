@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Tue Feb  3 02:34:08 UTC 2026 | 总计: **1545** 个未分类项目
+> 生成于 UTC 时间: Wed Feb  4 02:28:38 UTC 2026 | 总计: **1545** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -487,7 +487,6 @@
 | [hax/heshijun_v_360](https://github.com/hax/heshijun_v_360) | 贺师俊与360的劳动争议诉讼 |
 | [HChenX/AppRetention](https://github.com/HChenX/AppRetention) | Hook 系统 kill 逻辑来实现后台保活 / Hook system kill logic to implement background keep ... |
 | [hchunhui/librime-lua](https://github.com/hchunhui/librime-lua) | Extending RIME with Lua scripts |
-| [HCLonely/awesome-bilibili-extra](https://github.com/HCLonely/awesome-bilibili-extra) | 收集一些让我们在使用B站时更加方便的浏览器扩展/脚本/程序【月底更新】 |
 | [heapwolf/levelui](https://github.com/heapwolf/levelui) | A GUI for LevelDB management based on atom-shell. |
 | [Heavrnl/nexus-terminal](https://github.com/Heavrnl/nexus-terminal) |  一款现代化的 Web SSH / RDP / VNC 客户端，提供独立桌面端，支持人机验证、2FA、界面定制、操作审计等强大功能。 |
 | [hectorqin/reader](https://github.com/hectorqin/reader) | 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + E... |
@@ -775,6 +774,7 @@
 | [lucko/spark](https://github.com/lucko/spark) | A performance profiler for Minecraft clients, servers, and proxies. |
 | [LuckyPray/XAutoDaily](https://github.com/LuckyPray/XAutoDaily) | 一个基于QQ的全自动签到模块 |
 | [LufsX/rime](https://github.com/LufsX/rime) | Rime（中州韵）全拼与双拼的自用配置方案 |
+| [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) | None |
 | [lutris/lutris](https://github.com/lutris/lutris) | Lutris desktop client |
 | [lwch/natpass](https://github.com/lwch/natpass) | 🔥居家办公，远程开发神器 |
 | [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) | A terminal based Pokemon like game |
