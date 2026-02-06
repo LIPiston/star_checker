@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Thu Feb  5 02:30:30 UTC 2026 | 总计: **1545** 个未分类项目
+> 生成于 UTC 时间: Fri Feb  6 02:31:15 UTC 2026 | 总计: **1544** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -201,7 +201,6 @@
 | [cao-awa/Medical-mc](https://github.com/cao-awa/Medical-mc) | None |
 | [cao-awa/ModMdo](https://github.com/cao-awa/ModMdo) | a fabric mod |
 | [CardboardPowered/cardboard](https://github.com/CardboardPowered/cardboard) | The Bukkit/Spigot/Paper API implementation for Fabric |
-| [Carole007/midm-release](https://github.com/Carole007/midm-release) | mi动漫发布页 |
 | [Cateners/tiny_computer](https://github.com/Cateners/tiny_computer) | Click-to-run debian 12 with desktop environment on android for Chinese users,... |
 | [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) | 😸 Soothing pastel theme for the high-spirited! |
 | [catppuccin/chrome](https://github.com/catppuccin/chrome) | 👻 Soothing pastel theme for Chrome |
