@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Fri Feb  6 02:31:15 UTC 2026 | 总计: **1544** 个未分类项目
+> 生成于 UTC 时间: Sat Feb  7 02:26:17 UTC 2026 | 总计: **1545** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -201,7 +201,7 @@
 | [cao-awa/Medical-mc](https://github.com/cao-awa/Medical-mc) | None |
 | [cao-awa/ModMdo](https://github.com/cao-awa/ModMdo) | a fabric mod |
 | [CardboardPowered/cardboard](https://github.com/CardboardPowered/cardboard) | The Bukkit/Spigot/Paper API implementation for Fabric |
-| [Cateners/tiny_computer](https://github.com/Cateners/tiny_computer) | Click-to-run debian 12 with desktop environment on android for Chinese users,... |
+| [Cateners/tiny_computer](https://github.com/Cateners/tiny_computer) | Click-to-run debian 13 with desktop environment on android for Chinese users,... |
 | [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) | 😸 Soothing pastel theme for the high-spirited! |
 | [catppuccin/chrome](https://github.com/catppuccin/chrome) | 👻 Soothing pastel theme for Chrome |
 | [catppuccin/cursors](https://github.com/catppuccin/cursors) | 🐁 Soothing pastel cursors for GTK/Plasma/Hyprland |
@@ -486,10 +486,11 @@
 | [hax/heshijun_v_360](https://github.com/hax/heshijun_v_360) | 贺师俊与360的劳动争议诉讼 |
 | [HChenX/AppRetention](https://github.com/HChenX/AppRetention) | Hook 系统 kill 逻辑来实现后台保活 / Hook system kill logic to implement background keep ... |
 | [hchunhui/librime-lua](https://github.com/hchunhui/librime-lua) | Extending RIME with Lua scripts |
+| [he3als/EdgeRemover](https://github.com/he3als/EdgeRemover) | A PowerShell script that correctly uninstalls or reinstalls Microsoft Edge on... |
 | [heapwolf/levelui](https://github.com/heapwolf/levelui) | A GUI for LevelDB management based on atom-shell. |
 | [Heavrnl/nexus-terminal](https://github.com/Heavrnl/nexus-terminal) |  一款现代化的 Web SSH / RDP / VNC 客户端，提供独立桌面端，支持人机验证、2FA、界面定制、操作审计等强大功能。 |
 | [hectorqin/reader](https://github.com/hectorqin/reader) | 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + E... |
-| [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab) | 本地化的聊天记录分析工具，通过 SQL 和 AI Agent 回顾你的社交记忆。A Local-first chat analysis tool: Rel... |
+| [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab) | A Local-first chat analysis tool: Relive your social memories powered by SQL ... |
 | [helloqingfeng/Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource) | :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等） |
 | [helloworldpxy/thunder-https](https://github.com/helloworldpxy/thunder-https) | 专业的迅雷专用链转换工具，可将thunder://开头的加密链接转换为可直接使用的HTTP/HTTPS下载地址。支持Windows/macOS双平台（li... |
 | [Hendrix-Shen/MagicLib](https://github.com/Hendrix-Shen/MagicLib) | To beat magic with magic :( |
