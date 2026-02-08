@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sat Feb  7 02:26:17 UTC 2026 | 总计: **1545** 个未分类项目
+> 生成于 UTC 时间: Sun Feb  8 02:53:30 UTC 2026 | 总计: **1548** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -218,6 +218,7 @@
 | [chen310/NeteaseCloudMusicTasks](https://github.com/chen310/NeteaseCloudMusicTasks) | None |
 | [chenxiaolong/RSAF](https://github.com/chenxiaolong/RSAF) | An Android Storage Access Framework document provider for rclone |
 | [chenzyadb/CuprumTurbo-Scheduler](https://github.com/chenzyadb/CuprumTurbo-Scheduler) | A Simple and Reliable Performance Scheduler. |
+| [Chimioo/InxLocker](https://github.com/Chimioo/InxLocker) | Xposed-based Installer Locker for Android (Powered by YukiHookAPI) |
 | [ChinaIceF/PyQt-SiliconUI](https://github.com/ChinaIceF/PyQt-SiliconUI) | A powerful and artistic UI library based on PyQt5，基于 PyQt5 的UI框架，灵动、优雅而轻便 |
 | [CHIZI-0618/box4magisk](https://github.com/CHIZI-0618/box4magisk) | Use sing-box, clash, v2ray, xray tunnel proxy on Android devices. |
 | [Chlumsky/msdfgen](https://github.com/Chlumsky/msdfgen) | Multi-channel signed distance field generator |
@@ -611,7 +612,6 @@
 | [jpenilla/TabTPS](https://github.com/jpenilla/TabTPS) | Minecraft server mod/plugin to monitor TPS, MSPT, and other information in th... |
 | [Jsnzkpg/Jsnzkpg](https://github.com/Jsnzkpg/Jsnzkpg) | 已持续维护4年多，每天都会检测可用性，全网质量最高的免费节点订阅，魔鬼式筛选出高质量的免费节点，shadowrocket丨stash丨singbox丨cl... |
 | [jsorrell/CarpetSkyAdditions](https://github.com/jsorrell/CarpetSkyAdditions) | Empty world generation with new ways to obtain resources |
-| [JStone2934/LiveGalGame](https://github.com/JStone2934/LiveGalGame) | 修复了现实世界里和异性对话没有选择项的 Bug |
 | [JudouEco/JudouSans](https://github.com/JudouEco/JudouSans) | 句读黑体，商用免费的多文种混排字体。Judou Sans, a multilingual open-source typeface. |
 | [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) | Run sing-box/mihomo as client in shell |
 | [juliangarnier/anime](https://github.com/juliangarnier/anime) | JavaScript animation engine |
@@ -737,6 +737,7 @@
 | [liuran001/GJZS](https://github.com/liuran001/GJZS) | 搞机助手·R（原「搞机助手重制版」） |
 | [Live-Block/Flyme-FreeForm](https://github.com/Live-Block/Flyme-FreeForm) | A FlymeOS style freeform |
 | [Live-Block/IngameIME-PVP](https://github.com/Live-Block/IngameIME-PVP) | 别问为什么移植这东西到1.8.9，问就是为了玩PVP打字能舒服点（ |
+| [Live-GalGame/LiveGalGame](https://github.com/Live-GalGame/LiveGalGame) | 修复了现实世界里和异性对话没有选择项的 Bug |
 | [lizongying/my-tv](https://github.com/lizongying/my-tv) | 我的电视 电视直播软件，安装即可使用 |
 | [lizongying/my-tv-0](https://github.com/lizongying/my-tv-0) | 我的電視·〇 電視視頻播放軟件，可以自定義視頻源 |
 | [lizongying/my-tv-1](https://github.com/lizongying/my-tv-1) | 我的電視·一 電視視頻播放軟件，支持播放網頁視頻 |
@@ -749,7 +750,6 @@
 | [loks666/get_jobs](https://github.com/loks666/get_jobs) | 💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、智联招聘) |
 | [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) | ServerBox - server status & toolbox |
 | [longern/FlareDrive](https://github.com/longern/FlareDrive) | Free file hosting service (WebUI & WebDAV) using CloudFlare R2 |
-| [LoosePrince/PF-MCDR-WebUI](https://github.com/LoosePrince/PF-MCDR-WebUI) | PF MCDR的WebUI |
 | [LordDashMe/github-contribution-stats](https://github.com/LordDashMe/github-contribution-stats) | Dynamically generated Github Contribution Stats. :chart_with_upwards_trend: :... |
 | [Lordly-Tech/LordlyRead](https://github.com/Lordly-Tech/LordlyRead) | 支持「开源阅读」规则的手环在线阅读工具，支持HyperOS/VelaOS |
 | [LorisYounger/VPet](https://github.com/LorisYounger/VPet) | 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序 |
@@ -1017,6 +1017,7 @@
 | [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2) | PCSX2 - The Playstation 2 Emulator |
 | [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | bluetooth mesh chat, IRC vibes |
 | [peterq/pan-light](https://github.com/peterq/pan-light) | 百度网盘不限速客户端, golang + qt5, 跨平台图形界面 |
+| [PFingan-Code/PF-MCDR-WebUI](https://github.com/PFingan-Code/PF-MCDR-WebUI) | PF MCDR的WebUI |
 | [ph-design/PH60-SC](https://github.com/ph-design/PH60-SC) | A printable low-profile 60% mechanical keyboard kit with 7mm front height and... |
 | [PhilippC/keepass2android](https://github.com/PhilippC/keepass2android) | Password manager app for Android |
 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) | The homepage of Phosphor Icons, a flexible icon family for everyone |
@@ -1091,6 +1092,7 @@
 | [RelativityMC/C2ME-fabric](https://github.com/RelativityMC/C2ME-fabric) | A Fabric mod designed to improve the chunk performance of Minecraft. |
 | [RelativityMC/ScalableLux](https://github.com/RelativityMC/ScalableLux) | A Fabric mod based on Starlight that improves the performance of light update... |
 | [RelativityMC/VMP-fabric](https://github.com/RelativityMC/VMP-fabric) | A Fabric mod designed to improve server performance at high playercounts. |
+| [relimus/Flyme-Freeform](https://github.com/relimus/Flyme-Freeform) | 最卡顿的米窗在此 |
 | [relimus/TAssistant](https://github.com/relimus/TAssistant) | Make TIM Great Again! |
 | [remorses/playwriter](https://github.com/remorses/playwriter) | Chrome extension to let agents control your browser. Runs Playwright snippets... |
 | [ResetPower/Epherome](https://github.com/ResetPower/Epherome) | [Deprecated] This repository is obsolete. Please go to Epheromeers/Epherome i... |
@@ -1170,6 +1172,7 @@
 | [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) | SVG icons for popular brands |
 | [Simplicity-Team/WooBoxForColorOS](https://github.com/Simplicity-Team/WooBoxForColorOS) | 一个基于 ColorOS12(Android 12) 适配的自定义工具 // A system extension Xposed module based... |
 | [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) | Agent S: an open agentic framework that uses computers like a human |
+| [simulot/immich-go](https://github.com/simulot/immich-go) | An alternative to the immich-CLI command that doesn't depend on nodejs instal... |
 | [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) | Git blame for file trees |
 | [sinelaw/fresh](https://github.com/sinelaw/fresh) | Terminal based IDE & text editor: easy, powerful and fast |
 | [sirpdboy/luci-app-ddns-go](https://github.com/sirpdboy/luci-app-ddns-go) | luci-app-ddns-go 自动获得你的公网 IPv4 或 IPv6 地址，并解析到对应的域名服务。支持的域名服务商 阿里云 腾讯云 Dnspod ... |
