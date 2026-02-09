@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sun Feb  8 02:53:30 UTC 2026 | 总计: **1548** 个未分类项目
+> 生成于 UTC 时间: Mon Feb  9 02:38:23 UTC 2026 | 总计: **1550** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -907,7 +907,7 @@
 | [myflavor/NoActive-V2](https://github.com/myflavor/NoActive-V2) | NoActive UI版本 |
 | [mywalkb/LSPosed_mod](https://github.com/mywalkb/LSPosed_mod) | My changes to LSPosed |
 | [Mzdyl/LiteLoaderQQNT_Install](https://github.com/Mzdyl/LiteLoaderQQNT_Install) | 针对 LiteLoaderQQNT 的安装脚本 |
-| [Nagi-ovo/gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager) | An all-in-one enhancement suite for Google Gemini - timeline navigation, fold... |
+| [Nagi-ovo/gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager) | An all-in-one enhancement suite for Google Gemini & AI Studio - timeline navi... |
 | [nakanomikuorg/arch-guide](https://github.com/nakanomikuorg/arch-guide) | ✨ archlinux 简明指南 / 本指南包含从 archlinux 安装、显卡驱动、日常软件配置、多媒体制作、编程等你可能需要的全部内容 / 提供在线... |
 | [nakixii/Magisk_AsoulOpt](https://github.com/nakixii/Magisk_AsoulOpt) | None |
 | [NapNeko/NapCat-Docker](https://github.com/NapNeko/NapCat-Docker) | NapCat-Docker |
@@ -1163,6 +1163,7 @@
 | [shichuanenhui/TvBox](https://github.com/shichuanenhui/TvBox) | None |
 | [shidahuilang/shuyuan](https://github.com/shidahuilang/shuyuan) | 阅读书源-香色闺阁+用心读书+源阅+阅读3.0书源+源阅读+爱阅书香+千阅+花火阅读+读不舍手+番茄+喜马拉雅+漫画+听书+书源+IPTV源+IPA巨魔应... |
 | [shipinbaoku/ikev2-vpn-setup-bash](https://github.com/shipinbaoku/ikev2-vpn-setup-bash) | 使用bash脚本一键搭建Ikev2的vpn服务端. |
+| [ShirkNeko/GKI_KernelSU_SUSFS](https://github.com/ShirkNeko/GKI_KernelSU_SUSFS) | 使用 SukiSU 和 SUSFS 的 GKI 内核 |
 | [ShizukuIchi/minesweeper](https://github.com/ShizukuIchi/minesweeper) | 💣 Windows XP minesweeper in web. Also support mobile. 🎉📱 |
 | [ShouChenICU/FastSend](https://github.com/ShouChenICU/FastSend) | FastSend 是一个基于 WebRTC 技术的点对点文件传输工具，支持快速的目录同步和文件传输。通过浏览器即可实现安全、高效的文件共享。 |
 | [siavash79/PixelXpert](https://github.com/siavash79/PixelXpert) | mixed Xposed+Magisk module for customization of Google Pixel rom of Android 12+ |
@@ -1182,6 +1183,7 @@
 | [skanehira/github-tui](https://github.com/skanehira/github-tui) | TUI client for GitHub |
 | [skiptools/skip](https://github.com/skiptools/skip) | Skip enables the creation of native SwiftUI apps for iOS and Android |
 | [skittles9823/QuickSwitch](https://github.com/skittles9823/QuickSwitch) | None |
+| [Skorpion96/KernelSU-APatch-Manager-for-Recovery-Mode](https://github.com/Skorpion96/KernelSU-APatch-Manager-for-Recovery-Mode) | A fork of https://github.com/Rikj000/Magisk-Manager-for-Recovery-Mode and htt... |
 | [skyrising/skyblock](https://github.com/skyrising/skyblock) | Minecraft mod for empty world generation and new ways to get certain items |
 | [skywind3000/kcp](https://github.com/skywind3000/kcp) | :zap: KCP - A Fast and Reliable ARQ Protocol |
 | [SlimeNull/AzureTTS](https://github.com/SlimeNull/AzureTTS) | Azure TTS Tool. Azure 文本转语音工具. |
