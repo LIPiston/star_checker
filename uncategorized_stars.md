@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Mon Feb  9 02:38:23 UTC 2026 | 总计: **1550** 个未分类项目
+> 生成于 UTC 时间: Tue Feb 10 02:47:06 UTC 2026 | 总计: **1556** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -23,6 +23,7 @@
 | [5ec1cff/TrickyStore](https://github.com/5ec1cff/TrickyStore) | None |
 | [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
 | [670848654/SakuraAnime](https://github.com/670848654/SakuraAnime) | 使用jsoup爬取樱花动漫(Yhdm)、嘶哩嘶哩(SiliSili)部分内容编写的第三方Android客户端。 |
+| [788009/termux-sandbox](https://github.com/788009/termux-sandbox) | Native-performance Linux sandboxes for Termux. Auto-configures Chroot to bypa... |
 | [8Mi-Tech/LSPatch-ApkFactory](https://github.com/8Mi-Tech/LSPatch-ApkFactory) | 一个基于LSPatch的打包工具，自动为常见应用打LSPatch补丁的仓库，包括 OPatch / ONPatch / NPatch |
 | [aa2013/ClipShare](https://github.com/aa2013/ClipShare) | A cross-platform (currently Android, Windows, MacOS) clipboard history and sy... |
 | [aaa1115910/bv](https://github.com/aaa1115910/bv) | 哔哩哔哩 的第三方 Android 应用。A third-party Android app for Bilibili. |
@@ -396,6 +397,7 @@
 | [FongMi/TV](https://github.com/FongMi/TV) | None |
 | [fontforge/fontforge](https://github.com/fontforge/fontforge) | Free (libre) font editor for Windows, Mac OS X and GNU+Linux |
 | [FontManager/font-manager](https://github.com/FontManager/font-manager) | None |
+| [foru17/clash-master](https://github.com/foru17/clash-master) | A modern and elegant dashboard for visualizing and managing Clash network tra... |
 | [frankiejun/serv00-play](https://github.com/frankiejun/serv00-play) | serv00/hostuno 上的一些应用，包括argo+vmess/vmess+ws/hy2/socks5/mtproto/alist/哪吒探针/面板 ... |
 | [freedom-introvert/biliSendCommAntifraud](https://github.com/freedom-introvert/biliSendCommAntifraud) | 哔哩发评反诈 |
 | [freeok/so-novel](https://github.com/freeok/so-novel) | 小说下载｜网文下载 / 网络小说 |
@@ -562,6 +564,7 @@
 | [InkCanvasForClass/community](https://github.com/InkCanvasForClass/community) | InkCanvasForClass Community Open Source Project |
 | [InMomo/StealthReader](https://github.com/InMomo/StealthReader) | 这是一个专为上班族打造的极简、隐蔽、高定制度的桌面阅读器。它不存储书籍，而是作为手机端Legado (阅读)(https://github.com/ged... |
 | [InputShare/InputShare](https://github.com/InputShare/InputShare) | InputShare enables you to share the keyboard and mouse of your computer with ... |
+| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code... |
 | [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) | A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (e... |
 | [IrisShaders/Iris](https://github.com/IrisShaders/Iris) | A modern shaders mod for Minecraft compatible with existing OptiFine shader p... |
 | [Iru21/Authy](https://github.com/Iru21/Authy) | A simple authentication plugin for Minecraft 1.17+! |
@@ -629,6 +632,7 @@
 | [kaniol-lck/modmanager](https://github.com/kaniol-lck/modmanager) | A Qt-based mod manager for minecraft. |
 | [kapitainsky/RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser) | Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family a... |
 | [Karben233/bili-hardcore](https://github.com/Karben233/bili-hardcore) | bilibili 硬核会员 AI 自动答题脚本，直接调用 B 站 API，非 OCR 实现 |
+| [KaringX/clashmi](https://github.com/KaringX/clashmi) | Clash Mihomo for iOS/MacOS/Android/Windows/Linux |
 | [karpathy/nanochat](https://github.com/karpathy/nanochat) | The best ChatGPT that $100 can buy. |
 | [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC) | Modern VNC Server and client, web based and secure |
 | [Katana-Official/SPatch-Update](https://github.com/Katana-Official/SPatch-Update) | Update for SPatch nightly |
@@ -1061,6 +1065,7 @@
 | [pzcn/Perfect-Icons-Completion-Project](https://github.com/pzcn/Perfect-Icons-Completion-Project) | MIUI 完美图标补全计划 |
 | [Pzqqt/Magisk_Manager_Recovery_Tool](https://github.com/Pzqqt/Magisk_Manager_Recovery_Tool) | A Magisk Manager tool that can be used in Recovery mode base Aroma Installer. |
 | [qd-today/qd](https://github.com/qd-today/qd) | QD [v20240210] —— HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server |
+| [qh7574/fcitx5-syncclipboard](https://github.com/qh7574/fcitx5-syncclipboard) | None |
 | [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) | 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:  |
 | [QingJ01/123pan_unlock](https://github.com/QingJ01/123pan_unlock) | 基于油猴的123云盘解锁脚本，支持解锁123云盘下载功能 |
 | [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) | 🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compa... |
@@ -1092,8 +1097,8 @@
 | [RelativityMC/C2ME-fabric](https://github.com/RelativityMC/C2ME-fabric) | A Fabric mod designed to improve the chunk performance of Minecraft. |
 | [RelativityMC/ScalableLux](https://github.com/RelativityMC/ScalableLux) | A Fabric mod based on Starlight that improves the performance of light update... |
 | [RelativityMC/VMP-fabric](https://github.com/RelativityMC/VMP-fabric) | A Fabric mod designed to improve server performance at high playercounts. |
-| [relimus/Flyme-Freeform](https://github.com/relimus/Flyme-Freeform) | 最卡顿的米窗在此 |
 | [relimus/TAssistant](https://github.com/relimus/TAssistant) | Make TIM Great Again! |
+| [relimus/Z-Flow](https://github.com/relimus/Z-Flow) | 最卡顿的米窗在此 |
 | [remorses/playwriter](https://github.com/remorses/playwriter) | Chrome extension to let agents control your browser. Runs Playwright snippets... |
 | [ResetPower/Epherome](https://github.com/ResetPower/Epherome) | [Deprecated] This repository is obsolete. Please go to Epheromeers/Epherome i... |
 | [ResetPower/rcs](https://github.com/ResetPower/rcs) | ResetPower's Component Set using TailwindCSS. |
@@ -1357,7 +1362,7 @@
 | [venera-app/venera-configs](https://github.com/venera-app/venera-configs) | None |
 | [ventoy/Ventoy](https://github.com/ventoy/Ventoy) | A new bootable USB solution. |
 | [Vera-Firefly/Pojav-Glow-Worm](https://github.com/Vera-Firefly/Pojav-Glow-Worm) | PojavLauncher with more practical functions,A modified Launcher from the Poja... |
-| [vercel-labs/json-render](https://github.com/vercel-labs/json-render) | AI → JSON → UI |
+| [vercel-labs/json-render](https://github.com/vercel-labs/json-render) | The framework for User-Generated Interfaces |
 | [vernesong/OpenClash](https://github.com/vernesong/OpenClash) | A Clash Client For OpenWrt |
 | [VERT-sh/VERT](https://github.com/VERT-sh/VERT) | The next-generation file converter. Open source, fully local* and free forever. |
 | [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) | An Android application for streaming music from YouTube Music. |
@@ -1396,7 +1401,7 @@
 | [WEIFENG2333/VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) | 🎬 卡卡字幕助手 / VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A power... |
 | [weixiansen574/HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) | 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！ |
 | [weiyourumeng/RM-Toolbox](https://github.com/weiyourumeng/RM-Toolbox) | 入梦工具箱 |
-| [wekan/wekan](https://github.com/wekan/wekan) | The Open Source kanban, built with Meteor. New English strings for new featur... |
+| [wekan/wekan](https://github.com/wekan/wekan) | The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLO... |
 | [welai/glow-sans](https://github.com/welai/glow-sans) | SHSans-derived CJK font family with a more concise & modern look. 未来荧黑·未來熒黑·ヒ... |
 | [wenfeng110402/AppleMusic-Downloader](https://github.com/wenfeng110402/AppleMusic-Downloader) | 一个图形化AppleMusic下载器 |
 | [wgh136/PicaComic](https://github.com/wgh136/PicaComic) | A comic app built with Flutter, supporting multiple comic sources. |
@@ -1425,6 +1430,7 @@
 | [x0b/rcx](https://github.com/x0b/rcx) | Rclone for Android |
 | [x0rzavi/github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal) | ✨ Elevate your GitHub Profile ReadMe with Minimalistic Retro Terminal GIFs 🚀 |
 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, J... |
+| [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) | Algorithm powering the For You feed on X |
 | [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) | Count your code, quickly. |
 | [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) | DataBackup for Android 7.0+ |
 | [Xed-Editor/Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) | Advanced Text Editor for Android  |
