@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Tue Feb 10 02:47:06 UTC 2026 | 总计: **1556** 个未分类项目
+> 生成于 UTC 时间: Wed Feb 11 02:44:33 UTC 2026 | 总计: **1557** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -120,6 +120,7 @@
 | [Ayman-Isam/HungerGames](https://github.com/Ayman-Isam/HungerGames) | A modern HungerGames Plugin for Minecraft |
 | [Ayndpa/ConnectTool](https://github.com/Ayndpa/ConnectTool) | None |
 | [AZ-Studio-2023/AZMusicDownloader](https://github.com/AZ-Studio-2023/AZMusicDownloader) | AZ音乐下载器 - 优雅地下载音乐 - 多API集成客户端 / Download music gracefully |
+| [azat-io/actions-up](https://github.com/azat-io/actions-up) | 🌊 Interactive CLI tool to update GitHub Actions to latest versions with SHA p... |
 | [azhon/AppUpdate](https://github.com/azhon/AppUpdate) | Android App update library.  Android版本更新库，简单、轻量、可随意定制 |
 | [baidusama/EroPassword](https://github.com/baidusama/EroPassword) | 一些常用的解压密码（包括但不限于本子、里番、galgame） |
 | [bajrangCoder/acode-plugin-acodex](https://github.com/bajrangCoder/acode-plugin-acodex) | AcodeX - A Terminal plugin for Acode App |
@@ -397,7 +398,7 @@
 | [FongMi/TV](https://github.com/FongMi/TV) | None |
 | [fontforge/fontforge](https://github.com/fontforge/fontforge) | Free (libre) font editor for Windows, Mac OS X and GNU+Linux |
 | [FontManager/font-manager](https://github.com/FontManager/font-manager) | None |
-| [foru17/clash-master](https://github.com/foru17/clash-master) | A modern and elegant dashboard for visualizing and managing Clash network tra... |
+| [foru17/clash-master](https://github.com/foru17/clash-master) | A modern and elegant dashboard for network traffic visualization and analysis. |
 | [frankiejun/serv00-play](https://github.com/frankiejun/serv00-play) | serv00/hostuno 上的一些应用，包括argo+vmess/vmess+ws/hy2/socks5/mtproto/alist/哪吒探针/面板 ... |
 | [freedom-introvert/biliSendCommAntifraud](https://github.com/freedom-introvert/biliSendCommAntifraud) | 哔哩发评反诈 |
 | [freeok/so-novel](https://github.com/freeok/so-novel) | 小说下载｜网文下载 / 网络小说 |
@@ -431,7 +432,7 @@
 | [getActivity/AndroidIndex](https://github.com/getActivity/AndroidIndex) | Android 资源大汇总 |
 | [getgridea/gridea](https://github.com/getgridea/gridea) | ✍️ A static blog writing client (一个静态博客写作客户端) |
 | [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | A book series (2 published editions) on the JS language. |
-| [getsurfboard/surfboard](https://github.com/getsurfboard/surfboard) | None |
+| [getsurfboard/surfboard](https://github.com/getsurfboard/surfboard) | https://getsurfboard.com |
 | [giscus/giscus](https://github.com/giscus/giscus) | A commenting system powered by GitHub Discussions. :octocat: :speech_balloon:... |
 | [git/git](https://github.com/git/git) | Git Source Code Mirror - This is a publish-only repository but pull requests ... |
 | [github/github-mcp-server](https://github.com/github/github-mcp-server) | GitHub's official MCP Server |
