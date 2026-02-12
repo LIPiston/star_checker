@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Wed Feb 11 02:44:33 UTC 2026 | 总计: **1557** 个未分类项目
+> 生成于 UTC 时间: Thu Feb 12 02:39:23 UTC 2026 | 总计: **1562** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -10,7 +10,7 @@
 | [1357310795/MyComputerManager](https://github.com/1357310795/MyComputerManager) | 管理“此电脑”里删不掉的流氓“快捷方式”（包括侧边栏），同时可自己添加这类“快捷方式” |
 | [15dd/wenku8reader](https://github.com/15dd/wenku8reader) | 第三方轻小说文库app |
 | [1995chen/dnf](https://github.com/1995chen/dnf) | None |
-| [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) | 🔥 1Panel offers an intuitive web interface for Linux server, making it easy t... |
+| [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) | 🔥 1Panel offers an intuitive web interface for a Linux server / VPS, making i... |
 | [201206030/novel-plus](https://github.com/201206030/novel-plus) | novel-plus 是一个多端（PC、WAP）阅读 、功能完善的小说 CMS 系统。包括小说推荐、小说检索、小说排行、小说阅读、小说书架、小说评论、小说... |
 | [201853910/VMwareWorkstation](https://github.com/201853910/VMwareWorkstation) | 手动上传官网的VMwareWorkstation安装包 |
 | [233boy/v2ray](https://github.com/233boy/v2ray) | 最好用的 V2Ray 一键安装脚本 & 管理脚本 |
@@ -159,6 +159,7 @@
 | [bitnami/containers](https://github.com/bitnami/containers) | Bitnami container images |
 | [bkerler/oppo_decrypt](https://github.com/bkerler/oppo_decrypt) | Oppo .ofp Firmware decrypter and oneplus .ops de-/encrypter |
 | [BlindingDark/rime-easy-en](https://github.com/BlindingDark/rime-easy-en) | Rime / Easy English 英文输入法 |
+| [bloc97/Anime4K](https://github.com/bloc97/Anime4K) | A High-Quality Real Time Upscaler for Anime Video |
 | [Block-Network/StatusBarLyric](https://github.com/Block-Network/StatusBarLyric) | [Xposed] Status Bar Lyric / 状态栏歌词 |
 | [bloznelis/kbt](https://github.com/bloznelis/kbt) | Keyboard tester in terminal |
 | [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) | Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server... |
@@ -363,6 +364,7 @@
 | [FabricMC/fabric-api](https://github.com/FabricMC/fabric-api) | Essential hooks for modding with Fabric. |
 | [Fabulously-Optimized/fabulously-optimized](https://github.com/Fabulously-Optimized/fabulously-optimized) | A simple Minecraft modpack focusing on performance and graphics enhancements. |
 | [facebook/docusaurus](https://github.com/facebook/docusaurus) | Easy to maintain open source documentation websites. |
+| [facet-rs/facet](https://github.com/facet-rs/facet) | Rust reflection, serialization, deserialization, pretty printing, etc. — the ... |
 | [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) | Daemon to ban hosts that cause multiple authentication errors |
 | [FaIryFlower/FairyFlower.github.io](https://github.com/FaIryFlower/FairyFlower.github.io) | 菜花的小网站 |
 | [Fallen-Breath/litematica-server-paster](https://github.com/Fallen-Breath/litematica-server-paster) | Let Litematica be able to paste tile entity data of block / entity data in a ... |
@@ -398,7 +400,7 @@
 | [FongMi/TV](https://github.com/FongMi/TV) | None |
 | [fontforge/fontforge](https://github.com/fontforge/fontforge) | Free (libre) font editor for Windows, Mac OS X and GNU+Linux |
 | [FontManager/font-manager](https://github.com/FontManager/font-manager) | None |
-| [foru17/clash-master](https://github.com/foru17/clash-master) | A modern and elegant dashboard for network traffic visualization and analysis. |
+| [foru17/neko-master](https://github.com/foru17/neko-master) | A modern and elegant dashboard for network traffic visualization and analysis. |
 | [frankiejun/serv00-play](https://github.com/frankiejun/serv00-play) | serv00/hostuno 上的一些应用，包括argo+vmess/vmess+ws/hy2/socks5/mtproto/alist/哪吒探针/面板 ... |
 | [freedom-introvert/biliSendCommAntifraud](https://github.com/freedom-introvert/biliSendCommAntifraud) | 哔哩发评反诈 |
 | [freeok/so-novel](https://github.com/freeok/so-novel) | 小说下载｜网文下载 / 网络小说 |
@@ -614,7 +616,7 @@
 | [JoyinJoester/Monica](https://github.com/JoyinJoester/Monica) | Password Management, 2FA Generator |
 | [joyqi/sfz](https://github.com/joyqi/sfz) | 专门用于给图片加水印打码的工具，完全基于浏览器本地API，无任何网络请求（特别适合身份证等敏感证件） |
 | [jpenilla/TabTPS](https://github.com/jpenilla/TabTPS) | Minecraft server mod/plugin to monitor TPS, MSPT, and other information in th... |
-| [Jsnzkpg/Jsnzkpg](https://github.com/Jsnzkpg/Jsnzkpg) | 已持续维护4年多，每天都会检测可用性，全网质量最高的免费节点订阅，魔鬼式筛选出高质量的免费节点，shadowrocket丨stash丨singbox丨cl... |
+| [Jsnzkpg/Jsnzkpg](https://github.com/Jsnzkpg/Jsnzkpg) | 已持续维护5年多，每天都会检测可用性，全网质量最高的免费节点订阅，魔鬼式筛选出高质量的免费节点，shadowrocket丨stash丨singbox丨cl... |
 | [jsorrell/CarpetSkyAdditions](https://github.com/jsorrell/CarpetSkyAdditions) | Empty world generation with new ways to obtain resources |
 | [JudouEco/JudouSans](https://github.com/JudouEco/JudouSans) | 句读黑体，商用免费的多文种混排字体。Judou Sans, a multilingual open-source typeface. |
 | [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) | Run sing-box/mihomo as client in shell |
@@ -975,6 +977,7 @@
 | [objective-see/LuLu](https://github.com/objective-see/LuLu) | LuLu is the free open-source macOS firewall |
 | [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. |
 | [obsproject/obs-studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen reco... |
+| [ocornut/imgui](https://github.com/ocornut/imgui) | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependen... |
 | [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be sea... |
 | [OdysseusYuan/LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) | 一键自动化 下载、安装、激活 Office 的利器。 |
 | [ohlunaaa/Riot-auth](https://github.com/ohlunaaa/Riot-auth) | None |
@@ -1202,6 +1205,7 @@
 | [soxoj/maigret](https://github.com/soxoj/maigret) | 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites |
 | [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtu... |
 | [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) | Chinese copywriting guidelines for better written communication／中文文案排版指北 |
+| [Speykious/cve-rs](https://github.com/Speykious/cve-rs) | Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀 |
 | [squeek502/AppleSkin](https://github.com/squeek502/AppleSkin) | Food-related HUD improvements for Minecraft (AppleCore without the core) |
 | [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) | Everything integration for the Windows taskbar. |
 | [ssnhd/rime](https://github.com/ssnhd/rime) | Rime Squirrel 鼠须管配置文件（朙月拼音、小鹤双拼、自然码双拼） |
@@ -1312,7 +1316,7 @@
 | [topjohnwu/ndk-busybox](https://github.com/topjohnwu/ndk-busybox) | BusyBox building with command ndk-build |
 | [Tornaco/Thanox](https://github.com/Tornaco/Thanox) | I am thanos! 😈 👌 |
 | [torvalds/AudioNoise](https://github.com/torvalds/AudioNoise) | Random digital audio effects |
-| [Tosencen/XMSLEEP](https://github.com/Tosencen/XMSLEEP) | 一款白噪音应用，祝您牛掰，有的是钱 |
+| [Tosencen/XMSLEEP](https://github.com/Tosencen/XMSLEEP) | 一款白噪音应用送给你，祝您牛掰，有的是钱 |
 | [tosuapp/tosu](https://github.com/tosuapp/tosu) | osu! Stable and Lazer memory reader and PP counters provider |
 | [TouchController/TouchController](https://github.com/TouchController/TouchController) | Touchscreen control mod for Minecraft Java version / Minecraft Java 版触屏控制 mod |
 | [tr7zw/Exordium](https://github.com/tr7zw/Exordium) | There is no good reason to render the hotbar at 100+ fps |
@@ -1320,7 +1324,7 @@
 | [trpc/trpc](https://github.com/trpc/trpc) | 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  |
 | [tsoding/nob.h](https://github.com/tsoding/nob.h) | Header only library for writing build recipes in C.  |
 | [Tufmoc/W.Tools-Ver.Bat](https://github.com/Tufmoc/W.Tools-Ver.Bat) | 初代工具箱雏形 |
-| [tukuaiai/vibe-coding-cn](https://github.com/tukuaiai/vibe-coding-cn) | 我的开发经验+提示词库=vibecoding工作站；My development experience + prompt dictionary = Vib... |
+| [tukuaiai/vibe-coding-cn](https://github.com/tukuaiai/vibe-coding-cn) | Vibe Coding 指南 - 涵盖 Prompt 提示词、Skill 技能库、Workflow 工作流的 AI 编程工作站 |
 | [tumuyan/RealSR-NCNN-Android](https://github.com/tumuyan/RealSR-NCNN-Android) | An Android application for super-resolution & interpolation. Contains RealSR-... |
 | [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) | A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScri... |
 | [tuyafeng/Via](https://github.com/tuyafeng/Via) | Via is a simple browser, and this repository is set for localization. |
@@ -1555,6 +1559,7 @@
 | [ztc1997/FakeDCBacklight](https://github.com/ztc1997/FakeDCBacklight) | Enable Extra dim when the brightness is lower than the minimum screen brightn... |
 | [ZTHA000/tvbox](https://github.com/ZTHA000/tvbox) | None |
 | [zu1k/nali](https://github.com/zu1k/nali) | An offline tool for querying IP geographic information and CDN provider. 一个查询... |
+| [zufuliu/notepad4](https://github.com/zufuliu/notepad4) | Notepad4 (Notepad2⨯2, Notepad2++) is a light-weight Scintilla based text edit... |
 | [Zulko/moviepy](https://github.com/Zulko/moviepy) | Video editing with Python |
 | [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) | 人人都能用英语 |
 | [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) | Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working) |
