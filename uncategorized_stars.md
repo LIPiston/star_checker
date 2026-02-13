@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Thu Feb 12 02:39:23 UTC 2026 | 总计: **1562** 个未分类项目
+> 生成于 UTC 时间: Fri Feb 13 02:40:31 UTC 2026 | 总计: **1565** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -111,7 +111,7 @@
 | [auag0/DisableAudioFocus](https://github.com/auag0/DisableAudioFocus) | Xposed module for Android to Disable audio focus |
 | [aui/font-spider](https://github.com/aui/font-spider) | Smart webfont compression and format conversion tool |
 | [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) | Authenticator generates 2-Step Verification codes in your browser. |
-| [Auto-Plugin/milkup](https://github.com/Auto-Plugin/milkup) | a free WYSIWYG desktop markdown editor |
+| [Auto-Plugin/milkup](https://github.com/Auto-Plugin/milkup) | A cross-platform, instant-rendering desktop Markdown editor 一个跨平台的、即时渲染桌面端 Ma... |
 | [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) | Pydoll is a library for automating chromium-based browsers without a WebDrive... |
 | [awesome-iwb/awesome-iwb](https://github.com/awesome-iwb/awesome-iwb) | ✨ 「Awesome Iwb」是专为广大中小学电教打造的班级希沃/鸿合等一体机/数字白板/班班通一站式软件推荐清单和实用知识手册，助你在新学期快速上手班级... |
 | [Axeryok/CocoaInput](https://github.com/Axeryok/CocoaInput) | A best way to input characters with native mac IM in Minecraft  |
@@ -459,7 +459,7 @@
 | [grayddq/GScan](https://github.com/grayddq/GScan) | 本程序旨在为安全应急响应人员对Linux主机排查时提供便利，实现主机侧Checklist的自动全面化检测，根据检测结果自动数据聚合，进行黑客攻击路径溯源。 |
 | [grbnb/xp_module](https://github.com/grbnb/xp_module) | 备份午夜神大佬分享的应用集 【下面是Gitee仓库链接】https://gitee.com/grbnb/xp_module.git |
 | [greyCloudTeam/MCDrink](https://github.com/greyCloudTeam/MCDrink) | 我的世界motd压测程序 |
-| [Griefed/ServerPackCreator](https://github.com/Griefed/ServerPackCreator) | (Mirror of https://git.griefed.de/Griefed/ServerPackCreator) Create a server ... |
+| [Griefed/ServerPackCreator](https://github.com/Griefed/ServerPackCreator) | Create a server pack from a Minecraft Forge, NeoForge, Fabric, LegacyFabric o... |
 | [groupultra/telegram-search](https://github.com/groupultra/telegram-search) | 🔍 导出并模糊搜索 Telegram 聊天记录 / Export and fuzzy search your Telegram chat history |
 | [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | :cn: GitHub中文排行榜，各语言分设「软件 / 资料」榜单，精准定位中文好项目。各取所需，高效学习。 |
 | [gsantner/markor](https://github.com/gsantner/markor) | Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, mat... |
@@ -492,6 +492,7 @@
 | [hax/heshijun_v_360](https://github.com/hax/heshijun_v_360) | 贺师俊与360的劳动争议诉讼 |
 | [HChenX/AppRetention](https://github.com/HChenX/AppRetention) | Hook 系统 kill 逻辑来实现后台保活 / Hook system kill logic to implement background keep ... |
 | [hchunhui/librime-lua](https://github.com/hchunhui/librime-lua) | Extending RIME with Lua scripts |
+| [hcjike/halo-theme-dream2.0-plus](https://github.com/hcjike/halo-theme-dream2.0-plus) | 适配halo2.x的dream2主题，修复bug，增加新功能等。更多设置请查看文档。 |
 | [he3als/EdgeRemover](https://github.com/he3als/EdgeRemover) | A PowerShell script that correctly uninstalls or reinstalls Microsoft Edge on... |
 | [heapwolf/levelui](https://github.com/heapwolf/levelui) | A GUI for LevelDB management based on atom-shell. |
 | [Heavrnl/nexus-terminal](https://github.com/Heavrnl/nexus-terminal) |  一款现代化的 Web SSH / RDP / VNC 客户端，提供独立桌面端，支持人机验证、2FA、界面定制、操作审计等强大功能。 |
@@ -831,6 +832,7 @@
 | [maruohon/minihud](https://github.com/maruohon/minihud) | A client-side Minecraft mod with configurable "info lines" ("mini-F3") and va... |
 | [MaruTama/Mengshen-pinyin-font](https://github.com/MaruTama/Mengshen-pinyin-font) | OpenSource Pinyin Font and that is created tools. |
 | [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and ... |
+| [MasterDevX/Termux-ADB](https://github.com/MasterDevX/Termux-ADB) | Install ADB & FastBoot Tools in Termux! |
 | [mastodon/mastodon](https://github.com/mastodon/mastodon) | Your self-hosted, globally interconnected microblogging community |
 | [material-foundation/material-color-utilities](https://github.com/material-foundation/material-color-utilities) | Color libraries for Material You |
 | [MatsuriDayo/Matsuri](https://github.com/MatsuriDayo/Matsuri) | Matsuri (茉莉) / V2Ray / universal proxy toolchain for Android / Fork of SagerNet |
@@ -930,6 +932,7 @@
 | [NervJS/taro](https://github.com/NervJS/taro) | 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等... |
 | [netptop/siteproxy](https://github.com/netptop/siteproxy) | reverse proxy, online proxy, 反向代理,免翻墙访问Youtube/twitter/Google, 支持github和teleg... |
 | [Nevcairiel/LAVFilters](https://github.com/Nevcairiel/LAVFilters) | LAV Filters - Open-Source DirectShow Media Splitter and Decoders |
+| [NewFuture/rclone-fuse3-magisk](https://github.com/NewFuture/rclone-fuse3-magisk) | magisk rclone module (with libfuse3) |
 | [newhinton/Round-Sync](https://github.com/newhinton/Round-Sync) | An android cloud file manager, powered by rclone. Visit https://roundsync.com... |
 | [newren/git-filter-repo](https://github.com/newren/git-filter-repo) | Quickly rewrite git repository history (filter-branch replacement) |
 | [nextai-translator/bob-plugin-openai-translator](https://github.com/nextai-translator/bob-plugin-openai-translator) | 基于 OpenAI API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-N... |
