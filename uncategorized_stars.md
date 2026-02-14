@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Fri Feb 13 02:40:31 UTC 2026 | 总计: **1565** 个未分类项目
+> 生成于 UTC 时间: Sat Feb 14 02:27:50 UTC 2026 | 总计: **1569** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -299,6 +299,7 @@
 | [Delta-Icons/android](https://github.com/Delta-Icons/android) | 🤖 Icon Pack for Android |
 | [deltazefiro/Amarok-Hider](https://github.com/deltazefiro/Amarok-Hider) | Hide your private files and apps with a single click. |
 | [DenverCoder1/latex-gboard-dictionary](https://github.com/DenverCoder1/latex-gboard-dictionary) | ⌨ Importable dictionary for typing math symbols more easily on your Android p... |
+| [designcomputer/mysql_mcp_server](https://github.com/designcomputer/mysql_mcp_server) | A Model Context Protocol (MCP) server that enables secure interaction with My... |
 | [DesktopGooseUnofficial/ResourceHub](https://github.com/DesktopGooseUnofficial/ResourceHub) | ResourceHub, for everything Desktop Goose |
 | [devgianlu/Aria2App](https://github.com/devgianlu/Aria2App) | Aria2App is an advanced download manager based on aria2 that can handle remot... |
 | [dezem/SAK](https://github.com/dezem/SAK) | Switch Army Knife (SAK) |
@@ -656,6 +657,7 @@
 | [kenzok8/small-package](https://github.com/kenzok8/small-package) | 自动同步更新上游库软件 |
 | [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) | An advanced Kernel based root solution for Android |
 | [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) | Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support no... |
+| [KhronosGroup/Vulkan-Docs](https://github.com/KhronosGroup/Vulkan-Docs) | The Vulkan API Specification and related tools |
 | [KHwang9883/MobileModels](https://github.com/KHwang9883/MobileModels) | 手机品牌型号汇总 / Mobile Models / This repository is licensed under CC BY-NC-SA 4.0 |
 | [KieronQuinn/PixelLauncherMods](https://github.com/KieronQuinn/PixelLauncherMods) | A root app that enables you to add a number of features to the stock Pixel La... |
 | [killkimno/MORT](https://github.com/killkimno/MORT) | MORT 번역기 프로젝트 - Real-time game translator with OCR |
@@ -1073,6 +1075,7 @@
 | [Pzqqt/Magisk_Manager_Recovery_Tool](https://github.com/Pzqqt/Magisk_Manager_Recovery_Tool) | A Magisk Manager tool that can be used in Recovery mode base Aroma Installer. |
 | [qd-today/qd](https://github.com/qd-today/qd) | QD [v20240210] —— HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server |
 | [qh7574/fcitx5-syncclipboard](https://github.com/qh7574/fcitx5-syncclipboard) | None |
+| [qidian55/bilibilitv1.6.6-repair](https://github.com/qidian55/bilibilitv1.6.6-repair) | 尝试修复经典的 bilibili tv 1.6.6 版本 |
 | [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) | 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:  |
 | [QingJ01/123pan_unlock](https://github.com/QingJ01/123pan_unlock) | 基于油猴的123云盘解锁脚本，支持解锁123云盘下载功能 |
 | [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) | 🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compa... |
@@ -1188,6 +1191,7 @@
 | [simulot/immich-go](https://github.com/simulot/immich-go) | An alternative to the immich-CLI command that doesn't depend on nodejs instal... |
 | [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) | Git blame for file trees |
 | [sinelaw/fresh](https://github.com/sinelaw/fresh) | Terminal based IDE & text editor: easy, powerful and fast |
+| [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | picoclaw |
 | [sirpdboy/luci-app-ddns-go](https://github.com/sirpdboy/luci-app-ddns-go) | luci-app-ddns-go 自动获得你的公网 IPv4 或 IPv6 地址，并解析到对应的域名服务。支持的域名服务商 阿里云 腾讯云 Dnspod ... |
 | [SivanLaai/rime-pure](https://github.com/SivanLaai/rime-pure) | 【rime 小狼毫\trime 同文】手机/PC一站式配置【简约皮肤\拼音搜狗词库\原创trime同文 四叶草 九宫格 拼音方案\四叶草拼音\四叶草地球拼... |
 | [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) | A privacy-first, self-hosted, fully open source personal knowledge management... |
@@ -1370,7 +1374,7 @@
 | [venera-app/venera-configs](https://github.com/venera-app/venera-configs) | None |
 | [ventoy/Ventoy](https://github.com/ventoy/Ventoy) | A new bootable USB solution. |
 | [Vera-Firefly/Pojav-Glow-Worm](https://github.com/Vera-Firefly/Pojav-Glow-Worm) | PojavLauncher with more practical functions,A modified Launcher from the Poja... |
-| [vercel-labs/json-render](https://github.com/vercel-labs/json-render) | The framework for User-Generated Interfaces |
+| [vercel-labs/json-render](https://github.com/vercel-labs/json-render) | The Generative UI framework |
 | [vernesong/OpenClash](https://github.com/vernesong/OpenClash) | A Clash Client For OpenWrt |
 | [VERT-sh/VERT](https://github.com/VERT-sh/VERT) | The next-generation file converter. Open source, fully local* and free forever. |
 | [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) | An Android application for streaming music from YouTube Music. |
