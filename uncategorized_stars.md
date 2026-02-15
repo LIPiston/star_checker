@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sat Feb 14 02:27:50 UTC 2026 | 总计: **1569** 个未分类项目
+> 生成于 UTC 时间: Sun Feb 15 02:40:40 UTC 2026 | 总计: **1570** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -1208,6 +1208,7 @@
 | [softprops/action-gh-release](https://github.com/softprops/action-gh-release) | 📦 :octocat: GitHub Action for creating GitHub Releases |
 | [SoLegendary/reignofnether](https://github.com/SoLegendary/reignofnether) | None |
 | [SolidZORO/zpix-pixel-font](https://github.com/SolidZORO/zpix-pixel-font) | Zpix (最像素) is a pixel font (中文像素字体), supporting English, Chinese (Simplified ... |
+| [sollyu/AndroidStudioChineseLanguagePack](https://github.com/sollyu/AndroidStudioChineseLanguagePack) | AndroidStudio中文插件(官方修改版本） |
 | [sorayuki/obs-multi-rtmp](https://github.com/sorayuki/obs-multi-rtmp) | OBS複数サイト同時配信プラグイン |
 | [soxoj/maigret](https://github.com/soxoj/maigret) | 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites |
 | [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtu... |
