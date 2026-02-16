@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sun Feb 15 02:40:40 UTC 2026 | 总计: **1570** 个未分类项目
+> 生成于 UTC 时间: Mon Feb 16 02:36:19 UTC 2026 | 总计: **1579** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -182,6 +182,7 @@
 | [browser-actions/setup-chrome](https://github.com/browser-actions/setup-chrome) | Set up your GitHub Actions workflow with a specific version of chromium  |
 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. |
 | [browser-use/workflow-use](https://github.com/browser-use/workflow-use) | ⚙️ Create and run workflows (RPA 2.0) |
+| [browsh-org/browsh](https://github.com/browsh-org/browsh) | A fully-modern text-based browser, rendering to TTY and browsers |
 | [brunodev85/winlator](https://github.com/brunodev85/winlator) | Android application for running Windows applications with Wine and Box86/Box64 |
 | [bszapp/android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) | Android使用密码本暴力破解wifi密码工具 |
 | [Buernia/Tiejili](https://github.com/Buernia/Tiejili) | 铁蒺藜体，基于 Reggae One 的开源中文字体。An open-source font that extends Fontworks’ Reggae... |
@@ -509,6 +510,7 @@
 | [HeyPuter/puter](https://github.com/HeyPuter/puter) | 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable. |
 | [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) | OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫... |
 | [HisMax/RedInk](https://github.com/HisMax/RedInk) | 红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop X... |
+| [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | "🐈 nanobot: The Ultra-Lightweight OpenClaw" |
 | [HMBSbige/NatTypeTester](https://github.com/HMBSbige/NatTypeTester) | 测试当前网络的 NAT 类型（STUN） |
 | [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL) | A Minecraft Launcher which is multi-functional, cross-platform and popular |
 | [HMCL-dev/HMCL-docs](https://github.com/HMCL-dev/HMCL-docs) | Documentations for Hello Minecraft! Launcher |
@@ -597,6 +599,7 @@
 | [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | The Free Software Media System - Server Backend & API |
 | [jenskutilek/sudo-font](https://github.com/jenskutilek/sudo-font) | Sudo, a font for programmers and command line users. |
 | [JeoJay127/RapidEFI-Tool](https://github.com/JeoJay127/RapidEFI-Tool) | An excellent one-click EFI configuration tool based on OpenCore |
+| [Jeric-X/SyncClipboard](https://github.com/Jeric-X/SyncClipboard) | 跨平台剪贴板同步、历史记录管理工具 / Cross-platform cipboard syncing, history management tool |
 | [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) | The lazier way to manage everything docker |
 | [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) | simple terminal UI for git commands |
 | [jianchang512/stt](https://github.com/jianchang512/stt) | Voice Recognition to Text Tool / 一个离线运行的本地音视频转字幕工具，输出json、srt字幕、纯文字格式 |
@@ -628,6 +631,7 @@
 | [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) | C# application with primary purpose of farming Steam cards from multiple acco... |
 | [justice2001/halo-plugin-vditor](https://github.com/justice2001/halo-plugin-vditor) | 适用于Halo2.0的Vditor编辑器 |
 | [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | :books: 免费的计算机编程类中文书籍，欢迎投稿 |
+| [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) | Simulates Gemini CLI, Antigravity, Qwen Code, and Kiro client requests, compa... |
 | [jynew/jynew](https://github.com/jynew/jynew) | JinYongLegend-like RPG Game Framework with full Modding support and 10+ hours... |
 | [K11MCH1/AdrenoToolsDrivers](https://github.com/K11MCH1/AdrenoToolsDrivers) | A repository for Skyline, Strato, Vita3K and Yuzu Android compatible Adreno d... |
 | [kaajjo/LibreSudoku](https://github.com/kaajjo/LibreSudoku) | LibreSudoku - Sudoku app for android built with Kotlin + Jetpack Compose + Ma... |
@@ -661,6 +665,7 @@
 | [KHwang9883/MobileModels](https://github.com/KHwang9883/MobileModels) | 手机品牌型号汇总 / Mobile Models / This repository is licensed under CC BY-NC-SA 4.0 |
 | [KieronQuinn/PixelLauncherMods](https://github.com/KieronQuinn/PixelLauncherMods) | A root app that enables you to add a number of features to the stock Pixel La... |
 | [killkimno/MORT](https://github.com/killkimno/MORT) | MORT 번역기 프로젝트 - Real-time game translator with OCR |
+| [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) | Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate... |
 | [kingsollyu/AppEnv](https://github.com/kingsollyu/AppEnv) | 应用变量 |
 | [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) | A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal. |
 | [kirklin/magisk-brick-guardian](https://github.com/kirklin/magisk-brick-guardian) | 一个Magisk 模块，用于防止您的设备因 Magisk 模块导致的启动问题而变砖。 |
@@ -1059,6 +1064,7 @@
 | [programminghoch10/ViPER4AndroidRepackaged](https://github.com/programminghoch10/ViPER4AndroidRepackaged) | A refined ViPER4Android installer. |
 | [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) | Heterogeneous AI Computing Virtualization Middleware(Project under CNCF) |
 | [ProtocolScience/AstralGocq](https://github.com/ProtocolScience/AstralGocq) | 基于原版gocq的协议二次开发版，让gocq再次伟大 |
+| [pskill9/web-search](https://github.com/pskill9/web-search) | Web search using free google search (NO API KEYS REQUIRED) |
 | [pterodactyl-china/panel](https://github.com/pterodactyl-china/panel) | 【翼龙面板汉化版】Pterodactyl®的中文汉化并国内本土化版本，并实时更新主分支的dev内容。 |
 | [pubpub-zz/ppInk](https://github.com/pubpub-zz/ppInk) | Fork from Gink |
 | [pulse-browser/browser](https://github.com/pulse-browser/browser) | Pulse Browser: An experimental firefox fork |
@@ -1209,6 +1215,7 @@
 | [SoLegendary/reignofnether](https://github.com/SoLegendary/reignofnether) | None |
 | [SolidZORO/zpix-pixel-font](https://github.com/SolidZORO/zpix-pixel-font) | Zpix (最像素) is a pixel font (中文像素字体), supporting English, Chinese (Simplified ... |
 | [sollyu/AndroidStudioChineseLanguagePack](https://github.com/sollyu/AndroidStudioChineseLanguagePack) | AndroidStudio中文插件(官方修改版本） |
+| [songquanpeng/one-api](https://github.com/songquanpeng/one-api) | LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆... |
 | [sorayuki/obs-multi-rtmp](https://github.com/sorayuki/obs-multi-rtmp) | OBS複数サイト同時配信プラグイン |
 | [soxoj/maigret](https://github.com/soxoj/maigret) | 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites |
 | [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtu... |
@@ -1228,6 +1235,7 @@
 | [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | Stremio - Freedom to Stream |
 | [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter) | ”深蓝词库转换“ 一款开源免费的输入法词库转换程序 |
 | [stvlynn/edgeone-dify-plugin](https://github.com/stvlynn/edgeone-dify-plugin) | Deploy your site in seconds |
+| [su-kaka/gcli2api](https://github.com/su-kaka/gcli2api) | 将 GeminiCLI 和 Antigravity 转换为 OpenAI 、GEMINI 和 Claude API 接口 |
 | [sub-store-org/Sub-Store](https://github.com/sub-store-org/Sub-Store) | Advanced Subscription Manager for QX, Loon, Surge, Stash, Egern and Shadowroc... |
 | [subframe7536/maple-font](https://github.com/subframe7536/maple-font) | Maple Mono: Open source monospace font with round corner, ligatures and Nerd-... |
 | [SuGar0218/PreLaunchTaskr](https://github.com/SuGar0218/PreLaunchTaskr) | 通过映像劫持，在应用程序启动前做一些事情，例如：更改启动参数、设置环境变量、执行程序或脚本。 |
@@ -1488,6 +1496,7 @@
 | [Xposed-Modules-Repo/com.variable.apkhook](https://github.com/Xposed-Modules-Repo/com.variable.apkhook) | 应用伪装 |
 | [Xposed-Modules-Repo/org.hello.coolapk](https://github.com/Xposed-Modules-Repo/org.hello.coolapk) | FuckCoolapk R |
 | [Xposed-Modules-Repo/top.hookvip.pro](https://github.com/Xposed-Modules-Repo/top.hookvip.pro) | NewHookVip |
+| [Xpra-org/xpra](https://github.com/Xpra-org/xpra) | Persistent remote applications for X11; screen sharing for X11, MacOS and MSW... |
 | [xudazhu1/NoticeFix](https://github.com/xudazhu1/NoticeFix) | 这是一个用于原生/类原生的Xposed模块 修复(类)原生安卓通知图标在墙内水土不服等功能 |
 | [xugaoyi/vuepress-theme-vdoing-doc](https://github.com/xugaoyi/vuepress-theme-vdoing-doc) | vuepress-theme-vdoing主题文档 |
 | [xuwd1/wemeet-wayland-screenshare](https://github.com/xuwd1/wemeet-wayland-screenshare) | 实现Linux Wayland下腾讯会议屏幕共享（非虚拟相机）. Hook library that enables screenshare with T... |
