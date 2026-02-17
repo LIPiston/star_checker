@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Mon Feb 16 02:36:19 UTC 2026 | 总计: **1579** 个未分类项目
+> 生成于 UTC 时间: Tue Feb 17 02:33:00 UTC 2026 | 总计: **1580** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -524,6 +524,7 @@
 | [HorizonEmuTeam/Horizon-Emu](https://github.com/HorizonEmuTeam/Horizon-Emu) | None |
 | [horsemail/yourtv](https://github.com/horsemail/yourtv) | 安卓电视直播APK：IPTV/網頁視頻支持X5，可自定義源(支持webview://格式)，IPTV支持畫中畫和熄屏播放。 Android TV Live... |
 | [hotpad100c/yetanothercarpetaddition](https://github.com/hotpad100c/yetanothercarpetaddition) | Another carpet addition |
+| [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) | 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。 |
 | [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 |
 | [huan/docker-wechat](https://github.com/huan/docker-wechat) | DoChat is a Dockerized WeChat (盒装微信) PC Windows Client for Linux |
 | [HugoAura/Seewo-HugoAura](https://github.com/HugoAura/Seewo-HugoAura) | Aura for SeewoHugo / 雨光之环 / 下一代希沃管家注入式修改 / 破解方案 |
