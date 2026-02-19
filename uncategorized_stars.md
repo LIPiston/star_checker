@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Wed Feb 18 02:36:00 UTC 2026 | 总计: **1582** 个未分类项目
+> 生成于 UTC 时间: Thu Feb 19 02:35:37 UTC 2026 | 总计: **1585** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -528,6 +528,7 @@
 | [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) | 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。 |
 | [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 |
 | [huan/docker-wechat](https://github.com/huan/docker-wechat) | DoChat is a Dockerized WeChat (盒装微信) PC Windows Client for Linux |
+| [huashengdun/webssh](https://github.com/huashengdun/webssh) | :seedling: Web based ssh client |
 | [HugoAura/Seewo-HugoAura](https://github.com/HugoAura/Seewo-HugoAura) | Aura for SeewoHugo / 雨光之环 / 下一代希沃管家注入式修改 / 破解方案 |
 | [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) | :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了） |
 | [hujingguang/ChinaIPTV](https://github.com/hujingguang/ChinaIPTV) | 中国电视直播源 cnTV m3u（实时更新,长期有效） |
@@ -573,7 +574,7 @@
 | [InkCanvasForClass/community](https://github.com/InkCanvasForClass/community) | InkCanvasForClass Community Open Source Project |
 | [InMomo/StealthReader](https://github.com/InMomo/StealthReader) | 这是一个专为上班族打造的极简、隐蔽、高定制度的桌面阅读器。它不存储书籍，而是作为手机端Legado (阅读)(https://github.com/ged... |
 | [InputShare/InputShare](https://github.com/InputShare/InputShare) | InputShare enables you to share the keyboard and mouse of your computer with ... |
-| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code... |
+| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude ... |
 | [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) | A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (e... |
 | [IrisShaders/Iris](https://github.com/IrisShaders/Iris) | A modern shaders mod for Minecraft compatible with existing OptiFine shader p... |
 | [Iru21/Authy](https://github.com/Iru21/Authy) | A simple authentication plugin for Minecraft 1.17+! |
@@ -731,6 +732,7 @@
 | [LIlGG/plugin-live2d](https://github.com/LIlGG/plugin-live2d) | 为你的网站领养一只可爱的看板娘吧！Live2d Plugin for Halo |
 | [lima-vm/lima](https://github.com/lima-vm/lima) | Linux virtual machines, with a focus on running containers |
 | [limbopro/Adblock4limbo](https://github.com/limbopro/Adblock4limbo) | 毒奶去网页广告计划用户脚本 For Quantumult X & Surge & Shadowrocket & Loon & Stash & 油猴 ；1.... |
+| [Lin-arm/GKD_subscription](https://github.com/Lin-arm/GKD_subscription) | GKD 第三方订阅规则 (👻Fork版) |
 | [lin-snow/Ech0](https://github.com/lin-snow/Ech0) | Ech0 - 面向个人的新一代开源、自托管、专注思想流动的轻量级联邦发布平台 |
 | [lingeringsound/10007](https://github.com/lingeringsound/10007) | hosts of block ads |
 | [lingeringsound/adblock_auto](https://github.com/lingeringsound/adblock_auto) | 自动合并 Adblock 规则，用于网页广告拦截 |
@@ -1157,6 +1159,7 @@
 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui) | 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library |
 | [saber-notes/saber](https://github.com/saber-notes/saber) | The cross-platform open-source app built for handwriting |
 | [SagerNet/sing-box](https://github.com/SagerNet/sing-box) | The universal proxy platform |
+| [saicaca/fuwari](https://github.com/saicaca/fuwari) | ✨A static blog template built with Astro.  |
 | [saicaca/hexo-theme-vivia](https://github.com/saicaca/hexo-theme-vivia) | A clean and minimalist theme for Hexo. |
 | [sairson/Yasso](https://github.com/sairson/Yasso) | 强大的内网渗透辅助工具集-让Yasso像风一样 支持rdp，ssh，redis，postgres，mongodb，mssql，mysql，winrm等服务... |
 | [Sakion-Team/Re-Telegram](https://github.com/Sakion-Team/Re-Telegram) | An Xposed module to enhance the Telegram |
