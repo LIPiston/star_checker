@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Thu Feb 19 02:35:37 UTC 2026 | 总计: **1585** 个未分类项目
+> 生成于 UTC 时间: Fri Feb 20 02:30:45 UTC 2026 | 总计: **1586** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -596,6 +596,7 @@
 | [jart/cosmopolitan](https://github.com/jart/cosmopolitan) | build-once run-anywhere c library |
 | [Java-S12138/frank](https://github.com/Java-S12138/frank) | A bran-new League of Legends assistant software, a replacement for WeGame. |
 | [jayfunc/BetterLyrics](https://github.com/jayfunc/BetterLyrics) | An elegant and deeply customizable lyrics visualizer & versatile music player... |
+| [jayjd/HuYaTv](https://github.com/jayjd/HuYaTv) | 聚合直播（FUSE）,支持虎牙/抖音/快手/哔哩哔哩/斗鱼/YY/网易CC/电视直播，支持手机/平板/电视/车机 |
 | [jaywcjlove/free-font](https://github.com/jaywcjlove/free-font) | Collection of Free English/Chinese Fonts for Commercial Use. 收录可商用的免费英文/汉字字体。 |
 | [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) | Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux |
 | [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) | Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflar... |
