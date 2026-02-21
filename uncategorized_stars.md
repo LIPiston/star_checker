@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Fri Feb 20 02:30:45 UTC 2026 | 总计: **1586** 个未分类项目
+> 生成于 UTC 时间: Sat Feb 21 02:24:48 UTC 2026 | 总计: **1588** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -479,6 +479,7 @@
 | [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) | 小巧精悍、准确、实用 GeoIP2 数据库 |
 | [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) | 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) ... |
 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | real time face swap and one-click video deepfake with only a single image |
+| [halifox/DictionaryManager](https://github.com/halifox/DictionaryManager) | 该项目是一个安卓端的词典管理器，旨在解决 Gboard 中文词库匮乏的问题。 |
 | [halo-dev/halo](https://github.com/halo-dev/halo) | 强大易用的开源建站工具。 |
 | [halo-sigs/plugin-bytemd](https://github.com/halo-sigs/plugin-bytemd) | 为 Halo 2.0 集成 ByteMD 编辑器 |
 | [halo-sigs/plugin-hybrid-edit-block](https://github.com/halo-sigs/plugin-hybrid-edit-block) | 为默认富文本编辑器提供编写 Markdown / HTML 的内容块扩展 |
@@ -1122,6 +1123,7 @@
 | [relimus/TAssistant](https://github.com/relimus/TAssistant) | Make TIM Great Again! |
 | [relimus/Z-Flow](https://github.com/relimus/Z-Flow) | 最卡顿的米窗在此 |
 | [remorses/playwriter](https://github.com/remorses/playwriter) | Chrome extension to let agents control your browser. Runs Playwright snippets... |
+| [reserveword/IMBlocker](https://github.com/reserveword/IMBlocker) | A mod for Minecraft helping control Input Methods |
 | [ResetPower/Epherome](https://github.com/ResetPower/Epherome) | [Deprecated] This repository is obsolete. Please go to Epheromeers/Epherome i... |
 | [ResetPower/rcs](https://github.com/ResetPower/rcs) | ResetPower's Component Set using TailwindCSS. |
 | [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) | Best Material You Design music player for Android |
