@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sun Feb 22 02:35:54 UTC 2026 | 总计: **1587** 个未分类项目
+> 生成于 UTC 时间: Mon Feb 23 02:36:50 UTC 2026 | 总计: **1586** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -41,6 +41,7 @@
 | [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) | Source Han Serif / 思源宋体 / 思源宋體 / 思源宋體 香港 / 源ノ明朝 / 본명조 |
 | [adobe-fonts/source-sans](https://github.com/adobe-fonts/source-sans) | Sans serif font family for user interface environments |
 | [adrcotfas/goodtime](https://github.com/adrcotfas/goodtime) | A productivity app that combines pomodoro timers and flow techniques to boost... |
+| [adv-inn/Futaba](https://github.com/adv-inn/Futaba) | A League of Legends companion client built with Tauri, supporting both deskto... |
 | [Aefyr/SAI](https://github.com/Aefyr/SAI) | Android split APKs installer |
 | [afeimod/winlator-mod](https://github.com/afeimod/winlator-mod) | Android application for running Windows applications with Wine and Box86/Box64 |
 | [agalwood/Motrix](https://github.com/agalwood/Motrix) | A full-featured download manager. |
@@ -1119,8 +1120,6 @@
 | [RelativityMC/C2ME-fabric](https://github.com/RelativityMC/C2ME-fabric) | A Fabric mod designed to improve the chunk performance of Minecraft. |
 | [RelativityMC/ScalableLux](https://github.com/RelativityMC/ScalableLux) | A Fabric mod based on Starlight that improves the performance of light update... |
 | [RelativityMC/VMP-fabric](https://github.com/RelativityMC/VMP-fabric) | A Fabric mod designed to improve server performance at high playercounts. |
-| [relimus/TAssistant](https://github.com/relimus/TAssistant) | Make TIM Great Again! |
-| [relimus/Z-Flow](https://github.com/relimus/Z-Flow) | 最卡顿的米窗在此 |
 | [remorses/playwriter](https://github.com/remorses/playwriter) | Chrome extension to let agents control your browser. Runs Playwright snippets... |
 | [reserveword/IMBlocker](https://github.com/reserveword/IMBlocker) | A mod for Minecraft helping control Input Methods |
 | [ResetPower/Epherome](https://github.com/ResetPower/Epherome) | [Deprecated] This repository is obsolete. Please go to Epheromeers/Epherome i... |
