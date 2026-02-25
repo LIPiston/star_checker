@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Tue Feb 24 02:33:29 UTC 2026 | 总计: **1586** 个未分类项目
+> 生成于 UTC 时间: Wed Feb 25 02:34:36 UTC 2026 | 总计: **1586** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -10,7 +10,7 @@
 | [1357310795/MyComputerManager](https://github.com/1357310795/MyComputerManager) | 管理“此电脑”里删不掉的流氓“快捷方式”（包括侧边栏），同时可自己添加这类“快捷方式” |
 | [15dd/wenku8reader](https://github.com/15dd/wenku8reader) | 第三方轻小说文库app |
 | [1995chen/dnf](https://github.com/1995chen/dnf) | None |
-| [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) | 🔥 1Panel offers an intuitive web interface for a Linux server / VPS, making i... |
+| [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) | 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw and websites in ... |
 | [201206030/novel-plus](https://github.com/201206030/novel-plus) | novel-plus 是一个多端（PC、WAP）阅读 、功能完善的小说 CMS 系统。包括小说推荐、小说检索、小说排行、小说阅读、小说书架、小说评论、小说... |
 | [201853910/VMwareWorkstation](https://github.com/201853910/VMwareWorkstation) | 手动上传官网的VMwareWorkstation安装包 |
 | [233boy/v2ray](https://github.com/233boy/v2ray) | 最好用的 V2Ray 一键安装脚本 & 管理脚本 |
