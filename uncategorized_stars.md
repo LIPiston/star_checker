@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Thu Feb 26 02:30:37 UTC 2026 | 总计: **1586** 个未分类项目
+> 生成于 UTC 时间: Fri Feb 27 02:29:03 UTC 2026 | 总计: **1588** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -136,7 +136,7 @@
 | [bdsm-technology/BDSM](https://github.com/bdsm-technology/BDSM) | Bedrock Dedicated Server Manager (Unofficial) |
 | [be5invis/Iosevka](https://github.com/be5invis/Iosevka) | Versatile typeface for code, from code. |
 | [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) | Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕 |
-| [beck-8/subs-check](https://github.com/beck-8/subs-check) | 订阅转换、测速、测活、流媒体检测、重命名、导出为任意格式的工具 |
+| [beck-8/subs-check](https://github.com/beck-8/subs-check) | 订阅转换、测速、测活、流媒体检测、重命名、导出为任意格式订阅的工具 |
 | [bee-san/Ciphey](https://github.com/bee-san/Ciphey) | ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode... |
 | [benaclejames/VRCFaceTracking](https://github.com/benaclejames/VRCFaceTracking) | OSC App to allow VRChat avatars to interact with eye and facial tracking hard... |
 | [bennyyip/Rime-See-Me](https://github.com/bennyyip/Rime-See-Me) | Skin editor for Weasel(Rime frontend on Windows). All credit goes to http://t... |
@@ -907,7 +907,7 @@
 | [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) | A community driven registry service for Model Context Protocol (MCP) servers. |
 | [moeleak/connecttool-qt](https://github.com/moeleak/connecttool-qt) | Use Tailsteam instead of Tailscale!!! |
 | [MoeMod/CSMoE](https://github.com/MoeMod/CSMoE) | ONLINE UPDATES ONLY |
-| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cybe... |
+| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cybe... |
 | [moesoha/debian-media-box](https://github.com/moesoha/debian-media-box) | “Debian 小药盒”，一个用来包装 Debian 安装介质的盒子设计和介绍用的说明书。 |
 | [moeyy01/gh-proxy-go](https://github.com/moeyy01/gh-proxy-go) | None |
 | [mon5termatt/medicat_installer](https://github.com/mon5termatt/medicat_installer) | Medicat Installer Repo |
@@ -1120,6 +1120,8 @@
 | [RelativityMC/C2ME-fabric](https://github.com/RelativityMC/C2ME-fabric) | A Fabric mod designed to improve the chunk performance of Minecraft. |
 | [RelativityMC/ScalableLux](https://github.com/RelativityMC/ScalableLux) | A Fabric mod based on Starlight that improves the performance of light update... |
 | [RelativityMC/VMP-fabric](https://github.com/RelativityMC/VMP-fabric) | A Fabric mod designed to improve server performance at high playercounts. |
+| [relimus/TAssistant](https://github.com/relimus/TAssistant) | Make TIM Great Again! |
+| [relimus/Z-Flow](https://github.com/relimus/Z-Flow) | 最卡顿的米窗在此 |
 | [remorses/playwriter](https://github.com/remorses/playwriter) | Chrome extension to let agents control your browser. Runs Playwright snippets... |
 | [reserveword/IMBlocker](https://github.com/reserveword/IMBlocker) | A mod for Minecraft helping control Input Methods |
 | [ResetPower/Epherome](https://github.com/ResetPower/Epherome) | [Deprecated] This repository is obsolete. Please go to Epheromeers/Epherome i... |
