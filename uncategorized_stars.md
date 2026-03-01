@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sat Feb 28 02:12:18 UTC 2026 | 总计: **1589** 个未分类项目
+> 生成于 UTC 时间: Sun Mar  1 02:43:20 UTC 2026 | 总计: **1589** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -957,7 +957,7 @@
 | [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) | Docker container for managing Nginx proxy hosts with a simple, powerful inter... |
 | [ngo5/IPTV](https://github.com/ngo5/IPTV) | IPV4/IPV6 TVBOX 电视直播点播源收集 |
 | [ngosang/trackerslist](https://github.com/ngosang/trackerslist) | Updated list of public BitTorrent trackers |
-| [nickrunning/wechat-selkies](https://github.com/nickrunning/wechat-selkies) | 基于Selkies的Linux网页版微信/QQ，支持本地中文输入法，支持AMD64和ARM64。 |
+| [nickrunning/wechat-selkies](https://github.com/nickrunning/wechat-selkies) | 基于Selkies的Linux网页版微信/QQ/Telegram，支持本地中文输入法，支持三方应用，支持AMD64和ARM64。 |
 | [nieheyong/starflare](https://github.com/nieheyong/starflare) | A web app helps you manage your GitHub stars simply and efficiently  |
 | [Nigh/I-wanna-clean-keyboard](https://github.com/Nigh/I-wanna-clean-keyboard) | Block the keyboard input while you were eating instant noodles on your laptop... |
 | [nightmare-space/code_lfa](https://github.com/nightmare-space/code_lfa) | Port VS Code to Android and support local operation |
