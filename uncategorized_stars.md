@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Mon Mar  2 02:32:06 UTC 2026 | 总计: **1589** 个未分类项目
+> 生成于 UTC 时间: Tue Mar  3 02:34:20 UTC 2026 | 总计: **1589** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -1018,6 +1018,7 @@
 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | The open-source CapCut alternative |
 | [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) | SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended! |
 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 🙌 OpenHands: AI-Driven Development |
+| [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) | A free, open-source app store for GitHub releases — browse, discover, and ins... |
 | [openjdk/mobile](https://github.com/openjdk/mobile) | https://openjdk.org/projects/mobile |
 | [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) | A new AList Fork to Anti Trust Crisis |
 | [OpenListTeam/OpenList-Desktop](https://github.com/OpenListTeam/OpenList-Desktop) | A desktop application for OpenList |
@@ -1101,7 +1102,6 @@
 | [r0x0r/pywebview](https://github.com/r0x0r/pywebview) | Build GUI for your Python program with JavaScript, HTML, and CSS |
 | [R1ckyH/ChatBridgeReforged](https://github.com/R1ckyH/ChatBridgeReforged) | Reforged of ChatBridge, interaction with other clients(such as Minecraft serv... |
 | [Radarr/Radarr](https://github.com/Radarr/Radarr) | Movie organizer/manager for usenet and torrent users. |
-| [rainxchzed/Github-Store](https://github.com/rainxchzed/Github-Store) | A free, open-source app store for GitHub releases — browse, discover, and ins... |
 | [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) | The customization marketplace for Windows programs: https://windhawk.net/ |
 | [RaspberryPiFoundation/blockly](https://github.com/RaspberryPiFoundation/blockly) | The web-based visual programming editor. |
 | [rational-stars/GitHub-Freshness](https://github.com/rational-stars/GitHub-Freshness) | GitHub Freshness 在线文档 |
@@ -1528,7 +1528,7 @@
 | [yin-ol/MiPushFaker](https://github.com/yin-ol/MiPushFaker) | Xposed模块，伪装机型让普通应用能够正确识别到MiPush，搭配MiPushFramework使用 |
 | [yinwanxi/Uperf-Game-Turbo](https://github.com/yinwanxi/Uperf-Game-Turbo) | Userspace performance controller for android |
 | [ymyuuu/Cloudflare-Workers-Proxy](https://github.com/ymyuuu/Cloudflare-Workers-Proxy) | 简单而功能强大的反代服务，允许你将一个网址映射到另一个网址，并处理跨域请求 |
-| [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) | Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个... |
+| [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) | Sing-box精装桶五合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个... |
 | [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) | warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netfli... |
 | [yoopta-editor/Yoopta-Editor](https://github.com/yoopta-editor/Yoopta-Editor) | Build Notion-like, Craft-like, Coda-like, Medium-like editors with Yoopta |
 | [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) | This GitHub Action creates a GitHub contribution calendar on a 3D profile image. |
