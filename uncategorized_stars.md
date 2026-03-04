@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Tue Mar  3 02:34:20 UTC 2026 | 总计: **1589** 个未分类项目
+> 生成于 UTC 时间: Wed Mar  4 02:27:33 UTC 2026 | 总计: **1589** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -24,7 +24,7 @@
 | [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
 | [670848654/SakuraAnime](https://github.com/670848654/SakuraAnime) | 使用jsoup爬取樱花动漫(Yhdm)、嘶哩嘶哩(SiliSili)部分内容编写的第三方Android客户端。 |
 | [788009/termux-sandbox](https://github.com/788009/termux-sandbox) | Native-performance Linux sandboxes for Termux. Auto-configures Chroot to bypa... |
-| [8Mi-Tech/LSPatch-ApkFactory](https://github.com/8Mi-Tech/LSPatch-ApkFactory) | 一个基于LSPatch的打包工具，自动为常见应用打LSPatch补丁的仓库，包括 OPatch / ONPatch / NPatch |
+| [8Mi-Tech/LSPatch-ApkFactory](https://github.com/8Mi-Tech/LSPatch-ApkFactory) | 一个基于LSPatch的打包工具，自动为常见应用打LSPatch补丁的仓库，包括各类分支(详见readme) |
 | [aa2013/ClipShare](https://github.com/aa2013/ClipShare) | A cross-platform (currently Android, Windows, MacOS) clipboard history and sy... |
 | [aaa1115910/bv](https://github.com/aaa1115910/bv) | 哔哩哔哩 的第三方 Android 应用。A third-party Android app for Bilibili. |
 | [abcz316/SKRoot-linuxKernelRoot](https://github.com/abcz316/SKRoot-linuxKernelRoot) | 新一代SKRoot，完美隐藏root功能，挑战全网root检测手段，实现真正的SELinux 0%触碰、无挂载，通用性强，通杀所有内核，不需要内核源码，直... |
@@ -374,6 +374,7 @@
 | [Fallen-Breath/litematica-server-paster](https://github.com/Fallen-Breath/litematica-server-paster) | Let Litematica be able to paste tile entity data of block / entity data in a ... |
 | [Fallen-Breath/more-statistics](https://github.com/Fallen-Breath/more-statistics) | Add more statistics to Minecraft |
 | [Fallen-Breath/tweakermore](https://github.com/Fallen-Breath/tweakermore) | A collection of client-side tweak kits to enhance your Minecraft game experie... |
+| [Fanju6/NetProxy-Magisk](https://github.com/Fanju6/NetProxy-Magisk) | 基于 Xray 内核的 Android 代理模块，支持一键启动/停止透明代理，适用于 Android 设备。 |
 | [fankes/AndroidNotifyIconAdapt](https://github.com/fankes/AndroidNotifyIconAdapt) | An online rules platform that adapts native notification icons and standard i... |
 | [fankes/ColorOSNotifyIcon](https://github.com/fankes/ColorOSNotifyIcon) | Optimize notification icons for ColorOS and adapt to native notification icon... |
 | [fankes/MIUINativeNotifyIcon](https://github.com/fankes/MIUINativeNotifyIcon) | Fix the native notification bar icon function abandoned by the MIUI developme... |
@@ -664,7 +665,6 @@
 | [KenRouKoro/MachineStatus](https://github.com/KenRouKoro/MachineStatus) | MachineStatus服务器监控 |
 | [KenRouKoro/MachineStatusClient](https://github.com/KenRouKoro/MachineStatusClient) | MachineStatus服务器监控客户端 |
 | [kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages) | openwrt常用软件包 |
-| [kenzok8/small-package](https://github.com/kenzok8/small-package) | 自动同步更新上游库软件 |
 | [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) | An advanced Kernel based root solution for Android |
 | [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) | Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support no... |
 | [KhronosGroup/Vulkan-Docs](https://github.com/KhronosGroup/Vulkan-Docs) | The Vulkan API Specification and related tools |
