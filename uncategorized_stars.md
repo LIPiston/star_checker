@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Wed Mar  4 02:27:33 UTC 2026 | 总计: **1589** 个未分类项目
+> 生成于 UTC 时间: Thu Mar  5 02:30:11 UTC 2026 | 总计: **1591** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -63,6 +63,7 @@
 | [AlistGo/alist](https://github.com/AlistGo/alist) | 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin ... |
 | [allrobot/KeyCastOW_chinese](https://github.com/allrobot/KeyCastOW_chinese) | 按键击键可视化，感谢Brook Hong的贡献 Keystroke visualization, thanks to Brook Hong |
 | [Almamu/linux-wallpaperengine](https://github.com/Almamu/linux-wallpaperengine) | Wallpaper Engine backgrounds for Linux! |
+| [alondmnt/joplin-plugin-jarvis](https://github.com/alondmnt/joplin-plugin-jarvis) | Joplin (note-taking) assistant running a very intelligent system (GPT, Claude... |
 | [alovajs/alova](https://github.com/alovajs/alova) | A request toolkit for ultimate efficiency |
 | [alpha-liu-01/SpeedyNote](https://github.com/alpha-liu-01/SpeedyNote) | A simple note app with good performance and PDF import support |
 | [alvatip/Borealis-cursors](https://github.com/alvatip/Borealis-cursors) | None |
@@ -527,6 +528,7 @@
 | [hoothin/UserScripts](https://github.com/hoothin/UserScripts) | Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴腳本集 ... |
 | [HorizonEmuTeam/Horizon-Emu](https://github.com/HorizonEmuTeam/Horizon-Emu) | None |
 | [horsemail/yourtv](https://github.com/horsemail/yourtv) | 安卓电视直播APK：IPTV/網頁視頻支持X5，可自定義源(支持webview://格式)，IPTV支持畫中畫和熄屏播放。 Android TV Live... |
+| [HorseSword/joplin-plugin-notellm](https://github.com/HorseSword/joplin-plugin-notellm) | NoteLLM is an AI plugin for Joplin. It's completely open-source and does not ... |
 | [hotpad100c/yetanothercarpetaddition](https://github.com/hotpad100c/yetanothercarpetaddition) | Another carpet addition |
 | [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) | 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。 |
 | [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 |
@@ -707,7 +709,7 @@
 | [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) | No clever tagline needed. |
 | [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons) | Monochrome outlined brand icons for Android launchers. |
 | [layou233/ZBProxy](https://github.com/layou233/ZBProxy) | 🚀Transfer your network data, bypassing the Hypixel unofficial address detection! |
-| [layui/layui](https://github.com/layui/layui) | 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。 |
+| [layui/layui](https://github.com/layui/layui) | 一套遵循浏览器原生态开发模式的 Web UI 组件库。 |
 | [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) | Neovim config for the lazy |
 | [LazyVim/starter](https://github.com/LazyVim/starter) | Starter template for LazyVim |
 | [ldqk/Masuit.Tools](https://github.com/ldqk/Masuit.Tools) | 全龄段友好的C#万能工具库，码数吐司库，包含一些常用的操作类，大都是静态类，加密解密，反射操作，权重随机筛选算法，分布式短id，表达式树，linq扩展，文... |
