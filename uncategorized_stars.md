@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Thu Mar  5 02:30:11 UTC 2026 | 总计: **1591** 个未分类项目
+> 生成于 UTC 时间: Fri Mar  6 02:28:25 UTC 2026 | 总计: **1592** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -344,6 +344,7 @@
 | [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) | A simple, decentralized mesh VPN with WireGuard support. |
 | [EdgelessPE/Edgeless](https://github.com/EdgelessPE/Edgeless) | 🏠 The opensource repository of Edgeless PE Project |
 | [eendroroy/alien](https://github.com/eendroroy/alien) | An asynchronous zsh prompt |
+| [elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS) | obliterate the chains that bind you |
 | [ElishaAz/Sayboard](https://github.com/ElishaAz/Sayboard) | An open-source on-device voice IME (keyboard) for Android using the Vosk libr... |
 | [elk-zone/elk](https://github.com/elk-zone/elk) | A nimble Mastodon web client |
 | [Enashpinal/cloudmusic_downloader](https://github.com/Enashpinal/cloudmusic_downloader) | 网易云歌曲批量下载器 |
