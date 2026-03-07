@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Fri Mar  6 02:28:25 UTC 2026 | 总计: **1592** 个未分类项目
+> 生成于 UTC 时间: Sat Mar  7 02:22:12 UTC 2026 | 总计: **1597** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -217,6 +217,7 @@
 | [CeuiLiSA/Pixiv-Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft) | Pixiv第三方Android客户端 |
 | [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) | Github Starred Repositories Manager |
 | [CFPAOrg/Minecraft-Mod-Language-Package](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package) | A language package for Minecraft Mods. |
+| [cft0808/edict](https://github.com/cft0808/edict) | 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agent... |
 | [chase535/accurate_battery](https://github.com/chase535/accurate_battery) | 精准电量 |
 | [chase535/turbo-charge](https://github.com/chase535/turbo-charge) | Magisk模块，关闭阶梯式充电，持续修改电池温度及充电电流，以达到最快充电速度 |
 | [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) | Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 AP... |
@@ -297,6 +298,7 @@
 | [daybreak1929/ViaBrowserCollection](https://github.com/daybreak1929/ViaBrowserCollection) | 个人为 via 浏览器自定义/功能保留的一份完整资料，仍在持续补全，来源于：https://gitee.com/daybreak166/ViaBrowse... |
 | [dbcli/mycli](https://github.com/dbcli/mycli) | A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting. |
 | [ddgth/cf2dns](https://github.com/ddgth/cf2dns) | 筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式 |
+| [ddlmanus/MacOptimizer](https://github.com/ddlmanus/MacOptimizer) | MacOptimizer is a system optimization tool designed specifically for macOS, f... |
 | [DearVa/Everywhere](https://github.com/DearVa/Everywhere) | Context-aware AI assistant for your desktop. Ready to respond intelligently, ... |
 | [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) | Contexts Optical Compression |
 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | None |
@@ -598,7 +600,7 @@
 | [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 |
 | [jadepeng/XMusicDownloader](https://github.com/jadepeng/XMusicDownloader) | 一款 支持从百度、网易、qq、酷狗、咪咕等音乐网站搜索并下载歌曲的程序，支持下载无损音乐 |
 | [jaredcat/WiFiList](https://github.com/jaredcat/WiFiList) | None |
-| [jark006/JarkViewer](https://github.com/jark006/JarkViewer) | 一款轻量、飞快且强大的图像查看器，支持从 JPEG 到 AVIF、HEIC 和 JPEG XL 等最新格式的超多图像格式！A lightweight, l... |
+| [jark006/JarkViewer](https://github.com/jark006/JarkViewer) | 一款轻量且飞快的图像查看器，支持 AVIF、HEIC、JPEG XL 和 实况照片 等最新格式的超多图像格式！A lightweight and ligh... |
 | [jart/cosmopolitan](https://github.com/jart/cosmopolitan) | build-once run-anywhere c library |
 | [Java-S12138/frank](https://github.com/Java-S12138/frank) | A bran-new League of Legends assistant software, a replacement for WeGame. |
 | [jayfunc/BetterLyrics](https://github.com/jayfunc/BetterLyrics) | An elegant and deeply customizable lyrics visualizer & versatile music player... |
@@ -916,6 +918,7 @@
 | [moeyy01/gh-proxy-go](https://github.com/moeyy01/gh-proxy-go) | None |
 | [mon5termatt/medicat_installer](https://github.com/mon5termatt/medicat_installer) | Medicat Installer Repo |
 | [mono/SkiaSharp](https://github.com/mono/SkiaSharp) | SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Goo... |
+| [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame) | One framework for creating powerful cross-platform games. |
 | [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) | Kimi Code CLI is your next CLI agent. |
 | [Moriafly/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource) | Salt Player (A local music player trusted and chosen by hundreds of thousands... |
 | [MotooriKashin/Bilibili-Old](https://github.com/MotooriKashin/Bilibili-Old) | 恢复旧版Bilibili页面，为了那些念旧的人。 |
@@ -942,6 +945,7 @@
 | [Naruto-Senki/files](https://github.com/Naruto-Senki/files) | Naruto Senki: V2 File Host |
 | [natanfudge/Not-Enough-Crashes](https://github.com/natanfudge/Not-Enough-Crashes) | A mod that makes crashes so pleasant, you can't have enough of them!  |
 | [Neamar/KISS](https://github.com/Neamar/KISS) | Lightning fast, open-source, < 250kb Android launcher |
+| [nearai/ironclaw](https://github.com/nearai/ironclaw) | IronClaw is OpenClaw inspired implementation in Rust focused on privacy and s... |
 | [NEKOparapa/AiNiee](https://github.com/NEKOparapa/AiNiee) | 一款专注于Ai翻译的工具，一键自动翻译RPG SLG游戏，Epub TXT小说，PDF Word MD文档，Srt Vtt Lrc字幕等等复杂长文本。 |
 | [nektos/act](https://github.com/nektos/act) | Run your GitHub Actions locally 🚀 |
 | [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) | An F-Droid client with modern UI and an arsenal of extra features. |
@@ -1376,6 +1380,7 @@
 | [univrsal/input-overlay](https://github.com/univrsal/input-overlay) | Show keyboard, gamepad and mouse input on stream |
 | [unmojang/drasl](https://github.com/unmojang/drasl) | Yggdrasil-compatible API server for Minecraft |
 | [Unofficial-Life/Lawnchair-Launcher-Module](https://github.com/Unofficial-Life/Lawnchair-Launcher-Module) | Replace your stock launcher with Lawnchair Launcher module (Q to U) for Magis... |
+| [Uotan-Dev/UotanToolboxNT](https://github.com/Uotan-Dev/UotanToolboxNT) | 现代化 Android & OpenHarmony 工具箱 / A Modern Toolbox for Android & OpenHarmony De... |
 | [Upinel/BetterRDP](https://github.com/Upinel/BetterRDP) | This is to enable 60fps and GPU acceleration on RDP connection |
 | [upx/upx](https://github.com/upx/upx) | UPX - the Ultimate Packer for eXecutables |
 | [urdarling/guise.backup](https://github.com/urdarling/guise.backup) | Guise备份 |
