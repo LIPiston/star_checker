@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sat Mar  7 02:22:12 UTC 2026 | 总计: **1597** 个未分类项目
+> 生成于 UTC 时间: Sun Mar  8 02:33:30 UTC 2026 | 总计: **1599** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -346,7 +346,7 @@
 | [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) | A simple, decentralized mesh VPN with WireGuard support. |
 | [EdgelessPE/Edgeless](https://github.com/EdgelessPE/Edgeless) | 🏠 The opensource repository of Edgeless PE Project |
 | [eendroroy/alien](https://github.com/eendroroy/alien) | An asynchronous zsh prompt |
-| [elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS) | obliterate the chains that bind you |
+| [elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS) | OBLITERATE THE CHAINS THAT BIND YOU |
 | [ElishaAz/Sayboard](https://github.com/ElishaAz/Sayboard) | An open-source on-device voice IME (keyboard) for Android using the Vosk libr... |
 | [elk-zone/elk](https://github.com/elk-zone/elk) | A nimble Mastodon web client |
 | [Enashpinal/cloudmusic_downloader](https://github.com/Enashpinal/cloudmusic_downloader) | 网易云歌曲批量下载器 |
@@ -378,7 +378,7 @@
 | [Fallen-Breath/litematica-server-paster](https://github.com/Fallen-Breath/litematica-server-paster) | Let Litematica be able to paste tile entity data of block / entity data in a ... |
 | [Fallen-Breath/more-statistics](https://github.com/Fallen-Breath/more-statistics) | Add more statistics to Minecraft |
 | [Fallen-Breath/tweakermore](https://github.com/Fallen-Breath/tweakermore) | A collection of client-side tweak kits to enhance your Minecraft game experie... |
-| [Fanju6/NetProxy-Magisk](https://github.com/Fanju6/NetProxy-Magisk) | 基于 Xray 内核的 Android 代理模块，支持一键启动/停止透明代理，适用于 Android 设备。 |
+| [Fanju6/NetProxy-Magisk](https://github.com/Fanju6/NetProxy-Magisk) | Based on the Xray core, this Android proxy module supports one-click start/st... |
 | [fankes/AndroidNotifyIconAdapt](https://github.com/fankes/AndroidNotifyIconAdapt) | An online rules platform that adapts native notification icons and standard i... |
 | [fankes/ColorOSNotifyIcon](https://github.com/fankes/ColorOSNotifyIcon) | Optimize notification icons for ColorOS and adapt to native notification icon... |
 | [fankes/MIUINativeNotifyIcon](https://github.com/fankes/MIUINativeNotifyIcon) | Fix the native notification bar icon function abandoned by the MIUI developme... |
@@ -1219,6 +1219,7 @@
 | [SivanLaai/rime-pure](https://github.com/SivanLaai/rime-pure) | 【rime 小狼毫\trime 同文】手机/PC一站式配置【简约皮肤\拼音搜狗词库\原创trime同文 四叶草 九宫格 拼音方案\四叶草拼音\四叶草地球拼... |
 | [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) | A privacy-first, self-hosted, fully open source personal knowledge management... |
 | [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) | Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5... |
+| [sjzar/chatlog](https://github.com/sjzar/chatlog) | chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据 |
 | [skanehira/github-tui](https://github.com/skanehira/github-tui) | TUI client for GitHub |
 | [skiptools/skip](https://github.com/skiptools/skip) | Skip enables the creation of native SwiftUI apps for iOS and Android |
 | [skittles9823/QuickSwitch](https://github.com/skittles9823/QuickSwitch) | None |
@@ -1385,7 +1386,7 @@
 | [upx/upx](https://github.com/upx/upx) | UPX - the Ultimate Packer for eXecutables |
 | [urdarling/guise.backup](https://github.com/urdarling/guise.backup) | Guise备份 |
 | [urwid/urwid](https://github.com/urwid/urwid) | Console user interface library for Python (official repo) |
-| [usememos/memos](https://github.com/usememos/memos) | An open-source, self-hosted note-taking service. Your thoughts, your data, yo... |
+| [usememos/memos](https://github.com/usememos/memos) | An open-source, self-hosted note-taking tool. Capture thoughts instantly, own... |
 | [ustbhuangyi/better-scroll](https://github.com/ustbhuangyi/better-scroll) | :scroll: inspired by iscroll, and it supports more features and has a better ... |
 | [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative) | Lightweight unofficial Steam client for Android |
 | [utterance/utterances](https://github.com/utterance/utterances) | :crystal_ball: A lightweight comments widget built on GitHub issues |
@@ -1559,6 +1560,7 @@
 | [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) | Create web-based user interfaces with Python. The nice way. |
 | [zed-industries/zed](https://github.com/zed-industries/zed) | Code at the speed of thought – Zed is a high-performance, multiplayer code ed... |
 | [zen-browser/desktop](https://github.com/zen-browser/desktop) | Welcome to a calmer internet |
+| [zengbo/chatlog](https://github.com/zengbo/chatlog) | None |
 | [Zephyruso/zashboard](https://github.com/Zephyruso/zashboard) | None |
 | [zer0k-z/cs2-movement-issues](https://github.com/zer0k-z/cs2-movement-issues) | List of movement related issues related to CS2 which did not exist in CS:GO* |
 | [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega) | Manage and switch between multiple proxies quickly & easily. |
