@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sun Mar  8 02:33:30 UTC 2026 | 总计: **1599** 个未分类项目
+> 生成于 UTC 时间: Mon Mar  9 02:34:50 UTC 2026 | 总计: **1601** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -399,6 +399,7 @@
 | [festoney8/LiteLoaderQQNT-Telegram-Theme](https://github.com/festoney8/LiteLoaderQQNT-Telegram-Theme) | LiteLoaderQQNT 主题，高仿 Telegram 风格 |
 | [fi3ework/hexo-theme-archer](https://github.com/fi3ework/hexo-theme-archer) | 🎯 A smart and modern theme for Hexo. |
 | [files-community/Files](https://github.com/files-community/Files) | A modern file manager that helps users organize their files and folders. |
+| [Finsys/dockhand](https://github.com/Finsys/dockhand) | Dockhand - Docker management you will like. |
 | [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) | The user-friendly command line shell. |
 | [Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project) | 基于思源黑体，并以中国大陆字形为标准的对中日韩越统一表意文字扩展区进行字形补充的项目。 |
 | [fkxxyz/rime-cloverpinyin](https://github.com/fkxxyz/rime-cloverpinyin) | 🍀️四叶草拼音输入方案，做最好用的基于rime开源的简体拼音输入方案！ |
@@ -516,6 +517,7 @@
 | [henrygd/beszel](https://github.com/henrygd/beszel) | Lightweight server monitoring hub with historical data, docker stats, and ale... |
 | [HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources) | Autoupdate iptv sources |
 | [HeyPuter/puter](https://github.com/HeyPuter/puter) | 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable. |
+| [hicode002/qualcomm_gbl_exploit_poc](https://github.com/hicode002/qualcomm_gbl_exploit_poc) | Unlocking qualcomm bootloader via gbl exploit. |
 | [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) | OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫... |
 | [HisMax/RedInk](https://github.com/HisMax/RedInk) | 红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop X... |
 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | "🐈 nanobot: The Ultra-Lightweight OpenClaw" |
@@ -1228,6 +1230,7 @@
 | [skywind3000/kcp](https://github.com/skywind3000/kcp) | :zap: KCP - A Fast and Reliable ARQ Protocol |
 | [SlimeNull/AzureTTS](https://github.com/SlimeNull/AzureTTS) | Azure TTS Tool. Azure 文本转语音工具. |
 | [SlimeNull/EasyConv](https://github.com/SlimeNull/EasyConv) | 将基于 ffmpeg 的多媒体格式转换功能集成到右键菜单 |
+| [Slinet6056/fcitx5-android-theme-catppuccin](https://github.com/Slinet6056/fcitx5-android-theme-catppuccin) | fcitx5-android 主题，基于 Catppuccin Macchiato 配色方案 |
 | [Snapchat/Valdi](https://github.com/Snapchat/Valdi) | Valdi is a cross-platform UI framework that delivers native performance witho... |
 | [softprops/action-gh-release](https://github.com/softprops/action-gh-release) | 📦 :octocat: GitHub Action for creating GitHub Releases |
 | [SoLegendary/reignofnether](https://github.com/SoLegendary/reignofnether) | None |
@@ -1390,7 +1393,6 @@
 | [ustbhuangyi/better-scroll](https://github.com/ustbhuangyi/better-scroll) | :scroll: inspired by iscroll, and it supports more features and has a better ... |
 | [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative) | Lightweight unofficial Steam client for Android |
 | [utterance/utterances](https://github.com/utterance/utterances) | :crystal_ball: A lightweight comments widget built on GitHub issues |
-| [v2er-app/Android](https://github.com/v2er-app/Android) | The source of V2er.Android |
 | [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) | A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, T... |
 | [vacla/Watson](https://github.com/vacla/Watson) | Updated Watson that displays LogBlock and CoreProtect query results in 3D. |
 | [VandalByte/darkmatter-grub2-theme](https://github.com/VandalByte/darkmatter-grub2-theme) | Dark Matter GRUB Theme  👾💙 |
