@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Tue Mar 10 02:26:29 UTC 2026 | 总计: **1601** 个未分类项目
+> 生成于 UTC 时间: Wed Mar 11 02:26:11 UTC 2026 | 总计: **1604** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -22,6 +22,7 @@
 | [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source p... |
 | [5ec1cff/TrickyStore](https://github.com/5ec1cff/TrickyStore) | None |
 | [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
+| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群... |
 | [670848654/SakuraAnime](https://github.com/670848654/SakuraAnime) | 使用jsoup爬取樱花动漫(Yhdm)、嘶哩嘶哩(SiliSili)部分内容编写的第三方Android客户端。 |
 | [788009/termux-sandbox](https://github.com/788009/termux-sandbox) | Native-performance Linux sandboxes for Termux. Auto-configures Chroot to bypa... |
 | [8Mi-Tech/LSPatch-ApkFactory](https://github.com/8Mi-Tech/LSPatch-ApkFactory) | 一个基于LSPatch的打包工具，自动为常见应用打LSPatch补丁的仓库，包括各类分支(详见readme) |
@@ -691,6 +692,7 @@
 | [KonghaYao/cn-font-split](https://github.com/KonghaYao/cn-font-split) | 划时代的字体切割工具，CJK与任何字符！支持 otf、ttf、woff2 字体多线程切割，完美地细颗粒度地进行包大小控制。A revolutionary ... |
 | [kooritea/fcmfix](https://github.com/kooritea/fcmfix) | [xposed]让fcm唤醒已完全停止的应用 |
 | [KoriIku/luxirty-search](https://github.com/KoriIku/luxirty-search) | 一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快。 |
+| [kornelski/pngquant](https://github.com/kornelski/pngquant) | Lossy PNG compressor — pngquant command based on libimagequant library |
 | [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) | The official source code repository for the calibre ebook manager |
 | [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) | If you live in the terminal, kitty is made for you! Cross-platform, fast, fea... |
 | [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) | Video translation and dubbing tool powered by LLMs. The video translator offe... |
@@ -882,6 +884,7 @@
 | [miaoermua/CatWrt](https://github.com/miaoermua/CatWrt) | 🌠 开源稳定的客制化 OpenWrt 智能网关 |
 | [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) | ⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTenso... |
 | [michelpereira/awesome-open-source-games](https://github.com/michelpereira/awesome-open-source-games) | Collection of Games that have the source code available on GitHub |
+| [MiCode/Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) | Xiaomi Mobile Phone Kernel OpenSource |
 | [microg/GmsCore](https://github.com/microg/GmsCore) | Free implementation of Play Services |
 | [microsoft/DirectX-Graphics-Samples](https://github.com/microsoft/DirectX-Graphics-Samples) | This repo contains the DirectX Graphics samples that demonstrate how to build... |
 | [microsoft/DirectXTex](https://github.com/microsoft/DirectXTex) | DirectXTex texture processing library |
@@ -1024,6 +1027,7 @@
 | [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) | Classic Shell Reborn. |
 | [Open4Es/Open4Es-Shader-Android](https://github.com/Open4Es/Open4Es-Shader-Android) | This is a shader can running on Minecraft Java Edition For Phone project whic... |
 | [openboard-team/openboard](https://github.com/openboard-team/openboard) | None |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  |
 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | The open-source CapCut alternative |
 | [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) | SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended! |
 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 🙌 OpenHands: AI-Driven Development |
@@ -1201,7 +1205,6 @@
 | [shengcaishizhan/kkndme_tianya](https://github.com/shengcaishizhan/kkndme_tianya) | 天涯 kkndme 神贴聊房价 |
 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social networks |
 | [shichuanenhui/TvBox](https://github.com/shichuanenhui/TvBox) | None |
-| [shidahuilang/shuyuan](https://github.com/shidahuilang/shuyuan) | 阅读书源-香色闺阁+用心读书+源阅+阅读3.0书源+源阅读+爱阅书香+千阅+花火阅读+读不舍手+番茄+喜马拉雅+漫画+听书+书源+IPTV源+IPA巨魔应... |
 | [shipinbaoku/ikev2-vpn-setup-bash](https://github.com/shipinbaoku/ikev2-vpn-setup-bash) | 使用bash脚本一键搭建Ikev2的vpn服务端. |
 | [ShirkNeko/GKI_KernelSU_SUSFS](https://github.com/ShirkNeko/GKI_KernelSU_SUSFS) | 使用 SukiSU 和 SUSFS 的 GKI 内核 |
 | [ShizukuIchi/minesweeper](https://github.com/ShizukuIchi/minesweeper) | 💣 Windows XP minesweeper in web. Also support mobile. 🎉📱 |
