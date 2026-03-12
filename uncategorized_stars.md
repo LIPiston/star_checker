@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Wed Mar 11 02:26:11 UTC 2026 | 总计: **1604** 个未分类项目
+> 生成于 UTC 时间: Thu Mar 12 02:32:09 UTC 2026 | 总计: **1605** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -1234,6 +1234,7 @@
 | [SlimeNull/AzureTTS](https://github.com/SlimeNull/AzureTTS) | Azure TTS Tool. Azure 文本转语音工具. |
 | [SlimeNull/EasyConv](https://github.com/SlimeNull/EasyConv) | 将基于 ffmpeg 的多媒体格式转换功能集成到右键菜单 |
 | [Slinet6056/fcitx5-android-theme-catppuccin](https://github.com/Slinet6056/fcitx5-android-theme-catppuccin) | fcitx5-android 主题，基于 Catppuccin Macchiato 配色方案 |
+| [slopus/happy](https://github.com/slopus/happy) | Mobile and Web client for Codex and Claude Code, with realtime voice, encrypt... |
 | [Snapchat/Valdi](https://github.com/Snapchat/Valdi) | Valdi is a cross-platform UI framework that delivers native performance witho... |
 | [softprops/action-gh-release](https://github.com/softprops/action-gh-release) | 📦 :octocat: GitHub Action for creating GitHub Releases |
 | [SoLegendary/reignofnether](https://github.com/SoLegendary/reignofnether) | None |
@@ -1249,7 +1250,7 @@
 | [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) | Everything integration for the Windows taskbar. |
 | [ssnhd/rime](https://github.com/ssnhd/rime) | Rime Squirrel 鼠须管配置文件（朙月拼音、小鹤双拼、自然码双拼） |
 | [ssut/payload-dumper-go](https://github.com/ssut/payload-dumper-go) | an android OTA payload dumper written in Go |
-| [Stapxs/Stapxs-QQ-Lite-2.0](https://github.com/Stapxs/Stapxs-QQ-Lite-2.0) | 一个兼容 OneBot 协议的第三方 QQ 客户端。 Web、全平台实现！ |
+| [Stapxs/Stapxs-QQ-Lite-2.0](https://github.com/Stapxs/Stapxs-QQ-Lite-2.0) | 一个兼容 OneBot 协议的第三方 QQ 客户端。 Web、全平台实现！/ A third-party QQ client compatible wit... |
 | [Stardust-Labs-MC/Terralith](https://github.com/Stardust-Labs-MC/Terralith) | A popular Minecraft worldgen datapack for the Overworld |
 | [std-microblock/chromatic](https://github.com/std-microblock/chromatic) | Universal modifier for Chromium/V8 / 广谱注入 Chromium/V8 的通用修改器 |
 | [std-microblock/TGStickerProvider](https://github.com/std-microblock/TGStickerProvider) | A Xposed/LSPosed plugin to dump stickers from Telegram. Almost all 3rd-party ... |
@@ -1505,7 +1506,7 @@
 | [xlc520/MaoTV](https://github.com/xlc520/MaoTV) | 猫影视资源接口 |
 | [xlucn/oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android) | 个人收集的实用、良心开源安卓软件 |
 | [Xmader/aria-ng-gui-android](https://github.com/Xmader/aria-ng-gui-android) | 一个 Aria2 图形界面安卓客户端 / An Aria2 GUI Android App |
-| [xming521/WeClone](https://github.com/xming521/WeClone) | 🚀 One-stop solution for creating your digital avatar from chat history 💡 Fine... |
+| [xming521/WeClone](https://github.com/xming521/WeClone) | 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune L... |
 | [xoureldeen/Vectras-VM-Android](https://github.com/xoureldeen/Vectras-VM-Android) | It's a Virtual Machine App for Android Which is Based on QEMU |
 | [XPoet/picx](https://github.com/XPoet/picx) | 🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。 |
 | [Xposed-Modules-Repo/balti.xposed.pixelifygooglephotos](https://github.com/Xposed-Modules-Repo/balti.xposed.pixelifygooglephotos) | Pixelify GPhotos |
