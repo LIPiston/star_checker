@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Thu Mar 12 02:32:09 UTC 2026 | 总计: **1605** 个未分类项目
+> 生成于 UTC 时间: Fri Mar 13 02:29:58 UTC 2026 | 总计: **1605** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -509,7 +509,7 @@
 | [heapwolf/levelui](https://github.com/heapwolf/levelui) | A GUI for LevelDB management based on atom-shell. |
 | [Heavrnl/nexus-terminal](https://github.com/Heavrnl/nexus-terminal) |  一款现代化的 Web SSH / RDP / VNC 客户端，提供独立桌面端，支持人机验证、2FA、界面定制、操作审计等强大功能。 |
 | [hectorqin/reader](https://github.com/hectorqin/reader) | 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + E... |
-| [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab) | A Local-first chat analysis tool: Relive your social memories powered by SQL ... |
+| [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab) | Rediscover your social memories with private, AI-powered analysis. 本地化的聊天记录分析... |
 | [helloqingfeng/Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource) | :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等） |
 | [helloworldpxy/thunder-https](https://github.com/helloworldpxy/thunder-https) | 专业的迅雷专用链转换工具，可将thunder://开头的加密链接转换为可直接使用的HTTP/HTTPS下载地址。支持Windows/macOS双平台（li... |
 | [Hendrix-Shen/MagicLib](https://github.com/Hendrix-Shen/MagicLib) | To beat magic with magic :( |
@@ -745,7 +745,7 @@
 | [lima-vm/lima](https://github.com/lima-vm/lima) | Linux virtual machines, with a focus on running containers |
 | [limbopro/Adblock4limbo](https://github.com/limbopro/Adblock4limbo) | 毒奶去网页广告计划用户脚本 For Quantumult X & Surge & Shadowrocket & Loon & Stash & 油猴 ；1.... |
 | [Lin-arm/GKD_subscription](https://github.com/Lin-arm/GKD_subscription) | GKD 第三方订阅规则 (👻Fork版) |
-| [lin-snow/Ech0](https://github.com/lin-snow/Ech0) | Ech0 - 面向个人的新一代开源、自托管、专注思想流动的轻量级联邦发布平台 |
+| [lin-snow/Ech0](https://github.com/lin-snow/Ech0) | Ech0 - 面向个人的新一代开源、自托管、专注思想流动的轻量级发布平台。 |
 | [lingeringsound/10007](https://github.com/lingeringsound/10007) | hosts of block ads |
 | [lingeringsound/adblock_auto](https://github.com/lingeringsound/adblock_auto) | 自动合并 Adblock 规则，用于网页广告拦截 |
 | [lint-md/lint-md](https://github.com/lint-md/lint-md) | :books: 检查中文 markdown 编写格式规范的命令行工具，基于 AST，方便集成 CI，写博客 / 文档必备。支持 API 调用！ |
@@ -1393,7 +1393,7 @@
 | [upx/upx](https://github.com/upx/upx) | UPX - the Ultimate Packer for eXecutables |
 | [urdarling/guise.backup](https://github.com/urdarling/guise.backup) | Guise备份 |
 | [urwid/urwid](https://github.com/urwid/urwid) | Console user interface library for Python (official repo) |
-| [usememos/memos](https://github.com/usememos/memos) | An open-source, self-hosted note-taking tool. Capture thoughts instantly, own... |
+| [usememos/memos](https://github.com/usememos/memos) | Open-source, self-hosted note-taking tool built for quick capture. Markdown-n... |
 | [ustbhuangyi/better-scroll](https://github.com/ustbhuangyi/better-scroll) | :scroll: inspired by iscroll, and it supports more features and has a better ... |
 | [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative) | Lightweight unofficial Steam client for Android |
 | [utterance/utterances](https://github.com/utterance/utterances) | :crystal_ball: A lightweight comments widget built on GitHub issues |
@@ -1439,7 +1439,7 @@
 | [wandb/openui](https://github.com/wandb/openui) | OpenUI let's you describe UI using your imagination, then see it rendered live. |
 | [WangDaYeeeeee/GeometricWeather](https://github.com/WangDaYeeeeee/GeometricWeather) | A Material Design Weather Application |
 | [wangweianger/zanePerfor](https://github.com/wangweianger/zanePerfor) | 前端性能监控系统,消息队列,高可用,集群等相关架构 |
-| [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) | An open-source, cross-platform terminal for seamless workflows |
+| [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) | An open-source, AI-integrated, cross-platform terminal for seamless workflows |
 | [webbukkit/dynmap](https://github.com/webbukkit/dynmap) | A set of Minecraft mods that provide a real time web-based map system for var... |
 | [weekend-project-space/top-rss-list](https://github.com/weekend-project-space/top-rss-list) | 订阅人数最多的rss源，中文优质rss源 |
 | [weepwood/Sync-Bangumi-to-Notion](https://github.com/weepwood/Sync-Bangumi-to-Notion) | None |
