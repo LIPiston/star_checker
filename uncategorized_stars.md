@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Fri Mar 13 02:29:58 UTC 2026 | 总计: **1605** 个未分类项目
+> 生成于 UTC 时间: Sat Mar 14 02:27:46 UTC 2026 | 总计: **1611** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -518,7 +518,6 @@
 | [henrygd/beszel](https://github.com/henrygd/beszel) | Lightweight server monitoring hub with historical data, docker stats, and ale... |
 | [HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources) | Autoupdate iptv sources |
 | [HeyPuter/puter](https://github.com/HeyPuter/puter) | 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable. |
-| [hicode002/qualcomm_gbl_exploit_poc](https://github.com/hicode002/qualcomm_gbl_exploit_poc) | Unlocking qualcomm bootloader via gbl exploit. |
 | [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) | OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫... |
 | [HisMax/RedInk](https://github.com/HisMax/RedInk) | 红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop X... |
 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | "🐈 nanobot: The Ultra-Lightweight OpenClaw" |
@@ -603,6 +602,7 @@
 | [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 |
 | [jadepeng/XMusicDownloader](https://github.com/jadepeng/XMusicDownloader) | 一款 支持从百度、网易、qq、酷狗、咪咕等音乐网站搜索并下载歌曲的程序，支持下载无损音乐 |
 | [jaredcat/WiFiList](https://github.com/jaredcat/WiFiList) | None |
+| [jarikomppa/soloud](https://github.com/jarikomppa/soloud) | Free, easy, portable audio engine for games |
 | [jark006/JarkViewer](https://github.com/jark006/JarkViewer) | 一款轻量且飞快的图像查看器，支持 AVIF、HEIC、JPEG XL 和 实况照片 等最新格式的超多图像格式！A lightweight and ligh... |
 | [jart/cosmopolitan](https://github.com/jart/cosmopolitan) | build-once run-anywhere c library |
 | [Java-S12138/frank](https://github.com/Java-S12138/frank) | A bran-new League of Legends assistant software, a replacement for WeGame. |
@@ -622,6 +622,7 @@
 | [jiangxianli/ProxyIpLib](https://github.com/jiangxianli/ProxyIpLib) | 全球免费代理IP库，高可用IP，精心筛选优质IP,2s必达 |
 | [jiffyreader/jiffyreader-plugin](https://github.com/jiffyreader/jiffyreader-plugin) | A Browser Extension for faster reading on ANY website! |
 | [JiGuroLGC/BetterVia](https://github.com/JiGuroLGC/BetterVia) | 让Via变得更好 / Make Via Better |
+| [jimuzhe/tiez-clipboard](https://github.com/jimuzhe/tiez-clipboard) | TieZ 是一款基于 Tauri 的跨平台剪贴板管理器 / A cross-platform clipboard manager with history... |
 | [jindrapetrik/jpexs-decompiler](https://github.com/jindrapetrik/jpexs-decompiler) | JPEXS Free Flash Decompiler |
 | [jinenge/tvbox](https://github.com/jinenge/tvbox) | TVBox(自带配置版)，内置源，随时更新内置源，不必担心不能用 |
 | [jing332/tts-server-android](https://github.com/jing332/tts-server-android) | 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有... |
@@ -659,6 +660,7 @@
 | [KaringX/clashmi](https://github.com/KaringX/clashmi) | Clash Mihomo for iOS/MacOS/Android/Windows/Linux |
 | [karpathy/nanochat](https://github.com/karpathy/nanochat) | The best ChatGPT that $100 can buy. |
 | [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC) | Modern VNC Server and client, web based and secure |
+| [kasnria001/qualcomm_gbl_exploit_poc](https://github.com/kasnria001/qualcomm_gbl_exploit_poc) | Unlocking qualcomm bootloader via gbl exploit. |
 | [Katana-Official/SPatch-Update](https://github.com/Katana-Official/SPatch-Update) | Update for SPatch nightly |
 | [kawamataryo/sky-follower-bridge](https://github.com/kawamataryo/sky-follower-bridge) | Instantly find and follow the same users from your X(Twitter) follower on Blu... |
 | [kazutoiris/infinite-illusion](https://github.com/kazutoiris/infinite-illusion) | Infinite Illusion （无限幻境） |
@@ -686,7 +688,7 @@
 | [kisslove/web-monitoring](https://github.com/kisslove/web-monitoring) | 前端监控，性能监控平台。前端监控平台专注于Web端体验数据监控。对网页健康状况的三个方面进行监测：页面打开速度（速度测量）、页面稳定性（JS错误）和外部服... |
 | [KitsunePie/QQCleaner](https://github.com/KitsunePie/QQCleaner) | 瘦身模块 |
 | [kkkgo/LTSC-Add-MicrosoftStore](https://github.com/kkkgo/LTSC-Add-MicrosoftStore) | Add Windows Store for LTSC |
-| [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) | Klavis AI (YC X25):  MCP integration platforms that let AI agents use tools r... |
+| [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) | Klavis AI:  MCP integration platforms that let AI agents use tools reliably a... |
 | [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) | Remove large amounts of unwanted applications quickly. |
 | [koishijs/koishi](https://github.com/koishijs/koishi) | Cross-platform chatbot framework made with love |
 | [KonghaYao/cn-font-split](https://github.com/KonghaYao/cn-font-split) | 划时代的字体切割工具，CJK与任何字符！支持 otf、ttf、woff2 字体多线程切割，完美地细颗粒度地进行包大小控制。A revolutionary ... |
@@ -737,6 +739,7 @@
 | [LibreService/my_rime](https://github.com/LibreService/my_rime) | Free and Open Source online Chinese IME powered by RIME. 自由开源在线中文输入法 拼音 双拼 粤语... |
 | [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) | 一分钟搭建影视站，支持Vercel/Docker等部署方式 |
 | [librespeed/speedtest](https://github.com/librespeed/speedtest) | Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable... |
+| [libsdl-org/SDL](https://github.com/libsdl-org/SDL) | Simple DirectMedia Layer |
 | [libvirt/libvirt](https://github.com/libvirt/libvirt) | Read-only mirror. Please submit merge requests / issues to https://gitlab.com... |
 | [libxzr/FastbootEnhance](https://github.com/libxzr/FastbootEnhance) | A user-friendly Fastboot ToolBox & Payload Dumper for Windows |
 | [libxzr/KonaBess](https://github.com/libxzr/KonaBess) | A GPU overclock & undervolt tool for various Snapdragon chips |
@@ -830,6 +833,7 @@
 | [lz233/Tarnhelm](https://github.com/lz233/Tarnhelm) | The magic to clean sharing links up. |
 | [M2Team/NanaZip](https://github.com/M2Team/NanaZip) | The 7-Zip derivative intended for the modern Windows experience |
 | [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) | Real-time Claude Code usage monitor with predictions and warnings |
+| [madler/zlib](https://github.com/madler/zlib) | A massively spiffy yet delicately unobtrusive compression library. |
 | [maebert/themostdangerouswritingapp](https://github.com/maebert/themostdangerouswritingapp) | If you stop typing for more than five seconds, all progress will be lost. |
 | [magic-akari/ncmc-web](https://github.com/magic-akari/ncmc-web) | convert files in browsers |
 | [Magisk-Modules-Alt-Repo/BuiltIn-BusyBox](https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox) | Systemless Magisk module that installs and symlinks BusyBox with its applets ... |
@@ -1123,6 +1127,7 @@
 | [rclone/rclone](https://github.com/rclone/rclone) | "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Driv... |
 | [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) | A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Br... |
 | [re-zero001/LSPosed-Irena](https://github.com/re-zero001/LSPosed-Irena) | Useless LSPosed Framework Fork |
+| [reactos/reactos](https://github.com/reactos/reactos) | A free Windows-compatible Operating System |
 | [readest/readest](https://github.com/readest/readest) | Readest is a modern, feature-rich ebook reader designed for avid readers offe... |
 | [ReadYouApp/ReadYou](https://github.com/ReadYouApp/ReadYou) | An Android RSS reader presented in Material You style. |
 | [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) | 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training ... |
@@ -1294,6 +1299,7 @@
 | [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) | 开源的泛中日韩像素字体，黑体风格 |
 | [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) | 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A st... |
 | [TankNee/LOL_Game_Subscription](https://github.com/TankNee/LOL_Game_Subscription) | lpl,ldl professional match calendar subscription! |
+| [tanweai/pua](https://github.com/tanweai/pua) | 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Y... |
 | [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 所有小初高、大学PDF教材。 |
 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop and mobile applications with a... |
 | [Teahouse-Studios/mcwzh-meme-resourcepack](https://github.com/Teahouse-Studios/mcwzh-meme-resourcepack) | A pack that include meme translation in Chinese. / 梗体中文 |
