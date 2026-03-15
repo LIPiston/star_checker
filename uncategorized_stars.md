@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sat Mar 14 02:27:46 UTC 2026 | 总计: **1611** 个未分类项目
+> 生成于 UTC 时间: Sun Mar 15 02:47:58 UTC 2026 | 总计: **1612** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -272,6 +272,7 @@
 | [Coolapk-Code9527/F2FS-Optimizer](https://github.com/Coolapk-Code9527/F2FS-Optimizer) | None |
 | [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) | Lean's LEDE source |
 | [coolxitech/deltaforce](https://github.com/coolxitech/deltaforce) | 三角洲行动API |
+| [CopilotKit/OpenGenerativeUI](https://github.com/CopilotKit/OpenGenerativeUI) | Open-Source Generative UI Framework |
 | [coracoo/awesome_docker_cn](https://github.com/coracoo/awesome_docker_cn) | 上百款可docker部署的项目，包含项目地址、项目部署教程等。 |
 | [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) | Collection of handy online tools for developers, with great UX.  |
 | [Cp0204/CasaOS-AppStore-Play](https://github.com/Cp0204/CasaOS-AppStore-Play) | A Docker Compose Hub, Making Docker Your Productivity Tool - 一个 Docker Compos... |
@@ -509,7 +510,7 @@
 | [heapwolf/levelui](https://github.com/heapwolf/levelui) | A GUI for LevelDB management based on atom-shell. |
 | [Heavrnl/nexus-terminal](https://github.com/Heavrnl/nexus-terminal) |  一款现代化的 Web SSH / RDP / VNC 客户端，提供独立桌面端，支持人机验证、2FA、界面定制、操作审计等强大功能。 |
 | [hectorqin/reader](https://github.com/hectorqin/reader) | 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + E... |
-| [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab) | Rediscover your social memories with private, AI-powered analysis. 本地化的聊天记录分析... |
+| [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab) | Rediscover your social memories with local, AI-powered analysis. 本地化的聊天记录分析工具... |
 | [helloqingfeng/Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource) | :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等） |
 | [helloworldpxy/thunder-https](https://github.com/helloworldpxy/thunder-https) | 专业的迅雷专用链转换工具，可将thunder://开头的加密链接转换为可直接使用的HTTP/HTTPS下载地址。支持Windows/macOS双平台（li... |
 | [Hendrix-Shen/MagicLib](https://github.com/Hendrix-Shen/MagicLib) | To beat magic with magic :( |
@@ -748,7 +749,7 @@
 | [lima-vm/lima](https://github.com/lima-vm/lima) | Linux virtual machines, with a focus on running containers |
 | [limbopro/Adblock4limbo](https://github.com/limbopro/Adblock4limbo) | 毒奶去网页广告计划用户脚本 For Quantumult X & Surge & Shadowrocket & Loon & Stash & 油猴 ；1.... |
 | [Lin-arm/GKD_subscription](https://github.com/Lin-arm/GKD_subscription) | GKD 第三方订阅规则 (👻Fork版) |
-| [lin-snow/Ech0](https://github.com/lin-snow/Ech0) | Ech0 - 面向个人的新一代开源、自托管、专注思想流动的轻量级发布平台。 |
+| [lin-snow/Ech0](https://github.com/lin-snow/Ech0) | Ech0 – An open-source, self-hosted lightweight publishing platform for person... |
 | [lingeringsound/10007](https://github.com/lingeringsound/10007) | hosts of block ads |
 | [lingeringsound/adblock_auto](https://github.com/lingeringsound/adblock_auto) | 自动合并 Adblock 规则，用于网页广告拦截 |
 | [lint-md/lint-md](https://github.com/lint-md/lint-md) | :books: 检查中文 markdown 编写格式规范的命令行工具，基于 AST，方便集成 CI，写博客 / 文档必备。支持 API 调用！ |
@@ -1417,7 +1418,7 @@
 | [vercel-labs/json-render](https://github.com/vercel-labs/json-render) | The Generative UI framework |
 | [vernesong/OpenClash](https://github.com/vernesong/OpenClash) | A Clash Client For OpenWrt |
 | [VERT-sh/VERT](https://github.com/VERT-sh/VERT) | The next-generation file converter. Open source, fully local* and free forever. |
-| [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) | An Android application for streaming music from YouTube Music. |
+| [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) | An Android application for streaming music from YouTube Music |
 | [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) | 📱 Display and control your Android device graphically with scrcpy. |
 | [ViaVersion/ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus) | Minecraft Fabric mod which allows you to join EVERY Minecraft server version ... |
 | [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) | A focused launcher for your desktop — native, fast, extensible |
