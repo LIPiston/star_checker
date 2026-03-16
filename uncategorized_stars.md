@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sun Mar 15 02:47:58 UTC 2026 | 总计: **1612** 个未分类项目
+> 生成于 UTC 时间: Mon Mar 16 02:48:37 UTC 2026 | 总计: **1615** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -520,7 +520,7 @@
 | [HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources) | Autoupdate iptv sources |
 | [HeyPuter/puter](https://github.com/HeyPuter/puter) | 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable. |
 | [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) | OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫... |
-| [HisMax/RedInk](https://github.com/HisMax/RedInk) | 红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop X... |
+| [HisMax/RedInk](https://github.com/HisMax/RedInk) | Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano ... |
 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | "🐈 nanobot: The Ultra-Lightweight OpenClaw" |
 | [HMBSbige/NatTypeTester](https://github.com/HMBSbige/NatTypeTester) | 测试当前网络的 NAT 类型（STUN） |
 | [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL) | A Minecraft Launcher which is multi-functional, cross-platform and popular |
@@ -811,6 +811,7 @@
 | [LufsX/rime](https://github.com/LufsX/rime) | Rime（中州韵）全拼与双拼的自用配置方案 |
 | [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) | None |
 | [lutris/lutris](https://github.com/lutris/lutris) | Lutris desktop client |
+| [lvandeve/lodepng](https://github.com/lvandeve/lodepng) | PNG encoder and decoder in C and C++. |
 | [lwch/natpass](https://github.com/lwch/natpass) | 🔥居家办公，远程开发神器 |
 | [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) | A terminal based Pokemon like game |
 | [lxgw/advanced-cjk-font-magisk-module-template](https://github.com/lxgw/advanced-cjk-font-magisk-module-template) | A Magisk module template to systemlessly replace system fonts. Supports CJK F... |
@@ -1170,6 +1171,7 @@
 | [ruffle-rs/ruffle-android](https://github.com/ruffle-rs/ruffle-android) | An Android application for ruffle.rs |
 | [runjuu/InputSourcePro](https://github.com/runjuu/InputSourcePro) | Switch and track your input sources with ease ✨ |
 | [runningcheese/MirrorSite](https://github.com/runningcheese/MirrorSite) | 镜像网站合集 |
+| [RuriOSS/rurima](https://github.com/RuriOSS/rurima) | Run docker & LXC images without docker or LXC program, without kernel feature... |
 | [rushiranpise/xmlpak-RE](https://github.com/rushiranpise/xmlpak-RE) | None |
 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an al... |
 | [rustfs/rustfs](https://github.com/rustfs/rustfs) | 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3... |
@@ -1402,7 +1404,7 @@
 | [urwid/urwid](https://github.com/urwid/urwid) | Console user interface library for Python (official repo) |
 | [usememos/memos](https://github.com/usememos/memos) | Open-source, self-hosted note-taking tool built for quick capture. Markdown-n... |
 | [ustbhuangyi/better-scroll](https://github.com/ustbhuangyi/better-scroll) | :scroll: inspired by iscroll, and it supports more features and has a better ... |
-| [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative) | Lightweight unofficial Steam client for Android |
+| [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative) | Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android |
 | [utterance/utterances](https://github.com/utterance/utterances) | :crystal_ball: A lightweight comments widget built on GitHub issues |
 | [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) | A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, T... |
 | [vacla/Watson](https://github.com/vacla/Watson) | Updated Watson that displays LogBlock and CoreProtect query results in 3D. |
@@ -1459,6 +1461,7 @@
 | [wenfeng110402/AppleMusic-Downloader](https://github.com/wenfeng110402/AppleMusic-Downloader) | 一个图形化AppleMusic下载器 |
 | [wgh136/PicaComic](https://github.com/wgh136/PicaComic) | A comic app built with Flutter, supporting multiple comic sources. |
 | [wgpsec/CreateHiddenAccount](https://github.com/wgpsec/CreateHiddenAccount) | A tool for creating hidden accounts using the registry // 一个使用注册表创建隐藏帐户的工具 |
+| [Widdit/now-playing-service](https://github.com/Widdit/now-playing-service) | 一款全能的「正在播放」歌曲展示工具。支持检测 20+ 款音乐软件的歌曲信息，内置精美歌曲组件、歌词组件、播放器，提供 API 接口。适配 OBS 等直播软... |
 | [Wiederhoeft/okjiasu_action](https://github.com/Wiederhoeft/okjiasu_action) | 机场https://okjiasu.com    的自动签到脚本 |
 | [wifi-left/HMCL-docs-website](https://github.com/wifi-left/HMCL-docs-website) | HMCL 文档的网站版本 |
 | [Wilenty/7zTC-7-ZIP-NanaZip-Theme-Changer](https://github.com/Wilenty/7zTC-7-ZIP-NanaZip-Theme-Changer) | Easy-to-use 7-Zip/NanaZip manager for toolbar, file-types and icons. |
