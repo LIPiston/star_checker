@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Mon Mar 16 02:48:37 UTC 2026 | 总计: **1615** 个未分类项目
+> 生成于 UTC 时间: Tue Mar 17 02:31:49 UTC 2026 | 总计: **1618** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -26,7 +26,7 @@
 | [670848654/SakuraAnime](https://github.com/670848654/SakuraAnime) | 使用jsoup爬取樱花动漫(Yhdm)、嘶哩嘶哩(SiliSili)部分内容编写的第三方Android客户端。 |
 | [788009/termux-sandbox](https://github.com/788009/termux-sandbox) | Native-performance Linux sandboxes for Termux. Auto-configures Chroot to bypa... |
 | [8Mi-Tech/LSPatch-ApkFactory](https://github.com/8Mi-Tech/LSPatch-ApkFactory) | 一个基于LSPatch的打包工具，自动为常见应用打LSPatch补丁的仓库，包括各类分支(详见readme) |
-| [aa2013/ClipShare](https://github.com/aa2013/ClipShare) | A cross-platform (currently Android, Windows, MacOS) clipboard history and sy... |
+| [aa2013/ClipShare](https://github.com/aa2013/ClipShare) | A cross-platform (currently Android, Windows, Linux, MacOS) clipboard history... |
 | [aaa1115910/bv](https://github.com/aaa1115910/bv) | 哔哩哔哩 的第三方 Android 应用。A third-party Android app for Bilibili. |
 | [abcz316/SKRoot-linuxKernelRoot](https://github.com/abcz316/SKRoot-linuxKernelRoot) | 新一代SKRoot，完美隐藏root功能，挑战全网root检测手段，实现真正的SELinux 0%触碰、无挂载，通用性强，通杀所有内核，不需要内核源码，直... |
 | [Acfboy/twt-werewolf-master-ng](https://github.com/Acfboy/twt-werewolf-master-ng) | Modern generation of twt-werewolf-master |
@@ -155,6 +155,7 @@
 | [Bill-Stewart/SyncthingWindowsSetup](https://github.com/Bill-Stewart/SyncthingWindowsSetup) | Syncthing Windows Setup |
 | [Billionmail/BillionMail](https://github.com/Billionmail/BillionMail) | BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — ... |
 | [bin456789/reinstall](https://github.com/bin456789/reinstall) | 一键DD/重装脚本 (One-click reinstall OS on VPS) |
+| [Binaryify/OneDark-Pro](https://github.com/Binaryify/OneDark-Pro) | Atom's iconic One Dark theme for Visual Studio Code |
 | [BingyanStudio/github-analyzer](https://github.com/BingyanStudio/github-analyzer) | 锐评一下你都在 GitHub 写了什么 |
 | [binpash/try](https://github.com/binpash/try) | Inspect a command's effects before modifying your live system |
 | [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead) | Open Immersive Translate. A revolutionary open-source browser translation plu... |
@@ -254,6 +255,7 @@
 | [cmj2002/warp-docker](https://github.com/cmj2002/warp-docker) | Run Cloudflare WARP in Docker. |
 | [cmliu/CF-Workers-SpeedTestURL](https://github.com/cmliu/CF-Workers-SpeedTestURL) | 使用 CloudFlare Workers 搭建专属CloudFlareSpeedTest测速地址 |
 | [cmliu/SubsCheck-Win-GUI](https://github.com/cmliu/SubsCheck-Win-GUI) | SubsCheck 为 Windows 用户设计的 GUI 程序界面。 |
+| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. |
 | [codehz/minecraft-unicode-font-texture-generator-online](https://github.com/codehz/minecraft-unicode-font-texture-generator-online) | minecraft unicode font texture generator online(Static Web Page) |
 | [codehz/YaHei-Build](https://github.com/codehz/YaHei-Build) | 使用更纱黑体取代微软雅黑 |
 | [coder/code-server](https://github.com/coder/code-server) | VS Code in the browser |
@@ -748,7 +750,7 @@
 | [LIlGG/plugin-live2d](https://github.com/LIlGG/plugin-live2d) | 为你的网站领养一只可爱的看板娘吧！Live2d Plugin for Halo |
 | [lima-vm/lima](https://github.com/lima-vm/lima) | Linux virtual machines, with a focus on running containers |
 | [limbopro/Adblock4limbo](https://github.com/limbopro/Adblock4limbo) | 毒奶去网页广告计划用户脚本 For Quantumult X & Surge & Shadowrocket & Loon & Stash & 油猴 ；1.... |
-| [Lin-arm/GKD_subscription](https://github.com/Lin-arm/GKD_subscription) | GKD 第三方订阅规则 (👻Fork版) |
+| [Lin-arm/GKD_subscription](https://github.com/Lin-arm/GKD_subscription) | 用于安卓跳过广告的 GKD 第三方订阅规则 (👻Fork版) |
 | [lin-snow/Ech0](https://github.com/lin-snow/Ech0) | Ech0 – An open-source, self-hosted lightweight publishing platform for person... |
 | [lingeringsound/10007](https://github.com/lingeringsound/10007) | hosts of block ads |
 | [lingeringsound/adblock_auto](https://github.com/lingeringsound/adblock_auto) | 自动合并 Adblock 规则，用于网页广告拦截 |
@@ -1205,7 +1207,7 @@
 | [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap) | A simple wake on lan web app written with SvelteKit, Go and PocketBase. |
 | [setube/vue-xiuxiangame](https://github.com/setube/vue-xiuxiangame) | 文字游戏: 我的文字修仙全靠刷 |
 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | A set of beautifully-designed, accessible components and a code distribution ... |
-| [shadow1ng/fscan](https://github.com/shadow1ng/fscan) | 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。 |
+| [shadow1ng/fscan](https://github.com/shadow1ng/fscan) | 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。(An intranet comprehensive scanning tool, enabling... |
 | [shadow3aaa/fas-rs](https://github.com/shadow3aaa/fas-rs) | Frame aware scheduling for android. |
 | [ShadowWhisperer/Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge) | Uninstall Microsoft Edge with an executable or batch script. |
 | [sharkdp/bat](https://github.com/sharkdp/bat) | A cat(1) clone with wings. |
@@ -1369,6 +1371,7 @@
 | [Tosencen/XMSLEEP](https://github.com/Tosencen/XMSLEEP) | 一款白噪音应用送给你，祝您牛掰，有的是钱 |
 | [tosuapp/tosu](https://github.com/tosuapp/tosu) | osu! Stable and Lazer memory reader and PP counters provider |
 | [TouchController/TouchController](https://github.com/TouchController/TouchController) | Touchscreen control mod for Minecraft Java version / Minecraft Java 版触屏控制 mod |
+| [Tower-of-Sighs/AUI](https://github.com/Tower-of-Sighs/AUI) | Web UI for Minecraft |
 | [tr7zw/Exordium](https://github.com/tr7zw/Exordium) | There is no good reason to render the hotbar at 100+ fps |
 | [TrionesType/zhuque](https://github.com/TrionesType/zhuque) | 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fangsong typeface project |
 | [trpc/trpc](https://github.com/trpc/trpc) | 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  |
@@ -1581,7 +1584,7 @@
 | [zer0k-z/cs2-movement-issues](https://github.com/zer0k-z/cs2-movement-issues) | List of movement related issues related to CS2 which did not exist in CS:GO* |
 | [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega) | Manage and switch between multiple proxies quickly & easily. |
 | [zeruniverse/boardgame_helper](https://github.com/zeruniverse/boardgame_helper) | Forked from https://github.com/zeruniverse/texas_game |
-| [zfdang/Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper) | 开屏跳过-安卓系统的开屏广告自动跳过助手 |
+| [zfdang/Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper) | AdSkip — an Android assistant for automatically skipping app launch ads |
 | [zfile-dev/zfile](https://github.com/zfile-dev/zfile) | 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载 |
 | [zgsm-ai/costrict](https://github.com/zgsm-ai/costrict) | Costrict - strict AI coder for enterprises, quality first, including AI Agent... |
 | [zh-lx/pinyin-pro](https://github.com/zh-lx/pinyin-pro) | 中文转拼音、拼音音调、拼音声母、拼音韵母、多音字拼音、姓氏拼音、拼音匹配、中文分词 |
