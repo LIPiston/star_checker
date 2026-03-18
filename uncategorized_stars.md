@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Tue Mar 17 02:31:49 UTC 2026 | 总计: **1618** 个未分类项目
+> 生成于 UTC 时间: Wed Mar 18 02:37:37 UTC 2026 | 总计: **1619** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -606,7 +606,7 @@
 | [jadepeng/XMusicDownloader](https://github.com/jadepeng/XMusicDownloader) | 一款 支持从百度、网易、qq、酷狗、咪咕等音乐网站搜索并下载歌曲的程序，支持下载无损音乐 |
 | [jaredcat/WiFiList](https://github.com/jaredcat/WiFiList) | None |
 | [jarikomppa/soloud](https://github.com/jarikomppa/soloud) | Free, easy, portable audio engine for games |
-| [jark006/JarkViewer](https://github.com/jark006/JarkViewer) | 一款轻量且飞快的图像查看器，支持 AVIF、HEIC、JPEG XL 和 实况照片 等最新格式的超多图像格式！A lightweight and ligh... |
+| [jark006/JarkViewer](https://github.com/jark006/JarkViewer) | 一款轻量且飞快的看图软件，支持 AVIF、HEIC、JPEG-XL 和 实况照片 等超多新兴图像格式！A lightweight and lightnin... |
 | [jart/cosmopolitan](https://github.com/jart/cosmopolitan) | build-once run-anywhere c library |
 | [Java-S12138/frank](https://github.com/Java-S12138/frank) | A bran-new League of Legends assistant software, a replacement for WeGame. |
 | [jayfunc/BetterLyrics](https://github.com/jayfunc/BetterLyrics) | An elegant and deeply customizable lyrics visualizer & versatile music player... |
@@ -1092,7 +1092,7 @@
 | [privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD) | 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD 现已支持 AdGuardHome，dnsmasq，Surge，Pi... |
 | [PRO-2684/Scriptio](https://github.com/PRO-2684/Scriptio) | Load custom UserScripts for QQNT |
 | [programminghoch10/ViPER4AndroidRepackaged](https://github.com/programminghoch10/ViPER4AndroidRepackaged) | A refined ViPER4Android installer. |
-| [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) | Heterogeneous AI Computing Virtualization Middleware(Project under CNCF) |
+| [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) | Heterogeneous GPU Sharing on Kubernetes - https://project-hami.io |
 | [ProtocolScience/AstralGocq](https://github.com/ProtocolScience/AstralGocq) | 基于原版gocq的协议二次开发版，让gocq再次伟大 |
 | [pskill9/web-search](https://github.com/pskill9/web-search) | Web search using free google search (NO API KEYS REQUIRED) |
 | [pterodactyl-china/panel](https://github.com/pterodactyl-china/panel) | 【翼龙面板汉化版】Pterodactyl®的中文汉化并国内本土化版本，并实时更新主分支的dev内容。 |
@@ -1221,6 +1221,7 @@
 | [ShouChenICU/FastSend](https://github.com/ShouChenICU/FastSend) | FastSend 是一个基于 WebRTC 技术的点对点文件传输工具，支持快速的目录同步和文件传输。通过浏览器即可实现安全、高效的文件共享。 |
 | [siavash79/PixelXpert](https://github.com/siavash79/PixelXpert) | mixed Xposed+Magisk module for customization of Google Pixel rom of Android 12+ |
 | [sigoden/dufs](https://github.com/sigoden/dufs) | A file server that supports static serving, uploading, searching, accessing c... |
+| [simdutf/simdutf](https://github.com/simdutf/simdutf) | Unicode routines (UTF8, UTF16, UTF32) and Base64: billions of characters per ... |
 | [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) | 😎 Github action to generate your own awesome list from project you've starred... |
 | [simonhaenisch/md-to-pdf](https://github.com/simonhaenisch/md-to-pdf) | Hackable CLI tool for converting Markdown files to PDF using Node.js and head... |
 | [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) | SVG icons for popular brands |
