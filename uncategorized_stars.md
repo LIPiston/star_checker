@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Wed Mar 18 02:37:37 UTC 2026 | 总计: **1619** 个未分类项目
+> 生成于 UTC 时间: Thu Mar 19 02:39:03 UTC 2026 | 总计: **1620** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -329,6 +329,7 @@
 | [dongyuwei/hallelujahIM](https://github.com/dongyuwei/hallelujahIM) | hallelujahIM(哈利路亚 英文输入法) is  an intelligent English input method with auto-su... |
 | [Doraemonliu/com.houvven.guise](https://github.com/Doraemonliu/com.houvven.guise) | Guise |
 | [dorssel/usbipd-win](https://github.com/dorssel/usbipd-win) | Windows software for sharing locally connected USB devices to other machines,... |
+| [Doryoku1223/TabulaV3](https://github.com/Doryoku1223/TabulaV3) | Tabula V3 - 极简相册整理工具 / Tinder风格卡片交互，单手滑动整理照片。100%本地处理，免费无广告，隐私安全。 |
 | [DowneyRem/PixivSource](https://github.com/DowneyRem/PixivSource) | 最好的 Pixiv 小说阅读器——开源阅读 + Pixiv 书源 / Legado with Pixiv BookSource, The Best Nov... |
 | [Dr-TSNG/Hide-My-Applist](https://github.com/Dr-TSNG/Hide-My-Applist) | An Xposed module to intercept applist detections |
 | [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) | Standalone implementation of Zygisk |
@@ -750,7 +751,7 @@
 | [LIlGG/plugin-live2d](https://github.com/LIlGG/plugin-live2d) | 为你的网站领养一只可爱的看板娘吧！Live2d Plugin for Halo |
 | [lima-vm/lima](https://github.com/lima-vm/lima) | Linux virtual machines, with a focus on running containers |
 | [limbopro/Adblock4limbo](https://github.com/limbopro/Adblock4limbo) | 毒奶去网页广告计划用户脚本 For Quantumult X & Surge & Shadowrocket & Loon & Stash & 油猴 ；1.... |
-| [Lin-arm/GKD_subscription](https://github.com/Lin-arm/GKD_subscription) | 用于安卓跳过广告的 GKD 第三方订阅规则 (👻Fork版) |
+| [Lin-arm/GKD_subscription](https://github.com/Lin-arm/GKD_subscription) | 用于安卓 GKD 的第三方订阅规则 (👻Fork版) |
 | [lin-snow/Ech0](https://github.com/lin-snow/Ech0) | Ech0 – An open-source, self-hosted lightweight publishing platform for person... |
 | [lingeringsound/10007](https://github.com/lingeringsound/10007) | hosts of block ads |
 | [lingeringsound/adblock_auto](https://github.com/lingeringsound/adblock_auto) | 自动合并 Adblock 规则，用于网页广告拦截 |
@@ -1110,7 +1111,7 @@
 | [pzcn/Perfect-Icons-Completion-Project](https://github.com/pzcn/Perfect-Icons-Completion-Project) | MIUI 完美图标补全计划 |
 | [Pzqqt/Magisk_Manager_Recovery_Tool](https://github.com/Pzqqt/Magisk_Manager_Recovery_Tool) | A Magisk Manager tool that can be used in Recovery mode base Aroma Installer. |
 | [qd-today/qd](https://github.com/qd-today/qd) | QD [v20240210] —— HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server |
-| [qh7574/fcitx5-syncclipboard](https://github.com/qh7574/fcitx5-syncclipboard) | None |
+| [qh7574/Fcitx5-SyncClipboard](https://github.com/qh7574/Fcitx5-SyncClipboard) | None |
 | [qidian55/bilibilitv1.6.6-repair](https://github.com/qidian55/bilibilitv1.6.6-repair) | 尝试修复经典的 bilibili tv 1.6.6 版本 |
 | [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) | 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:  |
 | [QingJ01/123pan_unlock](https://github.com/QingJ01/123pan_unlock) | 基于油猴的123云盘解锁脚本，支持解锁123云盘下载功能 |
