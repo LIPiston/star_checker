@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Thu Mar 19 02:39:03 UTC 2026 | 总计: **1620** 个未分类项目
+> 生成于 UTC 时间: Fri Mar 20 02:30:36 UTC 2026 | 总计: **1627** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -177,6 +177,7 @@
 | [boomker/rime-fast-xhup](https://github.com/boomker/rime-fast-xhup) | 基于小鹤双拼加鹤形辅助码的 Rime 配置方案，内附多种特色功能：词条置顶，强制删词，隐藏词条，词条降频，手动造词(中英)，全码唯一自动顶词上屏(单字和部... |
 | [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) | A GUI to quickly manage your WSL2 instances |
 | [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) | Run Windows software and games on Linux |
+| [boxproxy/box](https://github.com/boxproxy/box) | 安卓代理模块，使用方法看wiki |
 | [bozbez/win-capture-audio](https://github.com/bozbez/win-capture-audio) | An OBS plugin that allows capture of independant application audio streams on... |
 | [bpozdena/OneDriveGUI](https://github.com/bpozdena/OneDriveGUI) | A simple GUI for OneDrive Linux client with multi-account support. |
 | [brcontainer/prevent-duplicate-tabs](https://github.com/brcontainer/prevent-duplicate-tabs) | Simple add-on/extension for prevent duplicate tabs |
@@ -298,6 +299,7 @@
 | [darkmatter2048/WindowsCleaner](https://github.com/darkmatter2048/WindowsCleaner) | Windows Cleaner——专治C盘爆红及各种不服！ |
 | [darkreader/darkreader](https://github.com/darkreader/darkreader) | Dark Reader Chrome and Firefox extension |
 | [darktable-org/darktable](https://github.com/darktable-org/darktable) | darktable is an open source photography workflow application and raw developer |
+| [datlechin/TablePro](https://github.com/datlechin/TablePro) | A fast, native macOS database client with built-in AI assistant. |
 | [DavidXanatos/TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) | Power full Task Manager |
 | [daybreak1929/ViaBrowserCollection](https://github.com/daybreak1929/ViaBrowserCollection) | 个人为 via 浏览器自定义/功能保留的一份完整资料，仍在持续补全，来源于：https://gitee.com/daybreak166/ViaBrowse... |
 | [dbcli/mycli](https://github.com/dbcli/mycli) | A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting. |
@@ -318,6 +320,7 @@
 | [DichuuCraft/SReplay](https://github.com/DichuuCraft/SReplay) | Server-side recording mod for ReplayMod |
 | [Dictionaryphile/All_Dictionaries](https://github.com/Dictionaryphile/All_Dictionaries) | 宇宙最全在线词典网站导航 |
 | [dimdenGD/OldTwitter](https://github.com/dimdenGD/OldTwitter) | Extension to return old Twitter layout from 2015 / 2018. |
+| [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) | A Patch for GIMP 3+ for Photoshop Users |
 | [Diorser/LiteMonitor](https://github.com/Diorser/LiteMonitor) | 一款轻量级、高度可定制的 Windows桌面和任务栏硬件性能监控工具，支持监测 CPU、GPU、内存、磁盘、网速、FPS 计数、插件扩展及内存清理。A l... |
 | [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) | 🧡 Everything is RSSible |
 | [dmester/jdenticon](https://github.com/dmester/jdenticon) | Javascript library for generating identicons. Running in the browser and on N... |
@@ -518,6 +521,7 @@
 | [helloworldpxy/thunder-https](https://github.com/helloworldpxy/thunder-https) | 专业的迅雷专用链转换工具，可将thunder://开头的加密链接转换为可直接使用的HTTP/HTTPS下载地址。支持Windows/macOS双平台（li... |
 | [Hendrix-Shen/MagicLib](https://github.com/Hendrix-Shen/MagicLib) | To beat magic with magic :( |
 | [Hendrix-Shen/Tweak-My-Client](https://github.com/Hendrix-Shen/Tweak-My-Client) | Add something interesting <3 |
+| [HenryChiao/MIHOMO_YAMLS](https://github.com/HenryChiao/MIHOMO_YAMLS) | 一个精心整理的 Mihomo (Clash Meta) 配置文件仓库，通过 GitHub Actions 每日自动同步上游优质规则，提供从入门到进阶的完整... |
 | [HenryChiao/Windows-Simple-Tool-Kit](https://github.com/HenryChiao/Windows-Simple-Tool-Kit) | Windows Simple Tool Kit 是一套实用的 Windows 工具合集，涵盖 系统优化、硬件检测、存储管理、桌面美化、病毒查杀、运行库 等... |
 | [henrygd/beszel](https://github.com/henrygd/beszel) | Lightweight server monitoring hub with historical data, docker stats, and ale... |
 | [HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources) | Autoupdate iptv sources |
@@ -650,6 +654,7 @@
 | [JunkFood02/Seal](https://github.com/JunkFood02/Seal) | 🦭 Video/Audio Downloader for Android, based on yt-dlp |
 | [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) | C# application with primary purpose of farming Steam cards from multiple acco... |
 | [justice2001/halo-plugin-vditor](https://github.com/justice2001/halo-plugin-vditor) | 适用于Halo2.0的Vditor编辑器 |
+| [justjake/quickjs-emscripten](https://github.com/justjake/quickjs-emscripten) | Safely execute untrusted Javascript in your Javascript, and execute synchrono... |
 | [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | :books: 免费的计算机编程类中文书籍，欢迎投稿 |
 | [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) | Simulates Gemini CLI, Antigravity, Qwen Code, and Kiro client requests, compa... |
 | [jynew/jynew](https://github.com/jynew/jynew) | JinYongLegend-like RPG Game Framework with full Modding support and 10+ hours... |
@@ -951,6 +956,7 @@
 | [myflavor/NoActive-V2](https://github.com/myflavor/NoActive-V2) | NoActive UI版本 |
 | [mywalkb/LSPosed_mod](https://github.com/mywalkb/LSPosed_mod) | My changes to LSPosed |
 | [Mzdyl/LiteLoaderQQNT_Install](https://github.com/Mzdyl/LiteLoaderQQNT_Install) | 针对 LiteLoaderQQNT 的安装脚本 |
+| [mzky/m4s-converter](https://github.com/mzky/m4s-converter) | 一个跨平台小工具，将bilibili缓存的m4s格式音视频文件合并成mp4 |
 | [Nagi-ovo/gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager) | An all-in-one enhancement suite for Google Gemini & AI Studio - timeline navi... |
 | [nakanomikuorg/arch-guide](https://github.com/nakanomikuorg/arch-guide) | ✨ archlinux 简明指南 / 本指南包含从 archlinux 安装、显卡驱动、日常软件配置、多媒体制作、编程等你可能需要的全部内容 / 提供在线... |
 | [nakixii/Magisk_AsoulOpt](https://github.com/nakixii/Magisk_AsoulOpt) | None |
@@ -1093,7 +1099,7 @@
 | [privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD) | 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD 现已支持 AdGuardHome，dnsmasq，Surge，Pi... |
 | [PRO-2684/Scriptio](https://github.com/PRO-2684/Scriptio) | Load custom UserScripts for QQNT |
 | [programminghoch10/ViPER4AndroidRepackaged](https://github.com/programminghoch10/ViPER4AndroidRepackaged) | A refined ViPER4Android installer. |
-| [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) | Heterogeneous GPU Sharing on Kubernetes - https://project-hami.io |
+| [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) | Heterogeneous GPU Sharing on Kubernetes |
 | [ProtocolScience/AstralGocq](https://github.com/ProtocolScience/AstralGocq) | 基于原版gocq的协议二次开发版，让gocq再次伟大 |
 | [pskill9/web-search](https://github.com/pskill9/web-search) | Web search using free google search (NO API KEYS REQUIRED) |
 | [pterodactyl-china/panel](https://github.com/pterodactyl-china/panel) | 【翼龙面板汉化版】Pterodactyl®的中文汉化并国内本土化版本，并实时更新主分支的dev内容。 |
@@ -1288,6 +1294,7 @@
 | [suqi8/OShin](https://github.com/suqi8/OShin) | 一个专为ColorOS系统设计的辅助模块 |
 | [suxuang/myIPTV](https://github.com/suxuang/myIPTV) | 【典藏版】高清直播源涵盖几乎所有卫视节目，内置完美台标加节目预告 |
 | [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) | All in one emulator on Android! |
+| [sxyazi/yazi](https://github.com/sxyazi/yazi) | 💥 Blazing fast terminal file manager written in Rust, based on async I/O. |
 | [sxzxs/Real-time-translation-typing](https://github.com/sxzxs/Real-time-translation-typing) | 实时打字翻译软件、语音实时打字、语音实时翻译、LOL 语音打字 |
 | [symbuzzer/livebootmodule](https://github.com/symbuzzer/livebootmodule) | A Magisk, KernelSU and APatch module that enables unix-style (verbose) boot a... |
 | [syncthing/syncthing](https://github.com/syncthing/syncthing) | Open Source Continuous File Synchronization |
