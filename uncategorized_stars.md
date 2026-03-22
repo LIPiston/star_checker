@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sat Mar 21 02:24:54 UTC 2026 | 总计: **1627** 个未分类项目
+> 生成于 UTC 时间: Sun Mar 22 02:39:52 UTC 2026 | 总计: **1629** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -45,6 +45,7 @@
 | [adv-inn/Futaba](https://github.com/adv-inn/Futaba) | A League of Legends companion client built with Tauri, supporting both deskto... |
 | [Aefyr/SAI](https://github.com/Aefyr/SAI) | Android split APKs installer |
 | [afeimod/winlator-mod](https://github.com/afeimod/winlator-mod) | Android application for running Windows applications with Wine and Box86/Box64 |
+| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | The agent harness performance optimization system. Skills, instincts, memory,... |
 | [agalwood/Motrix](https://github.com/agalwood/Motrix) | A full-featured download manager. |
 | [agentskills/agentskills](https://github.com/agentskills/agentskills) | Specification and documentation for Agent Skills |
 | [AHCorn/Bilibili-Auto-Quality](https://github.com/AHCorn/Bilibili-Auto-Quality) | 自动解锁并更改哔哩哔哩视频的画质和音质及直播画质，实现自动选择最高画质、无损音频、杜比全景声。 / Automatically unlock and se... |
@@ -87,6 +88,7 @@
 | [antfu/handle](https://github.com/antfu/handle) | A Chinese Hanzi variation of Wordle - 汉字 Wordle |
 | [antfu/starter-vscode](https://github.com/antfu/starter-vscode) | Starter template for VS Code Extension |
 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Claude Code is an agentic coding tool that lives in your terminal, understand... |
+| [antinomyhq/forgecode](https://github.com/antinomyhq/forgecode) | AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini ... |
 | [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) | Personal theme for Obsidian |
 | [Anuken/Mindustry](https://github.com/Anuken/Mindustry) | The automation tower defense RTS |
 | [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | :zap: Dynamically generated stats for your github readmes |
@@ -1548,7 +1550,7 @@
 | [xugaoyi/vuepress-theme-vdoing-doc](https://github.com/xugaoyi/vuepress-theme-vdoing-doc) | vuepress-theme-vdoing主题文档 |
 | [xuwd1/wemeet-wayland-screenshare](https://github.com/xuwd1/wemeet-wayland-screenshare) | 实现Linux Wayland下腾讯会议屏幕共享（非虚拟相机）. Hook library that enables screenshare with T... |
 | [xwmx/nb](https://github.com/xwmx/nb) | CLI and local web plain text note‑taking, bookmarking, and archiving with lin... |
-| [xx025/carrot](https://github.com/xx025/carrot) | Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点 |
+| [xx025/carrot](https://github.com/xx025/carrot) | AI 工具导航大全，帮你快速筛选免费、实用、高效的网站资源 |
 | [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) | Offline translation model server with low resource consumption, fast speed, a... |
 | [xxxily/h5player](https://github.com/xxxily/h5player) | This software supports all audio and video websites, such as TikTok, YouTube,... |
 | [XYenon/catppuccin-fcitx5-android](https://github.com/XYenon/catppuccin-fcitx5-android) | 🐧 Soothing pastel theme for fcitx5-android |
