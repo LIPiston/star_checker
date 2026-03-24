@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Mon Mar 23 02:40:10 UTC 2026 | 总计: **1629** 个未分类项目
+> 生成于 UTC 时间: Tue Mar 24 02:31:31 UTC 2026 | 总计: **1630** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -1320,6 +1320,7 @@
 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop and mobile applications with a... |
 | [Teahouse-Studios/mcwzh-meme-resourcepack](https://github.com/Teahouse-Studios/mcwzh-meme-resourcepack) | A pack that include meme translation in Chinese. / 梗体中文 |
 | [Team-Jackdaw/Essential-PlayerInfo](https://github.com/Team-Jackdaw/Essential-PlayerInfo) | This is a very lightweight plugin for Velocity proxy. |
+| [TeamVastsea/MultiLoginReloaded](https://github.com/TeamVastsea/MultiLoginReloaded) | 外置共存 |
 | [teaSummer/MCiSEE](https://github.com/teaSummer/MCiSEE) | 所见皆是Minecraft，让获取MC资源更加轻便！All of Minecraft, EASILY get Minecraft resources! |
 | [TecoStudio/Frozen_Pear_Pack](https://github.com/TecoStudio/Frozen_Pear_Pack) | The continuation package of PTP, adding some functions. |
 | [teddysun/across](https://github.com/teddysun/across) | Across the Great Wall we can reach every corner in the world |
