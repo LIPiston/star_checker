@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Tue Mar 24 02:31:31 UTC 2026 | 总计: **1630** 个未分类项目
+> 生成于 UTC 时间: Wed Mar 25 02:36:45 UTC 2026 | 总计: **1630** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -363,7 +363,7 @@
 | [End-Tech/syncmatica](https://github.com/End-Tech/syncmatica) | Server-wide shared litematics. |
 | [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) | Space exploration, trading, and combat game. |
 | [eooce/Sing-box](https://github.com/eooce/Sing-box) | 既然来了，就留下你的Star吧！Serv00 / CT8 / Hostuno / VPS / 游戏机 / sing-box(reality + hy2 +... |
-| [ErisPulse/ErisPulse](https://github.com/ErisPulse/ErisPulse) | ErisPulse - 一个 Python 异步优先 的机器人框架，支持插件化扩展、多协议适配 |
+| [ErisPulse/ErisPulse](https://github.com/ErisPulse/ErisPulse) | ErisPulse - 可扩展的异步 Python SDK 框架（Extensible Async Python SDK），支持插件系统、多协议适配、热重载开发 |
 | [eritpchy/FingerprintPay](https://github.com/eritpchy/FingerprintPay) | 让微信、QQ、支付宝、淘宝、云闪付支持使用指纹支付 |
 | [ErLinErYi/PlantsVsZombies](https://github.com/ErLinErYi/PlantsVsZombies) | PlantsVsZombies game made by cocos2dx 3.16 (c++) |
 | [ermaozi/get_subscribe](https://github.com/ermaozi/get_subscribe) | ✈️ 白嫖免费机场  / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，持续更新 / 科学上网 / 翻墙 |
