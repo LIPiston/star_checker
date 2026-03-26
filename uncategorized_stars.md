@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Wed Mar 25 02:36:45 UTC 2026 | 总计: **1630** 个未分类项目
+> 生成于 UTC 时间: Thu Mar 26 02:44:06 UTC 2026 | 总计: **1630** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -301,7 +301,6 @@
 | [darkmatter2048/WindowsCleaner](https://github.com/darkmatter2048/WindowsCleaner) | Windows Cleaner——专治C盘爆红及各种不服！ |
 | [darkreader/darkreader](https://github.com/darkreader/darkreader) | Dark Reader Chrome and Firefox extension |
 | [darktable-org/darktable](https://github.com/darktable-org/darktable) | darktable is an open source photography workflow application and raw developer |
-| [datlechin/TablePro](https://github.com/datlechin/TablePro) | A fast, native macOS database client with built-in AI assistant. |
 | [DavidXanatos/TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) | Power full Task Manager |
 | [daybreak1929/ViaBrowserCollection](https://github.com/daybreak1929/ViaBrowserCollection) | 个人为 via 浏览器自定义/功能保留的一份完整资料，仍在持续补全，来源于：https://gitee.com/daybreak166/ViaBrowse... |
 | [dbcli/mycli](https://github.com/dbcli/mycli) | A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting. |
@@ -637,7 +636,7 @@
 | [jinenge/tvbox](https://github.com/jinenge/tvbox) | TVBox(自带配置版)，内置源，随时更新内置源，不必担心不能用 |
 | [jing332/tts-server-android](https://github.com/jing332/tts-server-android) | 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有... |
 | [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed) | LSPosed Framework resuscitated |
-| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h! |
+| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 🚀🚀 「大模型」2小时完全从0训练64M的小参数GPT！🌏 Train a 64M-parameter GPT from scratch in just 2h! |
 | [jiqiu2022/Zygisk-MyInjector](https://github.com/jiqiu2022/Zygisk-MyInjector) | 一个自定义注入so的脚手架,现在已经支持了界面化使用。 |
 | [JohanChane/clashtui](https://github.com/JohanChane/clashtui) | Mihomo (Clash.Meta) TUI Client |
 | [johnfactotum/foliate](https://github.com/johnfactotum/foliate) | Read e-books in style |
@@ -814,7 +813,7 @@
 | [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) | Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android) |
 | [lucasnlm/antimine-android](https://github.com/lucasnlm/antimine-android) | Antimine is an open source minesweeper-like puzzle game. |
 | [lucinhu/bili_you](https://github.com/lucinhu/bili_you) | 一个用flutter制作的第三方B站客户端. |
-| [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) | frp跨平台桌面客户端，可视化配置，轻松实现内网穿透！ 支持所有frp版本 |
+| [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) | Cross-platform desktop client for FRP, visual configuration, easily achieve i... |
 | [lucko/BungeeGuard](https://github.com/lucko/BungeeGuard) | A plugin-based security/firewall solution for BungeeCord and Velocity proxies. |
 | [lucko/spark](https://github.com/lucko/spark) | A performance profiler for Minecraft clients, servers, and proxies. |
 | [LuckyPray/XAutoDaily](https://github.com/LuckyPray/XAutoDaily) | 一个基于QQ的全自动签到模块 |
@@ -1108,7 +1107,6 @@
 | [pubpub-zz/ppInk](https://github.com/pubpub-zz/ppInk) | Fork from Gink |
 | [pulse-browser/browser](https://github.com/pulse-browser/browser) | Pulse Browser: An experimental firefox fork |
 | [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) | Empowering everyone to host fast and efficient Minecraft servers. |
-| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | A collection of MCP servers. |
 | [PureWriter/desktop](https://github.com/PureWriter/desktop) | Pure Writer Desktop |
 | [Purple-CSGO/CS2-Config-Presets](https://github.com/Purple-CSGO/CS2-Config-Presets) | 🎉​ CFG Presets for many scenarios in Counter-Strike 2 |
 | [Purple-CSGO/CSGO-Config-Presets](https://github.com/Purple-CSGO/CSGO-Config-Presets) | :tada:​ Presets of Config files for many scenarios in CS:GO and CS2 (Limited ... |
@@ -1305,6 +1303,7 @@
 | [taamarin/box.manager](https://github.com/taamarin/box.manager) | Optional |
 | [taamarin/box_for_magisk](https://github.com/taamarin/box_for_magisk) | Transparent Proxy for Android(root)  |
 | [taamarin/ClashforMagisk](https://github.com/taamarin/ClashforMagisk) | Transparent proxy(Tproxy) for android (root) |
+| [TableProApp/TablePro](https://github.com/TableProApp/TablePro) | A fast, native macOS database client with built-in AI assistant. |
 | [taganaka/SpeedTest](https://github.com/taganaka/SpeedTest) | Yet another unofficial speedtest.net client cli interface |
 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | The easiest, most secure way to use WireGuard and 2FA. |
 | [taisei-project/taisei](https://github.com/taisei-project/taisei) | A free and open-source Touhou Project fangame |
@@ -1595,6 +1594,7 @@
 | [Zephyruso/zashboard](https://github.com/Zephyruso/zashboard) | None |
 | [zer0k-z/cs2-movement-issues](https://github.com/zer0k-z/cs2-movement-issues) | List of movement related issues related to CS2 which did not exist in CS:GO* |
 | [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega) | Manage and switch between multiple proxies quickly & easily. |
+| [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) | opensource secure local-first sandboxes for ai agents |
 | [zeruniverse/boardgame_helper](https://github.com/zeruniverse/boardgame_helper) | Forked from https://github.com/zeruniverse/texas_game |
 | [zfdang/Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper) | AdSkip — an Android assistant for automatically skipping app launch ads |
 | [zfile-dev/zfile](https://github.com/zfile-dev/zfile) | 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载 |
