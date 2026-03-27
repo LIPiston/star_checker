@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Thu Mar 26 02:44:06 UTC 2026 | 总计: **1630** 个未分类项目
+> 生成于 UTC 时间: Fri Mar 27 02:46:25 UTC 2026 | 总计: **1629** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -117,6 +117,7 @@
 | [aui/font-spider](https://github.com/aui/font-spider) | Smart webfont compression and format conversion tool |
 | [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) | Authenticator generates 2-Step Verification codes in your browser. |
 | [Auto-Plugin/milkup](https://github.com/Auto-Plugin/milkup) | A cross-platform, instant-rendering desktop Markdown editor 一个跨平台的、即时渲染桌面端 Ma... |
+| [Automattic/simplenote-electron](https://github.com/Automattic/simplenote-electron) | Simplenote for Web, Windows, and Linux |
 | [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) | Pydoll is a library for automating chromium-based browsers without a WebDrive... |
 | [awesome-iwb/awesome-iwb](https://github.com/awesome-iwb/awesome-iwb) | ✨ 「Awesome Iwb」是专为广大中小学电教打造的班级希沃/鸿合等一体机/数字白板/班班通一站式软件推荐清单和实用知识手册，助你在新学期快速上手班级... |
 | [Axeryok/CocoaInput](https://github.com/Axeryok/CocoaInput) | A best way to input characters with native mac IM in Minecraft  |
@@ -264,6 +265,7 @@
 | [coder/code-server](https://github.com/coder/code-server) | VS Code in the browser |
 | [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) | Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extrac... |
 | [CodeWorksCreativeHub/EasyLauncher](https://github.com/CodeWorksCreativeHub/EasyLauncher) | EasyLauncher - Minimal and Clutter Free Android launcher |
+| [codexu/note-gen](https://github.com/codexu/note-gen) | A cross-platform Markdown AI note-taking software. |
 | [cofedream/extensions-copymanga](https://github.com/cofedream/extensions-copymanga) | Mihon的Copymanga扩展 |
 | [ColdWindScholar/D.N.A3](https://github.com/ColdWindScholar/D.N.A3) | 【开源】安卓一般固件解包打包助手【 Droid Normal Assistant 】 |
 | [CollegesChat/university-information](https://github.com/CollegesChat/university-information) | 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节 |
@@ -635,7 +637,7 @@
 | [jindrapetrik/jpexs-decompiler](https://github.com/jindrapetrik/jpexs-decompiler) | JPEXS Free Flash Decompiler |
 | [jinenge/tvbox](https://github.com/jinenge/tvbox) | TVBox(自带配置版)，内置源，随时更新内置源，不必担心不能用 |
 | [jing332/tts-server-android](https://github.com/jing332/tts-server-android) | 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有... |
-| [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed) | LSPosed Framework resuscitated |
+| [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed) | Modern Xposed Framework |
 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 🚀🚀 「大模型」2小时完全从0训练64M的小参数GPT！🌏 Train a 64M-parameter GPT from scratch in just 2h! |
 | [jiqiu2022/Zygisk-MyInjector](https://github.com/jiqiu2022/Zygisk-MyInjector) | 一个自定义注入so的脚手架,现在已经支持了界面化使用。 |
 | [JohanChane/clashtui](https://github.com/JohanChane/clashtui) | Mihomo (Clash.Meta) TUI Client |
@@ -1047,7 +1049,7 @@
 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | The open-source CapCut alternative |
 | [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) | SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended! |
 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 🙌 OpenHands: AI-Driven Development |
-| [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) | A free, open-source app store for GitHub releases — browse, discover, and ins... |
+| [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) | 🩵 A free, open-source app store for GitHub releases — browse, discover, and i... |
 | [openjdk/mobile](https://github.com/openjdk/mobile) | https://openjdk.org/projects/mobile |
 | [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) | A new AList Fork to Anti Trust Crisis |
 | [OpenListTeam/OpenList-Desktop](https://github.com/OpenListTeam/OpenList-Desktop) | A desktop application for OpenList |
@@ -1283,7 +1285,6 @@
 | [subframe7536/maple-font](https://github.com/subframe7536/maple-font) | Maple Mono: Open source monospace font with round corner, ligatures and Nerd-... |
 | [SuGar0218/PreLaunchTaskr](https://github.com/SuGar0218/PreLaunchTaskr) | 通过映像劫持，在应用程序启动前做一些事情，例如：更改启动参数、设置环境变量、执行程序或脚本。 |
 | [suitenumerique/docs](https://github.com/suitenumerique/docs) | A collaborative note taking, wiki and documentation platform that scales. Bui... |
-| [suiyuanlixin/fas-rs-usage-clamping](https://github.com/suiyuanlixin/fas-rs-usage-clamping) | Frame aware scheduling for android, work with cpufreq clamping. Requires 5.10... |
 | [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra) | Kernel-based Android Root Solution & KPM |
 | [SunsetMkt/anti-ip-attribution](https://github.com/SunsetMkt/anti-ip-attribution) | 针对部分网站显示IP归属地的流量分流规则 |
 | [sunshine0523/Mi-Freeform](https://github.com/sunshine0523/Mi-Freeform) | Mi-Freeform 3 is an Android third-party freeform software that supports Andro... |
@@ -1404,9 +1405,7 @@
 | [u-Sir/peek-pop](https://github.com/u-Sir/peek-pop) | A lightweight, open-source browser extension lets you preview, search, and sa... |
 | [u14app/deep-research](https://github.com/u14app/deep-research) | Use any LLMs (Large Language Models) for Deep Research. Support SSE API and M... |
 | [umami-software/umami](https://github.com/umami-software/umami) | Umami is a modern, privacy-focused analytics platform. An open-source alterna... |
-| [uncle-novel/jfx-launcher](https://github.com/uncle-novel/jfx-launcher) | OpenJFX应用的启动器，支持热更新。使用模块化API动态加载模块启动，支持动态修改模块化打破规则。 |
-| [uncle-novel/uncle-novel](https://github.com/uncle-novel/uncle-novel) | 📖 Uncle小说，PC版，一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说。 |
-| [uncle-novel/uncle-novel-android](https://github.com/uncle-novel/uncle-novel-android) | :book: Uncle小说安卓版，一款能够对全网小说进行解析与下载的工具，同时支持文本小说与有声小说。 |
+| [uncle-novel/uncle-novel](https://github.com/uncle-novel/uncle-novel) | None |
 | [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | Google Chromium, sans integration with Google |
 | [univrsal/input-overlay](https://github.com/univrsal/input-overlay) | Show keyboard, gamepad and mouse input on stream |
 | [unmojang/drasl](https://github.com/unmojang/drasl) | Yggdrasil-compatible API server for Minecraft |
