@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Fri Mar 27 02:46:25 UTC 2026 | 总计: **1629** 个未分类项目
+> 生成于 UTC 时间: Sat Mar 28 02:35:35 UTC 2026 | 总计: **1629** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -1524,7 +1524,7 @@
 | [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) | 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~ |
 | [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) | 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracke... |
 | [XIU2/UserScript](https://github.com/XIU2/UserScript) | 🐵 自用的一些乱七八糟 油猴脚本~  |
-| [XIU2/Yuedu](https://github.com/XIU2/Yuedu) | 📚「阅读」APP 自用书源（网络小说） |
+| [XIU2/Yuedu](https://github.com/XIU2/Yuedu) | 📚「阅读」自用书源分享 |
 | [xjunz/AutoSkip](https://github.com/xjunz/AutoSkip) | 基于Shizuku授权的安卓"自动跳过"工具 |
 | [xlc520/MaoTV](https://github.com/xlc520/MaoTV) | 猫影视资源接口 |
 | [xlucn/oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android) | 个人收集的实用、良心开源安卓软件 |
