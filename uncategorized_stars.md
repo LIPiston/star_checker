@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sat Mar 28 02:35:35 UTC 2026 | 总计: **1629** 个未分类项目
+> 生成于 UTC 时间: Sun Mar 29 02:50:21 UTC 2026 | 总计: **1633** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -465,6 +465,7 @@
 | [gitui-org/gitui](https://github.com/gitui-org/gitui) | Blazing 💥 fast terminal-ui for git written in rust 🦀 |
 | [gkd-kit/gkd](https://github.com/gkd-kit/gkd) | 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 / An Android APP with custom screen tapping base... |
 | [glanceapp/glance](https://github.com/glanceapp/glance) | A self-hosted dashboard that puts all your feeds in one place |
+| [glincker/thesvg](https://github.com/glincker/thesvg) | 5,600+ brand SVG icons for developers. Tree-shakeable, typed, open source. np... |
 | [GlobeMC/crashmc.com](https://github.com/GlobeMC/crashmc.com) | CrashMC.com Website |
 | [gloeyisk/universal-gms-doze](https://github.com/gloeyisk/universal-gms-doze) | Patches Google Play services app and certain processes/services to be able to... |
 | [gnembon/carpet-extra](https://github.com/gnembon/carpet-extra) | Extra Features for Carpet Mod |
@@ -526,11 +527,12 @@
 | [Hendrix-Shen/Tweak-My-Client](https://github.com/Hendrix-Shen/Tweak-My-Client) | Add something interesting <3 |
 | [HenryChiao/MIHOMO_YAMLS](https://github.com/HenryChiao/MIHOMO_YAMLS) | 一个精心整理的 Mihomo (Clash Meta) 配置文件仓库，通过 GitHub Actions 每日自动同步上游优质规则，提供从入门到进阶的完整... |
 | [HenryChiao/Windows-Simple-Tool-Kit](https://github.com/HenryChiao/Windows-Simple-Tool-Kit) | Windows Simple Tool Kit 是一套实用的 Windows 工具合集，涵盖 系统优化、硬件检测、存储管理、桌面美化、病毒查杀、运行库 等... |
-| [henrygd/beszel](https://github.com/henrygd/beszel) | Lightweight server monitoring hub with historical data, docker stats, and ale... |
+| [henrygd/beszel](https://github.com/henrygd/beszel) | Lightweight server monitoring with historical data, docker stats, and alerts. |
 | [HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources) | Autoupdate iptv sources |
 | [HeyPuter/puter](https://github.com/HeyPuter/puter) | 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable. |
 | [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) | OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫... |
 | [HisMax/RedInk](https://github.com/HisMax/RedInk) | Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano ... |
+| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | CLI-Anything: Making ALL Software Agent-Native |
 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | "🐈 nanobot: The Ultra-Lightweight OpenClaw" |
 | [HMBSbige/NatTypeTester](https://github.com/HMBSbige/NatTypeTester) | 测试当前网络的 NAT 类型（STUN） |
 | [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL) | A Minecraft Launcher which is multi-functional, cross-platform and popular |
@@ -637,7 +639,7 @@
 | [jindrapetrik/jpexs-decompiler](https://github.com/jindrapetrik/jpexs-decompiler) | JPEXS Free Flash Decompiler |
 | [jinenge/tvbox](https://github.com/jinenge/tvbox) | TVBox(自带配置版)，内置源，随时更新内置源，不必担心不能用 |
 | [jing332/tts-server-android](https://github.com/jing332/tts-server-android) | 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有... |
-| [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed) | Modern Xposed Framework |
+| [JingMatrix/Vector](https://github.com/JingMatrix/Vector) | Modern Xposed Framework |
 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 🚀🚀 「大模型」2小时完全从0训练64M的小参数GPT！🌏 Train a 64M-parameter GPT from scratch in just 2h! |
 | [jiqiu2022/Zygisk-MyInjector](https://github.com/jiqiu2022/Zygisk-MyInjector) | 一个自定义注入so的脚手架,现在已经支持了界面化使用。 |
 | [JohanChane/clashtui](https://github.com/JohanChane/clashtui) | Mihomo (Clash.Meta) TUI Client |
@@ -1292,9 +1294,11 @@
 | [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) | GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本 |
 | [SuperMarcus/LevelDBViewer](https://github.com/SuperMarcus/LevelDBViewer) | A Java program provides ablities to access & edit leveldb database |
 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | Memory engine and app that is extremely fast, scalable. The Memory API for th... |
+| [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) | opensource secure local-first sandboxes for ai agents |
 | [suqi8/OShin](https://github.com/suqi8/OShin) | 一个专为ColorOS系统设计的辅助模块 |
 | [suxuang/myIPTV](https://github.com/suxuang/myIPTV) | 【典藏版】高清直播源涵盖几乎所有卫视节目，内置完美台标加节目预告 |
 | [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) | All in one emulator on Android! |
+| [swyefun/BBLLV5](https://github.com/swyefun/BBLLV5) | 一个第三方哔哩哔哩客户端修复 |
 | [sxyazi/yazi](https://github.com/sxyazi/yazi) | 💥 Blazing fast terminal file manager written in Rust, based on async I/O. |
 | [sxzxs/Real-time-translation-typing](https://github.com/sxzxs/Real-time-translation-typing) | 实时打字翻译软件、语音实时打字、语音实时翻译、LOL 语音打字 |
 | [symbuzzer/livebootmodule](https://github.com/symbuzzer/livebootmodule) | A Magisk, KernelSU and APatch module that enables unix-style (verbose) boot a... |
@@ -1430,6 +1434,7 @@
 | [venera-app/venera-configs](https://github.com/venera-app/venera-configs) | None |
 | [ventoy/Ventoy](https://github.com/ventoy/Ventoy) | A new bootable USB solution. |
 | [Vera-Firefly/Pojav-Glow-Worm](https://github.com/Vera-Firefly/Pojav-Glow-Worm) | PojavLauncher with more practical functions,A modified Launcher from the Poja... |
+| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Browser automation CLI for AI agents |
 | [vercel-labs/json-render](https://github.com/vercel-labs/json-render) | The Generative UI framework |
 | [vernesong/OpenClash](https://github.com/vernesong/OpenClash) | A Clash Client For OpenWrt |
 | [VERT-sh/VERT](https://github.com/VERT-sh/VERT) | The next-generation file converter. Open source, fully local* and free forever. |
@@ -1593,7 +1598,6 @@
 | [Zephyruso/zashboard](https://github.com/Zephyruso/zashboard) | None |
 | [zer0k-z/cs2-movement-issues](https://github.com/zer0k-z/cs2-movement-issues) | List of movement related issues related to CS2 which did not exist in CS:GO* |
 | [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega) | Manage and switch between multiple proxies quickly & easily. |
-| [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) | opensource secure local-first sandboxes for ai agents |
 | [zeruniverse/boardgame_helper](https://github.com/zeruniverse/boardgame_helper) | Forked from https://github.com/zeruniverse/texas_game |
 | [zfdang/Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper) | AdSkip — an Android assistant for automatically skipping app launch ads |
 | [zfile-dev/zfile](https://github.com/zfile-dev/zfile) | 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载 |
