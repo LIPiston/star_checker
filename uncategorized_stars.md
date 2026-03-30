@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sun Mar 29 02:50:21 UTC 2026 | 总计: **1633** 个未分类项目
+> 生成于 UTC 时间: Mon Mar 30 02:52:38 UTC 2026 | 总计: **1632** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -72,7 +72,7 @@
 | [amchii/tg-signer](https://github.com/amchii/tg-signer) | 电报自动执行（签到、发送消息、点击键盘、AI回复等）；个人、群组、频道消息监控、转发与自动回复。Automated Telegram tasks (che... |
 | [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) | An app for managing github starred repositories.  |
 | [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) | A Download Manager that speeds up your downloads |
-| [amzxyz/RIME-LMDG](https://github.com/amzxyz/RIME-LMDG) | fcitx5扩展词库/Rime全局带声调词库，最全声调标注工具链，Rime语法模型：LMDG - Language, Model, Dictionary,... |
+| [amzxyz/RIME-LMDG](https://github.com/amzxyz/RIME-LMDG) | 扩展词库/声调编码/最全声调标注工具链/万象更新工具链/Rime语法模型：LMDG - Language, Model, Dictionary, Gram... |
 | [amzxyz/rime_wanxiang](https://github.com/amzxyz/rime_wanxiang) | 万象拼音：基于rime生态打造，全方位对标大厂体验，内置大语料与AI辅助炼制的向量词库和语法模型，全带调编码词库，让输入行云流水，开箱即用。更有PRO版带... |
 | [anasfanani/magisk-tailscaled](https://github.com/anasfanani/magisk-tailscaled) | Magisk/KernelSU module for running Tailscale on rooted Android devices. The e... |
 | [Andrews54757/tweakfork](https://github.com/Andrews54757/tweakfork) | A modified small client-side Minecraft mod that adds various configurable twe... |
@@ -1308,7 +1308,7 @@
 | [taamarin/box.manager](https://github.com/taamarin/box.manager) | Optional |
 | [taamarin/box_for_magisk](https://github.com/taamarin/box_for_magisk) | Transparent Proxy for Android(root)  |
 | [taamarin/ClashforMagisk](https://github.com/taamarin/ClashforMagisk) | Transparent proxy(Tproxy) for android (root) |
-| [TableProApp/TablePro](https://github.com/TableProApp/TablePro) | A fast, native macOS database client with built-in AI assistant. |
+| [TableProApp/TablePro](https://github.com/TableProApp/TablePro) | Native macOS client for every database |
 | [taganaka/SpeedTest](https://github.com/taganaka/SpeedTest) | Yet another unofficial speedtest.net client cli interface |
 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | The easiest, most secure way to use WireGuard and 2FA. |
 | [taisei-project/taisei](https://github.com/taisei-project/taisei) | A free and open-source Touhou Project fangame |
@@ -1476,7 +1476,6 @@
 | [weiyourumeng/RM-Toolbox](https://github.com/weiyourumeng/RM-Toolbox) | 入梦工具箱 |
 | [wekan/wekan](https://github.com/wekan/wekan) | The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLO... |
 | [welai/glow-sans](https://github.com/welai/glow-sans) | SHSans-derived CJK font family with a more concise & modern look. 未来荧黑·未來熒黑·ヒ... |
-| [wenfeng110402/AppleMusic-Downloader](https://github.com/wenfeng110402/AppleMusic-Downloader) | 一个图形化AppleMusic下载器 |
 | [wgh136/PicaComic](https://github.com/wgh136/PicaComic) | A comic app built with Flutter, supporting multiple comic sources. |
 | [wgpsec/CreateHiddenAccount](https://github.com/wgpsec/CreateHiddenAccount) | A tool for creating hidden accounts using the registry // 一个使用注册表创建隐藏帐户的工具 |
 | [Widdit/now-playing-service](https://github.com/Widdit/now-playing-service) | 一款全能的「正在播放」歌曲展示工具。支持检测 20+ 款音乐软件的歌曲信息，内置精美歌曲组件、歌词组件、播放器，提供 API 接口。适配 OBS 等直播软... |
