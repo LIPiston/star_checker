@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Tue Mar 31 02:45:54 UTC 2026 | 总计: **1631** 个未分类项目
+> 生成于 UTC 时间: Wed Apr  1 02:57:37 UTC 2026 | 总计: **1631** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -1293,7 +1293,7 @@
 | [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) | GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本 |
 | [SuperMarcus/LevelDBViewer](https://github.com/SuperMarcus/LevelDBViewer) | A Java program provides ablities to access & edit leveldb database |
 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | Memory engine and app that is extremely fast, scalable. The Memory API for th... |
-| [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) | opensource secure local-first sandboxes for ai agents |
+| [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) | secure, local-first and programmable sandboxes for AI agents |
 | [suqi8/OShin](https://github.com/suqi8/OShin) | 一个专为ColorOS系统设计的辅助模块 |
 | [suxuang/myIPTV](https://github.com/suxuang/myIPTV) | 【典藏版】高清直播源涵盖几乎所有卫视节目，内置完美台标加节目预告 |
 | [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) | All in one emulator on Android! |
