@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Wed Apr  1 02:57:37 UTC 2026 | 总计: **1631** 个未分类项目
+> 生成于 UTC 时间: Thu Apr  2 02:41:56 UTC 2026 | 总计: **1635** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -430,6 +430,7 @@
 | [fscarmen/ArgoX](https://github.com/fscarmen/ArgoX) | Argo Xray for VPS one-click script. 一键脚本 |
 | [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) | Open source, compact, and material designed cursor set. |
 | [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) | The beautiful & flexible React.js docs framework. |
+| [fxliang/fcitx5-android](https://github.com/fxliang/fcitx5-android) | Fcitx5 input method framework and engines ported to Android |
 | [FxMorin/carpet-fixes](https://github.com/FxMorin/carpet-fixes) | fabric-carpet extension mod which attempts to fix as many vanilla minecraft b... |
 | [FxMorin/MemoryLeakFix](https://github.com/FxMorin/MemoryLeakFix) | A Fabric Mod that fixes multiple memory leaks in minecraft |
 | [gaboolic/rime-frost](https://github.com/gaboolic/rime-frost) | 白霜拼音：蒹葭苍苍，白露为霜。白霜拼音使用使用745396750字的高质量语料，进行分词，重新统计字频、词频，归一化，打造纯净、词频准确、智能的词库。白霜... |
@@ -585,6 +586,7 @@
 | [ikuaitu/vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor) | 快图设计-基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image edi... |
 | [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) | ImageMagick is a free, open-source software suite for creating, editing, conv... |
 | [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) | 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵 |
+| [imfile-io/imfile-desktop](https://github.com/imfile-io/imfile-desktop) | A full-featured download manager. |
 | [imknown/AndroidLowLevelDetector](https://github.com/imknown/AndroidLowLevelDetector) | Detect Treble, GSI, Mainline, APEX, system-as-root(SAR), A/B, etc. |
 | [immich-app/immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. |
 | [imputnet/cobalt](https://github.com/imputnet/cobalt) | best way to save what you love |
@@ -661,7 +663,7 @@
 | [justice2001/halo-plugin-vditor](https://github.com/justice2001/halo-plugin-vditor) | 适用于Halo2.0的Vditor编辑器 |
 | [justjake/quickjs-emscripten](https://github.com/justjake/quickjs-emscripten) | Safely execute untrusted Javascript in your Javascript, and execute synchrono... |
 | [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | :books: 免费的计算机编程类中文书籍，欢迎投稿 |
-| [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) | Simulates Gemini CLI, Antigravity, Qwen Code, and Kiro client requests, compa... |
+| [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) | Simulates Gemini CLI, Antigravity, Codex, Grok, and Kiro client requests, com... |
 | [jynew/jynew](https://github.com/jynew/jynew) | JinYongLegend-like RPG Game Framework with full Modding support and 10+ hours... |
 | [K11MCH1/AdrenoToolsDrivers](https://github.com/K11MCH1/AdrenoToolsDrivers) | A repository for Skyline, Strato, Vita3K and Yuzu Android compatible Adreno d... |
 | [kaajjo/LibreSudoku](https://github.com/kaajjo/LibreSudoku) | LibreSudoku - Sudoku app for android built with Kotlin + Jetpack Compose + Ma... |
@@ -1110,6 +1112,7 @@
 | [pubpub-zz/ppInk](https://github.com/pubpub-zz/ppInk) | Fork from Gink |
 | [pulse-browser/browser](https://github.com/pulse-browser/browser) | Pulse Browser: An experimental firefox fork |
 | [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) | Empowering everyone to host fast and efficient Minecraft servers. |
+| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | A collection of MCP servers. |
 | [PureWriter/desktop](https://github.com/PureWriter/desktop) | Pure Writer Desktop |
 | [Purple-CSGO/CS2-Config-Presets](https://github.com/Purple-CSGO/CS2-Config-Presets) | 🎉​ CFG Presets for many scenarios in Counter-Strike 2 |
 | [Purple-CSGO/CSGO-Config-Presets](https://github.com/Purple-CSGO/CSGO-Config-Presets) | :tada:​ Presets of Config files for many scenarios in CS:GO and CS2 (Limited ... |
@@ -1599,6 +1602,7 @@
 | [zeruniverse/boardgame_helper](https://github.com/zeruniverse/boardgame_helper) | Forked from https://github.com/zeruniverse/texas_game |
 | [zfdang/Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper) | AdSkip — an Android assistant for automatically skipping app launch ads |
 | [zfile-dev/zfile](https://github.com/zfile-dev/zfile) | 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载 |
+| [Zfinix/another](https://github.com/Zfinix/another) | A desktop app for mirroring and controlling Android devices over USB. Built w... |
 | [zgsm-ai/costrict](https://github.com/zgsm-ai/costrict) | Costrict - strict AI coder for enterprises, quality first, including AI Agent... |
 | [zh-lx/pinyin-pro](https://github.com/zh-lx/pinyin-pro) | 中文转拼音、拼音音调、拼音声母、拼音韵母、多音字拼音、姓氏拼音、拼音匹配、中文分词 |
 | [zhaobozhen/Anywhere-](https://github.com/zhaobozhen/Anywhere-) | None |
