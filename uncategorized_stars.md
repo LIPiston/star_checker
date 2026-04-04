@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Fri Apr  3 02:44:43 UTC 2026 | 总计: **1636** 个未分类项目
+> 生成于 UTC 时间: Sat Apr  4 02:34:32 UTC 2026 | 总计: **1636** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -446,7 +446,7 @@
 | [Gaoyifei1011/GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp) | 离线下载 Microsoft Store 商店应用 |
 | [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC. |
 | [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) | Show your latest blog posts from any sources or StackOverflow activity or You... |
-| [gautamkrishnar/motrix-webextension](https://github.com/gautamkrishnar/motrix-webextension) | A browser extension for the Motrix Download Manager |
+| [gautamkrishnar/motrix-webextension](https://github.com/gautamkrishnar/motrix-webextension) | A browser extension for the Motrix Download Manager and its forks |
 | [GBALATRO/balatro-gba](https://github.com/GBALATRO/balatro-gba) | None |
 | [gbl/AntiGhost](https://github.com/gbl/AntiGhost) | Mod that requests the server to send surrounding blocks to you, to get rid of... |
 | [gedoor/legado](https://github.com/gedoor/legado) | Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可... |
@@ -928,7 +928,6 @@
 | [miru-project/miru-app](https://github.com/miru-project/miru-app) | 🎉 A versatile application that is free, open-source, and supports extension s... |
 | [mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) | completely free for everyone. Its build-in Flutter Dart. |
 | [MIUI-Monet-Project/Module](https://github.com/MIUI-Monet-Project/Module) | Material You wallpaper-based dynamic theme for MIUI & HyperOS system apps on ... |
-| [MkQtS/Carefree](https://github.com/MkQtS/Carefree) | An elegant Potplayer skin |
 | [MlgmXyysd/Xiaomi-BootLoader-Questionnaire](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire) | 小米 BootLoader《解锁资格答题测试》更新记录 |
 | [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) | Easily install PHP extensions in Docker containers |
 | [MMmmmoko/CatTuber](https://github.com/MMmmmoko/CatTuber) | None |
@@ -1133,6 +1132,7 @@
 | [Quaver/Quaver](https://github.com/Quaver/Quaver) | The ultimate community-driven, and open-source competitive rhythm game availa... |
 | [Querz/mcaselector](https://github.com/Querz/mcaselector) | A tool to select chunks from Minecraft worlds for deletion or export. |
 | [QuiltServerTools/Ledger](https://github.com/QuiltServerTools/Ledger) |  A server-side logging mod for fabric 1.17+ |
+| [qwq233/Nullgram](https://github.com/qwq233/Nullgram) | 3rd party client of Telegram |
 | [QYG2297248353/appstore-1panel](https://github.com/QYG2297248353/appstore-1panel) | Docker Compose 应用商店 已支持：1Panel, DPanel, Dockge |
 | [r0x0r/pywebview](https://github.com/r0x0r/pywebview) | Build GUI for your Python program with JavaScript, HTML, and CSS |
 | [R1ckyH/ChatBridgeReforged](https://github.com/R1ckyH/ChatBridgeReforged) | Reforged of ChatBridge, interaction with other clients(such as Minecraft serv... |
@@ -1297,7 +1297,7 @@
 | [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) | GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本 |
 | [SuperMarcus/LevelDBViewer](https://github.com/SuperMarcus/LevelDBViewer) | A Java program provides ablities to access & edit leveldb database |
 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | Memory engine and app that is extremely fast, scalable. The Memory API for th... |
-| [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) | secure, local-first and programmable sandboxes for AI agents |
+| [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) | local-first and programmable sandboxes for AI agents |
 | [suqi8/OShin](https://github.com/suqi8/OShin) | 一个专为ColorOS系统设计的辅助模块 |
 | [suxuang/myIPTV](https://github.com/suxuang/myIPTV) | 【典藏版】高清直播源涵盖几乎所有卫视节目，内置完美台标加节目预告 |
 | [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) | All in one emulator on Android! |
