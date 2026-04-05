@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sat Apr  4 02:34:32 UTC 2026 | 总计: **1636** 个未分类项目
+> 生成于 UTC 时间: Sun Apr  5 02:52:22 UTC 2026 | 总计: **1636** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -28,7 +28,7 @@
 | [8Mi-Tech/LSPatch-ApkFactory](https://github.com/8Mi-Tech/LSPatch-ApkFactory) | 一个基于LSPatch的打包工具，自动为常见应用打LSPatch补丁的仓库，包括各类分支(详见readme) |
 | [aa2013/ClipShare](https://github.com/aa2013/ClipShare) | A cross-platform (currently Android, Windows, Linux, MacOS) clipboard history... |
 | [aaa1115910/bv](https://github.com/aaa1115910/bv) | 哔哩哔哩 的第三方 Android 应用。A third-party Android app for Bilibili. |
-| [abcz316/SKRoot-linuxKernelRoot](https://github.com/abcz316/SKRoot-linuxKernelRoot) | 新一代SKRoot，完美隐藏root功能，挑战全网root检测手段，实现真正的SELinux 0%触碰、无挂载，通用性强，通杀所有内核，不需要内核源码，直... |
+| [abcz316/SKRoot-linuxKernelRoot](https://github.com/abcz316/SKRoot-linuxKernelRoot) | 新一代 SKRoot，完美隐藏Root功能，无视全网检测手段，实现SELinux零触碰、无挂载！ 通杀所有内核，免源码直接 Patch 原厂内核，完美保留... |
 | [Acfboy/twt-werewolf-master-ng](https://github.com/Acfboy/twt-werewolf-master-ng) | Modern generation of twt-werewolf-master |
 | [ACGaming/UniversalTweaks](https://github.com/ACGaming/UniversalTweaks) | A community project to consolidate various bugfixes and tweaks into a single ... |
 | [AChep/keyguard-app](https://github.com/AChep/keyguard-app) | Alternative client for the Bitwarden® platform & KeePass (KDBX), created to p... |
@@ -533,7 +533,7 @@
 | [HeyPuter/puter](https://github.com/HeyPuter/puter) | 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable. |
 | [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) | OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫... |
 | [HisMax/RedInk](https://github.com/HisMax/RedInk) | Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano ... |
-| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | CLI-Anything: Making ALL Software Agent-Native -- CLI-Hub: https://clianythin... |
+| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianyth... |
 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | "🐈 nanobot: The Ultra-Lightweight Personal AI Assistant" |
 | [HMBSbige/NatTypeTester](https://github.com/HMBSbige/NatTypeTester) | 测试当前网络的 NAT 类型（STUN） |
 | [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL) | A Minecraft Launcher which is multi-functional, cross-platform and popular |
