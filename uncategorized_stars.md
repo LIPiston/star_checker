@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Mon Apr  6 02:53:29 UTC 2026 | 总计: **1637** 个未分类项目
+> 生成于 UTC 时间: Tue Apr  7 02:47:09 UTC 2026 | 总计: **1638** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -411,6 +411,7 @@
 | [festoney8/LiteLoaderQQNT-Telegram-Theme](https://github.com/festoney8/LiteLoaderQQNT-Telegram-Theme) | LiteLoaderQQNT 主题，高仿 Telegram 风格 |
 | [fi3ework/hexo-theme-archer](https://github.com/fi3ework/hexo-theme-archer) | 🎯 A smart and modern theme for Hexo. |
 | [files-community/Files](https://github.com/files-community/Files) | A modern file manager that helps users organize their files and folders. |
+| [Finsider/starhud](https://github.com/Finsider/starhud) | a HUD mod for Minecraft. |
 | [Finsys/dockhand](https://github.com/Finsys/dockhand) | Dockhand - Docker management you will like. |
 | [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) | The user-friendly command line shell. |
 | [Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project) | 基于思源黑体，并以中国大陆字形为标准的对中日韩越统一表意文字扩展区进行字形补充的项目。 |
@@ -1410,7 +1411,7 @@
 | [TypesettingTools/Aegisub](https://github.com/TypesettingTools/Aegisub) | Cross-platform advanced subtitle editor |
 | [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) | Downloads videos and playlists from YouTube |
 | [tytydraco/LADB](https://github.com/tytydraco/LADB) | A local ADB shell for Android! |
-| [u-Sir/peek-pop](https://github.com/u-Sir/peek-pop) | A lightweight, open-source browser extension lets you preview, search, and sa... |
+| [u-Sir/peek-pop](https://github.com/u-Sir/peek-pop) | Instantly preview links with a simple double-click, without breaking your wor... |
 | [u14app/deep-research](https://github.com/u14app/deep-research) | Use any LLMs (Large Language Models) for Deep Research. Support SSE API and M... |
 | [umami-software/umami](https://github.com/umami-software/umami) | Umami is a modern, privacy-focused analytics platform. An open-source alterna... |
 | [uncle-novel/uncle-novel](https://github.com/uncle-novel/uncle-novel) | None |
