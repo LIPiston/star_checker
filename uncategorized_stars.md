@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Tue Apr  7 02:47:09 UTC 2026 | 总计: **1638** 个未分类项目
+> 生成于 UTC 时间: Wed Apr  8 02:48:16 UTC 2026 | 总计: **1639** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -10,7 +10,7 @@
 | [1357310795/MyComputerManager](https://github.com/1357310795/MyComputerManager) | 管理“此电脑”里删不掉的流氓“快捷方式”（包括侧边栏），同时可自己添加这类“快捷方式” |
 | [15dd/wenku8reader](https://github.com/15dd/wenku8reader) | 第三方轻小说文库app |
 | [1995chen/dnf](https://github.com/1995chen/dnf) | None |
-| [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) | 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw in one click. |
+| [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) | 🔥 1Panel is a modern, open-source VPS control panel — and the only one with n... |
 | [201206030/novel-plus](https://github.com/201206030/novel-plus) | novel-plus 是一个多端（PC、WAP）阅读 、功能完善的小说 CMS 系统。包括小说推荐、小说检索、小说排行、小说阅读、小说书架、小说评论、小说... |
 | [201853910/VMwareWorkstation](https://github.com/201853910/VMwareWorkstation) | 手动上传官网的VMwareWorkstation安装包 |
 | [233boy/v2ray](https://github.com/233boy/v2ray) | 最好用的 V2Ray 一键安装脚本 & 管理脚本 |
@@ -259,6 +259,7 @@
 | [clover-yan/Ink-Canvas-Plus](https://github.com/clover-yan/Ink-Canvas-Plus) | Ink Canvas Plus (IC+) 是一款由 Clover Yan 维护、复刻自 WXRIW/Ink Canvas 的 Windows 画板应用，... |
 | [cmj2002/warp-docker](https://github.com/cmj2002/warp-docker) | Run Cloudflare WARP in Docker. |
 | [cmliu/CF-Workers-SpeedTestURL](https://github.com/cmliu/CF-Workers-SpeedTestURL) | 使用 CloudFlare Workers 搭建专属CloudFlareSpeedTest测速地址 |
+| [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) | edgetunnel2 VLESS/Trojan 多功能面板 |
 | [cmliu/SubsCheck-Win-GUI](https://github.com/cmliu/SubsCheck-Win-GUI) | SubsCheck 为 Windows 用户设计的 GUI 程序界面。 |
 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. |
 | [codehz/minecraft-unicode-font-texture-generator-online](https://github.com/codehz/minecraft-unicode-font-texture-generator-online) | minecraft unicode font texture generator online(Static Web Page) |
@@ -1094,6 +1095,7 @@
 | [plusls/oh-my-minecraft-client](https://github.com/plusls/oh-my-minecraft-client) | oh-my-minecraft-client |
 | [plusls/plusls-carpet-addition](https://github.com/plusls/plusls-carpet-addition) | carpet addition for minecraft |
 | [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | Open Source realtime backend in 1 file |
+| [PocketTogether/pocket-chat](https://github.com/PocketTogether/pocket-chat) | 一个基于 PocketBase 与 Vue3 的实时聊天平台 / A real-time chat platform built with PocketB... |
 | [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) | A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Su... |
 | [popcap-games/PvZ](https://github.com/popcap-games/PvZ) | Plants vs. Zombies GOTY (NO installation required) |
 | [PorkStudios/FarPlaneTwo](https://github.com/PorkStudios/FarPlaneTwo) | Level-of-Detail renderer in Minecraft. Allows for render distances of million... |
@@ -1114,7 +1116,6 @@
 | [pubpub-zz/ppInk](https://github.com/pubpub-zz/ppInk) | Fork from Gink |
 | [pulse-browser/browser](https://github.com/pulse-browser/browser) | Pulse Browser: An experimental firefox fork |
 | [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) | Empowering everyone to host fast and efficient Minecraft servers. |
-| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | A collection of MCP servers. |
 | [PureWriter/desktop](https://github.com/PureWriter/desktop) | Pure Writer Desktop |
 | [Purple-CSGO/CS2-Config-Presets](https://github.com/Purple-CSGO/CS2-Config-Presets) | 🎉​ CFG Presets for many scenarios in Counter-Strike 2 |
 | [Purple-CSGO/CSGO-Config-Presets](https://github.com/Purple-CSGO/CSGO-Config-Presets) | :tada:​ Presets of Config files for many scenarios in CS:GO and CS2 (Limited ... |
