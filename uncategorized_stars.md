@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Wed Apr  8 02:48:16 UTC 2026 | 总计: **1639** 个未分类项目
+> 生成于 UTC 时间: Thu Apr  9 02:42:50 UTC 2026 | 总计: **1641** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -548,6 +548,7 @@
 | [hongchacha/cartoon](https://github.com/hongchacha/cartoon) | 全是漫画，免费漫画app |
 | [honmaple/maple-file](https://github.com/honmaple/maple-file) | Multi-protocol cloud file upload and management with serverless / 无服务端的多协议云盘文... |
 | [hoothin/UserScripts](https://github.com/hoothin/UserScripts) | Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴腳本集 ... |
+| [hoowhoami/EchoMusic](https://github.com/hoowhoami/EchoMusic) | 🎉 一个简约的第三方酷狗概念版音乐播放器 |
 | [HorizonEmuTeam/Horizon-Emu](https://github.com/HorizonEmuTeam/Horizon-Emu) | None |
 | [horsemail/yourtv](https://github.com/horsemail/yourtv) | 安卓电视直播APK：IPTV/網頁視頻支持X5，可自定義源(支持webview://格式)，IPTV支持畫中畫和熄屏播放。 Android TV Live... |
 | [HorseSword/joplin-plugin-notellm](https://github.com/HorseSword/joplin-plugin-notellm) | NoteLLM is an AI plugin for Joplin. It's completely open-source and does not ... |
@@ -1116,6 +1117,7 @@
 | [pubpub-zz/ppInk](https://github.com/pubpub-zz/ppInk) | Fork from Gink |
 | [pulse-browser/browser](https://github.com/pulse-browser/browser) | Pulse Browser: An experimental firefox fork |
 | [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) | Empowering everyone to host fast and efficient Minecraft servers. |
+| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | A collection of MCP servers. |
 | [PureWriter/desktop](https://github.com/PureWriter/desktop) | Pure Writer Desktop |
 | [Purple-CSGO/CS2-Config-Presets](https://github.com/Purple-CSGO/CS2-Config-Presets) | 🎉​ CFG Presets for many scenarios in Counter-Strike 2 |
 | [Purple-CSGO/CSGO-Config-Presets](https://github.com/Purple-CSGO/CSGO-Config-Presets) | :tada:​ Presets of Config files for many scenarios in CS:GO and CS2 (Limited ... |
@@ -1447,7 +1449,7 @@
 | [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) | An Android application for streaming music from YouTube Music |
 | [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) | 📱 Display and control your Android device graphically with scrcpy. |
 | [ViaVersion/ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus) | Minecraft Fabric mod which allows you to join EVERY Minecraft server version ... |
-| [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) | A focused launcher for your desktop — native, fast, extensible |
+| [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) | A focused launcher for your desktop - native, fast, extensible |
 | [VickScarlet/lifeRestart](https://github.com/VickScarlet/lifeRestart) | やり直すんだ。そして、次はうまくやる。 |
 | [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator) | ASCII generator (image to text, image to image, video to video) |
 | [VIKINGYFY/OpenWRT-CI](https://github.com/VIKINGYFY/OpenWRT-CI) | 云编译OpenWRT开源固件 |
