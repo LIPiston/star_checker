@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Thu Apr  9 02:42:50 UTC 2026 | 总计: **1641** 个未分类项目
+> 生成于 UTC 时间: Fri Apr 10 02:54:35 UTC 2026 | 总计: **1642** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -376,6 +376,7 @@
 | [eternalfuture-e38299/TEFModLoader](https://github.com/eternalfuture-e38299/TEFModLoader) | 下一代高性能跨平台Terraria模组加载器 |
 | [Eugeny/russh](https://github.com/Eugeny/russh) | Rust SSH client & server library |
 | [Eugeny/tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age |
+| [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) | A memory OS that makes your agents more personal while saving tokens. |
 | [extesy/hoverzoom](https://github.com/extesy/hoverzoom) | Google Chrome extension for zooming images on mouse hover |
 | [Extremelyd1/minecraft-bingo](https://github.com/Extremelyd1/minecraft-bingo) | Item bingo in Minecraft |
 | [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) | The Fully Customizable Desktop Environment for Windows 10/11. |
