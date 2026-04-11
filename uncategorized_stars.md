@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Fri Apr 10 02:54:35 UTC 2026 | 总计: **1642** 个未分类项目
+> 生成于 UTC 时间: Sat Apr 11 02:38:40 UTC 2026 | 总计: **1645** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -89,7 +89,6 @@
 | [antfu/handle](https://github.com/antfu/handle) | A Chinese Hanzi variation of Wordle - 汉字 Wordle |
 | [antfu/starter-vscode](https://github.com/antfu/starter-vscode) | Starter template for VS Code Extension |
 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Claude Code is an agentic coding tool that lives in your terminal, understand... |
-| [antinomyhq/forgecode](https://github.com/antinomyhq/forgecode) | AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini ... |
 | [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) | Personal theme for Obsidian |
 | [Anuken/Mindustry](https://github.com/Anuken/Mindustry) | The automation tower defense RTS |
 | [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | :zap: Dynamically generated stats for your github readmes |
@@ -129,6 +128,7 @@
 | [AZ-Studio-2023/AZMusicDownloader](https://github.com/AZ-Studio-2023/AZMusicDownloader) | AZ音乐下载器 - 优雅地下载音乐 - 多API集成客户端 / Download music gracefully |
 | [azat-io/actions-up](https://github.com/azat-io/actions-up) | 🌊 Interactive CLI tool to update GitHub Actions to latest versions with SHA p... |
 | [azhon/AppUpdate](https://github.com/azhon/AppUpdate) | Android App update library.  Android版本更新库，简单、轻量、可随意定制 |
+| [backslashxx/mountify](https://github.com/backslashxx/mountify) | Globally mounted modules via OverlayFS. |
 | [baidusama/EroPassword](https://github.com/baidusama/EroPassword) | 一些常用的解压密码（包括但不限于本子、里番、galgame） |
 | [bajrangCoder/acode-plugin-acodex](https://github.com/bajrangCoder/acode-plugin-acodex) | AcodeX - A Terminal plugin for Acode App |
 | [BakaXL-Launcher/BakaXL](https://github.com/BakaXL-Launcher/BakaXL) | BakaXL 项目门户 / BakaXL Project's Portal |
@@ -299,7 +299,7 @@
 | [czy0729/Bangumi](https://github.com/czy0729/Bangumi) | :electron: An unofficial https://bgm.tv ui first app client for Android and i... |
 | [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se) | SD Maid 2/SE is Android's most thorough cleaning tool. |
 | [daeuniverse/dae](https://github.com/daeuniverse/dae) | eBPF-based Linux high-performance transparent proxy solution. |
-| [dandavison/delta](https://github.com/dandavison/delta) | A syntax-highlighting pager for git, diff, grep, and blame output |
+| [dandavison/delta](https://github.com/dandavison/delta) | A syntax-highlighting pager for git, diff, grep, rg --json, and blame output |
 | [DanGLVK/Hide-Navbar](https://github.com/DanGLVK/Hide-Navbar) | Hide Navbar |
 | [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bit... |
 | [darkmatter2048/WindowsCleaner](https://github.com/darkmatter2048/WindowsCleaner) | Windows Cleaner——专治C盘爆红及各种不服！ |
@@ -1239,6 +1239,7 @@
 | [ShirkNeko/GKI_KernelSU_SUSFS](https://github.com/ShirkNeko/GKI_KernelSU_SUSFS) | 使用 SukiSU 和 SUSFS 的 GKI 内核 |
 | [ShizukuIchi/minesweeper](https://github.com/ShizukuIchi/minesweeper) | 💣 Windows XP minesweeper in web. Also support mobile. 🎉📱 |
 | [ShouChenICU/FastSend](https://github.com/ShouChenICU/FastSend) | FastSend 是一个基于 WebRTC 技术的点对点文件传输工具，支持快速的目录同步和文件传输。通过浏览器即可实现安全、高效的文件共享。 |
+| [shuakami/qq-chat-exporter](https://github.com/shuakami/qq-chat-exporter) | 🚀 QQ聊天记录、表情包导出工具 / 自动化提取图片/文字/图片消息，支持TXT/JSON导出，高效备份，支持NT QQ  |
 | [siavash79/PixelXpert](https://github.com/siavash79/PixelXpert) | mixed Xposed+Magisk module for customization of Google Pixel rom of Android 12+ |
 | [sigoden/dufs](https://github.com/sigoden/dufs) | A file server that supports static serving, uploading, searching, accessing c... |
 | [simdutf/simdutf](https://github.com/simdutf/simdutf) | Unicode routines (UTF8, UTF16, UTF32) and Base64: billions of characters per ... |
@@ -1303,7 +1304,7 @@
 | [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) | GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本 |
 | [SuperMarcus/LevelDBViewer](https://github.com/SuperMarcus/LevelDBViewer) | A Java program provides ablities to access & edit leveldb database |
 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | Memory engine and app that is extremely fast, scalable. The Memory API for th... |
-| [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) | local-first and programmable sandboxes for AI agents |
+| [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) | 🧱 local, programmable sandboxes for AI agents |
 | [suqi8/OShin](https://github.com/suqi8/OShin) | 一个专为ColorOS系统设计的辅助模块 |
 | [suxuang/myIPTV](https://github.com/suxuang/myIPTV) | 【典藏版】高清直播源涵盖几乎所有卫视节目，内置完美台标加节目预告 |
 | [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) | All in one emulator on Android! |
@@ -1319,6 +1320,7 @@
 | [taamarin/ClashforMagisk](https://github.com/taamarin/ClashforMagisk) | Transparent proxy(Tproxy) for android (root) |
 | [TableProApp/TablePro](https://github.com/TableProApp/TablePro) | Native macOS client for every database |
 | [taganaka/SpeedTest](https://github.com/taganaka/SpeedTest) | Yet another unofficial speedtest.net client cli interface |
+| [tailcallhq/forgecode](https://github.com/tailcallhq/forgecode) | AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini ... |
 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | The easiest, most secure way to use WireGuard and 2FA. |
 | [taisei-project/taisei](https://github.com/taisei-project/taisei) | A free and open-source Touhou Project fangame |
 | [takagen99/Box](https://github.com/takagen99/Box) | Experimental |
@@ -1578,6 +1580,7 @@
 | [Yidadaa/shuangpin](https://github.com/Yidadaa/shuangpin) | 纸砚双拼，可能是最好用的双拼练习工具，支持声母 / 韵母 / 长句模式、自定义双拼方案、进度统计、深色模式、成就系统。 |
 | [yin-ol/MiPushFaker](https://github.com/yin-ol/MiPushFaker) | Xposed模块，伪装机型让普通应用能够正确识别到MiPush，搭配MiPushFramework使用 |
 | [yinwanxi/Uperf-Game-Turbo](https://github.com/yinwanxi/Uperf-Game-Turbo) | Userspace performance controller for android |
+| [Yiyiyimu/QQ-History-Backup](https://github.com/Yiyiyimu/QQ-History-Backup) | QQ聊天记录备份导出，支持无密钥导出，图片导出。无需编译有GUI界面。Backup Chating History of Instant Messagin... |
 | [ymyuuu/Cloudflare-Workers-Proxy](https://github.com/ymyuuu/Cloudflare-Workers-Proxy) | 简单而功能强大的反代服务，允许你将一个网址映射到另一个网址，并处理跨域请求 |
 | [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) | Sing-box精装桶五合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个... |
 | [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) | warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netfli... |
@@ -1596,7 +1599,7 @@
 | [Z-Siqi/Clash-for-Windows_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) | clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序 |
 | [z44499783/NoADList](https://github.com/z44499783/NoADList) | 常用广告过滤规则汇总 |
 | [Zackptg5/Disable_Dm-Verity_ForceEncrypt](https://github.com/Zackptg5/Disable_Dm-Verity_ForceEncrypt) | Disables dm-verity and forceencrypt |
-| [ZalithLauncher/ZalithLauncher](https://github.com/ZalithLauncher/ZalithLauncher) | Zalith Launcher is a Minecraft launcher developed based on PojavLauncher, cap... |
+| [ZalithLauncher/ZalithLauncher](https://github.com/ZalithLauncher/ZalithLauncher) | Due to maintenance difficulties, this project has been archived. Check out th... |
 | [ZalithLauncher/ZalithLauncher2](https://github.com/ZalithLauncher/ZalithLauncher2) | A Minecraft: Java Edition Launcher for Android |
 | [Zarestia-Dev/rclone-manager](https://github.com/Zarestia-Dev/rclone-manager) | RClone Manager is a cross-platform GUI application designed to help users man... |
 | [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) | Create web-based user interfaces with Python. The nice way. |
