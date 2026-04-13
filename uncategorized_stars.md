@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sun Apr 12 02:58:03 UTC 2026 | 总计: **1645** 个未分类项目
+> 生成于 UTC 时间: Mon Apr 13 03:23:01 UTC 2026 | 总计: **1646** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -568,7 +568,7 @@
 | [huynhsontung/Screenbox](https://github.com/huynhsontung/Screenbox) | LibVLC-based media player for the Universal Windows Platform |
 | [huzesama/ASGuard](https://github.com/huzesama/ASGuard) | Magisk模块，用于安卓的无障碍服务(或名:辅助功能)辅助管理模块 |
 | [HyDE-Project/HyDE](https://github.com/HyDE-Project/HyDE) | HyDE, your Development Environment 🖥️💻 |
-| [IacobIonut01/Gallery](https://github.com/IacobIonut01/Gallery) | Media Gallery app for Android made with Jetpack Compose |
+| [IacobIonut01/ReFra](https://github.com/IacobIonut01/ReFra) | Media Gallery app for Android made with Jetpack Compose |
 | [iamcco/ds-pinyin-lsp](https://github.com/iamcco/ds-pinyin-lsp) | Dead Simple Pinyin Language Server |
 | [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) | markdown preview plugin for (neo)vim |
 | [iamr0s/Dhizuku](https://github.com/iamr0s/Dhizuku) | A tool that can share DeviceOwner permissions to other application. |
@@ -979,6 +979,7 @@
 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | IronClaw is OpenClaw inspired implementation in Rust focused on privacy and s... |
 | [NEKOparapa/AiNiee](https://github.com/NEKOparapa/AiNiee) | 一款专注于Ai翻译的工具，一键自动翻译RPG SLG游戏，Epub TXT小说，PDF Word MD文档，Srt Vtt Lrc字幕等等复杂长文本。 |
 | [nektos/act](https://github.com/nektos/act) | Run your GitHub Actions locally 🚀 |
+| [NeoApplications/Neo-Launcher](https://github.com/NeoApplications/Neo-Launcher) | Neo-Launcher |
 | [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) | An F-Droid client with modern UI and an arsenal of extra features. |
 | [neoblackxt/AnyWebView](https://github.com/neoblackxt/AnyWebView) | Any WebView is OK! |
 | [neovim/neovim](https://github.com/neovim/neovim) | Vim-fork focused on extensibility and usability |
@@ -1304,7 +1305,7 @@
 | [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) | GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本 |
 | [SuperMarcus/LevelDBViewer](https://github.com/SuperMarcus/LevelDBViewer) | A Java program provides ablities to access & edit leveldb database |
 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | Memory engine and app that is extremely fast, scalable. The Memory API for th... |
-| [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) | 🧱 secure, local and programmable sandboxes for AI agents |
+| [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) | 🧱 secure, local, cross-platform and programmable sandboxes for AI agents |
 | [suqi8/OShin](https://github.com/suqi8/OShin) | 一个专为ColorOS系统设计的辅助模块 |
 | [suxuang/myIPTV](https://github.com/suxuang/myIPTV) | 【典藏版】高清直播源涵盖几乎所有卫视节目，内置完美台标加节目预告 |
 | [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) | All in one emulator on Android! |
