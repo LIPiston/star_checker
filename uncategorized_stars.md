@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Mon Apr 13 03:23:01 UTC 2026 | 总计: **1646** 个未分类项目
+> 生成于 UTC 时间: Tue Apr 14 02:55:36 UTC 2026 | 总计: **1653** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -58,6 +58,7 @@
 | [Aizistral-Studios/No-Chat-Reports](https://github.com/Aizistral-Studios/No-Chat-Reports) | Disable Player Chat Reporting and make user messages untrackable. |
 | [Alanrk/LazyCat-Bookmark-Cleaner](https://github.com/Alanrk/LazyCat-Bookmark-Cleaner) | 让书签管理变得轻松愉快！一只可爱的懒猫助手，帮你智能清理和整理浏览器书签。 |
 | [Alanrk/TabMark-Bookmark-New-Tab](https://github.com/Alanrk/TabMark-Bookmark-New-Tab) | TabMark是一款基于书签的新标签页插件，将你的收藏夹变成新标签页，让你收藏的书签一目了然、整洁高效，快速直达你最需要的网站和资源。搭配智能 AI 搜索... |
+| [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks. |
 | [Alex4SSB/ADB-Explorer](https://github.com/Alex4SSB/ADB-Explorer) | A fluent UI for ADB on Windows |
 | [alex8088/electron-vite](https://github.com/alex8088/electron-vite) | Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护 |
 | [alexhua/Aria2-Explorer](https://github.com/alexhua/Aria2-Explorer) | An aria2 download task management extension for chromium based browser |
@@ -108,7 +109,7 @@
 | [artisticat1/obsidian-latex-suite](https://github.com/artisticat1/obsidian-latex-suite) | Make typesetting LaTeX as fast as handwriting through snippets, text expansio... |
 | [aseprite/aseprite](https://github.com/aseprite/aseprite) | Animated sprite editor & pixel art tool (Windows, macOS, Linux) |
 | [astei/lazydfu](https://github.com/astei/lazydfu) | Fabric mod that makes Minecraft DataFixerUpper initialization lazy |
-| [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs,... |
+| [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | AI Agent Assistant that integrates lots of IM platforms, LLMs, plugins and AI... |
 | [Astro-2539/ZLabs-Bitmap](https://github.com/Astro-2539/ZLabs-Bitmap) | 一款开源的小型化像素字体 |
 | [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) | 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体 |
 | [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) | 🚀 An open and lightweight modification to Windows, designed to optimize perfo... |
@@ -125,6 +126,8 @@
 | [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) | 🐱 跨平台互动桌宠 BongoCat，为桌面增添乐趣！ |
 | [Ayman-Isam/HungerGames](https://github.com/Ayman-Isam/HungerGames) | A modern HungerGames Plugin for Minecraft |
 | [Ayndpa/ConnectTool](https://github.com/Ayndpa/ConnectTool) | None |
+| [AyuGram/AyuGram4A](https://github.com/AyuGram/AyuGram4A) | Just an exteraGram based client with ToS breaking features in mind. |
+| [AyuGram/AyuGramDesktop](https://github.com/AyuGram/AyuGramDesktop) | Desktop Telegram client with good customization and Ghost mode. |
 | [AZ-Studio-2023/AZMusicDownloader](https://github.com/AZ-Studio-2023/AZMusicDownloader) | AZ音乐下载器 - 优雅地下载音乐 - 多API集成客户端 / Download music gracefully |
 | [azat-io/actions-up](https://github.com/azat-io/actions-up) | 🌊 Interactive CLI tool to update GitHub Actions to latest versions with SHA p... |
 | [azhon/AppUpdate](https://github.com/azhon/AppUpdate) | Android App update library.  Android版本更新库，简单、轻量、可随意定制 |
@@ -595,6 +598,7 @@
 | [imknown/AndroidLowLevelDetector](https://github.com/imknown/AndroidLowLevelDetector) | Detect Treble, GSI, Mainline, APEX, system-as-root(SAR), A/B, etc. |
 | [immich-app/immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. |
 | [imputnet/cobalt](https://github.com/imputnet/cobalt) | best way to save what you love |
+| [imsyy/SPlayer](https://github.com/imsyy/SPlayer) | 🎵 A cross-platform music player with Jellyfin / Navidrome / Emby media server... |
 | [indiff/qttabbar](https://github.com/indiff/qttabbar) | QTTabBar is a small tool that allows you to use tab multi label function in W... |
 | [ineo6/fast-dev](https://github.com/ineo6/fast-dev) | GitHub访问助手 |
 | [ineo6/hosts](https://github.com/ineo6/hosts) | GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。 |
@@ -696,6 +700,7 @@
 | [KenRouKoro/MachineStatus](https://github.com/KenRouKoro/MachineStatus) | MachineStatus服务器监控 |
 | [KenRouKoro/MachineStatusClient](https://github.com/KenRouKoro/MachineStatusClient) | MachineStatus服务器监控客户端 |
 | [kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages) | openwrt常用软件包 |
+| [kenzok8/small-package](https://github.com/kenzok8/small-package) | 自动同步更新上游库软件 |
 | [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) | An advanced Kernel based root solution for Android |
 | [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) | Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support no... |
 | [KhronosGroup/Vulkan-Docs](https://github.com/KhronosGroup/Vulkan-Docs) | The Vulkan API Specification and related tools |
@@ -1176,6 +1181,7 @@
 | [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) | Using system APIs directly with adb/root privileges from normal apps through ... |
 | [RikkaApps/StorageRedirect-assets](https://github.com/RikkaApps/StorageRedirect-assets) | Assets (rules, apks etc) for Storage Redirect app. |
 | [RikkaApps/Sui](https://github.com/RikkaApps/Sui) | Modern super user interface implementation on Android. |
+| [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) | RikkaHub is an Android APP that supports for multiple LLM providers. |
 | [rime/librime](https://github.com/rime/librime) | Rime Input Method Engine, the core library |
 | [rime/weasel](https://github.com/rime/weasel) | 【小狼毫】Rime for Windows |
 | [RimoChan/sese-engine](https://github.com/RimoChan/sese-engine) | 【sese-engine】新时代的搜索引擎！ |
@@ -1395,6 +1401,7 @@
 | [topjohnwu/ndk-busybox](https://github.com/topjohnwu/ndk-busybox) | BusyBox building with command ndk-build |
 | [Tornaco/Thanox](https://github.com/Tornaco/Thanox) | I am thanos! 😈 👌 |
 | [torvalds/AudioNoise](https://github.com/torvalds/AudioNoise) | Random digital audio effects |
+| [torvalds/linux](https://github.com/torvalds/linux) | Linux kernel source tree |
 | [Tosencen/XMSLEEP](https://github.com/Tosencen/XMSLEEP) | 一款白噪音应用送给你，祝您牛掰，有的是钱 |
 | [tosuapp/tosu](https://github.com/tosuapp/tosu) | osu! Stable and Lazer memory reader and PP counters provider |
 | [TouchController/TouchController](https://github.com/TouchController/TouchController) | The TouchController monorepo |
