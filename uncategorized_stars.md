@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Tue Apr 14 02:55:36 UTC 2026 | 总计: **1653** 个未分类项目
+> 生成于 UTC 时间: Wed Apr 15 02:53:14 UTC 2026 | 总计: **1658** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -84,6 +84,7 @@
 | [Angel-Studio/MaterialYou-Dynamic-Island](https://github.com/Angel-Studio/MaterialYou-Dynamic-Island) | Free Android version of Dynamic Island feature stylized with Material You. |
 | [angel333/infinimouse](https://github.com/angel333/infinimouse) | If you move mouse to one border, it'll come from the other. |
 | [Angey40/BaiduPCS-Go](https://github.com/Angey40/BaiduPCS-Go) | 百度网盘工具箱 - Go语言编写 |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | The open source coding agent. |
 | [ansh/jiffyreader-public-archive](https://github.com/ansh/jiffyreader-public-archive) | A Browser Extension for faster reading on ANY website! |
 | [antfu-collective/icones](https://github.com/antfu-collective/icones) | ⚡️ Icon Explorer with Instant searching, powered by Iconify |
 | [antfu/changelogithub](https://github.com/antfu/changelogithub) | Generate changelog for GitHub |
@@ -379,7 +380,7 @@
 | [eternalfuture-e38299/TEFModLoader](https://github.com/eternalfuture-e38299/TEFModLoader) | 下一代高性能跨平台Terraria模组加载器 |
 | [Eugeny/russh](https://github.com/Eugeny/russh) | Rust SSH client & server library |
 | [Eugeny/tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age |
-| [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) | A memory OS that makes your agents more personal while saving tokens. |
+| [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) | Build, evaluate, and integrate long-term memory for self-evolving agents. |
 | [extesy/hoverzoom](https://github.com/extesy/hoverzoom) | Google Chrome extension for zooming images on mouse hover |
 | [Extremelyd1/minecraft-bingo](https://github.com/Extremelyd1/minecraft-bingo) | Item bingo in Minecraft |
 | [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) | The Fully Customizable Desktop Environment for Windows 10/11. |
@@ -483,6 +484,7 @@
 | [go-gost/gost](https://github.com/go-gost/gost) | GO Simple Tunnel - a simple tunnel written in golang |
 | [go-musicfox/go-musicfox](https://github.com/go-musicfox/go-musicfox) | go-musicfox是用Go写的又一款网易云音乐命令行客户端，支持UnblockNeteaseMusic、各种音质级别、lastfm、MPRIS、Mac... |
 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | An open-source AI agent that brings the power of Gemini directly into your te... |
+| [google/magika](https://github.com/google/magika) | Fast and accurate AI powered file content types detection  |
 | [Goooler/systemless-fcm-hosts](https://github.com/Goooler/systemless-fcm-hosts) | A Magisk module integrated with FCM hosts for Chinese users. |
 | [goto456/stopwords](https://github.com/goto456/stopwords) | 中文常用停用词表（哈工大停用词表、百度停用词表等） |
 | [gpakosz/.tmux](https://github.com/gpakosz/.tmux) | Oh my tmux! My self-contained, pretty & versatile tmux configuration made wit... |
@@ -571,6 +573,7 @@
 | [huynhsontung/Screenbox](https://github.com/huynhsontung/Screenbox) | LibVLC-based media player for the Universal Windows Platform |
 | [huzesama/ASGuard](https://github.com/huzesama/ASGuard) | Magisk模块，用于安卓的无障碍服务(或名:辅助功能)辅助管理模块 |
 | [HyDE-Project/HyDE](https://github.com/HyDE-Project/HyDE) | HyDE, your Development Environment 🖥️💻 |
+| [HyperZoneLogin/MultiLogin](https://github.com/HyperZoneLogin/MultiLogin) | 接入新框架的取代产物 |
 | [IacobIonut01/ReFra](https://github.com/IacobIonut01/ReFra) | Media Gallery app for Android made with Jetpack Compose |
 | [iamcco/ds-pinyin-lsp](https://github.com/iamcco/ds-pinyin-lsp) | Dead Simple Pinyin Language Server |
 | [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) | markdown preview plugin for (neo)vim |
@@ -701,6 +704,7 @@
 | [KenRouKoro/MachineStatusClient](https://github.com/KenRouKoro/MachineStatusClient) | MachineStatus服务器监控客户端 |
 | [kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages) | openwrt常用软件包 |
 | [kenzok8/small-package](https://github.com/kenzok8/small-package) | 自动同步更新上游库软件 |
+| [KernelSU-Modules-Repo/magic_mount_rs](https://github.com/KernelSU-Modules-Repo/magic_mount_rs) | Magic Mount-rs |
 | [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) | An advanced Kernel based root solution for Android |
 | [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) | Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support no... |
 | [KhronosGroup/Vulkan-Docs](https://github.com/KhronosGroup/Vulkan-Docs) | The Vulkan API Specification and related tools |
@@ -1021,6 +1025,7 @@
 | [nopdan/danjing](https://github.com/nopdan/danjing) | An exquisite Trime theme. 一个精致的同文输入法主题. |
 | [nordtheme/nord](https://github.com/nordtheme/nord) | An arctic, north-bluish color palette. |
 | [nordtheme/terminal-app](https://github.com/nordtheme/terminal-app) | An arctic, north-bluish clean and elegant Terminal.app color theme. |
+| [notdog1998/yourself-skill](https://github.com/notdog1998/yourself-skill) | 与其蒸馏别人，不如蒸馏自己。欢迎加入数字永生！Inspired by colleague-skill（同事skill）。 |
 | [nothings/stb](https://github.com/nothings/stb) | stb single-file public domain libraries for C/C++ |
 | [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) | Automatically updated, moderated and optimized lists for blocking ads, tracke... |
 | [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) | 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端 |
