@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Wed Apr 15 02:53:14 UTC 2026 | 总计: **1658** 个未分类项目
+> 生成于 UTC 时间: Thu Apr 16 03:19:52 UTC 2026 | 总计: **1662** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -51,6 +51,7 @@
 | [agentskills/agentskills](https://github.com/agentskills/agentskills) | Specification and documentation for Agent Skills |
 | [AHCorn/Bilibili-Auto-Quality](https://github.com/AHCorn/Bilibili-Auto-Quality) | 自动解锁并更改哔哩哔哩视频的画质和音质及直播画质，实现自动选择最高画质、无损音频、杜比全景声。 / Automatically unlock and se... |
 | [aidenlx/cm-chs-patch](https://github.com/aidenlx/cm-chs-patch) | A patch for Obsidian's built-in CodeMirror Editor to support Simplified Chine... |
+| [Aider-AI/aider](https://github.com/Aider-AI/aider) | aider is AI pair programming in your terminal |
 | [Aira-Sakuranomiya/CleanFlashInstaller](https://github.com/Aira-Sakuranomiya/CleanFlashInstaller) | Please see https://gitlab.com/cleanflash/installer/-/releases |
 | [AIsouler/GKD_subscription](https://github.com/AIsouler/GKD_subscription) | GKD 第三方订阅规则 |
 | [aistra0528/Hail](https://github.com/aistra0528/Hail) | Disable / Hide / Suspend / Uninstall Android apps without root. |
@@ -727,6 +728,7 @@
 | [kornelski/pngquant](https://github.com/kornelski/pngquant) | Lossy PNG compressor — pngquant command based on libimagequant library |
 | [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) | The official source code repository for the calibre ebook manager |
 | [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) | If you live in the terminal, kitty is made for you! Cross-platform, fast, fea... |
+| [KOWX712/PlayIntegrityFix](https://github.com/KOWX712/PlayIntegrityFix) | Fix Play Integrity verdicts. |
 | [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) | Video translation and dubbing tool powered by LLMs. The video translator offe... |
 | [KRTirtho/spotube](https://github.com/KRTirtho/spotube) | 🎧 Open source music streaming app! Available for both desktop & mobile! |
 | [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) | The container platform tailored for Kubernetes multi-cloud, datacenter, and e... |
@@ -1299,6 +1301,7 @@
 | [std-microblock/chromatic](https://github.com/std-microblock/chromatic) | Universal modifier for Chromium/V8 / 广谱注入 Chromium/V8 的通用修改器 |
 | [std-microblock/TGStickerProvider](https://github.com/std-microblock/TGStickerProvider) | A Xposed/LSPosed plugin to dump stickers from Telegram. Almost all 3rd-party ... |
 | [SteamRE/DepotDownloader](https://github.com/SteamRE/DepotDownloader) | Steam depot downloader utilizing the SteamKit2 library. |
+| [Steve-Mr/EmojiFace](https://github.com/Steve-Mr/EmojiFace) | Identify faces in an image and replace them with emojis. |
 | [Sticky-attention/Sticky-attention](https://github.com/Sticky-attention/Sticky-attention) | 一款新作业贴软件 新增了原版没有的新功能 |
 | [Stonewuu/halo-plugin-sitepush](https://github.com/Stonewuu/halo-plugin-sitepush) | halo站点推送插件 |
 | [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | Stremio - Freedom to Stream |
@@ -1535,6 +1538,7 @@
 | [xh321/LiteLoaderQQNT-Media-Local-View](https://github.com/xh321/LiteLoaderQQNT-Media-Local-View) | LiteLoaderQQNT 插件 - QQNT 图片和视频用本地查看器打开 |
 | [xiaiohuan/TiviMate](https://github.com/xiaiohuan/TiviMate) | None |
 | [xianyuyimu/TVBOX-](https://github.com/xianyuyimu/TVBOX-) | 一木TVBOX自用仓库 |
+| [xiaohuangbo/SoterFixer](https://github.com/xiaohuangbo/SoterFixer) | 修复一加骁龙系解锁bl导致Soter key失败的问题 |
 | [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) | ehviewer，用爱发电，快乐前行 |
 | [XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) | Xiaomi Home Integration for Home Assistant |
 | [XiaoMiku01/fansMedalHelper](https://github.com/XiaoMiku01/fansMedalHelper) | 新版B站粉丝牌助手 全自动升级粉丝牌 |
