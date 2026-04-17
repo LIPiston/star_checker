@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Thu Apr 16 03:19:52 UTC 2026 | 总计: **1662** 个未分类项目
+> 生成于 UTC 时间: Fri Apr 17 02:55:39 UTC 2026 | 总计: **1668** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -349,7 +349,7 @@
 | [DreamingLri/masa-mods-chinese](https://github.com/DreamingLri/masa-mods-chinese) | 一个masa mods的汉化资源包 |
 | [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) | Generate audiobooks from e-books, voice cloning & 1158+ languages! |
 | [Droid-ify/client](https://github.com/Droid-ify/client) | Clutterfree F-Droid client |
-| [droidrun/droidrun](https://github.com/droidrun/droidrun) | Automate your mobile devices with natural language commands - an LLM agnostic... |
+| [droidrun/mobilerun](https://github.com/droidrun/mobilerun) | Automate your mobile devices with natural language commands - an LLM agnostic... |
 | [duckdb/duckdb](https://github.com/duckdb/duckdb) | DuckDB is an analytical in-process SQL database management system |
 | [dudor/BookmarkHub](https://github.com/dudor/BookmarkHub) | BookmarkHub , sync bookmarks across different browsers |
 | [dulnan/lazy-brush](https://github.com/dulnan/lazy-brush) | Smooth drawing with mouse, finger or other pointing device |
@@ -370,6 +370,7 @@
 | [Enashpinal/cloudmusic_downloader](https://github.com/Enashpinal/cloudmusic_downloader) | 网易云歌曲批量下载器 |
 | [End-Tech/syncmatica](https://github.com/End-Tech/syncmatica) | Server-wide shared litematics. |
 | [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) | Space exploration, trading, and combat game. |
+| [Enginex0/TEESimulator-RS](https://github.com/Enginex0/TEESimulator-RS) | Software simulation for Android hardware-backed key pairs with key attestatio... |
 | [eooce/Sing-box](https://github.com/eooce/Sing-box) | 既然来了，就留下你的Star吧！Serv00 / CT8 / Hostuno / VPS / 游戏机 / sing-box(reality + hy2 +... |
 | [ErisPulse/ErisPulse](https://github.com/ErisPulse/ErisPulse) | ErisPulse - 可扩展的异步 Python SDK 框架（Extensible Async Python SDK），支持插件系统、多协议适配、热重载开发 |
 | [eritpchy/FingerprintPay](https://github.com/eritpchy/FingerprintPay) | 让微信、QQ、支付宝、淘宝、云闪付支持使用指纹支付 |
@@ -654,6 +655,7 @@
 | [jindrapetrik/jpexs-decompiler](https://github.com/jindrapetrik/jpexs-decompiler) | JPEXS Free Flash Decompiler |
 | [jinenge/tvbox](https://github.com/jinenge/tvbox) | TVBox(自带配置版)，内置源，随时更新内置源，不必担心不能用 |
 | [jing332/tts-server-android](https://github.com/jing332/tts-server-android) | 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有... |
+| [JingMatrix/TEESimulator](https://github.com/JingMatrix/TEESimulator) | Software simulation for Android hardware-backed key pairs with key attestation |
 | [JingMatrix/Vector](https://github.com/JingMatrix/Vector) | Modern Xposed Framework |
 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 🚀🚀 「大模型」2小时完全从0训练64M的小参数GPT！🌏 Train a 64M-parameter GPT from scratch in just 2h! |
 | [jiqiu2022/Zygisk-MyInjector](https://github.com/jiqiu2022/Zygisk-MyInjector) | 一个自定义注入so的脚手架,现在已经支持了界面化使用。 |
@@ -729,6 +731,7 @@
 | [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) | The official source code repository for the calibre ebook manager |
 | [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) | If you live in the terminal, kitty is made for you! Cross-platform, fast, fea... |
 | [KOWX712/PlayIntegrityFix](https://github.com/KOWX712/PlayIntegrityFix) | Fix Play Integrity verdicts. |
+| [KOWX712/Tricky-Addon-Update-Target-List](https://github.com/KOWX712/Tricky-Addon-Update-Target-List) | A KSU WebUI to configure Tricky Store target.txt |
 | [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) | Video translation and dubbing tool powered by LLMs. The video translator offe... |
 | [KRTirtho/spotube](https://github.com/KRTirtho/spotube) | 🎧 Open source music streaming app! Available for both desktop & mobile! |
 | [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) | The container platform tailored for Kubernetes multi-cloud, datacenter, and e... |
@@ -1265,6 +1268,7 @@
 | [simulot/immich-go](https://github.com/simulot/immich-go) | An alternative to the immich-CLI command that doesn't depend on nodejs instal... |
 | [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) | Git blame for file trees |
 | [sinelaw/fresh](https://github.com/sinelaw/fresh) | Terminal based IDE & text editor: easy, powerful and fast |
+| [sionnx/SubCase](https://github.com/sionnx/SubCase) | A Powerful Wrapper for SubStore on Android. |
 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your crea... |
 | [sirpdboy/luci-app-ddns-go](https://github.com/sirpdboy/luci-app-ddns-go) | luci-app-ddns-go 自动获得你的公网 IPv4 或 IPv6 地址，并解析到对应的域名服务。支持的域名服务商 阿里云 腾讯云 Dnspod ... |
 | [SivanLaai/rime-pure](https://github.com/SivanLaai/rime-pure) | 【rime 小狼毫\trime 同文】手机/PC一站式配置【简约皮肤\拼音搜狗词库\原创trime同文 四叶草 九宫格 拼音方案\四叶草拼音\四叶草地球拼... |
@@ -1358,6 +1362,7 @@
 | [Teneted/Tenet](https://github.com/Teneted/Tenet) | Minecraft Forge Hybrid server implementing the Spigot/Bukkit API, formerly kn... |
 | [Terminus2049/Not-exist-in-douban](https://github.com/Terminus2049/Not-exist-in-douban) | 豆瓣不存在的书影音 |
 | [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) | Termix is a web-based server management platform with SSH terminal, tunneling... |
+| [termux/proot-distro](https://github.com/termux/proot-distro) | An utility for managing installations of the Linux distributions in Termux. |
 | [termux/termux-app](https://github.com/termux/termux-app) | Termux - a terminal emulator application for Android OS extendible by variety... |
 | [termux/termux-boot](https://github.com/termux/termux-boot) | Termux add-on app allowing programs to be run at boot. |
 | [Textualize/textual](https://github.com/Textualize/textual) | The lean application framework for Python.  Build sophisticated user interfac... |
@@ -1577,6 +1582,7 @@
 | [Xposed-Modules-Repo/org.hello.coolapk](https://github.com/Xposed-Modules-Repo/org.hello.coolapk) | FuckCoolapk R |
 | [Xposed-Modules-Repo/top.hookvip.pro](https://github.com/Xposed-Modules-Repo/top.hookvip.pro) | NewHookVip |
 | [Xpra-org/xpra](https://github.com/Xpra-org/xpra) | Persistent remote applications for X11; screen sharing for X11, MacOS and MSW... |
+| [XtrLumen/TS-Enhancer-Extreme](https://github.com/XtrLumen/TS-Enhancer-Extreme) | 由于我购买的小米17Ultra可以使用superturtlee/gbl_root_canoe项目实现TEE完美锁定状态，所以本项目短期内存档，除非我实在闲... |
 | [xudazhu1/NoticeFix](https://github.com/xudazhu1/NoticeFix) | 这是一个用于原生/类原生的Xposed模块 修复(类)原生安卓通知图标在墙内水土不服等功能 |
 | [xugaoyi/vuepress-theme-vdoing-doc](https://github.com/xugaoyi/vuepress-theme-vdoing-doc) | vuepress-theme-vdoing主题文档 |
 | [xuwd1/wemeet-wayland-screenshare](https://github.com/xuwd1/wemeet-wayland-screenshare) | 实现Linux Wayland下腾讯会议屏幕共享（非虚拟相机）. Hook library that enables screenshare with T... |
