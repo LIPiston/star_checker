@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Fri Apr 17 02:55:39 UTC 2026 | 总计: **1668** 个未分类项目
+> 生成于 UTC 时间: Sat Apr 18 02:46:43 UTC 2026 | 总计: **1669** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -50,6 +50,7 @@
 | [agalwood/Motrix](https://github.com/agalwood/Motrix) | A full-featured download manager. |
 | [agentskills/agentskills](https://github.com/agentskills/agentskills) | Specification and documentation for Agent Skills |
 | [AHCorn/Bilibili-Auto-Quality](https://github.com/AHCorn/Bilibili-Auto-Quality) | 自动解锁并更改哔哩哔哩视频的画质和音质及直播画质，实现自动选择最高画质、无损音频、杜比全景声。 / Automatically unlock and se... |
+| [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) |  Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, Cha... |
 | [aidenlx/cm-chs-patch](https://github.com/aidenlx/cm-chs-patch) | A patch for Obsidian's built-in CodeMirror Editor to support Simplified Chine... |
 | [Aider-AI/aider](https://github.com/Aider-AI/aider) | aider is AI pair programming in your terminal |
 | [Aira-Sakuranomiya/CleanFlashInstaller](https://github.com/Aira-Sakuranomiya/CleanFlashInstaller) | Please see https://gitlab.com/cleanflash/installer/-/releases |
@@ -890,7 +891,7 @@
 | [markmap/markmap](https://github.com/markmap/markmap) | Build mindmaps with plain text |
 | [markmckinnon/Leveldb-py](https://github.com/markmckinnon/Leveldb-py) | Leveldb Dumper/Viewer |
 | [marktext/marktext](https://github.com/marktext/marktext) | 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. |
-| [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) | Open-source file hosting solution based on CloudFlare  (Image hosting/File st... |
+| [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) | A serverless, open-source file hosting solution built on Cloudflare. Supports... |
 | [maruohon/malilib](https://github.com/maruohon/malilib) | Library mod for masa's client-side Minecraft mods |
 | [maruohon/minihud](https://github.com/maruohon/minihud) | A client-side Minecraft mod with configurable "info lines" ("mini-F3") and va... |
 | [MaruTama/Mengshen-pinyin-font](https://github.com/MaruTama/Mengshen-pinyin-font) | OpenSource Pinyin Font and that is created tools. |
