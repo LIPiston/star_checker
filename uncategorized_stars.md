@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sun Apr 19 03:21:16 UTC 2026 | 总计: **1669** 个未分类项目
+> 生成于 UTC 时间: Mon Apr 20 03:23:37 UTC 2026 | 总计: **1671** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -1424,6 +1424,7 @@
 | [TrionesType/zhuque](https://github.com/TrionesType/zhuque) | 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fangsong typeface project |
 | [trpc/trpc](https://github.com/trpc/trpc) | 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  |
 | [tsoding/nob.h](https://github.com/tsoding/nob.h) | Header only library for writing build recipes in C.  |
+| [ttommyth/rag-memory-mcp](https://github.com/ttommyth/rag-memory-mcp) | None |
 | [Tufmoc/W.Tools-Ver.Bat](https://github.com/Tufmoc/W.Tools-Ver.Bat) | 初代工具箱雏形 |
 | [tukuaiai/vibe-coding-cn](https://github.com/tukuaiai/vibe-coding-cn) | Vibe Coding 指南 - 涵盖 Prompt 提示词、Skill 技能库、Workflow 工作流的 AI 编程工作站 |
 | [tumuyan/RealSR-NCNN-Android](https://github.com/tumuyan/RealSR-NCNN-Android) | An Android application for super-resolution & interpolation. Contains RealSR-... |
@@ -1623,6 +1624,7 @@
 | [Z-Siqi/Clash-for-Windows_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) | clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序 |
 | [z44499783/NoADList](https://github.com/z44499783/NoADList) | 常用广告过滤规则汇总 |
 | [Zackptg5/Disable_Dm-Verity_ForceEncrypt](https://github.com/Zackptg5/Disable_Dm-Verity_ForceEncrypt) | Disables dm-verity and forceencrypt |
+| [Zackriya-Solutions/MCP-Markdown-RAG](https://github.com/Zackriya-Solutions/MCP-Markdown-RAG) | A semantic search engine for markdown files based on MCP architecture.  |
 | [ZalithLauncher/ZalithLauncher](https://github.com/ZalithLauncher/ZalithLauncher) | Due to maintenance difficulties, this project has been archived. Check out th... |
 | [ZalithLauncher/ZalithLauncher2](https://github.com/ZalithLauncher/ZalithLauncher2) | A Minecraft: Java Edition Launcher for Android |
 | [Zarestia-Dev/rclone-manager](https://github.com/Zarestia-Dev/rclone-manager) | RClone Manager is a cross-platform GUI application designed to help users man... |
