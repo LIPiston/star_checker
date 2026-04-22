@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Tue Apr 21 02:56:32 UTC 2026 | 总计: **1672** 个未分类项目
+> 生成于 UTC 时间: Wed Apr 22 02:55:23 UTC 2026 | 总计: **1682** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -53,6 +53,7 @@
 | [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) |  Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, Cha... |
 | [aidenlx/cm-chs-patch](https://github.com/aidenlx/cm-chs-patch) | A patch for Obsidian's built-in CodeMirror Editor to support Simplified Chine... |
 | [Aider-AI/aider](https://github.com/Aider-AI/aider) | aider is AI pair programming in your terminal |
+| [aimerneige/FZFWZhuZiAYuan-Magisk-Simple](https://github.com/aimerneige/FZFWZhuZiAYuan-Magisk-Simple) | 使用「CJK 字体 Magisk 模块模板 简易版」制作的「方正FW筑紫A圆」字体模块。 |
 | [Aira-Sakuranomiya/CleanFlashInstaller](https://github.com/Aira-Sakuranomiya/CleanFlashInstaller) | Please see https://gitlab.com/cleanflash/installer/-/releases |
 | [AIsouler/GKD_subscription](https://github.com/AIsouler/GKD_subscription) | GKD 第三方订阅规则 |
 | [aistra0528/Hail](https://github.com/aistra0528/Hail) | Disable / Hide / Suspend / Uninstall Android apps without root. |
@@ -458,7 +459,7 @@
 | [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC. |
 | [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) | Show your latest blog posts from any sources or StackOverflow activity or You... |
 | [gautamkrishnar/motrix-webextension](https://github.com/gautamkrishnar/motrix-webextension) | A browser extension for the Motrix Download Manager and its forks |
-| [GBALATRO/balatro-gba](https://github.com/GBALATRO/balatro-gba) | None |
+| [GBALATRO/balatro-gba](https://github.com/GBALATRO/balatro-gba) | A demake of Balatro for the GBA |
 | [gbl/AntiGhost](https://github.com/gbl/AntiGhost) | Mod that requests the server to send surrounding blocks to you, to get rid of... |
 | [gedoor/legado](https://github.com/gedoor/legado) | Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可... |
 | [GeForceLegend/Minecraft-3D-Default](https://github.com/GeForceLegend/Minecraft-3D-Default) | A Minecraft default-look resourcepack with 3D models. |
@@ -562,6 +563,7 @@
 | [horsemail/yourtv](https://github.com/horsemail/yourtv) | 安卓电视直播APK：IPTV/網頁視頻支持X5，可自定義源(支持webview://格式)，IPTV支持畫中畫和熄屏播放。 Android TV Live... |
 | [HorseSword/joplin-plugin-notellm](https://github.com/HorseSword/joplin-plugin-notellm) | NoteLLM is an AI plugin for Joplin. It's completely open-source and does not ... |
 | [hotpad100c/yetanothercarpetaddition](https://github.com/hotpad100c/yetanothercarpetaddition) | Another carpet addition |
+| [hpjansson/chafa](https://github.com/hpjansson/chafa) | 📺🗿 Terminal graphics for the 21st century. |
 | [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) | 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。 |
 | [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 |
 | [huan/docker-wechat](https://github.com/huan/docker-wechat) | DoChat is a Dockerized WeChat (盒装微信) PC Windows Client for Linux |
@@ -628,6 +630,7 @@
 | [Ivan-1F/VillagerHelper](https://github.com/Ivan-1F/VillagerHelper) | A fabric mod to show villager's information. Including bed & job site and enc... |
 | [izabera/bitwise-challenge-2048](https://github.com/izabera/bitwise-challenge-2048) | 2048 with only 64 bits of state |
 | [J-11/Aseprite-Simplified-Chinese](https://github.com/J-11/Aseprite-Simplified-Chinese) | Aseprite汉化文件 |
+| [j-fbriere/squawker](https://github.com/j-fbriere/squawker) | An open-source privacy oriented Twitter/X client |
 | [j4Uq/TVBoxOSC](https://github.com/j4Uq/TVBoxOSC) | None |
 | [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 |
 | [jadepeng/XMusicDownloader](https://github.com/jadepeng/XMusicDownloader) | 一款 支持从百度、网易、qq、酷狗、咪咕等音乐网站搜索并下载歌曲的程序，支持下载无损音乐 |
@@ -768,6 +771,7 @@
 | [lextm/windowsterminal-shell](https://github.com/lextm/windowsterminal-shell) | Install/uninstall scripts for Windows Terminal context menu items |
 | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | An Open Source implementation of Notebook LM with more flexibility and features |
 | [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) | A tiling window manager for Windows 🍉 |
+| [liangsai12/crontab](https://github.com/liangsai12/crontab) | Magisk crontabs |
 | [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker) | An app to view libraries used in apps in your device. |
 | [libnoname/noname](https://github.com/libnoname/noname) | None |
 | [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) | Clash Nyanpasu～(∠・ω< )⌒☆​ |
@@ -914,6 +918,7 @@
 | [MCSManager/MCSManager](https://github.com/MCSManager/MCSManager) | Quick deployment, distributed, multi-user, modern management panel for Minecr... |
 | [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) | MediaCMS is a modern, fully featured open source video and media CMS, written... |
 | [medusalix/xone](https://github.com/medusalix/xone) | Linux kernel driver for Xbox One and Xbox Series X/S accessories |
+| [meefik/busybox](https://github.com/meefik/busybox) | BusyBox for Android |
 | [Meloong-Git/PCL](https://github.com/Meloong-Git/PCL) | Minecraft 启动器 Plain Craft Launcher（PCL）。 |
 | [MeowCracker/MobaGenkey](https://github.com/MeowCracker/MobaGenkey) | 一个 MobaXterm 的许可证生成器 |
 | [merakiuilabs/merakiui](https://github.com/merakiuilabs/merakiui) | Tailwind CSS components that support RTL languages & fully responsive based o... |
@@ -1118,6 +1123,7 @@
 | [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) | A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Su... |
 | [popcap-games/PvZ](https://github.com/popcap-games/PvZ) | Plants vs. Zombies GOTY (NO installation required) |
 | [PorkStudios/FarPlaneTwo](https://github.com/PorkStudios/FarPlaneTwo) | Level-of-Detail renderer in Minecraft. Allows for render distances of million... |
+| [powerAn2020/crond4android](https://github.com/powerAn2020/crond4android) | 支持 KernelSU、APatch、Magisk下运行的Crond。带UI界面/The Crond program that supports runn... |
 | [ppy/osu](https://github.com/ppy/osu) | rhythm is just a *click* away! |
 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | Why is this running? |
 | [Predidit/Kazumi](https://github.com/Predidit/Kazumi) | 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 |
@@ -1183,6 +1189,7 @@
 | [relimus/TAssistant](https://github.com/relimus/TAssistant) | Make TIM Great Again! |
 | [relimus/Z-Flow](https://github.com/relimus/Z-Flow) | 最卡顿的米窗在此 |
 | [remorses/playwriter](https://github.com/remorses/playwriter) | Chrome extension to let agents control your browser. Runs Playwright snippets... |
+| [researchxxl/syncthing-android](https://github.com/researchxxl/syncthing-android) | Syncthing-Fork - A Syncthing Wrapper for Android. |
 | [reserveword/IMBlocker](https://github.com/reserveword/IMBlocker) | A mod for Minecraft helping control Input Methods |
 | [ResetPower/Epherome](https://github.com/ResetPower/Epherome) | [Deprecated] This repository is obsolete. Please go to Epheromeers/Epherome i... |
 | [ResetPower/rcs](https://github.com/ResetPower/rcs) | ResetPower's Component Set using TailwindCSS. |
@@ -1232,6 +1239,7 @@
 | [samolego/FabricTailor](https://github.com/samolego/FabricTailor) | A server-side or singleplayer skin changing mod for fabric. |
 | [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) | Sandboxie Plus & Classic |
 | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RS... |
+| [sboesen/remotely-sync](https://github.com/sboesen/remotely-sync) | fork of remotely-save with security upgrades |
 | [SchneeSchmitt/ADB-Android-Optimizer](https://github.com/SchneeSchmitt/ADB-Android-Optimizer) | Rootless (ADB) Android performance optimizer for every condition, from pure p... |
 | [schollz/croc](https://github.com/schollz/croc) | Easily and securely send things from one computer to another :crocodile: :pac... |
 | [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) | A command-line installer for Windows. |
@@ -1339,7 +1347,7 @@
 | [taamarin/box.manager](https://github.com/taamarin/box.manager) | Optional |
 | [taamarin/box_for_magisk](https://github.com/taamarin/box_for_magisk) | Transparent Proxy for Android(root)  |
 | [taamarin/ClashforMagisk](https://github.com/taamarin/ClashforMagisk) | Transparent proxy(Tproxy) for android (root) |
-| [TableProApp/TablePro](https://github.com/TableProApp/TablePro) | Native macOS client for every database |
+| [TableProApp/TablePro](https://github.com/TableProApp/TablePro) | Native macOS database client for MySQL, PostgreSQL, SQLite, MongoDB, Redis, a... |
 | [taganaka/SpeedTest](https://github.com/taganaka/SpeedTest) | Yet another unofficial speedtest.net client cli interface |
 | [tailcallhq/forgecode](https://github.com/tailcallhq/forgecode) | AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini ... |
 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | The easiest, most secure way to use WireGuard and 2FA. |
@@ -1432,6 +1440,7 @@
 | [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) | A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScri... |
 | [tuyafeng/Via](https://github.com/tuyafeng/Via) | Via is a simple browser, and this repository is set for localization. |
 | [tw93/Mole](https://github.com/tw93/Mole) | 🐹 Deep clean and optimize your Mac. |
+| [TwidereProject/Twidere-Android](https://github.com/TwidereProject/Twidere-Android) | None |
 | [TWO-ICE/Awesome-NAS-Docker](https://github.com/TWO-ICE/Awesome-NAS-Docker) | 一个专注于 NAS 和 Docker 部署的开源项目合集，覆盖 AI、开发、数据管理、多媒体、运维等场景，提供一键式部署指南和实用教程，让 NAS 变身全... |
 | [twoone-3/AdGuardHomeForRoot](https://github.com/twoone-3/AdGuardHomeForRoot) | A module to easily execute AdGuardHome on Android |
 | [twoyi/twoyi](https://github.com/twoyi/twoyi) | A lightweight Android container on Android |
@@ -1568,6 +1577,7 @@
 | [xjunz/AutoSkip](https://github.com/xjunz/AutoSkip) | 基于Shizuku授权的安卓"自动跳过"工具 |
 | [xlc520/MaoTV](https://github.com/xlc520/MaoTV) | 猫影视资源接口 |
 | [xlucn/oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android) | 个人收集的实用、良心开源安卓软件 |
+| [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB) | GUI Tool To Remove Ads From Various Places Around Windows 11 |
 | [Xmader/aria-ng-gui-android](https://github.com/Xmader/aria-ng-gui-android) | 一个 Aria2 图形界面安卓客户端 / An Aria2 GUI Android App |
 | [xming521/WeClone](https://github.com/xming521/WeClone) | 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune L... |
 | [xoureldeen/Vectras-VM-Android](https://github.com/xoureldeen/Vectras-VM-Android) | It's a Virtual Machine App for Android Which is Based on QEMU |
