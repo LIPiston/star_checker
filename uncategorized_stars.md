@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Wed Apr 22 02:55:23 UTC 2026 | 总计: **1682** 个未分类项目
+> 生成于 UTC 时间: Thu Apr 23 03:17:51 UTC 2026 | 总计: **1686** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -226,6 +226,7 @@
 | [catppuccin/chrome](https://github.com/catppuccin/chrome) | 👻 Soothing pastel theme for Chrome |
 | [catppuccin/cursors](https://github.com/catppuccin/cursors) | 🐁 Soothing pastel cursors for GTK/Plasma/Hyprland |
 | [catppuccin/fcitx5](https://github.com/catppuccin/fcitx5) | 🧃 Soothing pastel theme for Fcitx5 |
+| [catppuccin/obsidian](https://github.com/catppuccin/obsidian) | 💎 Soothing pastel theme for Obsidian |
 | [Cats-Team/AdRules](https://github.com/Cats-Team/AdRules) | List for blocking ads in the Chinese region |
 | [CCBlueX/LiquidBounce](https://github.com/CCBlueX/LiquidBounce) | A free Minecraft hacked client (utility mod) for Fabric |
 | [CeuiLiSA/Pixiv-Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft) | Pixiv第三方Android客户端 |
@@ -579,6 +580,7 @@
 | [huzesama/ASGuard](https://github.com/huzesama/ASGuard) | Magisk模块，用于安卓的无障碍服务(或名:辅助功能)辅助管理模块 |
 | [HyDE-Project/HyDE](https://github.com/HyDE-Project/HyDE) | HyDE, your Development Environment 🖥️💻 |
 | [HyperZoneLogin/MultiLogin](https://github.com/HyperZoneLogin/MultiLogin) | 接入新框架的取代产物 |
+| [HyPlayer/HyPlayer](https://github.com/HyPlayer/HyPlayer) | 仅供学习交流使用 / 第三方网易云音乐播放器 / A Netease Cloud Music Player |
 | [IacobIonut01/ReFra](https://github.com/IacobIonut01/ReFra) | Media Gallery app for Android made with Jetpack Compose |
 | [iamcco/ds-pinyin-lsp](https://github.com/iamcco/ds-pinyin-lsp) | Dead Simple Pinyin Language Server |
 | [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) | markdown preview plugin for (neo)vim |
@@ -920,6 +922,7 @@
 | [medusalix/xone](https://github.com/medusalix/xone) | Linux kernel driver for Xbox One and Xbox Series X/S accessories |
 | [meefik/busybox](https://github.com/meefik/busybox) | BusyBox for Android |
 | [Meloong-Git/PCL](https://github.com/Meloong-Git/PCL) | Minecraft 启动器 Plain Craft Launcher（PCL）。 |
+| [mengshouer/crond_start_jobs](https://github.com/mengshouer/crond_start_jobs) | Magisk/KernelSu/Apatch Module: 使用 crond 定时启动任务 |
 | [MeowCracker/MobaGenkey](https://github.com/MeowCracker/MobaGenkey) | 一个 MobaXterm 的许可证生成器 |
 | [merakiuilabs/merakiui](https://github.com/merakiuilabs/merakiui) | Tailwind CSS components that support RTL languages & fully responsive based o... |
 | [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) | A rule-based tunnel for Android. |
@@ -1054,6 +1057,7 @@
 | [oasisfeng/island](https://github.com/oasisfeng/island) | Island for Android |
 | [objective-see/LuLu](https://github.com/objective-see/LuLu) | LuLu is the free open-source macOS firewall |
 | [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. |
+| [obsidian-community/obsidian-style-settings](https://github.com/obsidian-community/obsidian-style-settings) | A dynamic user interface for adjusting theme, plugin, and snippet CSS variabl... |
 | [obsproject/obs-studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen reco... |
 | [ocornut/imgui](https://github.com/ocornut/imgui) | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependen... |
 | [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be sea... |
