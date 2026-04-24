@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Thu Apr 23 03:17:51 UTC 2026 | 总计: **1686** 个未分类项目
+> 生成于 UTC 时间: Fri Apr 24 03:19:35 UTC 2026 | 总计: **1688** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -652,6 +652,7 @@
 | [Jeric-X/SyncClipboard](https://github.com/Jeric-X/SyncClipboard) | 跨平台剪贴板同步、历史记录管理工具 / Cross-platform cipboard syncing, history management tool |
 | [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) | The lazier way to manage everything docker |
 | [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) | simple terminal UI for git commands |
+| [jhl337/QQNTHookBypass](https://github.com/jhl337/QQNTHookBypass) | QQNT 绕过环境检测，防止冻结/踢下线。 |
 | [jianchang512/stt](https://github.com/jianchang512/stt) | Voice Recognition to Text Tool / 一个离线运行的本地音视频转字幕工具，输出json、srt字幕、纯文字格式 |
 | [jiangrui1994/CloudSaver](https://github.com/jiangrui1994/CloudSaver) | 一个基于 Vue 3 + Express 的网盘资源搜索与转存工具。 |
 | [jiangxianli/ProxyIpLib](https://github.com/jiangxianli/ProxyIpLib) | 全球免费代理IP库，高可用IP，精心筛选优质IP,2s必达 |
@@ -1523,6 +1524,7 @@
 | [weiyourumeng/RM-Toolbox](https://github.com/weiyourumeng/RM-Toolbox) | 入梦工具箱 |
 | [wekan/wekan](https://github.com/wekan/wekan) | The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLO... |
 | [welai/glow-sans](https://github.com/welai/glow-sans) | SHSans-derived CJK font family with a more concise & modern look. 未来荧黑·未來熒黑·ヒ... |
+| [wenfeng110402/AppleMusic-Downloader](https://github.com/wenfeng110402/AppleMusic-Downloader) | 一个图形化AppleMusic下载器 |
 | [wgh136/PicaComic](https://github.com/wgh136/PicaComic) | A comic app built with Flutter, supporting multiple comic sources. |
 | [wgpsec/CreateHiddenAccount](https://github.com/wgpsec/CreateHiddenAccount) | A tool for creating hidden accounts using the registry // 一个使用注册表创建隐藏帐户的工具 |
 | [Widdit/now-playing-service](https://github.com/Widdit/now-playing-service) | 一款全能的「正在播放」歌曲展示工具。支持检测 20+ 款音乐软件的歌曲信息，内置精美歌曲组件、歌词组件、播放器，提供 API 接口。适配 OBS 等直播软... |
