@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Fri Apr 24 03:19:35 UTC 2026 | 总计: **1688** 个未分类项目
+> 生成于 UTC 时间: Sat Apr 25 02:49:06 UTC 2026 | 总计: **1689** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -44,6 +44,7 @@
 | [adrcotfas/goodtime](https://github.com/adrcotfas/goodtime) | A productivity app that combines pomodoro timers and flow techniques to boost... |
 | [adv-inn/Futaba](https://github.com/adv-inn/Futaba) | A League of Legends companion client built with Tauri, supporting both deskto... |
 | [Aefyr/SAI](https://github.com/Aefyr/SAI) | Android split APKs installer |
+| [afar1/fieldtheory-cli](https://github.com/afar1/fieldtheory-cli) | Sync and locally store all of your X/Twitter bookmarks. Free and open source ... |
 | [afeimod/winlator-mod](https://github.com/afeimod/winlator-mod) | Android application for running Windows applications with Wine and Box86/Box64 |
 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | The agent harness performance optimization system. Skills, instincts, memory,... |
 | [afoim/webrtc_check_nat](https://github.com/afoim/webrtc_check_nat) | 利用浏览器的WebRTC查询你的NAT类型（双IP） |
@@ -236,6 +237,7 @@
 | [chase535/accurate_battery](https://github.com/chase535/accurate_battery) | 精准电量 |
 | [chase535/turbo-charge](https://github.com/chase535/turbo-charge) | Magisk模块，关闭阶梯式充电，持续修改电池温度及充电电流，以达到最快充电速度 |
 | [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) | Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 AP... |
+| [ChatLab/ChatLab](https://github.com/ChatLab/ChatLab) | Rediscover your social memories with local, AI-powered analysis. 本地化的聊天记录分析工具... |
 | [chen08209/FlClash](https://github.com/chen08209/FlClash) | A multi-platform proxy client based on ClashMeta,simple and easy to use, open... |
 | [chen310/NeteaseCloudMusicTasks](https://github.com/chen310/NeteaseCloudMusicTasks) | None |
 | [chenxiaolong/RSAF](https://github.com/chenxiaolong/RSAF) | An Android Storage Access Framework document provider for rclone |
@@ -535,7 +537,6 @@
 | [heapwolf/levelui](https://github.com/heapwolf/levelui) | A GUI for LevelDB management based on atom-shell. |
 | [Heavrnl/nexus-terminal](https://github.com/Heavrnl/nexus-terminal) |  一款现代化的 Web SSH / RDP / VNC 客户端，提供独立桌面端，支持人机验证、2FA、界面定制、操作审计等强大功能。 |
 | [hectorqin/reader](https://github.com/hectorqin/reader) | 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + E... |
-| [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab) | Rediscover your social memories with local, AI-powered analysis. 本地化的聊天记录分析工具... |
 | [helloqingfeng/Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource) | :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等） |
 | [helloworldpxy/thunder-https](https://github.com/helloworldpxy/thunder-https) | 专业的迅雷专用链转换工具，可将thunder://开头的加密链接转换为可直接使用的HTTP/HTTPS下载地址。支持Windows/macOS双平台（li... |
 | [Hendrix-Shen/MagicLib](https://github.com/Hendrix-Shen/MagicLib) | To beat magic with magic :( |
@@ -1634,7 +1635,7 @@
 | [Yubyf/QuoteLockX](https://github.com/Yubyf/QuoteLockX) | Displays quotes on your lockscreen, because why not. |
 | [yudai/gotty](https://github.com/yudai/gotty) | Share your terminal as a web application |
 | [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) | ArchLinux based WSL Distribution. Supports multiple install. |
-| [Yume-Li/Tritium](https://github.com/Yume-Li/Tritium) | 最大化Soc的潜力 Maximize the potential of Soc |
+| [YumeRiMoe/Tritium](https://github.com/YumeRiMoe/Tritium) | 最大化Soc的潜力 Maximize the potential of Soc |
 | [yushijinhun/authlib-injector](https://github.com/yushijinhun/authlib-injector) | Build your own Minecraft authentication system. |
 | [yutto-dev/yutto](https://github.com/yutto-dev/yutto) | :ice_cube: 一个可爱且任性的 B 站视频下载器 |
 | [yuzu233/anti-ocr](https://github.com/yuzu233/anti-ocr) | 對抗文字識別 |
