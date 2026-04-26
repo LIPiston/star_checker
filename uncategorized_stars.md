@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sat Apr 25 02:49:06 UTC 2026 | 总计: **1689** 个未分类项目
+> 生成于 UTC 时间: Sun Apr 26 03:26:30 UTC 2026 | 总计: **1690** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -448,7 +448,7 @@
 | [fxliang/fcitx5-android](https://github.com/fxliang/fcitx5-android) | Fcitx5 input method framework and engines ported to Android |
 | [FxMorin/carpet-fixes](https://github.com/FxMorin/carpet-fixes) | fabric-carpet extension mod which attempts to fix as many vanilla minecraft b... |
 | [FxMorin/MemoryLeakFix](https://github.com/FxMorin/MemoryLeakFix) | A Fabric Mod that fixes multiple memory leaks in minecraft |
-| [gaboolic/rime-frost](https://github.com/gaboolic/rime-frost) | 白霜拼音：蒹葭苍苍，白露为霜。白霜拼音使用使用745396750字的高质量语料，进行分词，重新统计字频、词频，归一化，打造纯净、词频准确、智能的词库。白霜... |
+| [gaboolic/rime-frost](https://github.com/gaboolic/rime-frost) | 白霜拼音：蒹葭苍苍，白露为霜。白霜拼音使用高质量语料，进行分词，重新统计字频、词频，归一化，打造纯净、词频准确、智能的词库。白霜词库是目前rime方案下最... |
 | [gaboolic/rime-shuangpin-fuzhuma](https://github.com/gaboolic/rime-shuangpin-fuzhuma) | 墨奇音形，打造最强双拼辅助码rime输入方案，让天下双拼用户人人用得上辅助码。基于雾凇-白霜词库，支持小鹤双拼、自然码双拼、搜狗双拼、微软双拼等多种双拼，... |
 | [GamerNoTitle/BiliLive-Utility](https://github.com/GamerNoTitle/BiliLive-Utility) | 新一代 B 站小主播直播助手！开启 B 站直播并获得推流链接与推流密钥（推流码），一键修改标题、标签和直播分区，是给不满足 B 站新规定 5k 粉丝要求的... |
 | [GamerNoTitle/CraftMon](https://github.com/GamerNoTitle/CraftMon) | A website that help you get Minecraft server status / 一个用于显示Minecraft服务器在线信息及... |
@@ -715,6 +715,7 @@
 | [KenRouKoro/MachineStatusClient](https://github.com/KenRouKoro/MachineStatusClient) | MachineStatus服务器监控客户端 |
 | [kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages) | openwrt常用软件包 |
 | [kenzok8/small-package](https://github.com/kenzok8/small-package) | 自动同步更新上游库软件 |
+| [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) | A distraction-free and highly customizable theme for Obsidian. |
 | [KernelSU-Modules-Repo/magic_mount_rs](https://github.com/KernelSU-Modules-Repo/magic_mount_rs) | Magic Mount-rs |
 | [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) | An advanced Kernel based root solution for Android |
 | [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) | Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support no... |
