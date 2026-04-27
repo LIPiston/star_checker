@@ -1,12 +1,12 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sun Apr 26 03:26:30 UTC 2026 | 总计: **1690** 个未分类项目
+> 生成于 UTC 时间: Mon Apr 27 03:31:07 UTC 2026 | 总计: **1691** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
 | [100pangci/syncthing-for-magisk](https://github.com/100pangci/syncthing-for-magisk) | None |
 | [1234567Yang/cf-proxy-ex](https://github.com/1234567Yang/cf-proxy-ex) | Cloudflare超级代理，无服务器代理，Duckduckgo代理（可用AI聊天，包含GPT4o/Claude3），Github加速，支持解锁Libge... |
-| [1250422131/bilibilias](https://github.com/1250422131/bilibilias) | 哔哩哔哩解析工具，已暂停维护，一个辅助缓存下载B站视频番剧的APP，帮助你快速便捷的缓存B站视频和番剧。 |
+| [1250422131/bilibilias](https://github.com/1250422131/bilibilias) | 哔哩哔哩视频解析工具实验学习项目，不发布产物。 |
 | [1357310795/MyComputerManager](https://github.com/1357310795/MyComputerManager) | 管理“此电脑”里删不掉的流氓“快捷方式”（包括侧边栏），同时可自己添加这类“快捷方式” |
 | [15dd/wenku8reader](https://github.com/15dd/wenku8reader) | 第三方轻小说文库app |
 | [1995chen/dnf](https://github.com/1995chen/dnf) | None |
@@ -478,6 +478,7 @@
 | [github/spec-kit](https://github.com/github/spec-kit) | 💫 Toolkit to help you get started with Spec-Driven Development |
 | [gitify-app/gitify](https://github.com/gitify-app/gitify) | GitHub notifications on your menu bar. Available on macOS, Windows & Linux. |
 | [GitMetaio/Surfing](https://github.com/GitMetaio/Surfing) | Magisk and KernelSU modules for  Clash/mihomo services. |
+| [GitMetaio/SurfingWin](https://github.com/GitMetaio/SurfingWin) | A lightweight Clash runtime environment for Windows built with a portable str... |
 | [gitui-org/gitui](https://github.com/gitui-org/gitui) | Blazing 💥 fast terminal-ui for git written in rust 🦀 |
 | [gkd-kit/gkd](https://github.com/gkd-kit/gkd) | 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 / An Android APP with custom screen tapping base... |
 | [glanceapp/glance](https://github.com/glanceapp/glance) | A self-hosted dashboard that puts all your feeds in one place |
