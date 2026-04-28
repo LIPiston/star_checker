@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Mon Apr 27 03:31:07 UTC 2026 | 总计: **1691** 个未分类项目
+> 生成于 UTC 时间: Tue Apr 28 03:36:12 UTC 2026 | 总计: **1692** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -1346,6 +1346,7 @@
 | [suzhelan/TimTool](https://github.com/suzhelan/TimTool) | Tim功能性增强XPosed模块，为Tim增加更多趣味功能 |
 | [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) | All in one emulator on Android! |
 | [swyefun/BBLLV5](https://github.com/swyefun/BBLLV5) | 一个第三方哔哩哔哩客户端修复 |
+| [Sxuan-Coder/gemini_chat_export](https://github.com/Sxuan-Coder/gemini_chat_export) | Export Google Gemini web chat history to JSON/TXT/Markdown file with one clic... |
 | [sxyazi/yazi](https://github.com/sxyazi/yazi) | 💥 Blazing fast terminal file manager written in Rust, based on async I/O. |
 | [sxzxs/Real-time-translation-typing](https://github.com/sxzxs/Real-time-translation-typing) | 实时打字翻译软件、语音实时打字、语音实时翻译、LOL 语音打字 |
 | [symbuzzer/livebootmodule](https://github.com/symbuzzer/livebootmodule) | A Magisk, KernelSU and APatch module that enables unix-style (verbose) boot a... |
