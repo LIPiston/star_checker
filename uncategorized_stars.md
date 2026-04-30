@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Wed Apr 29 03:34:11 UTC 2026 | 总计: **1692** 个未分类项目
+> 生成于 UTC 时间: Thu Apr 30 03:35:26 UTC 2026 | 总计: **1693** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -1101,6 +1101,7 @@
 | [owen0o0/dujitang](https://github.com/owen0o0/dujitang) | 一言毒鸡汤单页，喜欢就点小星星哦。 |
 | [ozh/github-colors](https://github.com/ozh/github-colors) | 🌈 Github colors for all the languages |
 | [pagefaultgames/pokerogue](https://github.com/pagefaultgames/pokerogue) | A browser based Pokémon fangame heavily inspired by the roguelite genre. |
+| [Pairman/FastestDetV2](https://github.com/Pairman/FastestDetV2) | 🔥🔥Even faster and stronger than FastestDet / 比FastestDet还快还强🔥🔥 |
 | [Pairman/Lithonate](https://github.com/Pairman/Lithonate) | Tweaks to update your suppression. |
 | [Pairman/OneClickCrafting-1.16.5](https://github.com/Pairman/OneClickCrafting-1.16.5) | A Minecraft Fabric mod to make crafting with the recipe book faster |
 | [Pairman/PTP](https://github.com/Pairman/PTP) | Official Pear Textures Pack Project. Copyright Pairman and 2017 RainbowPixel. |
@@ -1514,7 +1515,7 @@
 | [vvb2060/PackageInstaller](https://github.com/vvb2060/PackageInstaller) | A lightweight yet powerful package installer for Android. |
 | [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) | 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloud... |
 | [wacko1805/MagiskGapps](https://github.com/wacko1805/MagiskGapps) | Convert a regular GApps package into a Magisk flashable package using a simpl... |
-| [walter201230/Python](https://github.com/walter201230/Python) | 最良心的 Python 教程： |
+| [walter201230/Python](https://github.com/walter201230/Python) | 小白 python 教程 |
 | [wandb/openui](https://github.com/wandb/openui) | OpenUI let's you describe UI using your imagination, then see it rendered live. |
 | [WangDaYeeeeee/GeometricWeather](https://github.com/WangDaYeeeeee/GeometricWeather) | A Material Design Weather Application |
 | [wangweianger/zanePerfor](https://github.com/wangweianger/zanePerfor) | 前端性能监控系统,消息队列,高可用,集群等相关架构 |
