@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Thu Apr 30 03:35:26 UTC 2026 | 总计: **1693** 个未分类项目
+> 生成于 UTC 时间: Fri May  1 03:46:59 UTC 2026 | 总计: **1693** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -54,6 +54,7 @@
 | [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) |  Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, Cha... |
 | [aidenlx/cm-chs-patch](https://github.com/aidenlx/cm-chs-patch) | A patch for Obsidian's built-in CodeMirror Editor to support Simplified Chine... |
 | [Aider-AI/aider](https://github.com/Aider-AI/aider) | aider is AI pair programming in your terminal |
+| [AiHubCN/Awesome-Chinese-LLM](https://github.com/AiHubCN/Awesome-Chinese-LLM) | 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。 |
 | [aimerneige/FZFWZhuZiAYuan-Magisk-Simple](https://github.com/aimerneige/FZFWZhuZiAYuan-Magisk-Simple) | 使用「CJK 字体 Magisk 模块模板 简易版」制作的「方正FW筑紫A圆」字体模块。 |
 | [Aira-Sakuranomiya/CleanFlashInstaller](https://github.com/Aira-Sakuranomiya/CleanFlashInstaller) | Please see https://gitlab.com/cleanflash/installer/-/releases |
 | [AIsouler/GKD_subscription](https://github.com/AIsouler/GKD_subscription) | GKD 第三方订阅规则 |
@@ -79,7 +80,7 @@
 | [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) | An app for managing github starred repositories.  |
 | [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) | A Download Manager that speeds up your downloads |
 | [amzxyz/RIME-LMDG](https://github.com/amzxyz/RIME-LMDG) | 扩展词库/声调编码/最全声调标注工具链/万象更新工具链/Rime语法模型：LMDG - Language, Model, Dictionary, Gram... |
-| [amzxyz/rime_wanxiang](https://github.com/amzxyz/rime_wanxiang) | 万象拼音：基于rime生态打造，全方位对标大厂体验，内置大语料与AI辅助炼制的向量词库和语法模型，全带调编码词库，让输入行云流水，开箱即用。更有PRO版带... |
+| [amzxyz/rime_wanxiang](https://github.com/amzxyz/rime_wanxiang) | 「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更现代的数据，接管你的候选。Q群：11033572 / 11631066 |
 | [anasfanani/magisk-tailscaled](https://github.com/anasfanani/magisk-tailscaled) | Magisk/KernelSU module for running Tailscale on rooted Android devices. The e... |
 | [Andrews54757/tweakfork](https://github.com/Andrews54757/tweakfork) | A modified small client-side Minecraft mod that adds various configurable twe... |
 | [android/ndk](https://github.com/android/ndk) | The Android Native Development Kit |
@@ -348,7 +349,7 @@
 | [Doraemonliu/com.houvven.guise](https://github.com/Doraemonliu/com.houvven.guise) | Guise |
 | [dorssel/usbipd-win](https://github.com/dorssel/usbipd-win) | Windows software for sharing locally connected USB devices to other machines,... |
 | [Doryoku1223/TabulaV3](https://github.com/Doryoku1223/TabulaV3) | Tabula V3 - 极简相册整理工具 / Tinder风格卡片交互，单手滑动整理照片。100%本地处理，免费无广告，隐私安全。 |
-| [DowneyRem/PixivSource](https://github.com/DowneyRem/PixivSource) | 最好的 Pixiv 小说阅读器——开源阅读 + Pixiv 书源 / Legado with Pixiv BookSource, The Best Nov... |
+| [DowneyRem/PixivSource](https://github.com/DowneyRem/PixivSource) | 最好的 Pixiv 第三方小说阅读器——开源阅读 + Pixiv 书源 / Legado with Pixiv BookSource, the Best ... |
 | [Dr-TSNG/Hide-My-Applist](https://github.com/Dr-TSNG/Hide-My-Applist) | An Xposed module to intercept applist detections |
 | [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) | Standalone implementation of Zygisk |
 | [DreamingLri/masa-mods-chinese](https://github.com/DreamingLri/masa-mods-chinese) | 一个masa mods的汉化资源包 |
@@ -529,7 +530,7 @@
 | [hardhackerlabs/themes](https://github.com/hardhackerlabs/themes) | 🧑🏾‍🚀 One Theme to Rule Them All 🌈 |
 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
 | [hashcat/hashcat](https://github.com/hashcat/hashcat) | World's fastest and most advanced password recovery utility |
-| [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) | 🪓 Run Background Tasks at Scale |
+| [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) | 🪓 An orchestration engine for background tasks, AI agents, and durable workflows |
 | [hax/heshijun_v_360](https://github.com/hax/heshijun_v_360) | 贺师俊与360的劳动争议诉讼 |
 | [HChenX/AppRetention](https://github.com/HChenX/AppRetention) | Hook 系统 kill 逻辑来实现后台保活 / Hook system kill logic to implement background keep ... |
 | [hchunhui/librime-lua](https://github.com/hchunhui/librime-lua) | Extending RIME with Lua scripts |
@@ -567,7 +568,6 @@
 | [HorseSword/joplin-plugin-notellm](https://github.com/HorseSword/joplin-plugin-notellm) | NoteLLM is an AI plugin for Joplin. It's completely open-source and does not ... |
 | [hotpad100c/yetanothercarpetaddition](https://github.com/hotpad100c/yetanothercarpetaddition) | Another carpet addition |
 | [hpjansson/chafa](https://github.com/hpjansson/chafa) | 📺🗿 Terminal graphics for the 21st century. |
-| [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) | 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。 |
 | [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 |
 | [huan/docker-wechat](https://github.com/huan/docker-wechat) | DoChat is a Dockerized WeChat (盒装微信) PC Windows Client for Linux |
 | [huashengdun/webssh](https://github.com/huashengdun/webssh) | :seedling: Web based ssh client |
@@ -1101,7 +1101,7 @@
 | [owen0o0/dujitang](https://github.com/owen0o0/dujitang) | 一言毒鸡汤单页，喜欢就点小星星哦。 |
 | [ozh/github-colors](https://github.com/ozh/github-colors) | 🌈 Github colors for all the languages |
 | [pagefaultgames/pokerogue](https://github.com/pagefaultgames/pokerogue) | A browser based Pokémon fangame heavily inspired by the roguelite genre. |
-| [Pairman/FastestDetV2](https://github.com/Pairman/FastestDetV2) | 🔥🔥Even faster and stronger than FastestDet / 比FastestDet还快还强🔥🔥 |
+| [Pairman/FastestDetV2](https://github.com/Pairman/FastestDetV2) | 🔥🔥Even faster and stronger than FastestDet / 比FastestDet更快更强🔥🔥 |
 | [Pairman/Lithonate](https://github.com/Pairman/Lithonate) | Tweaks to update your suppression. |
 | [Pairman/OneClickCrafting-1.16.5](https://github.com/Pairman/OneClickCrafting-1.16.5) | A Minecraft Fabric mod to make crafting with the recipe book faster |
 | [Pairman/PTP](https://github.com/Pairman/PTP) | Official Pear Textures Pack Project. Copyright Pairman and 2017 RainbowPixel. |
