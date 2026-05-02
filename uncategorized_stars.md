@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Fri May  1 03:46:59 UTC 2026 | 总计: **1693** 个未分类项目
+> 生成于 UTC 时间: Sat May  2 03:21:23 UTC 2026 | 总计: **1693** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -640,7 +640,7 @@
 | [jadepeng/XMusicDownloader](https://github.com/jadepeng/XMusicDownloader) | 一款 支持从百度、网易、qq、酷狗、咪咕等音乐网站搜索并下载歌曲的程序，支持下载无损音乐 |
 | [jaredcat/WiFiList](https://github.com/jaredcat/WiFiList) | None |
 | [jarikomppa/soloud](https://github.com/jarikomppa/soloud) | Free, easy, portable audio engine for games |
-| [jark006/JarkViewer](https://github.com/jark006/JarkViewer) | 一款轻量且飞快的看图软件，支持 AVIF、HEIC、JPEG-XL 和 实况照片 等超多新兴图像格式！A lightweight and lightnin... |
+| [jark006/JarkViewer](https://github.com/jark006/JarkViewer) | 一款简约且飞快的看图软件，支持 AVIF、HEIC、JPEG-XL 和 实况照片 等超多新兴图像格式！A minimalist and lightning... |
 | [jart/cosmopolitan](https://github.com/jart/cosmopolitan) | build-once run-anywhere c library |
 | [Java-S12138/frank](https://github.com/Java-S12138/frank) | A bran-new League of Legends assistant software, a replacement for WeGame. |
 | [jayfunc/BetterLyrics](https://github.com/jayfunc/BetterLyrics) | An elegant and deeply customizable lyrics visualizer & versatile music player... |
@@ -666,7 +666,7 @@
 | [jing332/tts-server-android](https://github.com/jing332/tts-server-android) | 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有... |
 | [JingMatrix/TEESimulator](https://github.com/JingMatrix/TEESimulator) | Software simulation for Android hardware-backed key pairs with key attestation |
 | [JingMatrix/Vector](https://github.com/JingMatrix/Vector) | Modern Xposed Framework |
-| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 🚀🚀 「大模型」2小时完全从0训练64M的小参数GPT！🌏 Train a 64M-parameter GPT from scratch in just 2h! |
+| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 🚀 「大模型」2小时完全从0训练64M的小参数LLM！🌏 Train a 64M-parameter LLM from scratch in just 2h! |
 | [jiqiu2022/Zygisk-MyInjector](https://github.com/jiqiu2022/Zygisk-MyInjector) | 一个自定义注入so的脚手架,现在已经支持了界面化使用。 |
 | [JohanChane/clashtui](https://github.com/JohanChane/clashtui) | Mihomo (Clash.Meta) TUI Client |
 | [johnfactotum/foliate](https://github.com/johnfactotum/foliate) | Read e-books in style |
@@ -1003,7 +1003,7 @@
 | [Naruto-Senki/files](https://github.com/Naruto-Senki/files) | Naruto Senki: V2 File Host |
 | [natanfudge/Not-Enough-Crashes](https://github.com/natanfudge/Not-Enough-Crashes) | A mod that makes crashes so pleasant, you can't have enough of them!  |
 | [Neamar/KISS](https://github.com/Neamar/KISS) | Lightning fast, open-source, < 250kb Android launcher |
-| [nearai/ironclaw](https://github.com/nearai/ironclaw) | IronClaw is OpenClaw inspired implementation in Rust focused on privacy and s... |
+| [nearai/ironclaw](https://github.com/nearai/ironclaw) | IronClaw is an Agent OS focused on privacy, security and extensibility |
 | [NEKOparapa/AiNiee](https://github.com/NEKOparapa/AiNiee) | 一款专注于Ai翻译的工具，一键自动翻译RPG SLG游戏，Epub TXT小说，PDF Word MD文档，Srt Vtt Lrc字幕等等复杂长文本。 |
 | [nektos/act](https://github.com/nektos/act) | Run your GitHub Actions locally 🚀 |
 | [NeoApplications/Neo-Launcher](https://github.com/NeoApplications/Neo-Launcher) | Neo-Launcher |
@@ -1357,7 +1357,7 @@
 | [taamarin/box.manager](https://github.com/taamarin/box.manager) | Optional |
 | [taamarin/box_for_magisk](https://github.com/taamarin/box_for_magisk) | Transparent Proxy for Android(root)  |
 | [taamarin/ClashforMagisk](https://github.com/taamarin/ClashforMagisk) | Transparent proxy(Tproxy) for android (root) |
-| [TableProApp/TablePro](https://github.com/TableProApp/TablePro) | Native macOS database client for MySQL, PostgreSQL, SQLite, MongoDB, Redis, a... |
+| [TableProApp/TablePro](https://github.com/TableProApp/TablePro) | A native database client for developers who use one every day. |
 | [taganaka/SpeedTest](https://github.com/taganaka/SpeedTest) | Yet another unofficial speedtest.net client cli interface |
 | [tailcallhq/forgecode](https://github.com/tailcallhq/forgecode) | AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini ... |
 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | The easiest, most secure way to use WireGuard and 2FA. |
@@ -1445,7 +1445,7 @@
 | [tsoding/nob.h](https://github.com/tsoding/nob.h) | Header only library for writing build recipes in C.  |
 | [ttommyth/rag-memory-mcp](https://github.com/ttommyth/rag-memory-mcp) | None |
 | [Tufmoc/W.Tools-Ver.Bat](https://github.com/Tufmoc/W.Tools-Ver.Bat) | 初代工具箱雏形 |
-| [tukuaiai/vibe-coding-cn](https://github.com/tukuaiai/vibe-coding-cn) | Vibe Coding 指南 - 涵盖 Prompt 提示词、Skill 技能库、Workflow 工作流的 AI 编程工作站 |
+| [tukuaiai/vibe-coding-cn](https://github.com/tukuaiai/vibe-coding-cn) | 中文 Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、Cursor、Claude ... |
 | [tumuyan/RealSR-NCNN-Android](https://github.com/tumuyan/RealSR-NCNN-Android) | An Android application for super-resolution & interpolation. Contains RealSR-... |
 | [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) | A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScri... |
 | [tuyafeng/Via](https://github.com/tuyafeng/Via) | Via is a simple browser, and this repository is set for localization. |
