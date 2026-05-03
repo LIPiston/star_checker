@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sat May  2 03:21:23 UTC 2026 | 总计: **1693** 个未分类项目
+> 生成于 UTC 时间: Sun May  3 03:38:40 UTC 2026 | 总计: **1697** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -28,6 +28,7 @@
 | [8Mi-Tech/LSPatch-ApkFactory](https://github.com/8Mi-Tech/LSPatch-ApkFactory) | 一个基于LSPatch的打包工具，自动为常见应用打LSPatch补丁的仓库，包括各类分支(详见readme) |
 | [aa2013/ClipShare](https://github.com/aa2013/ClipShare) | A cross-platform (currently Android, Windows, Linux, MacOS) clipboard history... |
 | [aaa1115910/bv](https://github.com/aaa1115910/bv) | 哔哩哔哩 的第三方 Android 应用。A third-party Android app for Bilibili. |
+| [AAswordman/Operit](https://github.com/AAswordman/Operit) | The most powerful AI agent and AI chat software on Android/Operit是一款Android上能... |
 | [abcz316/SKRoot-linuxKernelRoot](https://github.com/abcz316/SKRoot-linuxKernelRoot) | 新一代 SKRoot，完美隐藏Root功能，无视全网检测手段，实现SELinux零触碰、无挂载！ 通杀所有内核，免源码直接 Patch 原厂内核，完美保留... |
 | [Acfboy/twt-werewolf-master-ng](https://github.com/Acfboy/twt-werewolf-master-ng) | Modern generation of twt-werewolf-master |
 | [ACGaming/UniversalTweaks](https://github.com/ACGaming/UniversalTweaks) | A community project to consolidate various bugfixes and tweaks into a single ... |
@@ -49,6 +50,7 @@
 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | The agent harness performance optimization system. Skills, instincts, memory,... |
 | [afoim/webrtc_check_nat](https://github.com/afoim/webrtc_check_nat) | 利用浏览器的WebRTC查询你的NAT类型（双IP） |
 | [agalwood/Motrix](https://github.com/agalwood/Motrix) | A full-featured download manager. |
+| [agentset-ai/mcp-server](https://github.com/agentset-ai/mcp-server) | Agentset MCP Server - Build RAG with Agentic superpowers |
 | [agentskills/agentskills](https://github.com/agentskills/agentskills) | Specification and documentation for Agent Skills |
 | [AHCorn/Bilibili-Auto-Quality](https://github.com/AHCorn/Bilibili-Auto-Quality) | 自动解锁并更改哔哩哔哩视频的画质和音质及直播画质，实现自动选择最高画质、无损音频、杜比全景声。 / Automatically unlock and se... |
 | [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) |  Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, Cha... |
@@ -148,6 +150,7 @@
 | [BandBBS-Vela-Dev/com.bandbbs.ebook](https://github.com/BandBBS-Vela-Dev/com.bandbbs.ebook) | 喵喵电子书 MiaoReader Vela 端 |
 | [bangbang93/openbmclapi](https://github.com/bangbang93/openbmclapi) | BMCLAPI@Home |
 | [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) | Android real-time display control software |
+| [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) | AI conversations that actually remember. Never re-explain your project to you... |
 | [bdsm-technology/BDSM](https://github.com/bdsm-technology/BDSM) | Bedrock Dedicated Server Manager (Unofficial) |
 | [be5invis/Iosevka](https://github.com/be5invis/Iosevka) | Versatile typeface for code, from code. |
 | [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) | Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕 |
@@ -1270,6 +1273,7 @@
 | [shengcaishizhan/kkndme_tianya](https://github.com/shengcaishizhan/kkndme_tianya) | 天涯 kkndme 神贴聊房价 |
 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social networks |
 | [shichuanenhui/TvBox](https://github.com/shichuanenhui/TvBox) | None |
+| [shinpr/mcp-local-rag](https://github.com/shinpr/mcp-local-rag) | Local-first RAG server for developers. Semantic + keyword search for code and... |
 | [shipinbaoku/ikev2-vpn-setup-bash](https://github.com/shipinbaoku/ikev2-vpn-setup-bash) | 使用bash脚本一键搭建Ikev2的vpn服务端. |
 | [ShirkNeko/GKI_KernelSU_SUSFS](https://github.com/ShirkNeko/GKI_KernelSU_SUSFS) | 使用 SukiSU 和 SUSFS 的 GKI 内核 |
 | [ShizukuIchi/minesweeper](https://github.com/ShizukuIchi/minesweeper) | 💣 Windows XP minesweeper in web. Also support mobile. 🎉📱 |
@@ -1493,7 +1497,7 @@
 | [VERT-sh/VERT](https://github.com/VERT-sh/VERT) | The next-generation file converter. Open source, fully local* and free forever. |
 | [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) | An Android application for streaming music from YouTube Music |
 | [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) | 📱 Display and control your Android device graphically with scrcpy. |
-| [ViaVersion/ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus) | Minecraft Fabric mod which allows you to join EVERY Minecraft server version ... |
+| [ViaVersion/ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus) | Minecraft Fabric mod that allows you to join EVERY Minecraft server version (... |
 | [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) | A focused launcher for your desktop - native, fast, extensible |
 | [VickScarlet/lifeRestart](https://github.com/VickScarlet/lifeRestart) | やり直すんだ。そして、次はうまくやる。 |
 | [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator) | ASCII generator (image to text, image to image, video to video) |
