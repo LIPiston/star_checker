@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sun May  3 03:38:40 UTC 2026 | 总计: **1697** 个未分类项目
+> 生成于 UTC 时间: Mon May  4 03:36:52 UTC 2026 | 总计: **1700** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -246,6 +246,8 @@
 | [chen310/NeteaseCloudMusicTasks](https://github.com/chen310/NeteaseCloudMusicTasks) | None |
 | [chenxiaolong/RSAF](https://github.com/chenxiaolong/RSAF) | An Android Storage Access Framework document provider for rclone |
 | [chenzyadb/CuprumTurbo-Scheduler](https://github.com/chenzyadb/CuprumTurbo-Scheduler) | A Simple and Reliable Performance Scheduler. |
+| [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | AI productivity studio with smart chat, autonomous agents, and 300+ assistant... |
+| [CherryHQ/cherry-studio-app](https://github.com/CherryHQ/cherry-studio-app) | 🍒 This is the mobile version of Cherry Studio. |
 | [Chimioo/InxLocker](https://github.com/Chimioo/InxLocker) | Xposed-based Installer Locker for Android (Powered by YukiHookAPI) |
 | [ChinaIceF/PyQt-SiliconUI](https://github.com/ChinaIceF/PyQt-SiliconUI) | A powerful and artistic UI library based on PyQt5，基于 PyQt5 的UI框架，灵动、优雅而轻便 |
 | [CHIZI-0618/box4magisk](https://github.com/CHIZI-0618/box4magisk) | Use sing-box, clash, v2ray, xray tunnel proxy on Android devices. |
@@ -823,6 +825,7 @@
 | [lizongying/my-tv](https://github.com/lizongying/my-tv) | 我的电视 电视直播软件，安装即可使用 |
 | [lizongying/my-tv-0](https://github.com/lizongying/my-tv-0) | 我的電視·〇 電視視頻播放軟件，可以自定義視頻源 |
 | [lizongying/my-tv-1](https://github.com/lizongying/my-tv-1) | 我的電視·一 電視視頻播放軟件，支持播放網頁視頻 |
+| [lkkone/tlinker](https://github.com/lkkone/tlinker) | headscale&derp auto deploy and manage |
 | [lkyero/GitHubDesktop_zh](https://github.com/lkyero/GitHubDesktop_zh) | 【GitHub Desktop】客户端中文汉化（简体）；【GitHub Desktop】 Simplified Chinese interface；（Gi... |
 | [LLOneBot/LuckyLilliaBot](https://github.com/LLOneBot/LuckyLilliaBot) | 支持 OneBot 11、Satori 和 Milky 协议 |
 | [lmc999/RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck) | A bash script to check the status of your IP on various geo-restricted servic... |
