@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Mon May  4 03:36:52 UTC 2026 | 总计: **1700** 个未分类项目
+> 生成于 UTC 时间: Tue May  5 03:23:37 UTC 2026 | 总计: **1700** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -117,7 +117,7 @@
 | [artisticat1/obsidian-latex-suite](https://github.com/artisticat1/obsidian-latex-suite) | Make typesetting LaTeX as fast as handwriting through snippets, text expansio... |
 | [aseprite/aseprite](https://github.com/aseprite/aseprite) | Animated sprite editor & pixel art tool (Windows, macOS, Linux) |
 | [astei/lazydfu](https://github.com/astei/lazydfu) | Fabric mod that makes Minecraft DataFixerUpper initialization lazy |
-| [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | AI Agent Assistant that integrates lots of IM platforms, LLMs, plugins and AI... |
+| [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | AI Agent Assistant & development framework that integrates lots of IM platfor... |
 | [Astro-2539/ZLabs-Bitmap](https://github.com/Astro-2539/ZLabs-Bitmap) | 一款开源的小型化像素字体 |
 | [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) | 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体 |
 | [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) | 🚀 An open and lightweight modification to Windows, designed to optimize perfo... |
@@ -692,7 +692,7 @@
 | [justice2001/halo-plugin-vditor](https://github.com/justice2001/halo-plugin-vditor) | 适用于Halo2.0的Vditor编辑器 |
 | [justjake/quickjs-emscripten](https://github.com/justjake/quickjs-emscripten) | Safely execute untrusted Javascript in your Javascript, and execute synchrono... |
 | [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | :books: 免费的计算机编程类中文书籍，欢迎投稿 |
-| [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) | Simulates Gemini CLI, Antigravity, Codex, Grok, and Kiro client requests, com... |
+| [justlovemaki/AIClient2API](https://github.com/justlovemaki/AIClient2API) | Simulates Gemini CLI, Antigravity, Codex, Grok, and Kiro client requests, com... |
 | [jynew/jynew](https://github.com/jynew/jynew) | JinYongLegend-like RPG Game Framework with full Modding support and 10+ hours... |
 | [K11MCH1/AdrenoToolsDrivers](https://github.com/K11MCH1/AdrenoToolsDrivers) | A repository for Skyline, Strato, Vita3K and Yuzu Android compatible Adreno d... |
 | [kaajjo/LibreSudoku](https://github.com/kaajjo/LibreSudoku) | LibreSudoku - Sudoku app for android built with Kotlin + Jetpack Compose + Ma... |
@@ -1203,7 +1203,7 @@
 | [RelativityMC/VMP-fabric](https://github.com/RelativityMC/VMP-fabric) | A Fabric mod designed to improve server performance at high playercounts. |
 | [relimus/TAssistant](https://github.com/relimus/TAssistant) | Make TIM Great Again! |
 | [relimus/Z-Flow](https://github.com/relimus/Z-Flow) | 最卡顿的米窗在此 |
-| [remorses/playwriter](https://github.com/remorses/playwriter) | Chrome extension to let agents control your browser. Runs Playwright snippets... |
+| [remorses/playwriter](https://github.com/remorses/playwriter) | Chrome extension & CLI to let agents control your browser. Runs Playwright sn... |
 | [researchxxl/syncthing-android](https://github.com/researchxxl/syncthing-android) | Syncthing-Fork - A Syncthing Wrapper for Android. |
 | [reserveword/IMBlocker](https://github.com/reserveword/IMBlocker) | A mod for Minecraft helping control Input Methods |
 | [ResetPower/Epherome](https://github.com/ResetPower/Epherome) | [Deprecated] This repository is obsolete. Please go to Epheromeers/Epherome i... |
