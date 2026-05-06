@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Tue May  5 03:23:37 UTC 2026 | 总计: **1700** 个未分类项目
+> 生成于 UTC 时间: Wed May  6 03:34:10 UTC 2026 | 总计: **1702** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -488,7 +488,7 @@
 | [gitui-org/gitui](https://github.com/gitui-org/gitui) | Blazing 💥 fast terminal-ui for git written in rust 🦀 |
 | [gkd-kit/gkd](https://github.com/gkd-kit/gkd) | 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 / An Android APP with custom screen tapping base... |
 | [glanceapp/glance](https://github.com/glanceapp/glance) | A self-hosted dashboard that puts all your feeds in one place |
-| [glincker/thesvg](https://github.com/glincker/thesvg) | 5,650+ brand SVG icons for developers. Tree-shakeable, typed, open source. np... |
+| [glincker/thesvg](https://github.com/glincker/thesvg) | 5,880+ brand SVG icons for developers. Tree-shakeable, typed, open source. np... |
 | [GlobeMC/crashmc.com](https://github.com/GlobeMC/crashmc.com) | CrashMC.com Website |
 | [gloeyisk/universal-gms-doze](https://github.com/gloeyisk/universal-gms-doze) | Patches Google Play services app and certain processes/services to be able to... |
 | [gnembon/carpet-extra](https://github.com/gnembon/carpet-extra) | Extra Features for Carpet Mod |
@@ -625,7 +625,7 @@
 | [InkCanvasForClass/community](https://github.com/InkCanvasForClass/community) | InkCanvasForClass Community Open Source Project |
 | [InMomo/StealthReader](https://github.com/InMomo/StealthReader) | 这是一个专为上班族打造的极简、隐蔽、高定制度的桌面阅读器。它不存储书籍，而是作为手机端Legado (阅读)(https://github.com/ged... |
 | [InputShare/InputShare](https://github.com/InputShare/InputShare) | InputShare enables you to share the keyboard and mouse of your computer with ... |
-| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude ... |
+| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude C... |
 | [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) | A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (e... |
 | [IrisShaders/Iris](https://github.com/IrisShaders/Iris) | A modern shaders mod for Minecraft compatible with existing OptiFine shader p... |
 | [Iru21/Authy](https://github.com/Iru21/Authy) | A simple authentication plugin for Minecraft 1.17+! |
@@ -678,7 +678,7 @@
 | [jonz94/Sarasa-Gothic-Nerd-Fonts](https://github.com/jonz94/Sarasa-Gothic-Nerd-Fonts) | Nerd fonts patched Sarasa Gothic font. |
 | [jordanbaird/Ice](https://github.com/jordanbaird/Ice) | Powerful menu bar manager for macOS |
 | [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) | Moe counter badge with multiple themes! - 多种风格可选的萌萌计数器 |
-| [JoyinJoester/Monica](https://github.com/JoyinJoester/Monica) | Password Management, 2FA Generator |
+| [JoyinJoester/Monica](https://github.com/JoyinJoester/Monica) |  Monica Pass，Password Management, 2FA Generator |
 | [joyqi/sfz](https://github.com/joyqi/sfz) | 专门用于给图片加水印打码的工具，完全基于浏览器本地API，无任何网络请求（特别适合身份证等敏感证件） |
 | [jpenilla/TabTPS](https://github.com/jpenilla/TabTPS) | Minecraft server mod/plugin to monitor TPS, MSPT, and other information in th... |
 | [Jsnzkpg/Jsnzkpg](https://github.com/Jsnzkpg/Jsnzkpg) | 已持续维护5年多，每天都会检测可用性，全网质量最高的免费节点订阅，魔鬼式筛选出高质量的免费节点，shadowrocket丨stash丨singbox丨cl... |
@@ -891,6 +891,7 @@
 | [magic-akari/ncmc-web](https://github.com/magic-akari/ncmc-web) | convert files in browsers |
 | [Magisk-Modules-Alt-Repo/BuiltIn-BusyBox](https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox) | Systemless Magisk module that installs and symlinks BusyBox with its applets ... |
 | [Magisk-Modules-Alt-Repo/Magisk-Tailscaled](https://github.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled) | Magisk/KernelSU module for running Tailscale on rooted Android devices. |
+| [Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver](https://github.com/Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver) | An extreme battery saver Magisk Module for users who want to really stretch t... |
 | [Magisk-Modules-Repo/acp](https://github.com/Magisk-Modules-Repo/acp) | acp |
 | [Magisk-Modules-Repo/adb-ndk](https://github.com/Magisk-Modules-Repo/adb-ndk) | adb-ndk |
 | [Magisk-Modules-Repo/busybox-ndk](https://github.com/Magisk-Modules-Repo/busybox-ndk) | busybox-ndk |
@@ -1025,7 +1026,7 @@
 | [nextai-translator/bob-plugin-openai-translator](https://github.com/nextai-translator/bob-plugin-openai-translator) | 基于 LLM 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0 |
 | [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) | 📦 The official Nextcloud installation method. Provides easy deployment and ma... |
 | [nextcloud/server](https://github.com/nextcloud/server) | ☁️ Nextcloud server, a safe home for all your data |
-| [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) | Automated nginx proxy for Docker containers using docker-gen |
+| [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) | Automated Nginx Reverse Proxy for Docker |
 | [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) | Docker container for managing Nginx proxy hosts with a simple, powerful inter... |
 | [ngo5/IPTV](https://github.com/ngo5/IPTV) | IPV4/IPV6 TVBOX 电视直播点播源收集 |
 | [ngosang/trackerslist](https://github.com/ngosang/trackerslist) | Updated list of public BitTorrent trackers |
@@ -1083,6 +1084,7 @@
 | [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) | 🐌 useful scripts for making developer's everyday life easier and happier, inv... |
 | [olegos2/mobox](https://github.com/olegos2/mobox) | None |
 | [One-Studio/better-github-api](https://github.com/One-Studio/better-github-api) | 基于 gh-proxy + Jsdelivr+ cnpmjs + cloudflare workers 的 GitHub Serverless API 工具。 |
+| [OneB1ank/A1Memory](https://github.com/OneB1ank/A1Memory) | Android third-party memory management |
 | [OneDragon-Anything/StarRailOneDragon](https://github.com/OneDragon-Anything/StarRailOneDragon) | 崩坏：星穹铁道 - 一条龙 Honkai Star Rail - One Dragon / 全日常自动 /  |
 | [OOM-WG/ShiroSU-Utils](https://github.com/OOM-WG/ShiroSU-Utils) | Multi-platform Android Modding & Tweaking Utility / 多平台 Android 玩机工具 |
 | [open-ani/animeko](https://github.com/open-ani/animeko) | 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose... |
