@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Wed May  6 03:34:10 UTC 2026 | 总计: **1702** 个未分类项目
+> 生成于 UTC 时间: Thu May  7 03:34:25 UTC 2026 | 总计: **1702** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -409,7 +409,7 @@
 | [Fallen-Breath/litematica-server-paster](https://github.com/Fallen-Breath/litematica-server-paster) | Let Litematica be able to paste tile entity data of block / entity data in a ... |
 | [Fallen-Breath/more-statistics](https://github.com/Fallen-Breath/more-statistics) | Add more statistics to Minecraft |
 | [Fallen-Breath/tweakermore](https://github.com/Fallen-Breath/tweakermore) | A collection of client-side tweak kits to enhance your Minecraft game experie... |
-| [Fanju6/NetProxy-Magisk](https://github.com/Fanju6/NetProxy-Magisk) | Based on the Xray core, this Android proxy module supports one-click start/st... |
+| [Fanju6/NetProxy-Magisk](https://github.com/Fanju6/NetProxy-Magisk) | Based on the sing-box core, this Android proxy module supports one-click star... |
 | [fankes/AndroidNotifyIconAdapt](https://github.com/fankes/AndroidNotifyIconAdapt) | An online rules platform that adapts native notification icons and standard i... |
 | [fankes/ColorOSNotifyIcon](https://github.com/fankes/ColorOSNotifyIcon) | Optimize notification icons for ColorOS and adapt to native notification icon... |
 | [fankes/MIUINativeNotifyIcon](https://github.com/fankes/MIUINativeNotifyIcon) | Fix the native notification bar icon function abandoned by the MIUI developme... |
@@ -671,7 +671,7 @@
 | [jing332/tts-server-android](https://github.com/jing332/tts-server-android) | 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有... |
 | [JingMatrix/TEESimulator](https://github.com/JingMatrix/TEESimulator) | Software simulation for Android hardware-backed key pairs with key attestation |
 | [JingMatrix/Vector](https://github.com/JingMatrix/Vector) | Modern Xposed Framework |
-| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 🚀 「大模型」2小时完全从0训练64M的小参数LLM！🌏 Train a 64M-parameter LLM from scratch in just 2h! |
+| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h! |
 | [jiqiu2022/Zygisk-MyInjector](https://github.com/jiqiu2022/Zygisk-MyInjector) | 一个自定义注入so的脚手架,现在已经支持了界面化使用。 |
 | [JohanChane/clashtui](https://github.com/JohanChane/clashtui) | Mihomo (Clash.Meta) TUI Client |
 | [johnfactotum/foliate](https://github.com/johnfactotum/foliate) | Read e-books in style |
@@ -1074,7 +1074,7 @@
 | [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be sea... |
 | [OdysseusYuan/LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) | 一键自动化 下载、安装、激活 Office 的利器。 |
 | [ohlunaaa/Riot-auth](https://github.com/ohlunaaa/Riot-auth) | None |
-| [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 🙃   A delightful community-driven (with 2,400+ contributors) framework for ma... |
+| [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 🙃   A delightful community-driven (with 2,500+ contributors) framework for ma... |
 | [oiov/wr.do](https://github.com/oiov/wr.do) | 一站式域名服务平台，集成短链生成、无限域名邮箱、文件存储和子域名管理，带有管理员面板，支持自部署 |
 | [OKTW-Network/FabricProxy](https://github.com/OKTW-Network/FabricProxy) | Fabric mod for support forward player data from proxy |
 | [OKTW-Network/FabricProxy-Lite](https://github.com/OKTW-Network/FabricProxy-Lite) | Fabric mod for support forward player data from velocity. |
