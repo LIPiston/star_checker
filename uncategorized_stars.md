@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Thu May  7 03:34:25 UTC 2026 | 总计: **1702** 个未分类项目
+> 生成于 UTC 时间: Fri May  8 03:29:39 UTC 2026 | 总计: **1702** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -241,7 +241,7 @@
 | [chase535/accurate_battery](https://github.com/chase535/accurate_battery) | 精准电量 |
 | [chase535/turbo-charge](https://github.com/chase535/turbo-charge) | Magisk模块，关闭阶梯式充电，持续修改电池温度及充电电流，以达到最快充电速度 |
 | [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) | Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 AP... |
-| [ChatLab/ChatLab](https://github.com/ChatLab/ChatLab) | Rediscover your social memories with local, AI-powered analysis. 本地化的聊天记录分析工具... |
+| [ChatLab/ChatLab](https://github.com/ChatLab/ChatLab) | Local-first chat history analyzer with AI. / 本地优先的 AI 聊天记录分析工具 |
 | [chen08209/FlClash](https://github.com/chen08209/FlClash) | A multi-platform proxy client based on ClashMeta,simple and easy to use, open... |
 | [chen310/NeteaseCloudMusicTasks](https://github.com/chen310/NeteaseCloudMusicTasks) | None |
 | [chenxiaolong/RSAF](https://github.com/chenxiaolong/RSAF) | An Android Storage Access Framework document provider for rclone |
@@ -482,7 +482,7 @@
 | [git/git](https://github.com/git/git) | Git Source Code Mirror - This is a publish-only repository but pull requests ... |
 | [github/github-mcp-server](https://github.com/github/github-mcp-server) | GitHub's official MCP Server |
 | [github/spec-kit](https://github.com/github/spec-kit) | 💫 Toolkit to help you get started with Spec-Driven Development |
-| [gitify-app/gitify](https://github.com/gitify-app/gitify) | GitHub notifications on your menu bar. Available on macOS, Windows & Linux. |
+| [gitify-app/gitify](https://github.com/gitify-app/gitify) | Git notifications on your menu bar. Available on macOS, Windows & Linux. |
 | [GitMetaio/Surfing](https://github.com/GitMetaio/Surfing) | Magisk and KernelSU modules for  Clash/mihomo services. |
 | [GitMetaio/SurfingWin](https://github.com/GitMetaio/SurfingWin) | A lightweight Clash runtime environment for Windows built with a portable str... |
 | [gitui-org/gitui](https://github.com/gitui-org/gitui) | Blazing 💥 fast terminal-ui for git written in rust 🦀 |
