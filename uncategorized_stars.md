@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Fri May  8 03:29:39 UTC 2026 | 总计: **1702** 个未分类项目
+> 生成于 UTC 时间: Sat May  9 03:28:59 UTC 2026 | 总计: **1702** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -465,7 +465,7 @@
 | [GamerNoTitle/WorthIt](https://github.com/GamerNoTitle/WorthIt) | 我的东西买得有多值呢？基于 Notion 数据库的记物网站应用 |
 | [gaotianliuyun/gao](https://github.com/gaotianliuyun/gao) | FongMi影视和tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。 |
 | [Gaoyifei1011/GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp) | 离线下载 Microsoft Store 商店应用 |
-| [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC. |
+| [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | 🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯... |
 | [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) | Show your latest blog posts from any sources or StackOverflow activity or You... |
 | [gautamkrishnar/motrix-webextension](https://github.com/gautamkrishnar/motrix-webextension) | A browser extension for the Motrix Download Manager and its forks |
 | [GBALATRO/balatro-gba](https://github.com/GBALATRO/balatro-gba) | A demake of Balatro for the GBA |
@@ -1043,7 +1043,7 @@
 | [niuhuan/daisy](https://github.com/niuhuan/daisy) | 美观易用且无广告的漫画和轻小说客户端, 同时支持MacOS，Windows，Android，iOS。(动漫之家) |
 | [NLR-DevTeam/Fcitx5-Enhancer](https://github.com/NLR-DevTeam/Fcitx5-Enhancer) | A  fcitx5 compatibility mod for Minecraft |
 | [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) | Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad! |
-| [nocokit/noco-form](https://github.com/nocokit/noco-form) | noco-form |
+| [nocokit/noco-form](https://github.com/nocokit/noco-form) | 拖拉拽低代码表单 |
 | [NodePassProject/nodepass](https://github.com/NodePassProject/nodepass) | A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable a... |
 | [nohajc/termux-adb](https://github.com/nohajc/termux-adb) | Run adb in Termux without root permissions! |
 | [nonebot/cli-plugin-docker](https://github.com/nonebot/cli-plugin-docker) | docker support for nb-cli |
