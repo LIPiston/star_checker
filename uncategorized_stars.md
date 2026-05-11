@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sun May 10 03:41:32 UTC 2026 | 总计: **1702** 个未分类项目
+> 生成于 UTC 时间: Mon May 11 03:54:54 UTC 2026 | 总计: **1702** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -326,7 +326,6 @@
 | [dbcli/mycli](https://github.com/dbcli/mycli) | A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting. |
 | [ddgth/cf2dns](https://github.com/ddgth/cf2dns) | 筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式 |
 | [ddlmanus/MacOptimizer](https://github.com/ddlmanus/MacOptimizer) | MacOptimizer is a system optimization tool designed specifically for macOS, f... |
-| [DearVa/Everywhere](https://github.com/DearVa/Everywhere) | Context-aware AI assistant for your desktop. Ready to respond intelligently, ... |
 | [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) | Contexts Optical Compression |
 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | None |
 | [Delta-Icons/android](https://github.com/Delta-Icons/android) | 🤖 Icon Pack for Android |
@@ -1359,6 +1358,7 @@
 | [Sxuan-Coder/gemini_chat_export](https://github.com/Sxuan-Coder/gemini_chat_export) | Export Google Gemini web chat history to JSON/TXT/Markdown file with one clic... |
 | [sxyazi/yazi](https://github.com/sxyazi/yazi) | 💥 Blazing fast terminal file manager written in Rust, based on async I/O. |
 | [sxzxs/Real-time-translation-typing](https://github.com/sxzxs/Real-time-translation-typing) | 实时打字翻译软件、语音实时打字、语音实时翻译、LOL 语音打字 |
+| [Sylinko/Everywhere](https://github.com/Sylinko/Everywhere) | Context-aware AI assistant for your desktop. Ready to respond intelligently, ... |
 | [symbuzzer/livebootmodule](https://github.com/symbuzzer/livebootmodule) | A Magisk, KernelSU and APatch module that enables unix-style (verbose) boot a... |
 | [syncthing/syncthing](https://github.com/syncthing/syncthing) | Open Source Continuous File Synchronization |
 | [syntaxticsugr/ViPER4Android-Presets](https://github.com/syntaxticsugr/ViPER4Android-Presets) | Largest collection of DDC, Kernel & Preset for ViPER4Android |
