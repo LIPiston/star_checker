@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Mon May 11 03:54:54 UTC 2026 | 总计: **1702** 个未分类项目
+> 生成于 UTC 时间: Tue May 12 03:38:13 UTC 2026 | 总计: **1702** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -1366,7 +1366,7 @@
 | [taamarin/box.manager](https://github.com/taamarin/box.manager) | Optional |
 | [taamarin/box_for_magisk](https://github.com/taamarin/box_for_magisk) | Transparent Proxy for Android(root)  |
 | [taamarin/ClashforMagisk](https://github.com/taamarin/ClashforMagisk) | Transparent proxy(Tproxy) for android (root) |
-| [TableProApp/TablePro](https://github.com/TableProApp/TablePro) | A native database client for developers who use one every day. |
+| [TableProApp/TablePro](https://github.com/TableProApp/TablePro) | Free and open source database client built natively for developers |
 | [taganaka/SpeedTest](https://github.com/taganaka/SpeedTest) | Yet another unofficial speedtest.net client cli interface |
 | [tailcallhq/forgecode](https://github.com/tailcallhq/forgecode) | AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini ... |
 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | The easiest, most secure way to use WireGuard and 2FA. |
