@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Wed May 13 03:47:24 UTC 2026 | 总计: **1702** 个未分类项目
+> 生成于 UTC 时间: Thu May 14 03:46:27 UTC 2026 | 总计: **1702** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -1051,6 +1051,7 @@
 | [nordtheme/terminal-app](https://github.com/nordtheme/terminal-app) | An arctic, north-bluish clean and elegant Terminal.app color theme. |
 | [notdog1998/yourself-skill](https://github.com/notdog1998/yourself-skill) | 与其蒸馏别人，不如蒸馏自己。欢迎加入数字永生！Inspired by colleague-skill（同事skill）。 |
 | [nothings/stb](https://github.com/nothings/stb) | stb single-file public domain libraries for C/C++ |
+| [notionnext-org/NotionNext](https://github.com/notionnext-org/NotionNext) | 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A st... |
 | [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) | Automatically updated, moderated and optimized lists for blocking ads, tracke... |
 | [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) | 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端 |
 | [notxx/MiPushZygisk](https://github.com/notxx/MiPushZygisk) | 一个 Zygisk 模块，为应用伪装小米设备，以便使用 MiPush |
@@ -1376,7 +1377,6 @@
 | [takayama-lily/vscode-qq](https://github.com/takayama-lily/vscode-qq) | vscode qq extension based on android qq protocol |
 | [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) | 开源的泛中日韩像素字体，黑体风格 |
 | [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) | 开源的泛中日韩像素字体，黑体风格 |
-| [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) | 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A st... |
 | [TankNee/LOL_Game_Subscription](https://github.com/TankNee/LOL_Game_Subscription) | lpl,ldl professional match calendar subscription! |
 | [tanweai/pua](https://github.com/tanweai/pua) | 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Y... |
 | [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 所有小初高、大学PDF教材。 |
