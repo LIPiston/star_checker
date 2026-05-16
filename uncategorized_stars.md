@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Fri May 15 03:50:41 UTC 2026 | 总计: **1702** 个未分类项目
+> 生成于 UTC 时间: Sat May 16 03:33:05 UTC 2026 | 总计: **1702** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -672,7 +672,7 @@
 | [JingMatrix/Vector](https://github.com/JingMatrix/Vector) | Modern Xposed Framework |
 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h! |
 | [jiqiu2022/Zygisk-MyInjector](https://github.com/jiqiu2022/Zygisk-MyInjector) | 一个自定义注入so的脚手架,现在已经支持了界面化使用。 |
-| [JohanChane/clashtui](https://github.com/JohanChane/clashtui) | Mihomo (Clash.Meta) TUI Client |
+| [JohanChane/clashtui](https://github.com/JohanChane/clashtui) | Mihomo (Clash.Meta) / sing-box TUI Client |
 | [johnfactotum/foliate](https://github.com/johnfactotum/foliate) | Read e-books in style |
 | [jonz94/Sarasa-Gothic-Nerd-Fonts](https://github.com/jonz94/Sarasa-Gothic-Nerd-Fonts) | Nerd fonts patched Sarasa Gothic font. |
 | [jordanbaird/Ice](https://github.com/jordanbaird/Ice) | Powerful menu bar manager for macOS |
@@ -1327,7 +1327,7 @@
 | [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) | Everything integration for the Windows taskbar. |
 | [ssnhd/rime](https://github.com/ssnhd/rime) | Rime Squirrel 鼠须管配置文件（朙月拼音、小鹤双拼、自然码双拼） |
 | [ssut/payload-dumper-go](https://github.com/ssut/payload-dumper-go) | an android OTA payload dumper written in Go |
-| [Stapxs/Stapxs-QQ-Lite-2.0](https://github.com/Stapxs/Stapxs-QQ-Lite-2.0) | 一个兼容 OneBot 协议的第三方 QQ 客户端。 Web、全平台实现！/ A third-party QQ client compatible wit... |
+| [Stapxs/Stapxs-QQ-Lite-2.0](https://github.com/Stapxs/Stapxs-QQ-Lite-2.0) | 一个兼容 OneBot 协议的第三方 QQ 客户端。 Web、全平台实现！ |
 | [Stardust-Labs-MC/Terralith](https://github.com/Stardust-Labs-MC/Terralith) | A popular Minecraft worldgen datapack for the Overworld |
 | [std-microblock/chromatic](https://github.com/std-microblock/chromatic) | Universal modifier for Chromium/V8 / 广谱注入 Chromium/V8 的通用修改器 |
 | [std-microblock/TGStickerProvider](https://github.com/std-microblock/TGStickerProvider) | A Xposed/LSPosed plugin to dump stickers from Telegram. Almost all 3rd-party ... |
