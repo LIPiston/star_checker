@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Mon May 18 04:03:30 UTC 2026 | 总计: **1702** 个未分类项目
+> 生成于 UTC 时间: Tue May 19 03:56:56 UTC 2026 | 总计: **1702** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -47,7 +47,7 @@
 | [Aefyr/SAI](https://github.com/Aefyr/SAI) | Android split APKs installer |
 | [afar1/fieldtheory-cli](https://github.com/afar1/fieldtheory-cli) | Sync and locally store all of your X/Twitter bookmarks. Free and open source ... |
 | [afeimod/winlator-mod](https://github.com/afeimod/winlator-mod) | Android application for running Windows applications with Wine and Box86/Box64 |
-| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | The agent harness performance optimization system. Skills, instincts, memory,... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimization system. Skills, instincts, memory,... |
 | [afoim/webrtc_check_nat](https://github.com/afoim/webrtc_check_nat) | 利用浏览器的WebRTC查询你的NAT类型（双IP） |
 | [agalwood/Motrix](https://github.com/agalwood/Motrix) | A full-featured download manager. |
 | [agentset-ai/mcp-server](https://github.com/agentset-ai/mcp-server) | Agentset MCP Server - Build RAG with Agentic superpowers |
@@ -118,7 +118,7 @@
 | [aseprite/aseprite](https://github.com/aseprite/aseprite) | Animated sprite editor & pixel art tool (Windows, macOS, Linux) |
 | [astei/lazydfu](https://github.com/astei/lazydfu) | Fabric mod that makes Minecraft DataFixerUpper initialization lazy |
 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | AI Agent Assistant & development framework that integrates lots of IM platfor... |
-| [Astro-2539/ZLabs-Bitmap](https://github.com/Astro-2539/ZLabs-Bitmap) | 一款开源的小型化像素字体 |
+| [Astro-2539/ZLabs-Pixel-12px](https://github.com/Astro-2539/ZLabs-Pixel-12px) | 一款规格为 11*12px 的开源中文像素字体 A 11*12px open source Chinese pixel font |
 | [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) | 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体 |
 | [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) | 🚀 An open and lightweight modification to Windows, designed to optimize perfo... |
 | [atuinsh/desktop](https://github.com/atuinsh/desktop) | 📖 Runbooks that run  |
@@ -555,7 +555,7 @@
 | [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) | OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫... |
 | [HisMax/RedInk](https://github.com/HisMax/RedInk) | Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano ... |
 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianyth... |
-| [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | "🐈 nanobot: The Ultra-Lightweight Personal AI Agent" |
+| [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | Lightweight, open-source AI agent for your tools, chats, and workflows. |
 | [HMBSbige/NatTypeTester](https://github.com/HMBSbige/NatTypeTester) | 测试当前网络的 NAT 类型（STUN） |
 | [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL) | A Minecraft Launcher which is multi-functional, cross-platform and popular |
 | [HMCL-dev/HMCL-docs](https://github.com/HMCL-dev/HMCL-docs) | Documentations for Hello Minecraft! Launcher |
