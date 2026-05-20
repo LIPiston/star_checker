@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Tue May 19 03:56:56 UTC 2026 | 总计: **1702** 个未分类项目
+> 生成于 UTC 时间: Wed May 20 03:57:40 UTC 2026 | 总计: **1702** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -755,7 +755,6 @@
 | [kwsch/PKHeX](https://github.com/kwsch/PKHeX) | Pokémon Save File Editor |
 | [KyleBing/english-vocabulary](https://github.com/KyleBing/english-vocabulary) | 英文单词，英语单词，四六级 CET4 CET6、考研、SAT单词，txt 文件, json 文件 |
 | [KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian) | 86五笔极点码表 for 鼠须管(macOS)、小狼毫(Windows)、中州韵(Ubuntu) 、仓（iOS）、同文（Android）五笔输入方案，五笔... |
-| [Kyome22/RunCat365](https://github.com/Kyome22/RunCat365) | A cute running cat animation on your windows taskbar. |
 | [kyujin-cho/pixel-volte-patch](https://github.com/kyujin-cho/pixel-volte-patch) | Pixel IMS: Rootless replacement for Tensor Pixel VoLTE patch |
 | [L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN) | 如何将ChatGPT调教成一只猫娘 |
 | [LagrangeDev/Lagrange.Core](https://github.com/LagrangeDev/Lagrange.Core) | An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core |
@@ -1233,6 +1232,7 @@
 | [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) | chsrc 全平台通用换源工具与框架. Change Source everywhere for every software |
 | [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) | A Flash Player emulator written in Rust |
 | [ruffle-rs/ruffle-android](https://github.com/ruffle-rs/ruffle-android) | An Android application for ruffle.rs |
+| [runcat-dev/RunCat365](https://github.com/runcat-dev/RunCat365) | A cute running cat animation on your windows taskbar. |
 | [runjuu/InputSourcePro](https://github.com/runjuu/InputSourcePro) | Switch and track your input sources with ease ✨ |
 | [runningcheese/MirrorSite](https://github.com/runningcheese/MirrorSite) | 镜像网站合集 |
 | [RuriOSS/rurima](https://github.com/RuriOSS/rurima) | Run docker & LXC images without docker or LXC program, without kernel feature... |
