@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Fri May 22 04:01:40 UTC 2026 | 总计: **1702** 个未分类项目
+> 生成于 UTC 时间: Sat May 23 03:38:38 UTC 2026 | 总计: **1703** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -487,7 +487,7 @@
 | [gitui-org/gitui](https://github.com/gitui-org/gitui) | Blazing 💥 fast terminal-ui for git written in rust 🦀 |
 | [gkd-kit/gkd](https://github.com/gkd-kit/gkd) | 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 / An Android APP with custom screen tapping base... |
 | [glanceapp/glance](https://github.com/glanceapp/glance) | A self-hosted dashboard that puts all your feeds in one place |
-| [glincker/thesvg](https://github.com/glincker/thesvg) | 6,035+ brand SVG icons for developers. Tree-shakeable, typed, open source. np... |
+| [glincker/thesvg](https://github.com/glincker/thesvg) | 6,047+ brand SVG icons for developers. Tree-shakeable, typed, open source. np... |
 | [GlobeMC/crashmc.com](https://github.com/GlobeMC/crashmc.com) | CrashMC.com Website |
 | [gloeyisk/universal-gms-doze](https://github.com/gloeyisk/universal-gms-doze) | Patches Google Play services app and certain processes/services to be able to... |
 | [gnembon/carpet-extra](https://github.com/gnembon/carpet-extra) | Extra Features for Carpet Mod |
@@ -614,7 +614,6 @@
 | [imknown/AndroidLowLevelDetector](https://github.com/imknown/AndroidLowLevelDetector) | Detect Treble, GSI, Mainline, APEX, system-as-root(SAR), A/B, etc. |
 | [immich-app/immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. |
 | [imputnet/cobalt](https://github.com/imputnet/cobalt) | best way to save what you love |
-| [imsyy/SPlayer](https://github.com/imsyy/SPlayer) | 🎵 A cross-platform music player with Jellyfin / Navidrome / Emby media server... |
 | [indiff/qttabbar](https://github.com/indiff/qttabbar) | QTTabBar is a small tool that allows you to use tab multi label function in W... |
 | [ineo6/fast-dev](https://github.com/ineo6/fast-dev) | GitHub访问助手 |
 | [ineo6/hosts](https://github.com/ineo6/hosts) | GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。 |
@@ -665,6 +664,7 @@
 | [jiffyreader/jiffyreader-plugin](https://github.com/jiffyreader/jiffyreader-plugin) | A Browser Extension for faster reading on ANY website! |
 | [JiGuroLGC/BetterVia](https://github.com/JiGuroLGC/BetterVia) | 让Via变得更好 / Make Via Better |
 | [jimuzhe/tiez-clipboard](https://github.com/jimuzhe/tiez-clipboard) | TieZ 是一款基于 Tauri 的跨平台剪贴板管理器 / A cross-platform clipboard manager with history... |
+| [jinchenma94/bazi-skill](https://github.com/jinchenma94/bazi-skill) | 四柱八字命理分析 |
 | [jindrapetrik/jpexs-decompiler](https://github.com/jindrapetrik/jpexs-decompiler) | JPEXS Free Flash Decompiler |
 | [jinenge/tvbox](https://github.com/jinenge/tvbox) | TVBox(自带配置版)，内置源，随时更新内置源，不必担心不能用 |
 | [jing332/tts-server-android](https://github.com/jing332/tts-server-android) | 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有... |
@@ -1323,6 +1323,7 @@
 | [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtu... |
 | [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) | Chinese copywriting guidelines for better written communication／中文文案排版指北 |
 | [Speykious/cve-rs](https://github.com/Speykious/cve-rs) | Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀 |
+| [SPlayer-Dev/SPlayer](https://github.com/SPlayer-Dev/SPlayer) | 🎵 A cross-platform music player with Jellyfin / Navidrome / Emby media server... |
 | [squeek502/AppleSkin](https://github.com/squeek502/AppleSkin) | Food-related HUD improvements for Minecraft (AppleCore without the core) |
 | [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) | Everything integration for the Windows taskbar. |
 | [ssnhd/rime](https://github.com/ssnhd/rime) | Rime Squirrel 鼠须管配置文件（朙月拼音、小鹤双拼、自然码双拼） |
@@ -1553,7 +1554,7 @@
 | [woaigitee/123pan-](https://github.com/woaigitee/123pan-) | 123云盘，使用安卓客户端协议，绕开流量限制，解决123云盘自用流量不足 |
 | [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) | This project is deprecated. Check my new project ChatHub: |
 | [wongdean/rime-settings](https://github.com/wongdean/rime-settings) | 接近原生的鼠须管 Rime 配置 |
-| [wshobson/agents](https://github.com/wshobson/agents) | Intelligent automation and multi-agent orchestration for Claude Code |
+| [wshobson/agents](https://github.com/wshobson/agents) | Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, ... |
 | [WSTxda/ViperFX-RE-Releases](https://github.com/WSTxda/ViperFX-RE-Releases) | ViPER4Android FX with Material 3 Expressive design and improvements. |
 | [WSTxda/ViPERFX_RE](https://github.com/WSTxda/ViPERFX_RE) | Reverse Engineering of ViPER4Android FX |
 | [wsu2059q/ErisPulse-QvQChat](https://github.com/wsu2059q/ErisPulse-QvQChat) | 基于多AI协同的智能对话模块，让AI像真人一样自然参与聊天 |
