@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Mon May 25 04:12:00 UTC 2026 | 总计: **1704** 个未分类项目
+> 生成于 UTC 时间: Tue May 26 03:57:34 UTC 2026 | 总计: **1705** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -222,6 +222,7 @@
 | [cao-awa/Conium](https://github.com/cao-awa/Conium) | Conium is a datapack and script framework for modern Minecraft, provides very... |
 | [cao-awa/Kalmia](https://github.com/cao-awa/Kalmia) | Chats |
 | [cao-awa/KalmiaClient-Android](https://github.com/cao-awa/KalmiaClient-Android) | None |
+| [cao-awa/Kora](https://github.com/cao-awa/Kora) | Kora is an experimental Kotlin web server framework built on Netty,  high per... |
 | [cao-awa/Lycoris](https://github.com/cao-awa/Lycoris) | Foo! |
 | [cao-awa/Medical-mc](https://github.com/cao-awa/Medical-mc) | None |
 | [cao-awa/ModMdo](https://github.com/cao-awa/ModMdo) | a fabric mod |
@@ -275,7 +276,7 @@
 | [clover-yan/Ink-Canvas-Plus](https://github.com/clover-yan/Ink-Canvas-Plus) | Ink Canvas Plus (IC+) 是一款由 Clover Yan 维护、复刻自 WXRIW/Ink Canvas 的 Windows 画板应用，... |
 | [cmj2002/warp-docker](https://github.com/cmj2002/warp-docker) | Run Cloudflare WARP in Docker. |
 | [cmliu/CF-Workers-SpeedTestURL](https://github.com/cmliu/CF-Workers-SpeedTestURL) | 使用 CloudFlare Workers 搭建专属CloudFlareSpeedTest测速地址 |
-| [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) | edgetunnel2 VLESS/Trojan 多功能面板 |
+| [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) | edgetunnel2 VLESS/Trojan/SS 多功能面板 |
 | [cmliu/SubsCheck-Win-GUI](https://github.com/cmliu/SubsCheck-Win-GUI) | SubsCheck 为 Windows 用户设计的 GUI 程序界面。 |
 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. |
 | [codehz/minecraft-unicode-font-texture-generator-online](https://github.com/codehz/minecraft-unicode-font-texture-generator-online) | minecraft unicode font texture generator online(Static Web Page) |
