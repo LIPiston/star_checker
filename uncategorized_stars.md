@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Tue May 26 03:57:34 UTC 2026 | 总计: **1705** 个未分类项目
+> 生成于 UTC 时间: Wed May 27 04:11:45 UTC 2026 | 总计: **1705** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -222,7 +222,7 @@
 | [cao-awa/Conium](https://github.com/cao-awa/Conium) | Conium is a datapack and script framework for modern Minecraft, provides very... |
 | [cao-awa/Kalmia](https://github.com/cao-awa/Kalmia) | Chats |
 | [cao-awa/KalmiaClient-Android](https://github.com/cao-awa/KalmiaClient-Android) | None |
-| [cao-awa/Kora](https://github.com/cao-awa/Kora) | Kora is an experimental Kotlin web server framework built on Netty,  high per... |
+| [cao-awa/Kora](https://github.com/cao-awa/Kora) | Kora is an experimental high-performance, type-safe, lifecycle-driven, effect... |
 | [cao-awa/Lycoris](https://github.com/cao-awa/Lycoris) | Foo! |
 | [cao-awa/Medical-mc](https://github.com/cao-awa/Medical-mc) | None |
 | [cao-awa/ModMdo](https://github.com/cao-awa/ModMdo) | a fabric mod |
@@ -488,7 +488,7 @@
 | [gitui-org/gitui](https://github.com/gitui-org/gitui) | Blazing 💥 fast terminal-ui for git written in rust 🦀 |
 | [gkd-kit/gkd](https://github.com/gkd-kit/gkd) | 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 / An Android APP with custom screen tapping base... |
 | [glanceapp/glance](https://github.com/glanceapp/glance) | A self-hosted dashboard that puts all your feeds in one place |
-| [glincker/thesvg](https://github.com/glincker/thesvg) | 6,047+ brand SVG icons for developers. Tree-shakeable, typed, open source. np... |
+| [glincker/thesvg](https://github.com/glincker/thesvg) | 6,060+ brand SVG icons for developers. Tree-shakeable, typed, open source. np... |
 | [GlobeMC/crashmc.com](https://github.com/GlobeMC/crashmc.com) | CrashMC.com Website |
 | [gloeyisk/universal-gms-doze](https://github.com/gloeyisk/universal-gms-doze) | Patches Google Play services app and certain processes/services to be able to... |
 | [gnembon/carpet-extra](https://github.com/gnembon/carpet-extra) | Extra Features for Carpet Mod |
@@ -1460,7 +1460,7 @@
 | [tumuyan/RealSR-NCNN-Android](https://github.com/tumuyan/RealSR-NCNN-Android) | An Android application for super-resolution & interpolation. Contains RealSR-... |
 | [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) | A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScri... |
 | [tuyafeng/Via](https://github.com/tuyafeng/Via) | Via is a simple browser, and this repository is set for localization. |
-| [tw93/Mole](https://github.com/tw93/Mole) | 🐹 Deep clean and optimize your Mac. |
+| [tw93/Mole](https://github.com/tw93/Mole) | 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal. |
 | [TwidereProject/Twidere-Android](https://github.com/TwidereProject/Twidere-Android) | None |
 | [TWO-ICE/Awesome-NAS-Docker](https://github.com/TWO-ICE/Awesome-NAS-Docker) | 一个专注于 NAS 和 Docker 部署的开源项目合集，覆盖 AI、开发、数据管理、多媒体、运维等场景，提供一键式部署指南和实用教程，让 NAS 变身全... |
 | [twoone-3/AdGuardHomeForRoot](https://github.com/twoone-3/AdGuardHomeForRoot) | A module to easily execute AdGuardHome on Android |
