@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Wed May 27 04:11:45 UTC 2026 | 总计: **1705** 个未分类项目
+> 生成于 UTC 时间: Thu May 28 03:59:21 UTC 2026 | 总计: **1706** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -81,7 +81,7 @@
 | [amchii/tg-signer](https://github.com/amchii/tg-signer) | 电报自动执行（签到、发送消息、点击键盘、AI回复等）；个人、群组、频道消息监控、转发与自动回复。Automated Telegram tasks (che... |
 | [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) | An app for managing github starred repositories.  |
 | [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) | A Download Manager that speeds up your downloads |
-| [amzxyz/RIME-LMDG](https://github.com/amzxyz/RIME-LMDG) | 扩展词库/声调编码/最全声调标注工具链/万象更新工具链/Rime语法模型：LMDG - Language, Model, Dictionary, Gram... |
+| [amzxyz/RIME-LMDG](https://github.com/amzxyz/RIME-LMDG) | 简繁扩展词库/声调编码/最全声调标注工具链/万象更新工具链/Rime语法模型：LMDG - Language, Model, Dictionary, Gr... |
 | [amzxyz/rime-wanxiang](https://github.com/amzxyz/rime-wanxiang) | 「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更现代的数据，接管你的候选。Q群：11033572 / 11631066 |
 | [anasfanani/magisk-tailscaled](https://github.com/anasfanani/magisk-tailscaled) | Magisk/KernelSU module for running Tailscale on rooted Android devices. The e... |
 | [Andrews54757/tweakfork](https://github.com/Andrews54757/tweakfork) | A modified small client-side Minecraft mod that adds various configurable twe... |
@@ -731,6 +731,7 @@
 | [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) | Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate... |
 | [kingsollyu/AppEnv](https://github.com/kingsollyu/AppEnv) | 应用变量 |
 | [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) | A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal. |
+| [KIPPUDESU/KIPPU_Trace](https://github.com/KIPPUDESU/KIPPU_Trace) | None |
 | [kirklin/magisk-brick-guardian](https://github.com/kirklin/magisk-brick-guardian) | 一个Magisk 模块，用于防止您的设备因 Magisk 模块导致的启动问题而变砖。 |
 | [kisslove/web-monitoring](https://github.com/kisslove/web-monitoring) | 前端监控，性能监控平台。前端监控平台专注于Web端体验数据监控。对网页健康状况的三个方面进行监测：页面打开速度（速度测量）、页面稳定性（JS错误）和外部服... |
 | [KitsunePie/QQCleaner](https://github.com/KitsunePie/QQCleaner) | 瘦身模块 |
@@ -1392,7 +1393,7 @@
 | [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) | ✒7000+ Material Design Icons from the Community |
 | [Teneted/Tenet](https://github.com/Teneted/Tenet) | Minecraft Forge Hybrid server implementing the Spigot/Bukkit API, formerly kn... |
 | [Terminus2049/Not-exist-in-douban](https://github.com/Terminus2049/Not-exist-in-douban) | 豆瓣不存在的书影音 |
-| [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) | Termix is a web-based server management platform with SSH terminal, tunneling... |
+| [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) | Self-hosted SSH and remote desktop management. |
 | [termux/proot-distro](https://github.com/termux/proot-distro) | An utility for managing installations of the Linux distributions in Termux. |
 | [termux/termux-app](https://github.com/termux/termux-app) | Termux - a terminal emulator application for Android OS extendible by variety... |
 | [termux/termux-boot](https://github.com/termux/termux-boot) | Termux add-on app allowing programs to be run at boot. |
@@ -1413,7 +1414,7 @@
 | [TheresaQWQ/BroadcastOnAirDanmaku](https://github.com/TheresaQWQ/BroadcastOnAirDanmaku) | 一个直播间弹幕姬 |
 | [ThirtyDegreesRay/OpenHub](https://github.com/ThirtyDegreesRay/OpenHub) | An open source GitHub Android client app, faster and concise. |
 | [thunlp/THUOCL](https://github.com/thunlp/THUOCL) | THUOCL（THU Open Chinese Lexicon）中文词库 |
-| [tiagozip/cap](https://github.com/tiagozip/cap) | The privacy-first, self-hosted CAPTCHA for the modern web. |
+| [tiagozip/cap](https://github.com/tiagozip/cap) | Free, open-source and self-hosted CAPTCHA alternative to reCAPTCHA. Privacy-f... |
 | [tianma8023/XposedSmsCode](https://github.com/tianma8023/XposedSmsCode) | :lollipop: An Xposed Module which can recognize, parse verification code and ... |
 | [tiann/KernelSU](https://github.com/tiann/KernelSU) | A Kernel based root solution for Android |
 | [tianshiyeben/wgcloud](https://github.com/tianshiyeben/wgcloud) | Linux运维监控工具，支持系统硬件信息，内存，CPU，温度，磁盘空间及IO，硬盘smart，GPU，防火墙，网络流量速率等监控，服务接口监测，大屏展示，... |
@@ -1504,7 +1505,7 @@
 | [VERT-sh/VERT](https://github.com/VERT-sh/VERT) | The next-generation file converter. Open source, fully local* and free forever. |
 | [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) | An Android application for streaming music from YouTube Music |
 | [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) | 📱 Display and control your Android device graphically with scrcpy. |
-| [ViaVersion/ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus) | Minecraft Fabric mod that allows you to join EVERY Minecraft server version (... |
+| [ViaVersion/ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus) | Fabric mod that lets you join Minecraft servers across all major versions. |
 | [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) | A focused launcher for your desktop - native, fast, extensible |
 | [VickScarlet/lifeRestart](https://github.com/VickScarlet/lifeRestart) | やり直すんだ。そして、次はうまくやる。 |
 | [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator) | ASCII generator (image to text, image to image, video to video) |
