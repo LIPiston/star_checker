@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Fri May 29 04:01:23 UTC 2026 | 总计: **1706** 个未分类项目
+> 生成于 UTC 时间: Sat May 30 03:49:21 UTC 2026 | 总计: **1706** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -215,7 +215,7 @@
 | [ca110us/epeius](https://github.com/ca110us/epeius) | Deploy Trojan using a Serverless approach |
 | [CaaMoe/MultiLogin](https://github.com/CaaMoe/MultiLogin) | 外置共存 |
 | [Cabbagec/termux-ohmyzsh](https://github.com/Cabbagec/termux-ohmyzsh) | Colorize your termux! Oh-my-zsh included! |
-| [CaffeineMC/sodium](https://github.com/CaffeineMC/sodium) | A Minecraft mod designed to improve frame rates and reduce micro-stutter |
+| [CaffeineMC/sodium](https://github.com/CaffeineMC/sodium) | A high-performance rendering engine replacement for Minecraft, which greatly ... |
 | [callng/TCQT](https://github.com/callng/TCQT) | 一个针对QQ(TIM)的多功能XPosed模块 |
 | [candydale/candy-pickaxe](https://github.com/candydale/candy-pickaxe) | 镐击榜数据包 对每个玩家使用各钟材料的镐子破坏方块数量的总和进行排名 |
 | [cao-awa/Apricot](https://github.com/cao-awa/Apricot) | A qq bot |
@@ -732,7 +732,7 @@
 | [kingsollyu/AppEnv](https://github.com/kingsollyu/AppEnv) | 应用变量 |
 | [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) | A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal. |
 | [KIPPUDESU/KIPPU_Trace](https://github.com/KIPPUDESU/KIPPU_Trace) | 一个记录重要时刻，功能简单且界面美观的安卓原生 App，将持续收取建议跟进开发。目的是在界面和体验上一定程度超越替代倒数日 |
-| [kirklin/magisk-brick-guardian](https://github.com/kirklin/magisk-brick-guardian) | 一个Magisk 模块，用于防止您的设备因 Magisk 模块导致的启动问题而变砖。 |
+| [kirklin/magisk-brick-guardian](https://github.com/kirklin/magisk-brick-guardian) | 救砖模块，用于防止您的设备因模块导致的启动问题而变砖。 |
 | [kisslove/web-monitoring](https://github.com/kisslove/web-monitoring) | 前端监控，性能监控平台。前端监控平台专注于Web端体验数据监控。对网页健康状况的三个方面进行监测：页面打开速度（速度测量）、页面稳定性（JS错误）和外部服... |
 | [KitsunePie/QQCleaner](https://github.com/KitsunePie/QQCleaner) | 瘦身模块 |
 | [kkkgo/LTSC-Add-MicrosoftStore](https://github.com/kkkgo/LTSC-Add-MicrosoftStore) | Add Windows Store for LTSC |
@@ -1452,12 +1452,12 @@
 | [TouchController/TouchController](https://github.com/TouchController/TouchController) | The TouchController monorepo |
 | [Tower-of-Sighs/AUI](https://github.com/Tower-of-Sighs/AUI) | Web UI for Minecraft |
 | [tr7zw/Exordium](https://github.com/tr7zw/Exordium) | There is no good reason to render the hotbar at 100+ fps |
+| [tradecatlabs/vibe-coding-cn](https://github.com/tradecatlabs/vibe-coding-cn) | Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南 |
 | [TrionesType/zhuque](https://github.com/TrionesType/zhuque) | 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fangsong typeface project |
 | [trpc/trpc](https://github.com/trpc/trpc) | 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  |
 | [tsoding/nob.h](https://github.com/tsoding/nob.h) | Header only library for writing build recipes in C.  |
 | [ttommyth/rag-memory-mcp](https://github.com/ttommyth/rag-memory-mcp) | None |
 | [Tufmoc/W.Tools-Ver.Bat](https://github.com/Tufmoc/W.Tools-Ver.Bat) | 初代工具箱雏形 |
-| [tukuaiai/vibe-coding-cn](https://github.com/tukuaiai/vibe-coding-cn) | Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南 |
 | [tumuyan/RealSR-NCNN-Android](https://github.com/tumuyan/RealSR-NCNN-Android) | An Android application for super-resolution & interpolation. Contains RealSR-... |
 | [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) | A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScri... |
 | [tuyafeng/Via](https://github.com/tuyafeng/Via) | Via is a simple browser, and this repository is set for localization. |
