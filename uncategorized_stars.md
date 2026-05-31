@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sat May 30 03:49:21 UTC 2026 | 总计: **1706** 个未分类项目
+> 生成于 UTC 时间: Sun May 31 04:13:31 UTC 2026 | 总计: **1706** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -297,7 +297,7 @@
 | [control-theory/gonzo](https://github.com/control-theory/gonzo) | Gonzo! The Go based TUI log analysis tool |
 | [Coolapk-Code9527/F2FS-Optimizer](https://github.com/Coolapk-Code9527/F2FS-Optimizer) | None |
 | [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) | Lean's LEDE source |
-| [coolxitech/deltaforce](https://github.com/coolxitech/deltaforce) | 三角洲行动API |
+| [coolxi-tech/deltaforce](https://github.com/coolxi-tech/deltaforce) | 三角洲行动API |
 | [CopilotKit/OpenGenerativeUI](https://github.com/CopilotKit/OpenGenerativeUI) | Open-Source Generative UI Framework |
 | [coracoo/awesome_docker_cn](https://github.com/coracoo/awesome_docker_cn) | 上百款可docker部署的项目，包含项目地址、项目部署教程等。 |
 | [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) | Collection of handy online tools for developers, with great UX.  |
@@ -747,7 +747,7 @@
 | [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) | If you live in the terminal, kitty is made for you! Cross-platform, fast, fea... |
 | [KOWX712/PlayIntegrityFix](https://github.com/KOWX712/PlayIntegrityFix) | Fix Play Integrity verdicts. |
 | [KOWX712/Tricky-Addon-Update-Target-List](https://github.com/KOWX712/Tricky-Addon-Update-Target-List) | A KSU WebUI to configure Tricky Store target.txt |
-| [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) | Video translation and dubbing tool powered by LLMs. The video translator offe... |
+| [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) | AI video translation & dubbing tool for humans and AI Agents, powered by LLMs... |
 | [KRTirtho/spotube](https://github.com/KRTirtho/spotube) | 🎧 Open source music streaming app! Available for both desktop & mobile! |
 | [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) | The container platform tailored for Kubernetes multi-cloud, datacenter, and e... |
 | [kunkundi/crossdesk](https://github.com/kunkundi/crossdesk) | A lightweight, cross-platform remote desktop software with support for Web Cl... |
@@ -1123,7 +1123,7 @@
 | [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | bluetooth mesh chat, IRC vibes |
 | [peterq/pan-light](https://github.com/peterq/pan-light) | 百度网盘不限速客户端, golang + qt5, 跨平台图形界面 |
 | [PFingan-Code/PF-MCDR-WebUI](https://github.com/PFingan-Code/PF-MCDR-WebUI) | PF MCDR的WebUI |
-| [ph-design/PH60-SC](https://github.com/ph-design/PH60-SC) | A printable low-profile 60% mechanical keyboard kit with 7mm front height and... |
+| [ph-design/PH60-SC](https://github.com/ph-design/PH60-SC) | A printable low-profile 60% wireless mechanical keyboard kit powered by ZMK f... |
 | [PhilippC/keepass2android](https://github.com/PhilippC/keepass2android) | Password manager app for Android |
 | [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) | The homepage of Phosphor Icons, a flexible icon family for everyone |
 | [pickle-com/glass](https://github.com/pickle-com/glass) | Digital Mind Extension |
