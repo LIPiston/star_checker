@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sun May 31 04:13:31 UTC 2026 | 总计: **1706** 个未分类项目
+> 生成于 UTC 时间: Mon Jun  1 04:27:23 UTC 2026 | 总计: **1706** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -182,7 +182,7 @@
 | [bloc97/Anime4K](https://github.com/bloc97/Anime4K) | A High-Quality Real Time Upscaler for Anime Video |
 | [Block-Network/StatusBarLyric](https://github.com/Block-Network/StatusBarLyric) | [Xposed] Status Bar Lyric / 状态栏歌词 |
 | [bloznelis/kbt](https://github.com/bloznelis/kbt) | Keyboard tester in terminal |
-| [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) | Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server... |
+| [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) | Ready-to-use Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS ... |
 | [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) | 🖱️ 纯粹的Windows右键菜单管理程序 |
 | [BlueSkyXN/AdGuardHomeRules](https://github.com/BlueSkyXN/AdGuardHomeRules) | 高达百万级规则！由我原创&整理的 AdGuardHomeRules ADH广告拦截过滤规则！打造全网最强最全规则集 |
 | [bmax121/APatch](https://github.com/bmax121/APatch) | The patching of Android kernel and Android system |
@@ -297,7 +297,7 @@
 | [control-theory/gonzo](https://github.com/control-theory/gonzo) | Gonzo! The Go based TUI log analysis tool |
 | [Coolapk-Code9527/F2FS-Optimizer](https://github.com/Coolapk-Code9527/F2FS-Optimizer) | None |
 | [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) | Lean's LEDE source |
-| [coolxi-tech/deltaforce](https://github.com/coolxi-tech/deltaforce) | 三角洲行动API |
+| [coolxitech/deltaforce](https://github.com/coolxitech/deltaforce) | 三角洲行动API |
 | [CopilotKit/OpenGenerativeUI](https://github.com/CopilotKit/OpenGenerativeUI) | Open-Source Generative UI Framework |
 | [coracoo/awesome_docker_cn](https://github.com/coracoo/awesome_docker_cn) | 上百款可docker部署的项目，包含项目地址、项目部署教程等。 |
 | [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) | Collection of handy online tools for developers, with great UX.  |
@@ -383,7 +383,7 @@
 | [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) | Space exploration, trading, and combat game. |
 | [Enginex0/TEESimulator-RS](https://github.com/Enginex0/TEESimulator-RS) | Software simulation for Android hardware-backed key pairs with key attestatio... |
 | [eooce/Sing-box](https://github.com/eooce/Sing-box) | 既然来了，就留下你的Star吧！Serv00 / CT8 / Hostuno / VPS / 游戏机 / sing-box(reality + hy2 +... |
-| [ErisPulse/ErisPulse](https://github.com/ErisPulse/ErisPulse) | ErisPulse - 可扩展的异步 Python SDK 框架（Extensible Async Python SDK），支持插件系统、多协议适配、热重载开发 |
+| [ErisPulse/ErisPulse](https://github.com/ErisPulse/ErisPulse) | 事件驱动的多平台机器人框架 · Event-driven multi-platform bot framework. 官方支持 Dashboard 模块（... |
 | [eritpchy/FingerprintPay](https://github.com/eritpchy/FingerprintPay) | 让微信、QQ、支付宝、淘宝、云闪付支持使用指纹支付 |
 | [ErLinErYi/PlantsVsZombies](https://github.com/ErLinErYi/PlantsVsZombies) | PlantsVsZombies game made by cocos2dx 3.16 (c++) |
 | [ermaozi/get_subscribe](https://github.com/ermaozi/get_subscribe) | ✈️ 白嫖免费机场  / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，持续更新 / 科学上网 / 翻墙 |
