@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Tue Jun  2 04:21:05 UTC 2026 | 总计: **1706** 个未分类项目
+> 生成于 UTC 时间: Wed Jun  3 04:40:31 UTC 2026 | 总计: **1706** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -393,7 +393,7 @@
 | [eternalfuture-e38299/TEFModLoader](https://github.com/eternalfuture-e38299/TEFModLoader) | 下一代高性能跨平台Terraria模组加载器 |
 | [Eugeny/russh](https://github.com/Eugeny/russh) | Rust SSH client & server library |
 | [Eugeny/tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age |
-| [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) | Build, evaluate, and integrate long-term memory for self-evolving agents. |
+| [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) | Self-evolving memory across Agent and platform. |
 | [extesy/hoverzoom](https://github.com/extesy/hoverzoom) | Google Chrome extension for zooming images on mouse hover |
 | [Extremelyd1/minecraft-bingo](https://github.com/Extremelyd1/minecraft-bingo) | Item bingo in Minecraft |
 | [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) | The Fully Customizable Desktop Environment for Windows 10/11. |
@@ -1051,7 +1051,7 @@
 | [nordtheme/terminal-app](https://github.com/nordtheme/terminal-app) | An arctic, north-bluish clean and elegant Terminal.app color theme. |
 | [notdog1998/yourself-skill](https://github.com/notdog1998/yourself-skill) | 与其蒸馏别人，不如蒸馏自己。欢迎加入数字永生！Inspired by colleague-skill（同事skill）。 |
 | [nothings/stb](https://github.com/nothings/stb) | stb single-file public domain libraries for C/C++ |
-| [notionnext-org/NotionNext](https://github.com/notionnext-org/NotionNext) | 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A st... |
+| [notionnext-org/NotionNext](https://github.com/notionnext-org/NotionNext) | Turn your Notion workspace into a fast, customizable website. Built with Next... |
 | [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) | Automatically updated, moderated and optimized lists for blocking ads, tracke... |
 | [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) | 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端 |
 | [notxx/MiPushZygisk](https://github.com/notxx/MiPushZygisk) | 一个 Zygisk 模块，为应用伪装小米设备，以便使用 MiPush |
