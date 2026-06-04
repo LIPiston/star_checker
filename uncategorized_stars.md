@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Wed Jun  3 04:40:31 UTC 2026 | 总计: **1706** 个未分类项目
+> 生成于 UTC 时间: Thu Jun  4 04:25:28 UTC 2026 | 总计: **1706** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -451,7 +451,7 @@
 | [fscarmen/ArgoX](https://github.com/fscarmen/ArgoX) | Argo Xray for VPS one-click script. 一键脚本 |
 | [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) | Open source, compact, and material designed cursor set. |
 | [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) | The beautiful & flexible React.js docs framework. |
-| [fxliang/fcitx5-android](https://github.com/fxliang/fcitx5-android) | Fcitx5 input method framework and engines ported to Android |
+| [fxliang/fcitx5-android](https://github.com/fxliang/fcitx5-android) | Fcitx5 input method framework and engines ported to Android, with enhanced fe... |
 | [FxMorin/carpet-fixes](https://github.com/FxMorin/carpet-fixes) | fabric-carpet extension mod which attempts to fix as many vanilla minecraft b... |
 | [FxMorin/MemoryLeakFix](https://github.com/FxMorin/MemoryLeakFix) | A Fabric Mod that fixes multiple memory leaks in minecraft |
 | [gaboolic/rime-frost](https://github.com/gaboolic/rime-frost) | 白霜拼音：蒹葭苍苍，白露为霜。白霜拼音使用高质量语料，进行分词，重新统计字频、词频，归一化，打造纯净、词频准确、智能的词库。白霜词库是目前rime方案下最... |
@@ -735,6 +735,7 @@
 | [kisslove/web-monitoring](https://github.com/kisslove/web-monitoring) | 前端监控，性能监控平台。前端监控平台专注于Web端体验数据监控。对网页健康状况的三个方面进行监测：页面打开速度（速度测量）、页面稳定性（JS错误）和外部服... |
 | [KitsunePie/QQCleaner](https://github.com/KitsunePie/QQCleaner) | 瘦身模块 |
 | [kkkgo/LTSC-Add-MicrosoftStore](https://github.com/kkkgo/LTSC-Add-MicrosoftStore) | Add Windows Store for LTSC |
+| [kkndmetianya/kkndme_tianya](https://github.com/kkndmetianya/kkndme_tianya) | 天涯 kkndme 神贴聊房价 |
 | [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) | Klavis AI:  MCP integration platforms that let AI agents use tools reliably a... |
 | [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) | Remove large amounts of unwanted applications quickly. |
 | [koishijs/koishi](https://github.com/koishijs/koishi) | Cross-platform chatbot framework made with love |
@@ -940,7 +941,7 @@
 | [mgth/LittleBigMouse](https://github.com/mgth/LittleBigMouse) | DPI Aware mouse move across screens |
 | [miantiao-me/Sink](https://github.com/miantiao-me/Sink) | ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloud... |
 | [miaoermua/CatWrt](https://github.com/miaoermua/CatWrt) | 🌠 开源稳定的客制化 OpenWrt 智能网关 |
-| [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) | ⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTenso... |
+| [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) | ⚡ Pure-Rust WebGPU inference engine — OpenAI-API compatible, GGUF native, run... |
 | [michelpereira/awesome-open-source-games](https://github.com/michelpereira/awesome-open-source-games) | Collection of Games that have the source code available on GitHub |
 | [MiCode/Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) | Xiaomi Mobile Phone Kernel OpenSource |
 | [microg/GmsCore](https://github.com/microg/GmsCore) | Free implementation of Play Services |
@@ -1276,7 +1277,6 @@
 | [ShadowWhisperer/Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge) | Uninstall Microsoft Edge with an executable or batch script. |
 | [sharkdp/bat](https://github.com/sharkdp/bat) | A cat(1) clone with wings. |
 | [sharoue/chinawareblock](https://github.com/sharoue/chinawareblock) | 国产流氓、娱乐软件和不受欢迎的软件屏蔽工具 |
-| [shengcaishizhan/kkndme_tianya](https://github.com/shengcaishizhan/kkndme_tianya) | 天涯 kkndme 神贴聊房价 |
 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social networks |
 | [shichuanenhui/TvBox](https://github.com/shichuanenhui/TvBox) | None |
 | [shinpr/mcp-local-rag](https://github.com/shinpr/mcp-local-rag) | Local-first RAG server for developers. Semantic + keyword search for code and... |
