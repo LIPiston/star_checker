@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Thu Jun  4 04:25:28 UTC 2026 | 总计: **1706** 个未分类项目
+> 生成于 UTC 时间: Fri Jun  5 04:08:35 UTC 2026 | 总计: **1706** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -87,7 +87,7 @@
 | [Andrews54757/tweakfork](https://github.com/Andrews54757/tweakfork) | A modified small client-side Minecraft mod that adds various configurable twe... |
 | [android/ndk](https://github.com/android/ndk) | The Android Native Development Kit |
 | [andstatus/game2048](https://github.com/andstatus/game2048) | 2048 Open Fun Game - multiplatform implementation in Kotlin and KorGE game en... |
-| [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) | 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese ... |
+| [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) | Programmer's guide about how to cook at home. |
 | [Angel-Studio/MaterialYou-Dynamic-Island](https://github.com/Angel-Studio/MaterialYou-Dynamic-Island) | Free Android version of Dynamic Island feature stylized with Material You. |
 | [angel333/infinimouse](https://github.com/angel333/infinimouse) | If you move mouse to one border, it'll come from the other. |
 | [Angey40/BaiduPCS-Go](https://github.com/Angey40/BaiduPCS-Go) | 百度网盘工具箱 - Go语言编写 |
@@ -383,7 +383,7 @@
 | [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) | Space exploration, trading, and combat game. |
 | [Enginex0/TEESimulator-RS](https://github.com/Enginex0/TEESimulator-RS) | Software simulation for Android hardware-backed key pairs with key attestatio... |
 | [eooce/Sing-box](https://github.com/eooce/Sing-box) | 既然来了，就留下你的Star吧！Serv00 / CT8 / Hostuno / VPS / 游戏机 / sing-box(reality + hy2 +... |
-| [ErisPulse/ErisPulse](https://github.com/ErisPulse/ErisPulse) | 事件驱动的多平台机器人框架。Web Dashboard 管理面板支持，Docker 一键启动，支持 Telegram/QQ/Kook/OneBot等多平台 |
+| [ErisPulse/ErisPulse](https://github.com/ErisPulse/ErisPulse) | 事件驱动的多平台机器人框架 — 一次编写部署 QQ/Telegram/Kook/云湖/Matrix/邮件等 10+ 平台 / Event-driven m... |
 | [eritpchy/FingerprintPay](https://github.com/eritpchy/FingerprintPay) | 让微信、QQ、支付宝、淘宝、云闪付支持使用指纹支付 |
 | [ErLinErYi/PlantsVsZombies](https://github.com/ErLinErYi/PlantsVsZombies) | PlantsVsZombies game made by cocos2dx 3.16 (c++) |
 | [ermaozi/get_subscribe](https://github.com/ermaozi/get_subscribe) | ✈️ 白嫖免费机场  / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，持续更新 / 科学上网 / 翻墙 |
