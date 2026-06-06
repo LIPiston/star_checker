@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Fri Jun  5 04:08:35 UTC 2026 | 总计: **1706** 个未分类项目
+> 生成于 UTC 时间: Sat Jun  6 03:52:32 UTC 2026 | 总计: **1706** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -33,7 +33,7 @@
 | [Acfboy/twt-werewolf-master-ng](https://github.com/Acfboy/twt-werewolf-master-ng) | Modern generation of twt-werewolf-master |
 | [ACGaming/UniversalTweaks](https://github.com/ACGaming/UniversalTweaks) | A community project to consolidate various bugfixes and tweaks into a single ... |
 | [AChep/keyguard-app](https://github.com/AChep/keyguard-app) | Alternative client for the Bitwarden® platform & KeePass (KDBX), created to p... |
-| [Achuan-2/SlideSCI](https://github.com/Achuan-2/SlideSCI) | PPT plugin, supports one-click to add image titles, copy and paste positions,... |
+| [Achuan-2/SlideSCI](https://github.com/Achuan-2/SlideSCI) | PPT插件，支持制作素材库、AI助手、一键添加图片标题，复制粘贴位置、一键图片对齐、一键插入Markdown（加粗、超链接等行内样式、代码块、LaTeX等... |
 | [acl4ssr-sub/acl4ssr-sub.github.io](https://github.com/acl4ssr-sub/acl4ssr-sub.github.io) | None |
 | [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) | Acode - powerful text/code editor for android |
 | [actions/setup-python](https://github.com/actions/setup-python) | Set up your GitHub Actions workflow with a specific version of Python |
