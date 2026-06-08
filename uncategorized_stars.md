@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sun Jun  7 04:18:35 UTC 2026 | 总计: **1706** 个未分类项目
+> 生成于 UTC 时间: Mon Jun  8 04:22:56 UTC 2026 | 总计: **1706** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -45,7 +45,7 @@
 | [adrcotfas/goodtime](https://github.com/adrcotfas/goodtime) | A productivity app that combines pomodoro timers and flow techniques to boost... |
 | [adv-inn/Futaba](https://github.com/adv-inn/Futaba) | A League of Legends companion client built with Tauri, supporting both deskto... |
 | [Aefyr/SAI](https://github.com/Aefyr/SAI) | Android split APKs installer |
-| [afar1/fieldtheory-cli](https://github.com/afar1/fieldtheory-cli) | Sync and locally store all of your X/Twitter bookmarks. Free and open source ... |
+| [afar1/fieldtheory-cli](https://github.com/afar1/fieldtheory-cli) | Field Theory CLI for bookmarks, Library, commands, and agent workflows |
 | [afeimod/winlator-mod](https://github.com/afeimod/winlator-mod) | Android application for running Windows applications with Wine and Box86/Box64 |
 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimization system. Skills, instincts, memory,... |
 | [afoim/webrtc_check_nat](https://github.com/afoim/webrtc_check_nat) | 利用浏览器的WebRTC查询你的NAT类型（双IP） |
@@ -488,7 +488,7 @@
 | [gitui-org/gitui](https://github.com/gitui-org/gitui) | Blazing 💥 fast terminal-ui for git written in rust 🦀 |
 | [gkd-kit/gkd](https://github.com/gkd-kit/gkd) | 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 / An Android APP with custom screen tapping base... |
 | [glanceapp/glance](https://github.com/glanceapp/glance) | A self-hosted dashboard that puts all your feeds in one place |
-| [glincker/thesvg](https://github.com/glincker/thesvg) | 6,060+ brand SVG icons for developers. Tree-shakeable, typed, open source. np... |
+| [glincker/thesvg](https://github.com/glincker/thesvg) | 6,100+ brand SVG icons for developers. Tree-shakeable, typed, open source. np... |
 | [GlobeMC/crashmc.com](https://github.com/GlobeMC/crashmc.com) | CrashMC.com Website |
 | [gloeyisk/universal-gms-doze](https://github.com/gloeyisk/universal-gms-doze) | Patches Google Play services app and certain processes/services to be able to... |
 | [gnembon/carpet-extra](https://github.com/gnembon/carpet-extra) | Extra Features for Carpet Mod |
