@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Mon Jun  8 04:22:56 UTC 2026 | 总计: **1706** 个未分类项目
+> 生成于 UTC 时间: Tue Jun  9 03:54:27 UTC 2026 | 总计: **1706** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -151,6 +151,7 @@
 | [bangbang93/openbmclapi](https://github.com/bangbang93/openbmclapi) | BMCLAPI@Home |
 | [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) | Android real-time display control software |
 | [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) | AI conversations that actually remember. Never re-explain your project to you... |
+| [BCUninstaller/Bulk-Crap-Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) | Remove large amounts of unwanted applications quickly. |
 | [bdsm-technology/BDSM](https://github.com/bdsm-technology/BDSM) | Bedrock Dedicated Server Manager (Unofficial) |
 | [be5invis/Iosevka](https://github.com/be5invis/Iosevka) | Versatile typeface for code, from code. |
 | [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) | Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕 |
@@ -438,7 +439,7 @@
 | [Fldicoahkiin/SteamCloudFileManager](https://github.com/Fldicoahkiin/SteamCloudFileManager) | Cross-platform GUI for Steam Cloud. Visualizes remote storage as a file tree ... |
 | [FLHonker/vim-plus-plus](https://github.com/FLHonker/vim-plus-plus) | Frank的至尊vim配置，基于vim-plus改造，一键部署。 |
 | [floccusaddon/floccus](https://github.com/floccusaddon/floccus) | :cloud: Sync your bookmarks privately across browsers and devices |
-| [flutter/pinball](https://github.com/flutter/pinball) | Google I/O 2022 Pinball game built with Flutter and Firebase |
+| [flutter-team-archive/pinball](https://github.com/flutter-team-archive/pinball) | Google I/O 2022 Pinball game built with Flutter and Firebase |
 | [FongMi/TV](https://github.com/FongMi/TV) | None |
 | [fontforge/fontforge](https://github.com/fontforge/fontforge) | Free (libre) font editor for Windows, Mac OS X and GNU+Linux |
 | [FontManager/font-manager](https://github.com/FontManager/font-manager) | None |
@@ -737,7 +738,6 @@
 | [kkkgo/LTSC-Add-MicrosoftStore](https://github.com/kkkgo/LTSC-Add-MicrosoftStore) | Add Windows Store for LTSC |
 | [kkndmetianya/kkndme_tianya](https://github.com/kkndmetianya/kkndme_tianya) | 天涯 kkndme 神贴聊房价 |
 | [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) | Klavis AI:  MCP integration platforms that let AI agents use tools reliably a... |
-| [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) | Remove large amounts of unwanted applications quickly. |
 | [koishijs/koishi](https://github.com/koishijs/koishi) | Cross-platform chatbot framework made with love |
 | [KonghaYao/cn-font-split](https://github.com/KonghaYao/cn-font-split) | 划时代的字体切割工具，CJK与任何字符！支持 otf、ttf、woff2 字体多线程切割，完美地细颗粒度地进行包大小控制。A revolutionary ... |
 | [kooritea/fcmfix](https://github.com/kooritea/fcmfix) | [xposed]让fcm唤醒已完全停止的应用 |
@@ -1362,7 +1362,7 @@
 | [sxyazi/yazi](https://github.com/sxyazi/yazi) | 💥 Blazing fast terminal file manager written in Rust, based on async I/O. |
 | [sxzxs/Real-time-translation-typing](https://github.com/sxzxs/Real-time-translation-typing) | 实时打字翻译软件、语音实时打字、语音实时翻译、LOL 语音打字 |
 | [SYJun404/frank](https://github.com/SYJun404/frank) | A bran-new League of Legends assistant software, a replacement for WeGame. |
-| [Sylinko/Everywhere](https://github.com/Sylinko/Everywhere) | Context-aware AI assistant for your desktop. Ready to respond intelligently, ... |
+| [Sylinko/Everywhere](https://github.com/Sylinko/Everywhere) | On-screen aware AI assistant for your desktop. Uses current app context, mult... |
 | [symbuzzer/livebootmodule](https://github.com/symbuzzer/livebootmodule) | A Magisk, KernelSU and APatch module that enables unix-style (verbose) boot a... |
 | [syncthing/syncthing](https://github.com/syncthing/syncthing) | Open Source Continuous File Synchronization |
 | [syntaxticsugr/ViPER4Android-Presets](https://github.com/syntaxticsugr/ViPER4Android-Presets) | Largest collection of DDC, Kernel & Preset for ViPER4Android |
