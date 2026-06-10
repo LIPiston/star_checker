@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Tue Jun  9 03:54:27 UTC 2026 | 总计: **1706** 个未分类项目
+> 生成于 UTC 时间: Wed Jun 10 04:05:55 UTC 2026 | 总计: **1705** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -1352,7 +1352,7 @@
 | [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) | GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本 |
 | [SuperMarcus/LevelDBViewer](https://github.com/SuperMarcus/LevelDBViewer) | A Java program provides ablities to access & edit leveldb database |
 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | Memory engine and app that is extremely fast, scalable. The Memory API for th... |
-| [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) | 🧱 local-first and microVM-backed programmable sandboxes for AI agents |
+| [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) | 🧱 easy, fast, local microvms for untrusted workloads. use as dev container, a... |
 | [suqi8/OShin](https://github.com/suqi8/OShin) | 一个专为ColorOS系统设计的辅助模块 |
 | [suxuang/myIPTV](https://github.com/suxuang/myIPTV) | 【典藏版】高清直播源涵盖几乎所有卫视节目，内置完美台标加节目预告 |
 | [suzhelan/TimTool](https://github.com/suzhelan/TimTool) | Tim功能性增强XPosed模块，为Tim增加更多趣味功能 |
@@ -1630,7 +1630,6 @@
 | [YanG-1989/m3u](https://github.com/YanG-1989/m3u) | 直播源 |
 | [yaokui2018/ConsoleQRcode](https://github.com/yaokui2018/ConsoleQRcode) | 在终端/控制台里输出二维码，打印二维码字符（非图片），Java实现 |
 | [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) | Compile shell scripts to static binaries. |
-| [YatFanLan/Simplify-chat-boxes](https://github.com/YatFanLan/Simplify-chat-boxes) | 精简聊天框 |
 | [yc9559/uperf](https://github.com/yc9559/uperf) | Userspace performance controller for android |
 | [ycccccccy/echotrace](https://github.com/ycccccccy/echotrace) | EchoTrace 是一个本地、安全的微信聊天记录导出、分析与年度报告生成工具 / EchoTrace is a local, secure tool f... |
 | [ycccccccy/wx_key](https://github.com/ycccccccy/wx_key) | 获取微信4.0版本以上数据库密钥和图片密钥的工具 / A tool for obtaining database keys and image keys ... |
