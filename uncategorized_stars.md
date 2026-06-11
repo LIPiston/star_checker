@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Wed Jun 10 04:05:55 UTC 2026 | 总计: **1705** 个未分类项目
+> 生成于 UTC 时间: Thu Jun 11 04:19:08 UTC 2026 | 总计: **1705** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -751,6 +751,7 @@
 | [KRTirtho/spotube](https://github.com/KRTirtho/spotube) | 🎧 Open source music streaming app! Available for both desktop & mobile! |
 | [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) | The container platform tailored for Kubernetes multi-cloud, datacenter, and e... |
 | [kunkundi/crossdesk](https://github.com/kunkundi/crossdesk) | A lightweight, cross-platform remote desktop software with support for Web Cl... |
+| [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) | 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg ... |
 | [KusStar/rewind-apks](https://github.com/KusStar/rewind-apks) | 倒带 App｜应用安装包仓库 |
 | [KusStar/rewind-docs](https://github.com/KusStar/rewind-docs) | 倒带 App｜应用主页 |
 | [kwsch/PKHeX](https://github.com/kwsch/PKHeX) | Pokémon Save File Editor |
@@ -1096,7 +1097,6 @@
 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | The open-source CapCut alternative |
 | [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) | SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended! |
 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 🙌 OpenHands: AI-Driven Development |
-| [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) | 🩵 A free, open-source app store for GitHub releases — browse, discover, and i... |
 | [openjdk/mobile](https://github.com/openjdk/mobile) | https://openjdk.org/projects/mobile |
 | [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) | A new AList Fork to Anti Trust Crisis |
 | [OpenListTeam/OpenList-Desktop](https://github.com/OpenListTeam/OpenList-Desktop) | A desktop application for OpenList |
@@ -1351,8 +1351,8 @@
 | [Super-Santa/EssentialAddons](https://github.com/Super-Santa/EssentialAddons) | Fabric Carpet extension that adds things from the Spigot plugin Essentials, o... |
 | [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) | GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本 |
 | [SuperMarcus/LevelDBViewer](https://github.com/SuperMarcus/LevelDBViewer) | A Java program provides ablities to access & edit leveldb database |
-| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | Memory engine and app that is extremely fast, scalable. The Memory API for th... |
-| [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) | 🧱 easy, fast, local microvms for untrusted workloads. use as dev container, a... |
+| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | Memory and context engine + app that is extremely fast, scalable, and can be ... |
+| [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) | 🧱 easy, fast, local microVMs for untrusted workloads |
 | [suqi8/OShin](https://github.com/suqi8/OShin) | 一个专为ColorOS系统设计的辅助模块 |
 | [suxuang/myIPTV](https://github.com/suxuang/myIPTV) | 【典藏版】高清直播源涵盖几乎所有卫视节目，内置完美台标加节目预告 |
 | [suzhelan/TimTool](https://github.com/suzhelan/TimTool) | Tim功能性增强XPosed模块，为Tim增加更多趣味功能 |
@@ -1431,7 +1431,7 @@
 | [TISUnion/joinMOTD](https://github.com/TISUnion/joinMOTD) | send player a MOTD when he joins |
 | [TISUnion/PrimeBackup](https://github.com/TISUnion/PrimeBackup) | A powerful backup plugin for MCDR, an advanced backup solution for your Minec... |
 | [TISUnion/StatsHelper](https://github.com/TISUnion/StatsHelper) | A Minecraft statistic helper |
-| [tldraw/tldraw](https://github.com/tldraw/tldraw) | very good whiteboard infinite canvas SDK |
+| [tldraw/tldraw](https://github.com/tldraw/tldraw) | Build infinite canvas apps in React with the tldraw SDK. World's best, top-mo... |
 | [tobspr-games/shapez.io](https://github.com/tobspr-games/shapez.io) | shapez is an open source base building game on Steam inspired by factorio! |
 | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next... |
 | [Tokeii0/LovelyMem](https://github.com/Tokeii0/LovelyMem) | 基于Memprocfs和Volatility的可视化内存取证工具 |
