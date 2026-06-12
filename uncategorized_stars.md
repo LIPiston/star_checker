@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Thu Jun 11 04:19:08 UTC 2026 | 总计: **1705** 个未分类项目
+> 生成于 UTC 时间: Fri Jun 12 04:21:34 UTC 2026 | 总计: **1705** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -161,7 +161,6 @@
 | [bennyyip/Rime-See-Me](https://github.com/bennyyip/Rime-See-Me) | Skin editor for Weasel(Rime frontend on Windows). All credit goes to http://t... |
 | [bestruirui/BestSub](https://github.com/bestruirui/BestSub) | Best Sub, Best for Your Net |
 | [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) | Better Discord enhances Discord desktop app with new features. |
-| [BetterMinecraftHelpDocs/docs](https://github.com/BetterMinecraftHelpDocs/docs) | None |
 | [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) | Just make a few small changes to your Bilibili homepage. (English / 简体中文 / 正體... |
 | [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) | 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。 |
 | [bezzad/Downloader](https://github.com/bezzad/Downloader) | Fast, cross-platform and reliable multipart downloader with asynchronous prog... |
@@ -298,7 +297,7 @@
 | [control-theory/gonzo](https://github.com/control-theory/gonzo) | Gonzo! The Go based TUI log analysis tool |
 | [Coolapk-Code9527/F2FS-Optimizer](https://github.com/Coolapk-Code9527/F2FS-Optimizer) | None |
 | [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) | Lean's LEDE source |
-| [coolxitech/deltaforce](https://github.com/coolxitech/deltaforce) | 三角洲行动API |
+| [coolxi-tech/deltaforce](https://github.com/coolxi-tech/deltaforce) | 三角洲行动API |
 | [CopilotKit/OpenGenerativeUI](https://github.com/CopilotKit/OpenGenerativeUI) | Open-Source Generative UI Framework |
 | [coracoo/awesome_docker_cn](https://github.com/coracoo/awesome_docker_cn) | 上百款可docker部署的项目，包含项目地址、项目部署教程等。 |
 | [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) | Collection of handy online tools for developers, with great UX.  |
@@ -1352,7 +1351,7 @@
 | [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) | GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本 |
 | [SuperMarcus/LevelDBViewer](https://github.com/SuperMarcus/LevelDBViewer) | A Java program provides ablities to access & edit leveldb database |
 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | Memory and context engine + app that is extremely fast, scalable, and can be ... |
-| [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) | 🧱 easy, fast, local microVMs for untrusted workloads |
+| [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) | 🧱 easy and fast microVMs runtime for running untrusted workloads |
 | [suqi8/OShin](https://github.com/suqi8/OShin) | 一个专为ColorOS系统设计的辅助模块 |
 | [suxuang/myIPTV](https://github.com/suxuang/myIPTV) | 【典藏版】高清直播源涵盖几乎所有卫视节目，内置完美台标加节目预告 |
 | [suzhelan/TimTool](https://github.com/suzhelan/TimTool) | Tim功能性增强XPosed模块，为Tim增加更多趣味功能 |
@@ -1589,6 +1588,7 @@
 | [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) | 一个第三方哔哩哔哩客户端，A third-party bilibili client。 |
 | [xiazeyu/live2d-widget-models](https://github.com/xiazeyu/live2d-widget-models) | Model library for live2d-widget.js |
 | [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) | 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension |
+| [ximeiorg/Xime](https://github.com/ximeiorg/Xime) | 我的自用安卓输入法，基于Rime 构建，支持五笔/拼音/自定义方案。相关功能由本人设计的本地AI模型驱动 |
 | [XingC123/BackgroundOpt](https://github.com/XingC123/BackgroundOpt) | 这是一个通过调整进程oom_score_adj来骗过lmk从而实现保后台的模块。 |
 | [Xinrea/bili-shadowreplay](https://github.com/Xinrea/bili-shadowreplay) | bilibili 直播实时切片工具 |
 | [xiong35/werewolf](https://github.com/xiong35/werewolf) | 一款线下狼人杀网页, 除了没有语音功能, 其余功能均具备. 用于取代卡牌和取消上帝 |
