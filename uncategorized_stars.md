@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Fri Jun 12 04:21:34 UTC 2026 | 总计: **1705** 个未分类项目
+> 生成于 UTC 时间: Sat Jun 13 04:10:22 UTC 2026 | 总计: **1706** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -742,6 +742,7 @@
 | [kooritea/fcmfix](https://github.com/kooritea/fcmfix) | [xposed]让fcm唤醒已完全停止的应用 |
 | [KoriIku/luxirty-search](https://github.com/KoriIku/luxirty-search) | 一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快。 |
 | [kornelski/pngquant](https://github.com/kornelski/pngquant) | Lossy PNG compressor — pngquant command based on libimagequant library |
+| [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu) | Manga reader for Android |
 | [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) | The official source code repository for the calibre ebook manager |
 | [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) | If you live in the terminal, kitty is made for you! Cross-platform, fast, fea... |
 | [KOWX712/PlayIntegrityFix](https://github.com/KOWX712/PlayIntegrityFix) | Fix Play Integrity verdicts. |
@@ -1351,7 +1352,7 @@
 | [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) | GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本 |
 | [SuperMarcus/LevelDBViewer](https://github.com/SuperMarcus/LevelDBViewer) | A Java program provides ablities to access & edit leveldb database |
 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | Memory and context engine + app that is extremely fast, scalable, and can be ... |
-| [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) | 🧱 easy and fast microVMs runtime for running untrusted workloads |
+| [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) | 🧱 easy and fast microVMs for running untrusted workloads |
 | [suqi8/OShin](https://github.com/suqi8/OShin) | 一个专为ColorOS系统设计的辅助模块 |
 | [suxuang/myIPTV](https://github.com/suxuang/myIPTV) | 【典藏版】高清直播源涵盖几乎所有卫视节目，内置完美台标加节目预告 |
 | [suzhelan/TimTool](https://github.com/suzhelan/TimTool) | Tim功能性增强XPosed模块，为Tim增加更多趣味功能 |
