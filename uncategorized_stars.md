@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sat Jun 13 04:10:22 UTC 2026 | 总计: **1706** 个未分类项目
+> 生成于 UTC 时间: Sun Jun 14 04:26:59 UTC 2026 | 总计: **1706** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -32,7 +32,7 @@
 | [abcz316/SKRoot-linuxKernelRoot](https://github.com/abcz316/SKRoot-linuxKernelRoot) | 新一代 SKRoot，完美隐藏Root功能，无视全网检测手段，实现SELinux零触碰、无挂载！ 通杀所有内核，免源码直接 Patch 原厂内核，完美保留... |
 | [Acfboy/twt-werewolf-master-ng](https://github.com/Acfboy/twt-werewolf-master-ng) | Modern generation of twt-werewolf-master |
 | [ACGaming/UniversalTweaks](https://github.com/ACGaming/UniversalTweaks) | A community project to consolidate various bugfixes and tweaks into a single ... |
-| [AChep/keyguard-app](https://github.com/AChep/keyguard-app) | Alternative client for the Bitwarden® platform & KeePass (KDBX), created to p... |
+| [AChep/keyguard-app](https://github.com/AChep/keyguard-app) | A third-party client for the Bitwarden platform and KeePass (KDBX) files. It ... |
 | [Achuan-2/SlideSCI](https://github.com/Achuan-2/SlideSCI) | PPT插件，支持制作素材库、AI助手、一键添加图片标题，复制粘贴位置、一键图片对齐、一键插入Markdown（加粗、超链接等行内样式、代码块、LaTeX等... |
 | [acl4ssr-sub/acl4ssr-sub.github.io](https://github.com/acl4ssr-sub/acl4ssr-sub.github.io) | None |
 | [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) | Acode - powerful text/code editor for android |
@@ -666,7 +666,7 @@
 | [jimuzhe/tiez-clipboard](https://github.com/jimuzhe/tiez-clipboard) | TieZ 是一款基于 Tauri 的跨平台剪贴板管理器 / A cross-platform clipboard manager with history... |
 | [jinchenma94/bazi-skill](https://github.com/jinchenma94/bazi-skill) | 四柱八字命理分析 |
 | [jindrapetrik/jpexs-decompiler](https://github.com/jindrapetrik/jpexs-decompiler) | JPEXS Free Flash Decompiler |
-| [jinenge/tvbox](https://github.com/jinenge/tvbox) | TVBox(自带配置版)，内置源，随时更新内置源，不必担心不能用 |
+| [jinenge/tvbox](https://github.com/jinenge/tvbox) | TVBox或者影视仓内置源，随时更新内置源，不必担心不能用，打开下面的链接复制你想用谁的配置，粘贴到您的软件中的设置里面的配置地址粘贴保存即可。 |
 | [jing332/tts-server-android](https://github.com/jing332/tts-server-android) | 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有... |
 | [JingMatrix/TEESimulator](https://github.com/JingMatrix/TEESimulator) | Software simulation for Android hardware-backed key pairs with key attestation |
 | [JingMatrix/Vector](https://github.com/JingMatrix/Vector) | Modern Xposed Framework |
