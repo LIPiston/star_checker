@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Mon Jun 15 04:50:39 UTC 2026 | 总计: **1714** 个未分类项目
+> 生成于 UTC 时间: Tue Jun 16 04:47:56 UTC 2026 | 总计: **1715** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -1011,6 +1011,7 @@
 | [nakixii/Magisk_AsoulOpt](https://github.com/nakixii/Magisk_AsoulOpt) | None |
 | [NapNeko/NapCat-Docker](https://github.com/NapNeko/NapCat-Docker) | NapCat-Docker |
 | [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) | Modern protocol-side framework based on NTQQ |
+| [Narcooo/inkos](https://github.com/Narcooo/inkos) | Story Creation AI Agent for novel, scripts, interactive games, and IP content |
 | [Naruto-Senki/files](https://github.com/Naruto-Senki/files) | Naruto Senki: V2 File Host |
 | [natanfudge/Not-Enough-Crashes](https://github.com/natanfudge/Not-Enough-Crashes) | A mod that makes crashes so pleasant, you can't have enough of them!  |
 | [Neamar/KISS](https://github.com/Neamar/KISS) | Lightning fast, open-source, < 250kb Android launcher |
