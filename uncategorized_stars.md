@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Tue Jun 16 04:47:56 UTC 2026 | 总计: **1715** 个未分类项目
+> 生成于 UTC 时间: Wed Jun 17 04:27:50 UTC 2026 | 总计: **1721** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -33,7 +33,7 @@
 | [Acfboy/twt-werewolf-master-ng](https://github.com/Acfboy/twt-werewolf-master-ng) | Modern generation of twt-werewolf-master |
 | [ACGaming/UniversalTweaks](https://github.com/ACGaming/UniversalTweaks) | A community project to consolidate various bugfixes and tweaks into a single ... |
 | [AChep/keyguard-app](https://github.com/AChep/keyguard-app) | A third-party client for the Bitwarden platform and KeePass (KDBX) files. It ... |
-| [Achuan-2/SlideSCI](https://github.com/Achuan-2/SlideSCI) | PPT插件，支持制作素材库、AI助手、一键添加图片标题，复制粘贴位置、一键图片对齐、一键插入Markdown（加粗、超链接等行内样式、代码块、LaTeX等... |
+| [Achuan-2/SlideSCI](https://github.com/Achuan-2/SlideSCI) | PPT插件，支持素材库、AI助手、一键添加图片标题，复制粘贴位置、一键图片对齐、一键插入Markdown（加粗、超链接等行内样式、代码块、LaTeX等块级... |
 | [acl4ssr-sub/acl4ssr-sub.github.io](https://github.com/acl4ssr-sub/acl4ssr-sub.github.io) | None |
 | [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) | Acode - powerful text/code editor for android |
 | [actions/setup-python](https://github.com/actions/setup-python) | Set up your GitHub Actions workflow with a specific version of Python |
@@ -211,6 +211,7 @@
 | [Buernia/Zhudou-Sans](https://github.com/Buernia/Zhudou-Sans) | 煮豆黑体，Noto 风格中日韩标点符号字体。A font family for CJK symbols and punctuation, derived ... |
 | [bukson/steampy](https://github.com/bukson/steampy) | A Steam trading library for python 3 |
 | [burningtnt/Terracotta](https://github.com/burningtnt/Terracotta) | Terracotta / 陶瓦联机 |
+| [Byaidu/copymanga-helper](https://github.com/Byaidu/copymanga-helper) | 拷贝漫画去广告🚫、加速访问🚀、批量下载⬇️、并排布局📖、图片高度自适应↕️、辅助翻页↔️、页码显示⏱、侧边目录栏📑、暗夜模式🌙 |
 | [byxiaorun/Ruru](https://github.com/byxiaorun/Ruru) | An android sample app of detecting suspicious apps like magisk manager |
 | [C4illin/ConvertX](https://github.com/C4illin/ConvertX) | 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ |
 | [ca110us/epeius](https://github.com/ca110us/epeius) | Deploy Trojan using a Serverless approach |
@@ -300,6 +301,7 @@
 | [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) | Lean's LEDE source |
 | [coolxi-tech/deltaforce](https://github.com/coolxi-tech/deltaforce) | 三角洲行动API |
 | [CopilotKit/OpenGenerativeUI](https://github.com/CopilotKit/OpenGenerativeUI) | Open-Source Generative UI Framework |
+| [copy-manga/copymanga](https://github.com/copy-manga/copymanga) | 拷贝漫画(Copymanga)最新版官方入口 / 发布页地址 / APP下载 |
 | [coracoo/awesome_docker_cn](https://github.com/coracoo/awesome_docker_cn) | 上百款可docker部署的项目，包含项目地址、项目部署教程等。 |
 | [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) | Collection of handy online tools for developers, with great UX.  |
 | [Cp0204/CasaOS-AppStore-Play](https://github.com/Cp0204/CasaOS-AppStore-Play) | A Docker Compose Hub, Making Docker Your Productivity Tool - 一个 Docker Compos... |
@@ -392,6 +394,7 @@
 | [eswd04/freeform_update](https://github.com/eswd04/freeform_update) | eswd custom Mi-freeform update |
 | [etchdroid/etchdroid](https://github.com/etchdroid/etchdroid) | An application to write OS images to USB drives, on Android, no root required. |
 | [eternalfuture-e38299/TEFModLoader](https://github.com/eternalfuture-e38299/TEFModLoader) | 下一代高性能跨平台Terraria模组加载器 |
+| [etherized/GenP](https://github.com/etherized/GenP) | GenP 非官方汉化版 |
 | [Eugeny/russh](https://github.com/Eugeny/russh) | Rust SSH client & server library |
 | [Eugeny/tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age |
 | [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) | Self-evolving memory across Agent and platform. The one portable memory layer... |
@@ -444,6 +447,7 @@
 | [fontforge/fontforge](https://github.com/fontforge/fontforge) | Free (libre) font editor for Windows, Mac OS X and GNU+Linux |
 | [FontManager/font-manager](https://github.com/FontManager/font-manager) | None |
 | [foru17/neko-master](https://github.com/foru17/neko-master) | A modern and elegant dashboard for network traffic visualization and analysis. |
+| [FrankBijnen/ExifToolGui](https://github.com/FrankBijnen/ExifToolGui) | A GUI for ExifTool |
 | [frankiejun/serv00-play](https://github.com/frankiejun/serv00-play) | serv00/hostuno 上的一些应用，包括argo+vmess/vmess+ws/hy2/socks5/mtproto/alist/哪吒探针/面板 ... |
 | [freedom-introvert/biliSendCommAntifraud](https://github.com/freedom-introvert/biliSendCommAntifraud) | 哔哩发评反诈 |
 | [freeok/so-novel](https://github.com/freeok/so-novel) | 小说下载｜网文下载 / 网络小说 |
@@ -520,6 +524,7 @@
 | [guozhigq/pilipala](https://github.com/guozhigq/pilipala) | PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。 |
 | [gurecn/YuyanIme](https://github.com/gurecn/YuyanIme) | 语燕输入法-一款基于Rime定制开发的九键、全拼、双拼、手写、火星文等方案、支持悬浮、单手、数字行等键盘模式的中文输入法 |
 | [gurecn/yuyansdk](https://github.com/gurecn/yuyansdk) | 语燕输入法引擎-一款基于Rime定制开发的九键、全拼、双拼、手写、火星文等方案、支持悬浮、单手、数字行等模式的中文输入法引擎 |
+| [H3d9/sguard_limit](https://github.com/H3d9/sguard_limit) | 限制ACE-Guard Client EXE占用系统资源，支持各种腾讯游戏 |
 | [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) | 小巧精悍、准确、实用 GeoIP2 数据库 |
 | [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) | 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) ... |
 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | real time face swap and one-click video deepfake with only a single image |
@@ -529,7 +534,7 @@
 | [halo-sigs/plugin-katex](https://github.com/halo-sigs/plugin-katex) | 为默认编辑器和文章渲染提供 KaTeX 支持。 |
 | [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) | HandBrake's development repository  |
 | [hankcs/HanLP](https://github.com/hankcs/HanLP) | 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘... |
-| [hantang/rime-list](https://github.com/hantang/rime-list) | RIME相关配置、词库和输入法方案汇集。 |
+| [hantang/rime-list](https://github.com/hantang/rime-list) | RIME输入法相关软件、配置、词库和输入方案汇整。 |
 | [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) | 一款跳过小电视视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored s... |
 | [HapeLee/legado-with-MD3](https://github.com/HapeLee/legado-with-MD3) | 使用 Material Design 3 全新设计的阅读 3.0 |
 | [happycola233/tchMaterial-parser](https://github.com/happycola233/tchMaterial-parser) | 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。 |
@@ -712,6 +717,7 @@
 | [kc0ed/SearchEVO](https://github.com/kc0ed/SearchEVO) | [转载]好用的搜索软件 |
 | [kcat/openal-soft](https://github.com/kcat/openal-soft) | OpenAL Soft is a software implementation of the OpenAL 3D audio API. |
 | [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) | Google SafetyNet attestation workarounds for Magisk |
+| [keiyoushi/extensions](https://github.com/keiyoushi/extensions) | Extension repository for Mihon and variants |
 | [keldaanCommunity/pokemonAutoChess](https://github.com/keldaanCommunity/pokemonAutoChess) | Pokemon Auto Chess Game. Made by fans for fans. Open source, non profit. All ... |
 | [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme) | 将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora int... |
 | [kelecn/Built-in-wallpaper](https://github.com/kelecn/Built-in-wallpaper) | 😉史上最新最全的内置壁纸仓库，包括但不限于：苹果(Apple)、安卓(Android)、谷歌(Google)、三星(Samsung)、华为(Huawei)... |
@@ -1597,7 +1603,7 @@
 | [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) | 一个第三方哔哩哔哩客户端，A third-party bilibili client。 |
 | [xiazeyu/live2d-widget-models](https://github.com/xiazeyu/live2d-widget-models) | Model library for live2d-widget.js |
 | [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) | 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension |
-| [ximeiorg/Xime](https://github.com/ximeiorg/Xime) | 我的自用安卓输入法，基于Rime 构建，支持五笔/拼音/自定义方案。相关功能由本人设计的本地AI模型驱动 |
+| [ximeiorg/Xime](https://github.com/ximeiorg/Xime) | 我的自用安卓输入法，基于Rime 构建，部分功能由本人设计的本地AI模型驱动，支持五笔/拼音/自定义方案。 |
 | [XingC123/BackgroundOpt](https://github.com/XingC123/BackgroundOpt) | 这是一个通过调整进程oom_score_adj来骗过lmk从而实现保后台的模块。 |
 | [Xinrea/bili-shadowreplay](https://github.com/Xinrea/bili-shadowreplay) | bilibili 直播实时切片工具 |
 | [xiong35/werewolf](https://github.com/xiong35/werewolf) | 一款线下狼人杀网页, 除了没有语音功能, 其余功能均具备. 用于取代卡牌和取消上帝 |
