@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Fri Jun 19 04:49:03 UTC 2026 | 总计: **1723** 个未分类项目
+> 生成于 UTC 时间: Sat Jun 20 04:03:38 UTC 2026 | 总计: **1723** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -550,7 +550,7 @@
 | [Heavrnl/nexus-terminal](https://github.com/Heavrnl/nexus-terminal) |  一款现代化的 Web SSH / RDP / VNC 客户端，提供独立桌面端，支持人机验证、2FA、界面定制、操作审计等强大功能。 |
 | [hectorqin/reader](https://github.com/hectorqin/reader) | 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + E... |
 | [helloqingfeng/Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource) | :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等） |
-| [helloworldpxy/thunder-https](https://github.com/helloworldpxy/thunder-https) | 专业的迅雷专用链转换工具，可将thunder://开头的加密链接转换为可直接使用的HTTP/HTTPS下载地址。支持Windows/macOS双平台（li... |
+| [helloworldpxy/thunder-https](https://github.com/helloworldpxy/thunder-https) | 专业的链接转换工具，可将thunder://等开头的加密链接转换为可直接使用的HTTP/HTTPS下载地址。支持多平台，提供优雅的现代化界面和高效稳定的转... |
 | [Hendrix-Shen/MagicLib](https://github.com/Hendrix-Shen/MagicLib) | To beat magic with magic :( |
 | [Hendrix-Shen/Tweak-My-Client](https://github.com/Hendrix-Shen/Tweak-My-Client) | Add something interesting <3 |
 | [HenryChiao/MIHOMO_YAMLS](https://github.com/HenryChiao/MIHOMO_YAMLS) | 一个精心整理的 Mihomo (Clash Meta) 配置文件仓库，通过 GitHub Actions 每日自动同步上游优质规则，提供从入门到进阶的完整... |
@@ -1669,7 +1669,7 @@
 | [Yubyf/QuoteLockX](https://github.com/Yubyf/QuoteLockX) | Displays quotes on your lockscreen, because why not. |
 | [yudai/gotty](https://github.com/yudai/gotty) | Share your terminal as a web application |
 | [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) | ArchLinux based WSL Distribution. Supports multiple install. |
-| [YumeRiMoe/Tritium](https://github.com/YumeRiMoe/Tritium) | 最大化Soc的潜力 Maximize the potential of Soc |
+| [YumeYucca/Tritium](https://github.com/YumeYucca/Tritium) | 最大化Soc的潜力 Maximize the potential of Soc |
 | [yushijinhun/authlib-injector](https://github.com/yushijinhun/authlib-injector) | Build your own Minecraft authentication system. |
 | [yutto-dev/yutto](https://github.com/yutto-dev/yutto) | :ice_cube: 一个可爱且任性的 B 站视频下载器 |
 | [yuzu233/anti-ocr](https://github.com/yuzu233/anti-ocr) | 對抗文字識別 |
