@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sun Jun 21 04:44:54 UTC 2026 | 总计: **1723** 个未分类项目
+> 生成于 UTC 时间: Mon Jun 22 04:51:14 UTC 2026 | 总计: **1723** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -1408,7 +1408,7 @@
 | [Teneted/Tenet](https://github.com/Teneted/Tenet) | Minecraft Forge Hybrid server implementing the Spigot/Bukkit API, formerly kn... |
 | [Terminus2049/Not-exist-in-douban](https://github.com/Terminus2049/Not-exist-in-douban) | 豆瓣不存在的书影音 |
 | [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) | Self-hosted SSH and remote desktop management. |
-| [termux/proot-distro](https://github.com/termux/proot-distro) | An utility for managing installations of the Linux distributions in Termux. |
+| [termux/proot-distro](https://github.com/termux/proot-distro) | An utility for managing proot containers. |
 | [termux/termux-app](https://github.com/termux/termux-app) | Termux - a terminal emulator application for Android OS extendible by variety... |
 | [termux/termux-boot](https://github.com/termux/termux-boot) | Termux add-on app allowing programs to be run at boot. |
 | [Textualize/textual](https://github.com/Textualize/textual) | The lean application framework for Python.  Build sophisticated user interfac... |
