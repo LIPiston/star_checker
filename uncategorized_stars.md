@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Tue Jun 23 03:55:14 UTC 2026 | 总计: **1725** 个未分类项目
+> 生成于 UTC 时间: Wed Jun 24 03:56:42 UTC 2026 | 总计: **1730** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -404,6 +404,7 @@
 | [F9y4ng/GreasyFork-Scripts](https://github.com/F9y4ng/GreasyFork-Scripts) | The open source code of this project is used for userscripts (油猴脚本) for deskt... |
 | [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline) | Linux Distributions Timeline |
 | [FabricMC/fabric-api](https://github.com/FabricMC/fabric-api) | Essential hooks for modding with Fabric. |
+| [Fabsqrt/BitTiger](https://github.com/Fabsqrt/BitTiger) | 来自硅谷的终身学习大学 |
 | [Fabulously-Optimized/fabulously-optimized](https://github.com/Fabulously-Optimized/fabulously-optimized) | A simple Minecraft modpack focusing on performance and graphics enhancements. |
 | [facebook/docusaurus](https://github.com/facebook/docusaurus) | Easy to maintain open source documentation websites. |
 | [facet-rs/facet](https://github.com/facet-rs/facet) | Rust reflection, serialization, deserialization, pretty printing, etc. — the ... |
@@ -977,6 +978,7 @@
 | [miru-project/miru-app](https://github.com/miru-project/miru-app) | 🎉 A versatile application that is free, open-source, and supports extension s... |
 | [mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) | completely free for everyone. Its build-in Flutter Dart. |
 | [MIUI-Monet-Project/Module](https://github.com/MIUI-Monet-Project/Module) | Material You wallpaper-based dynamic theme for MIUI & HyperOS system apps on ... |
+| [MlgmXyysd/android-bootloader-kernel-source](https://github.com/MlgmXyysd/android-bootloader-kernel-source) | 各 Android 手机厂商 Bootloader 解锁 / 内核开源 / 解锁后保修情况 |
 | [MlgmXyysd/Xiaomi-BootLoader-Questionnaire](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire) | 小米 BootLoader《解锁资格答题测试》更新记录 |
 | [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) | Easily install PHP extensions in Docker containers |
 | [MMmmmoko/CatTuber](https://github.com/MMmmmoko/CatTuber) | None |
@@ -1367,7 +1369,7 @@
 | [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) | GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本 |
 | [SuperMarcus/LevelDBViewer](https://github.com/SuperMarcus/LevelDBViewer) | A Java program provides ablities to access & edit leveldb database |
 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | Memory and context engine + app that is extremely fast, scalable, and can be ... |
-| [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) | 🧱 easy, fast, local-first microVM runtime |
+| [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) | 🧱 easy, fast and local-first microVM runtime |
 | [suqi8/OShin](https://github.com/suqi8/OShin) | 一个专为ColorOS系统设计的辅助模块 |
 | [suxuang/myIPTV](https://github.com/suxuang/myIPTV) | 【典藏版】高清直播源涵盖几乎所有卫视节目，内置完美台标加节目预告 |
 | [suzhelan/TimTool](https://github.com/suzhelan/TimTool) | Tim功能性增强XPosed模块，为Tim增加更多趣味功能 |
@@ -1502,6 +1504,7 @@
 | [urwid/urwid](https://github.com/urwid/urwid) | Console user interface library for Python (official repo) |
 | [usememos/memos](https://github.com/usememos/memos) | Open-source, self-hosted note-taking tool built for quick capture. Markdown-n... |
 | [ustbhuangyi/better-scroll](https://github.com/ustbhuangyi/better-scroll) | :scroll: inspired by iscroll, and it supports more features and has a better ... |
+| [USTC-Resource/USTC-Course](https://github.com/USTC-Resource/USTC-Course) | :heart:中国科学技术大学课程资源 |
 | [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative) | Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android |
 | [utterance/utterances](https://github.com/utterance/utterances) | :crystal_ball: A lightweight comments widget built on GitHub issues |
 | [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) | A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, T... |
@@ -1536,6 +1539,7 @@
 | [voideditor/void](https://github.com/voideditor/void) | None |
 | [vosen/ZLUDA](https://github.com/vosen/ZLUDA) | CUDA on non-NVIDIA GPUs |
 | [VR-25/acc](https://github.com/VR-25/acc) | Advanced Charging Controller |
+| [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) | None |
 | [vsme/chinese-days](https://github.com/vsme/chinese-days) | 中国法定节假日、调休和工作日、24节气查询，农历阳历互转，提供 JSON 文件，对非开发者，还提供 iCal 日历订阅，可供 Google Calenda... |
 | [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) | 🐉 Vue Component Framework |
 | [vufa/deepin-wine-qq-arch](https://github.com/vufa/deepin-wine-qq-arch) | Tencent QQ on Deepin Wine5(com.qq.im.deepin) For Archlinux |
@@ -1723,6 +1727,7 @@
 | [ZTHA000/tvbox](https://github.com/ZTHA000/tvbox) | None |
 | [zu1k/nali](https://github.com/zu1k/nali) | An offline tool for querying IP geographic information and CDN provider. 一个查询... |
 | [zufuliu/notepad4](https://github.com/zufuliu/notepad4) | Notepad4 (Notepad2⨯2, Notepad2++) is a light-weight Scintilla based text edit... |
+| [zuiwuchang/android-rimesync](https://github.com/zuiwuchang/android-rimesync) | Solution for syncing fcitx5-android vocabulary under Android SAF restrictions |
 | [Zulko/moviepy](https://github.com/Zulko/moviepy) | Video editing with Python |
 | [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) | 人人都能用英语 |
 | [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) | Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working) |
