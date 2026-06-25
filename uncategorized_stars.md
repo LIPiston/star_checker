@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Wed Jun 24 03:56:42 UTC 2026 | 总计: **1730** 个未分类项目
+> 生成于 UTC 时间: Thu Jun 25 03:57:26 UTC 2026 | 总计: **1731** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -385,7 +385,7 @@
 | [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) | Space exploration, trading, and combat game. |
 | [Enginex0/TEESimulator-RS](https://github.com/Enginex0/TEESimulator-RS) | Software simulation for Android hardware-backed key pairs with key attestatio... |
 | [eooce/Sing-box](https://github.com/eooce/Sing-box) | 既然来了，就留下你的Star吧！Serv00 / CT8 / Hostuno / VPS / 游戏机 / sing-box(reality + hy2 +... |
-| [ErisPulse/ErisPulse](https://github.com/ErisPulse/ErisPulse) | 事件驱动的多平台机器人框架 — 一次编写部署 QQ/Telegram/Kook/云湖/Matrix/邮件等 10+ 平台 / Event-driven m... |
+| [ErisPulse/ErisPulse](https://github.com/ErisPulse/ErisPulse) | Event-driven multi-platform bot framework with Dashboard, Docker, hot-reload ... |
 | [eritpchy/FingerprintPay](https://github.com/eritpchy/FingerprintPay) | 让微信、QQ、支付宝、淘宝、云闪付支持使用指纹支付 |
 | [ErLinErYi/PlantsVsZombies](https://github.com/ErLinErYi/PlantsVsZombies) | PlantsVsZombies game made by cocos2dx 3.16 (c++) |
 | [ermaozi/get_subscribe](https://github.com/ermaozi/get_subscribe) | ✈️ 白嫖免费机场  / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，持续更新 / 科学上网 / 翻墙 |
@@ -599,6 +599,7 @@
 | [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) | markdown preview plugin for (neo)vim |
 | [iamr0s/Dhizuku](https://github.com/iamr0s/Dhizuku) | A tool that can share DeviceOwner permissions to other application. |
 | [iamr0s/InstallerX](https://github.com/iamr0s/InstallerX) | A modern and functional Android app installer. (You know some birds are not m... |
+| [ibmruntimes/openj9-openjdk-jdk21](https://github.com/ibmruntimes/openj9-openjdk-jdk21) | None |
 | [Icalingua-plus-plus/Icalingua-plus-plus](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) | A client for QQ and more. :electron: |
 | [Icalingua-plus-plus/Icalingua3](https://github.com/Icalingua-plus-plus/Icalingua3) | :new:A brand-new version of Icalingua. |
 | [Icemic/huozi.js](https://github.com/Icemic/huozi.js) | A simple typography engine for CJK languages, especially designed for game ri... |
@@ -1058,7 +1059,7 @@
 | [NLR-DevTeam/Fcitx5-Enhancer](https://github.com/NLR-DevTeam/Fcitx5-Enhancer) | A  fcitx5 compatibility mod for Minecraft |
 | [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) | Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad! |
 | [nocokit/noco-form](https://github.com/nocokit/noco-form) | 拖拉拽低代码表单 |
-| [NodePassProject/nodepass](https://github.com/NodePassProject/nodepass) | A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable a... |
+| [NodePassProject/Anywhere](https://github.com/NodePassProject/Anywhere) | The best native proxy client for iOS, iPadOS, macOS, and tvOS. |
 | [nohajc/termux-adb](https://github.com/nohajc/termux-adb) | Run adb in Termux without root permissions! |
 | [nonebot/cli-plugin-docker](https://github.com/nonebot/cli-plugin-docker) | docker support for nb-cli |
 | [nopdan/danjing](https://github.com/nopdan/danjing) | An exquisite Trime theme. 一个精致的同文输入法主题. |
