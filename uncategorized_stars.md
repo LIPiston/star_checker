@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Thu Jun 25 03:57:26 UTC 2026 | 总计: **1731** 个未分类项目
+> 生成于 UTC 时间: Fri Jun 26 04:04:10 UTC 2026 | 总计: **1725** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -388,7 +388,6 @@
 | [ErisPulse/ErisPulse](https://github.com/ErisPulse/ErisPulse) | Event-driven multi-platform bot framework with Dashboard, Docker, hot-reload ... |
 | [eritpchy/FingerprintPay](https://github.com/eritpchy/FingerprintPay) | 让微信、QQ、支付宝、淘宝、云闪付支持使用指纹支付 |
 | [ErLinErYi/PlantsVsZombies](https://github.com/ErLinErYi/PlantsVsZombies) | PlantsVsZombies game made by cocos2dx 3.16 (c++) |
-| [ermaozi/get_subscribe](https://github.com/ermaozi/get_subscribe) | ✈️ 白嫖免费机场  / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，持续更新 / 科学上网 / 翻墙 |
 | [esbatmop/MNBVC](https://github.com/esbatmop/MNBVC) | MNBVC(Massive Never-ending BT Vast Chinese corpus)超大规模中文语料集。对标chatGPT训练的40T数据... |
 | [eswd04/freeform_update](https://github.com/eswd04/freeform_update) | eswd custom Mi-freeform update |
 | [etchdroid/etchdroid](https://github.com/etchdroid/etchdroid) | An application to write OS images to USB drives, on Android, no root required. |
@@ -396,7 +395,7 @@
 | [etherized/GenP](https://github.com/etherized/GenP) | GenP 非官方汉化版 |
 | [Eugeny/russh](https://github.com/Eugeny/russh) | Rust SSH client & server library |
 | [Eugeny/tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age |
-| [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) | Self-evolving memory across Agent and platform. The one portable memory layer... |
+| [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) | One portable memory layer for every AI agent: local-first, Markdown-native, u... |
 | [extesy/hoverzoom](https://github.com/extesy/hoverzoom) | Google Chrome extension for zooming images on mouse hover |
 | [Extremelyd1/minecraft-bingo](https://github.com/Extremelyd1/minecraft-bingo) | Item bingo in Minecraft |
 | [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) | The Fully Customizable Desktop Environment for Windows 10/11. |
@@ -517,7 +516,6 @@
 | [GSWXXN/RestoreSplashScreen](https://github.com/GSWXXN/RestoreSplashScreen) | 启动遮罩进化 / RestoreSplashScreen |
 | [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) | 📂 Web File Browser |
 | [GtxFury/FlyClash](https://github.com/GtxFury/FlyClash) | 简洁美观的代理工具 |
-| [GtxFury/FlyClash-Android](https://github.com/GtxFury/FlyClash-Android) | FlyClash Android |
 | [guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles) | Document Chatbot — multiple files. Powered by GPT / Embedding. |
 | [Guovin/iptv-api](https://github.com/Guovin/iptv-api) | ⚡️IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成🚀』：自定义获取频道；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、... |
 | [GuoXiCheng/SKIP](https://github.com/GuoXiCheng/SKIP) | 自动跳过APP开屏广告 |
@@ -687,7 +685,6 @@
 | [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) | Moe counter badge with multiple themes! - 多种风格可选的萌萌计数器 |
 | [joyqi/sfz](https://github.com/joyqi/sfz) | 专门用于给图片加水印打码的工具，完全基于浏览器本地API，无任何网络请求（特别适合身份证等敏感证件） |
 | [jpenilla/TabTPS](https://github.com/jpenilla/TabTPS) | Minecraft server mod/plugin to monitor TPS, MSPT, and other information in th... |
-| [Jsnzkpg/Jsnzkpg](https://github.com/Jsnzkpg/Jsnzkpg) | 已持续维护5年多，每天都会检测可用性，全网质量最高的免费节点订阅，魔鬼式筛选出高质量的免费节点，shadowrocket丨stash丨singbox丨cl... |
 | [jsorrell/CarpetSkyAdditions](https://github.com/jsorrell/CarpetSkyAdditions) | Empty world generation with new ways to obtain resources |
 | [JudouEco/JudouSans](https://github.com/JudouEco/JudouSans) | 句读黑体，商用免费的多文种混排字体。Judou Sans, a multilingual open-source typeface. |
 | [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) | Run sing-box/mihomo as client in shell |
@@ -997,6 +994,7 @@
 | [Monica-Pass/Monica](https://github.com/Monica-Pass/Monica) |  Monica Pass，Password Management, 2FA Generator |
 | [mono/SkiaSharp](https://github.com/mono/SkiaSharp) | SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Goo... |
 | [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame) | One framework for creating powerful cross-platform games. |
+| [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) | GameStream client for PCs (Windows, Mac, Linux, and Steam Link) |
 | [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) | Kimi Code CLI is your next CLI agent. |
 | [Moriafly/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource) | Salt Player (A local music player trusted and chosen by hundreds of thousands... |
 | [MotooriKashin/Bilibili-Old](https://github.com/MotooriKashin/Bilibili-Old) | 恢复旧版Bilibili页面，为了那些念旧的人。 |
@@ -1133,7 +1131,6 @@
 | [PaperMC/Velocity](https://github.com/PaperMC/Velocity) | The modern, next-generation Minecraft server proxy. |
 | [Partyb0ssishere/cef-fonts-cjk](https://github.com/Partyb0ssishere/cef-fonts-cjk) | CEF Fonts CJK / 快去写作业CJK 是一款用鼠标绘制字形的字体。 |
 | [pavlobu/deskreen](https://github.com/pavlobu/deskreen) | Deskreen turns any device with a web browser into a secondary screen for your... |
-| [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers) | 🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss... |
 | [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) | Automatically block unwanted, leeches and abnormal BT peers with support for ... |
 | [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2) | PCSX2 - The Playstation 2 Emulator |
 | [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | bluetooth mesh chat, IRC vibes |
@@ -1306,7 +1303,6 @@
 | [sigoden/dufs](https://github.com/sigoden/dufs) | A file server that supports static serving, uploading, searching, accessing c... |
 | [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) | LLM Frontend for Power Users. |
 | [simdutf/simdutf](https://github.com/simdutf/simdutf) | Unicode routines (UTF8, UTF16, UTF32) and Base64: billions of characters per ... |
-| [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) | 😎 Github action to generate your own awesome list from project you've starred... |
 | [simonhaenisch/md-to-pdf](https://github.com/simonhaenisch/md-to-pdf) | Hackable CLI tool for converting Markdown files to PDF using Node.js and head... |
 | [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) | SVG icons for popular brands |
 | [Simplicity-Team/WooBoxForColorOS](https://github.com/Simplicity-Team/WooBoxForColorOS) | 一个基于 ColorOS12(Android 12) 适配的自定义工具 // A system extension Xposed module based... |
@@ -1570,7 +1566,6 @@
 | [Wiederhoeft/okjiasu_action](https://github.com/Wiederhoeft/okjiasu_action) | 机场https://okjiasu.com    的自动签到脚本 |
 | [wifi-left/HMCL-docs-website](https://github.com/wifi-left/HMCL-docs-website) | HMCL 文档的网站版本 |
 | [Wilenty/7zTC-7-ZIP-NanaZip-Theme-Changer](https://github.com/Wilenty/7zTC-7-ZIP-NanaZip-Theme-Changer) | Easy-to-use 7-Zip/NanaZip manager for toolbar, file-types and icons. |
-| [win12-online/win12](https://github.com/win12-online/win12) | Windows 12 网页版，在线体验 点击下面的链接在线体验 |
 | [windiest/Front-end-tutorial](https://github.com/windiest/Front-end-tutorial) | :smiley_cat:猫的前端回忆录 Cat's front memory, these share data are from my usual wo... |
 | [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) | A free, powerful, multi-purpose tool that helps you monitor system resources,... |
 | [wjf0214/qd-templates](https://github.com/wjf0214/qd-templates) | 基于开源新版签到框架站发布的公共har模板库，整理自用 qiandao 框架可用的各种网站和App的 Har 模板，仅供学习参考。 |
@@ -1680,7 +1675,6 @@
 | [yushijinhun/authlib-injector](https://github.com/yushijinhun/authlib-injector) | Build your own Minecraft authentication system. |
 | [yutto-dev/yutto](https://github.com/yutto-dev/yutto) | :ice_cube: 一个可爱且任性的 B 站视频下载器 |
 | [yuzu233/anti-ocr](https://github.com/yuzu233/anti-ocr) | 對抗文字識別 |
-| [Z-Siqi/Clash-for-Windows_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) | clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序 |
 | [z44499783/NoADList](https://github.com/z44499783/NoADList) | 常用广告过滤规则汇总 |
 | [Zackptg5/Disable_Dm-Verity_ForceEncrypt](https://github.com/Zackptg5/Disable_Dm-Verity_ForceEncrypt) | Disables dm-verity and forceencrypt |
 | [Zackriya-Solutions/MCP-Markdown-RAG](https://github.com/Zackriya-Solutions/MCP-Markdown-RAG) | A semantic search engine for markdown files based on MCP architecture.  |
