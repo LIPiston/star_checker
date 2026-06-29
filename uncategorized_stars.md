@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sun Jun 28 04:12:01 UTC 2026 | 总计: **1725** 个未分类项目
+> 生成于 UTC 时间: Mon Jun 29 04:18:51 UTC 2026 | 总计: **1737** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -228,6 +228,7 @@
 | [cao-awa/Lycoris](https://github.com/cao-awa/Lycoris) | Foo! |
 | [cao-awa/Medical-mc](https://github.com/cao-awa/Medical-mc) | None |
 | [cao-awa/ModMdo](https://github.com/cao-awa/ModMdo) | a fabric mod |
+| [cao-awa/RP-MPER](https://github.com/cao-awa/RP-MPER) | 《Recreational Pharmacology: Mechanisms, Pathways, and Emergency Response》 |
 | [CardboardPowered/cardboard](https://github.com/CardboardPowered/cardboard) | The Bukkit/Spigot/Paper API implementation for Fabric |
 | [Cateners/tiny_container](https://github.com/Cateners/tiny_container) | Click-to-run debian 13 with desktop environment on android! |
 | [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) | 😸 Soothing pastel theme for the high-spirited! |
@@ -294,6 +295,7 @@
 | [ComicSparks/jasmine](https://github.com/ComicSparks/jasmine) | A comic browser，support Android / iOS / MacOS / Windows / Linux.  |
 | [ComicSparks/pikapika](https://github.com/ComicSparks/pikapika) | A comic browser，support Android / iOS / MacOS / Windows / Linux. |
 | [commaai/openpilot](https://github.com/commaai/openpilot) | openpilot is an operating system for robotics. Currently, it upgrades the dri... |
+| [CommandAPI/CommandAPI](https://github.com/CommandAPI/CommandAPI) | A Bukkit/Spigot API for the command UI introduced in Minecraft 1.13 |
 | [community/community](https://github.com/community/community) | Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Co... |
 | [conan-io/conan](https://github.com/conan-io/conan) | Conan - The open-source C and C++ package manager |
 | [control-theory/gonzo](https://github.com/control-theory/gonzo) | Gonzo! The Go based TUI log analysis tool |
@@ -642,11 +644,13 @@
 | [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) | Docker image that provides a Minecraft Server for Java Edition that automatic... |
 | [Ivan-1F/VillagerHelper](https://github.com/Ivan-1F/VillagerHelper) | A fabric mod to show villager's information. Including bed & job site and enc... |
 | [izabera/bitwise-challenge-2048](https://github.com/izabera/bitwise-challenge-2048) | 2048 with only 64 bits of state |
+| [IzzelAliz/Arclight](https://github.com/IzzelAliz/Arclight) | A Bukkit(1.20/1.21) server implementation in modding environment using Mixin. ⚡ |
 | [J-11/Aseprite-Simplified-Chinese](https://github.com/J-11/Aseprite-Simplified-Chinese) | Aseprite汉化文件 |
 | [j-fbriere/squawker](https://github.com/j-fbriere/squawker) | An open-source privacy oriented Twitter/X client |
 | [j4Uq/TVBoxOSC](https://github.com/j4Uq/TVBoxOSC) | None |
 | [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 |
 | [jadepeng/XMusicDownloader](https://github.com/jadepeng/XMusicDownloader) | 一款 支持从百度、网易、qq、酷狗、咪咕等音乐网站搜索并下载歌曲的程序，支持下载无损音乐 |
+| [Jahrome907/minecraft-agent-skills](https://github.com/Jahrome907/minecraft-agent-skills) | Minecraft AI agent skills and dual-target plugin bundle for Codex and Claude ... |
 | [jaredcat/WiFiList](https://github.com/jaredcat/WiFiList) | None |
 | [jarikomppa/soloud](https://github.com/jarikomppa/soloud) | Free, easy, portable audio engine for games |
 | [jark006/JarkViewer](https://github.com/jark006/JarkViewer) | 一款简约且飞快的看图软件，支持 AVIF、HEIC、JPEG-XL 和 实况照片 等超多新兴图像格式！A minimalist and lightning... |
@@ -740,6 +744,7 @@
 | [kirklin/magisk-brick-guardian](https://github.com/kirklin/magisk-brick-guardian) | 救砖模块，用于防止您的设备因模块导致的启动问题而变砖。 |
 | [kisslove/web-monitoring](https://github.com/kisslove/web-monitoring) | 前端监控，性能监控平台。前端监控平台专注于Web端体验数据监控。对网页健康状况的三个方面进行监测：页面打开速度（速度测量）、页面稳定性（JS错误）和外部服... |
 | [KitsunePie/QQCleaner](https://github.com/KitsunePie/QQCleaner) | 瘦身模块 |
+| [kkHAIKE/fake115](https://github.com/kkHAIKE/fake115) | 伪装115浏览器 |
 | [kkkgo/LTSC-Add-MicrosoftStore](https://github.com/kkkgo/LTSC-Add-MicrosoftStore) | Add Windows Store for LTSC |
 | [kkndmetianya/kkndme_tianya](https://github.com/kkndmetianya/kkndme_tianya) | 天涯 kkndme 神贴聊房价 |
 | [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) | Klavis AI:  MCP integration platforms that let AI agents use tools reliably a... |
@@ -1039,6 +1044,7 @@
 | [nextai-translator/bob-plugin-openai-translator](https://github.com/nextai-translator/bob-plugin-openai-translator) | 基于 LLM 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0 |
 | [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) | 📦 The official Nextcloud installation method. Provides easy deployment and ma... |
 | [nextcloud/server](https://github.com/nextcloud/server) | ☁️ Nextcloud server, a safe home for all your data |
+| [NEZNAMY/TAB](https://github.com/NEZNAMY/TAB) | "That" TAB plugin. |
 | [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) | Automated Nginx Reverse Proxy for Docker |
 | [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) | Docker container for managing Nginx proxy hosts with a simple, powerful inter... |
 | [ngo5/IPTV](https://github.com/ngo5/IPTV) | IPV4/IPV6 TVBOX 电视直播点播源收集 |
@@ -1089,6 +1095,7 @@
 | [OdysseusYuan/LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) | 一键自动化 下载、安装、激活 Office 的利器。 |
 | [ohlunaaa/Riot-auth](https://github.com/ohlunaaa/Riot-auth) | None |
 | [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 🙃   A delightful community-driven (with 2,500+ contributors) framework for ma... |
+| [oiov/vmail](https://github.com/oiov/vmail) | 📫 只需一个域名部署临时邮箱到 Cloudflare Worker，使用 D1 保存数据，支持多域名后缀，密码找回，开放API接口。 |
 | [oiov/wr.do](https://github.com/oiov/wr.do) | 一站式域名服务平台，集成短链生成、无限域名邮箱、文件存储和子域名管理，带有管理员面板，支持自部署 |
 | [OKTW-Network/FabricProxy](https://github.com/OKTW-Network/FabricProxy) | Fabric mod for support forward player data from proxy |
 | [OKTW-Network/FabricProxy-Lite](https://github.com/OKTW-Network/FabricProxy-Lite) | Fabric mod for support forward player data from velocity. |
@@ -1105,6 +1112,7 @@
 | [open-ani/animeko](https://github.com/open-ani/animeko) | 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose... |
 | [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) | Classic Shell Reborn. |
 | [Open4Es/Open4Es-Shader-Android](https://github.com/Open4Es/Open4Es-Shader-Android) | This is a shader can running on Minecraft Java Edition For Phone project whic... |
+| [openai/codex](https://github.com/openai/codex) | Lightweight coding agent that runs in your terminal |
 | [openboard-team/openboard](https://github.com/openboard-team/openboard) | None |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  |
 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | The open-source CapCut alternative |
@@ -1143,6 +1151,7 @@
 | [ping11700/LOLkit](https://github.com/ping11700/LOLkit) | One gift for all LOL gamers， League of Legends工具 |
 | [pinokiocomputer/pinokio](https://github.com/pinokiocomputer/pinokio) | AI Browser |
 | [PintaProject/Pinta](https://github.com/PintaProject/Pinta) | Simple GTK Paint Program |
+| [PlaceholderAPI/PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI) | The best and simplest way to add placeholders to your server! - 2M+ Downloads... |
 | [plait-board/drawnix](https://github.com/plait-board/drawnix) | 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool wit... |
 | [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) | 🧩 The Browser Extension Framework |
 | [plusls/MasaGadget](https://github.com/plusls/MasaGadget) | Masa Gadget |
@@ -1348,6 +1357,7 @@
 | [std-microblock/chromatic](https://github.com/std-microblock/chromatic) | Universal modifier for Chromium/V8 / 广谱注入 Chromium/V8 的通用修改器 |
 | [std-microblock/TGStickerProvider](https://github.com/std-microblock/TGStickerProvider) | A Xposed/LSPosed plugin to dump stickers from Telegram. Almost all 3rd-party ... |
 | [SteamRE/DepotDownloader](https://github.com/SteamRE/DepotDownloader) | Steam depot downloader utilizing the SteamKit2 library. |
+| [stefvanschie/IF](https://github.com/stefvanschie/IF) | An inventory framework for managing GUIs |
 | [Steve-Mr/EmojiFace](https://github.com/Steve-Mr/EmojiFace) | Identify faces in an image and replace them with emojis. |
 | [Sticky-attention/Sticky-attention](https://github.com/Sticky-attention/Sticky-attention) | 一款新作业贴软件 新增了原版没有的新功能 |
 | [Stonewuu/halo-plugin-sitepush](https://github.com/Stonewuu/halo-plugin-sitepush) | halo站点推送插件 |
@@ -1367,6 +1377,7 @@
 | [SuperMarcus/LevelDBViewer](https://github.com/SuperMarcus/LevelDBViewer) | A Java program provides ablities to access & edit leveldb database |
 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | Memory and context engine + app that is extremely fast, scalable, and can be ... |
 | [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) | 🧱 easy, fast and local-first microVM runtime |
+| [superwfox/minecraft-dev](https://github.com/superwfox/minecraft-dev) | An Agent platform for minecraft plugin generating |
 | [suqi8/OShin](https://github.com/suqi8/OShin) | 一个专为ColorOS系统设计的辅助模块 |
 | [suxuang/myIPTV](https://github.com/suxuang/myIPTV) | 【典藏版】高清直播源涵盖几乎所有卫视节目，内置完美台标加节目预告 |
 | [suzhelan/TimTool](https://github.com/suzhelan/TimTool) | Tim功能性增强XPosed模块，为Tim增加更多趣味功能 |
@@ -1591,6 +1602,7 @@
 | [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) | Count your code, quickly. |
 | [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) | DataBackup for Android 7.0+ |
 | [Xed-Editor/Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) | Advanced Text Editor for Android  |
+| [xenondevs/Nova](https://github.com/xenondevs/Nova) | Nova is a server-side modding framework for Paper servers that aims to stream... |
 | [xh321/LiteLoaderQQNT-Background-Plugin](https://github.com/xh321/LiteLoaderQQNT-Background-Plugin) | LiteLoaderQQNT 插件 - QQNT自动轮换背景图 |
 | [xh321/LiteLoaderQQNT-Media-Local-View](https://github.com/xh321/LiteLoaderQQNT-Media-Local-View) | LiteLoaderQQNT 插件 - QQNT 图片和视频用本地查看器打开 |
 | [xiaiohuan/TiviMate](https://github.com/xiaiohuan/TiviMate) | None |
