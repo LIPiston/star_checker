@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Mon Jun 29 04:18:51 UTC 2026 | 总计: **1737** 个未分类项目
+> 生成于 UTC 时间: Tue Jun 30 03:59:39 UTC 2026 | 总计: **1738** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -236,7 +236,7 @@
 | [catppuccin/cursors](https://github.com/catppuccin/cursors) | 🐁 Soothing pastel cursors for GTK/Plasma/Hyprland |
 | [catppuccin/fcitx5](https://github.com/catppuccin/fcitx5) | 🧃 Soothing pastel theme for Fcitx5 |
 | [catppuccin/obsidian](https://github.com/catppuccin/obsidian) | 💎 Soothing pastel theme for Obsidian |
-| [Cats-Team/AdRules](https://github.com/Cats-Team/AdRules) | List for blocking ads in the Chinese region |
+| [Cats-Team/AdRules](https://github.com/Cats-Team/AdRules) | List for blocking ads in the Chinese region. Block Ads, Trackers, Malware, HT... |
 | [CCBlueX/LiquidBounce](https://github.com/CCBlueX/LiquidBounce) | A free Minecraft hacked client (utility mod) for Fabric |
 | [CeuiLiSA/Pixiv-Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft) | Pixiv第三方Android客户端 |
 | [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) | Github Starred Repositories Manager |
@@ -494,7 +494,7 @@
 | [gitui-org/gitui](https://github.com/gitui-org/gitui) | Blazing 💥 fast terminal-ui for git written in rust 🦀 |
 | [gkd-kit/gkd](https://github.com/gkd-kit/gkd) | 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 / An Android APP with custom screen tapping base... |
 | [glanceapp/glance](https://github.com/glanceapp/glance) | A self-hosted dashboard that puts all your feeds in one place |
-| [glincker/thesvg](https://github.com/glincker/thesvg) | 6,100+ brand SVG icons for developers. Tree-shakeable, typed, open source. np... |
+| [glincker/thesvg](https://github.com/glincker/thesvg) | 6,400+ brand SVG icons for developers. Tree-shakeable, typed, open source. np... |
 | [GlobeMC/crashmc.com](https://github.com/GlobeMC/crashmc.com) | CrashMC.com Website |
 | [gloeyisk/universal-gms-doze](https://github.com/gloeyisk/universal-gms-doze) | Patches Google Play services app and certain processes/services to be able to... |
 | [gnembon/carpet-extra](https://github.com/gnembon/carpet-extra) | Extra Features for Carpet Mod |
@@ -859,7 +859,7 @@
 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | A fancy self-hosted monitoring tool |
 | [loweisz/generate-avatar](https://github.com/loweisz/generate-avatar) | Generate your 100% fingerprinted example avatar from id, email, username etc. |
 | [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) | 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash ... |
-| [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) | 🌚 🌍 🌝 GeoIP 增强版，支持自由定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SR... |
+| [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) | 🌚 🌍 🌝 GeoIP 增强版，自由定制多种格式 GeoIP 文件，包括但不限于 V2Ray dat 格式文件 geoip.dat、MaxMind mmd... |
 | [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) | 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-cor... |
 | [LSPosed/CorePatch](https://github.com/LSPosed/CorePatch) | Disable signature verification For Android |
 | [LSPosed/LSPatch](https://github.com/LSPosed/LSPatch) | LSPatch: A non-root Xposed framework extending from LSPosed |
@@ -969,6 +969,7 @@
 | [microsoft/vscode](https://github.com/microsoft/vscode) | Visual Studio Code |
 | [microsoft/winget-cli](https://github.com/microsoft/winget-cli) | WinGet is the Windows Package Manager. This project includes a CLI (Command L... |
 | [microsoft/WSL](https://github.com/microsoft/WSL) | Windows Subsystem for Linux |
+| [midnightfreddie/nbt2json](https://github.com/midnightfreddie/nbt2json) | A command line utitlity and module that reads NBT data and converts it to JSO... |
 | [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) | :electron: Another Mihomo GUI.  |
 | [mihonapp/mihon](https://github.com/mihonapp/mihon) | Free and open source manga reader for Android |
 | [Milkdown/milkdown](https://github.com/Milkdown/milkdown) | 🍼 Plugin driven WYSIWYG  markdown editor framework. |
