@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Tue Jun 30 03:59:39 UTC 2026 | 总计: **1738** 个未分类项目
+> 生成于 UTC 时间: Wed Jul  1 04:15:11 UTC 2026 | 总计: **1738** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -513,7 +513,6 @@
 | [greyCloudTeam/MCDrink](https://github.com/greyCloudTeam/MCDrink) | 我的世界motd压测程序 |
 | [Griefed/ServerPackCreator](https://github.com/Griefed/ServerPackCreator) | Create a server pack from a Minecraft Forge, NeoForge, Fabric, LegacyFabric o... |
 | [groupultra/telegram-search](https://github.com/groupultra/telegram-search) | 🔍 导出并模糊搜索 Telegram 聊天记录 / Export and fuzzy search your Telegram chat history |
-| [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | :cn: GitHub中文排行榜，各语言分设「软件 / 资料」榜单，精准定位中文好项目。各取所需，高效学习。 |
 | [gsantner/markor](https://github.com/gsantner/markor) | Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, mat... |
 | [GSWXXN/RestoreSplashScreen](https://github.com/GSWXXN/RestoreSplashScreen) | 启动遮罩进化 / RestoreSplashScreen |
 | [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) | 📂 Web File Browser |
@@ -874,6 +873,7 @@
 | [LuckyPray/XAutoDaily](https://github.com/LuckyPray/XAutoDaily) | 一个基于QQ的全自动签到模块 |
 | [LufsX/rime](https://github.com/LufsX/rime) | Rime（中州韵）全拼与双拼的自用配置方案 |
 | [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) | None |
+| [lunel-dev/lunel](https://github.com/lunel-dev/lunel) | ai powered mobile ide and cloud development platform |
 | [lutris/lutris](https://github.com/lutris/lutris) | Lutris desktop client |
 | [lvandeve/lodepng](https://github.com/lvandeve/lodepng) | PNG encoder and decoder in C and C++. |
 | [lwch/natpass](https://github.com/lwch/natpass) | 🔥居家办公，远程开发神器 |
