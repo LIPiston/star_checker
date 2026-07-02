@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Wed Jul  1 04:15:11 UTC 2026 | 总计: **1738** 个未分类项目
+> 生成于 UTC 时间: Thu Jul  2 03:55:16 UTC 2026 | 总计: **1739** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -621,6 +621,7 @@
 | [imknown/AndroidLowLevelDetector](https://github.com/imknown/AndroidLowLevelDetector) | Detect Treble, GSI, Mainline, APEX, system-as-root(SAR), A/B, etc. |
 | [immich-app/immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. |
 | [imputnet/cobalt](https://github.com/imputnet/cobalt) | best way to save what you love |
+| [imputnet/helium](https://github.com/imputnet/helium) | Private, fast, and honest web browser |
 | [indiff/qttabbar](https://github.com/indiff/qttabbar) | QTTabBar is a small tool that allows you to use tab multi label function in W... |
 | [ineo6/fast-dev](https://github.com/ineo6/fast-dev) | GitHub访问助手 |
 | [ineo6/hosts](https://github.com/ineo6/hosts) | GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。 |
@@ -1650,7 +1651,7 @@
 | [Xposed-Modules-Repo/org.hello.coolapk](https://github.com/Xposed-Modules-Repo/org.hello.coolapk) | FuckCoolapk R |
 | [Xposed-Modules-Repo/top.hookvip.pro](https://github.com/Xposed-Modules-Repo/top.hookvip.pro) | NewHookVip |
 | [Xpra-org/xpra](https://github.com/Xpra-org/xpra) | Persistent remote applications for X11; screen sharing for X11, MacOS and MSW... |
-| [XtrLumen/TS-Enhancer-Extreme](https://github.com/XtrLumen/TS-Enhancer-Extreme) | 由于我购买的小米17Ultra可以使用superturtlee/gbl_root_canoe项目实现TEE完美锁定状态，所以本项目短期内存档，除非我实在闲... |
+| [XtrLumen/TS-Enhancer-Extreme](https://github.com/XtrLumen/TS-Enhancer-Extreme) | Enhances the TrickyStore experience, while providing extreme hiding of detect... |
 | [xudazhu1/NoticeFix](https://github.com/xudazhu1/NoticeFix) | 这是一个用于原生/类原生的Xposed模块 修复(类)原生安卓通知图标在墙内水土不服等功能 |
 | [xugaoyi/vuepress-theme-vdoing-doc](https://github.com/xugaoyi/vuepress-theme-vdoing-doc) | vuepress-theme-vdoing主题文档 |
 | [xuwd1/wemeet-wayland-screenshare](https://github.com/xuwd1/wemeet-wayland-screenshare) | 实现Linux Wayland下腾讯会议屏幕共享（非虚拟相机）. Hook library that enables screenshare with T... |
