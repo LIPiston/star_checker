@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Thu Jul  2 03:55:16 UTC 2026 | 总计: **1739** 个未分类项目
+> 生成于 UTC 时间: Fri Jul  3 03:37:42 UTC 2026 | 总计: **1744** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -613,7 +613,6 @@
 | [iDvel/rime-ice](https://github.com/iDvel/rime-ice) | Rime 配置：雾凇拼音 / 长期维护的简体词库 |
 | [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) | Learning Vim and Vimscript doesn't have to be hard. This is the guide that yo... |
 | [ihciah/shadow-tls](https://github.com/ihciah/shadow-tls) | A proxy to expose real tls handshake to the firewall |
-| [iidanL/InstallWindowsWithoutUSB](https://github.com/iidanL/InstallWindowsWithoutUSB) | New method of installation ANY windows iso without USB stick / CD-DVD. |
 | [ikuaitu/vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor) | 快图设计-基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image edi... |
 | [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) | ImageMagick is a free, open-source software suite for creating, editing, conv... |
 | [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) | 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵 |
@@ -740,6 +739,7 @@
 | [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) | Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate... |
 | [kingsollyu/AppEnv](https://github.com/kingsollyu/AppEnv) | 应用变量 |
 | [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) | A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal. |
+| [kintaro00/InstallWindowsWithoutUSB](https://github.com/kintaro00/InstallWindowsWithoutUSB) | New method of installation ANY windows iso without USB stick / CD-DVD. |
 | [KIPPUDESU/KIPPU_Trace](https://github.com/KIPPUDESU/KIPPU_Trace) | 一个记录重要时刻，功能简单且界面美观的安卓原生 App，将持续收取建议跟进开发。目的是在界面和体验上一定程度超越替代倒数日 |
 | [kirklin/magisk-brick-guardian](https://github.com/kirklin/magisk-brick-guardian) | 救砖模块，用于防止您的设备因模块导致的启动问题而变砖。 |
 | [kisslove/web-monitoring](https://github.com/kisslove/web-monitoring) | 前端监控，性能监控平台。前端监控平台专注于Web端体验数据监控。对网页健康状况的三个方面进行监测：页面打开速度（速度测量）、页面稳定性（JS错误）和外部服... |
@@ -913,6 +913,7 @@
 | [Magisk-Modules-Repo/CloudflareDNS4Magisk](https://github.com/Magisk-Modules-Repo/CloudflareDNS4Magisk) | CloudflareDNS4Magisk |
 | [Magisk-Modules-Repo/wifi-bonding](https://github.com/Magisk-Modules-Repo/wifi-bonding) | Double your bandwith on your Qualcomm devices. |
 | [Mahmud0808/Iconify](https://github.com/Mahmud0808/Iconify) | Iconify lets you customize your Android 12+ device easily. Change icons, colo... |
+| [makabaka11/bangumi-proxy-workers](https://github.com/makabaka11/bangumi-proxy-workers) | 基于 Cloudflare Workers 的 bangumi API 反代脚本，支持一键部署。 |
 | [makipom/BlueArchive-Cursors](https://github.com/makipom/BlueArchive-Cursors) | Custom mouse cursor theme based on the school RPG Blue Archive. |
 | [mamoe/mirai](https://github.com/mamoe/mirai) | 高效率 QQ 机器人支持库 |
 | [maoken-fonts/KNMaiyuan](https://github.com/maoken-fonts/KNMaiyuan) | 来自荆南字坊的免费手写字 |
@@ -979,6 +980,7 @@
 | [Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime) | The Simple Config Template Of Rime By Mintimate.   |
 | [mir1ce/Hawkeye](https://github.com/mir1ce/Hawkeye) | Windows应急响应工具---Hawkeye(鹰眼)。集Windows日志分析，进程扫描，主机信息于一体的综合应急响应分析工具 |
 | [mircokroon/minecraft-world-downloader](https://github.com/mircokroon/minecraft-world-downloader) | Download Minecraft worlds, extend server's render distance. 1.12.2 - 1.21 |
+| [mirrox-dev/mirrox](https://github.com/mirrox-dev/mirrox) | Mirrox is a Rust reverse proxy for mapping your own domains to configured ups... |
 | [mirtlecn/rime-radical-pinyin](https://github.com/mirtlecn/rime-radical-pinyin) | RIME 汉字部件拆字 / 全拼双拼输入方案。笔画、部首、音调反查辅码 lua。 |
 | [miru-project/miru-app](https://github.com/miru-project/miru-app) | 🎉 A versatile application that is free, open-source, and supports extension s... |
 | [mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) | completely free for everyone. Its build-in Flutter Dart. |
@@ -1139,6 +1141,7 @@
 | [Pairman/PTP](https://github.com/Pairman/PTP) | Official Pear Textures Pack Project. Copyright Pairman and 2017 RainbowPixel. |
 | [PaperMC/Paper](https://github.com/PaperMC/Paper) | The most widely used, high performance Minecraft server that aims to fix game... |
 | [PaperMC/Velocity](https://github.com/PaperMC/Velocity) | The modern, next-generation Minecraft server proxy. |
+| [PapirusDevelopmentTeam/materia-vlc](https://github.com/PapirusDevelopmentTeam/materia-vlc) | Materia skin for VLC |
 | [Partyb0ssishere/cef-fonts-cjk](https://github.com/Partyb0ssishere/cef-fonts-cjk) | CEF Fonts CJK / 快去写作业CJK 是一款用鼠标绘制字形的字体。 |
 | [pavlobu/deskreen](https://github.com/pavlobu/deskreen) | Deskreen turns any device with a web browser into a secondary screen for your... |
 | [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) | Automatically block unwanted, leeches and abnormal BT peers with support for ... |
@@ -1537,6 +1540,7 @@
 | [ViaVersion/ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus) | Fabric mod that lets you join Minecraft servers across all major versions. |
 | [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) | A focused launcher for your desktop - native, fast, extensible |
 | [VickScarlet/lifeRestart](https://github.com/VickScarlet/lifeRestart) | やり直すんだ。そして、次はうまくやる。 |
+| [videolan/vlc](https://github.com/videolan/vlc) | VLC media player - plays everything, runs anywhere. Code here: https://code.v... |
 | [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator) | ASCII generator (image to text, image to image, video to video) |
 | [VIKINGYFY/OpenWRT-CI](https://github.com/VIKINGYFY/OpenWRT-CI) | 云编译OpenWRT开源固件 |
 | [Vikutorika/Airports](https://github.com/Vikutorika/Airports) | 免费订阅推荐以及个人认为划算的机场，因为免费域名被回收了，所以在这里重新更新 |
@@ -1686,6 +1690,7 @@
 | [yudai/gotty](https://github.com/yudai/gotty) | Share your terminal as a web application |
 | [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) | ArchLinux based WSL Distribution. Supports multiple install. |
 | [YumeYucca/Tritium](https://github.com/YumeYucca/Tritium) | 最大化Soc的潜力 Maximize the potential of Soc |
+| [Yuri-NagaSaki/bangumi-proxy](https://github.com/Yuri-NagaSaki/bangumi-proxy) | None |
 | [yushijinhun/authlib-injector](https://github.com/yushijinhun/authlib-injector) | Build your own Minecraft authentication system. |
 | [yutto-dev/yutto](https://github.com/yutto-dev/yutto) | :ice_cube: 一个可爱且任性的 B 站视频下载器 |
 | [yuzu233/anti-ocr](https://github.com/yuzu233/anti-ocr) | 對抗文字識別 |
