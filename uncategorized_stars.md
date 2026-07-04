@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Fri Jul  3 03:37:42 UTC 2026 | 总计: **1744** 个未分类项目
+> 生成于 UTC 时间: Sat Jul  4 03:30:54 UTC 2026 | 总计: **1750** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -103,6 +103,8 @@
 | [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | :zap: Dynamically generated stats for your github readmes |
 | [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) | Featuring powerful AI capabilities and supporting various e-book formats, it ... |
 | [anyneko/OneTextLibrary_Netease_Unoffical](https://github.com/anyneko/OneTextLibrary_Netease_Unoffical) | 一个塞满网易云评论的库（ |
+| [anzhiyu-c/anheyu-app](https://github.com/anzhiyu-c/anheyu-app) | Anheyu 助你即刻构建出性能高、稳定性强、易扩展的博客系统，实现灵活、耐看、简洁好用的文章书写体验。 |
+| [anzhiyu-c/hexo-theme-anzhiyu](https://github.com/anzhiyu-c/hexo-theme-anzhiyu) | 安知鱼主题，这是一个简洁美丽的hexo主题。 |
 | [AnzhiZhang/MCDReforgedPlugins](https://github.com/AnzhiZhang/MCDReforgedPlugins) | MCDReforged Plugins |
 | [aoaostar/legado](https://github.com/aoaostar/legado) | 阅读APP书源 |
 | [AOF-Dev/Boat](https://github.com/AOF-Dev/Boat) | Environment for running Minecraft Java Edition on Android |
@@ -314,6 +316,7 @@
 | [Cubitect/cubiomes-viewer](https://github.com/Cubitect/cubiomes-viewer) | An efficient graphical Minecraft seed finder and map viewer. |
 | [cuixueshe/earthworm](https://github.com/cuixueshe/earthworm) | Learning English through the method of constructing sentences with conjunctions |
 | [Cute-Dress/Dress](https://github.com/Cute-Dress/Dress) | 好耶 是女装 / 备份·接受PR |
+| [cweijan/vscode-office](https://github.com/cweijan/vscode-office) | Let VSCode support previewing PDF, Excel, Word and other formats, and add mar... |
 | [cxasm/notepad--](https://github.com/cxasm/notepad--) | 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。 |
 | [cyao2q/files](https://github.com/cyao2q/files) | TVBox开源版,盒子软件分享 |
 | [cypressincloud/Tally](https://github.com/cypressincloud/Tally) | None |
@@ -629,6 +632,8 @@
 | [InkCanvas/InkCanvasForClass](https://github.com/InkCanvas/InkCanvasForClass) | InkCanvasForClass 是一款开源易用的电子教鞭软件 |
 | [InkCanvasForClass/community](https://github.com/InkCanvasForClass/community) | InkCanvasForClass Community Open Source Project |
 | [InMomo/StealthReader](https://github.com/InMomo/StealthReader) | 这是一个专为上班族打造的极简、隐蔽、高定制度的桌面阅读器。它不存储书籍，而是作为手机端Legado (阅读)(https://github.com/ged... |
+| [Innei/Shiro](https://github.com/Innei/Shiro) | 📜 A minimalist personal website embodying the purity of paper and freshness o... |
+| [Innei/Yohaku](https://github.com/Innei/Yohaku) | 余白 / Yohaku — A typographic design system for written content. One accent, th... |
 | [InputShare/InputShare](https://github.com/InputShare/InputShare) | InputShare enables you to share the keyboard and mouse of your computer with ... |
 | [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude C... |
 | [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) | A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (e... |
@@ -707,7 +712,7 @@
 | [kando-menu/kando](https://github.com/kando-menu/kando) | 🌸 Do things with utmost efficiency. |
 | [kaniol-lck/modmanager](https://github.com/kaniol-lck/modmanager) | A Qt-based mod manager for minecraft. |
 | [kapitainsky/RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser) | Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family a... |
-| [Karben233/bili-hardcore](https://github.com/Karben233/bili-hardcore) | bilibili 硬核会员 AI 自动答题脚本，直接调用 B 站 API，非 OCR 实现 |
+| [Karben233/bili-hardcore](https://github.com/Karben233/bili-hardcore) | bilibili 硬核会员 AI 自动答题脚本 |
 | [KaringX/clashmi](https://github.com/KaringX/clashmi) | Clash Mihomo for iOS/MacOS/Android/Windows/Linux |
 | [karpathy/nanochat](https://github.com/karpathy/nanochat) | The best ChatGPT that $100 can buy. |
 | [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC) | Modern VNC Server and client, web based and secure |
@@ -1019,6 +1024,7 @@
 | [Musish/Musish](https://github.com/Musish/Musish) | Apple Music...ish  |
 | [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) | Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using ... |
 | [muxinc/media-chrome](https://github.com/muxinc/media-chrome) | Custom elements (web components) for making audio and video player controls t... |
+| [mx-space/core](https://github.com/mx-space/core) | AI-powered CMS core for personal blogs and creator websites, with AI summarie... |
 | [myflavor/NoActive-V2](https://github.com/myflavor/NoActive-V2) | NoActive UI版本 |
 | [mywalkb/LSPosed_mod](https://github.com/mywalkb/LSPosed_mod) | My changes to LSPosed |
 | [Mzdyl/LiteLoaderQQNT_Install](https://github.com/Mzdyl/LiteLoaderQQNT_Install) | 针对 LiteLoaderQQNT 的安装脚本 |
