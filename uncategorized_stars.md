@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sat Jul  4 03:30:54 UTC 2026 | 总计: **1750** 个未分类项目
+> 生成于 UTC 时间: Sun Jul  5 03:48:45 UTC 2026 | 总计: **1752** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -1324,6 +1324,7 @@
 | [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) | LLM Frontend for Power Users. |
 | [simdutf/simdutf](https://github.com/simdutf/simdutf) | Unicode routines (UTF8, UTF16, UTF32) and Base64: billions of characters per ... |
 | [simonhaenisch/md-to-pdf](https://github.com/simonhaenisch/md-to-pdf) | Hackable CLI tool for converting Markdown files to PDF using Node.js and head... |
+| [simonrob/email-oauth2-proxy](https://github.com/simonrob/email-oauth2-proxy) | An IMAP/POP/SMTP proxy that transparently adds OAuth 2.0 authentication for e... |
 | [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) | SVG icons for popular brands |
 | [Simplicity-Team/WooBoxForColorOS](https://github.com/Simplicity-Team/WooBoxForColorOS) | 一个基于 ColorOS12(Android 12) 适配的自定义工具 // A system extension Xposed module based... |
 | [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) | Agent S: an open agentic framework that uses computers like a human |
@@ -1379,7 +1380,7 @@
 | [sub-store-org/Sub-Store](https://github.com/sub-store-org/Sub-Store) | Advanced Subscription Manager for QX, Loon, Surge, Stash, Egern and Shadowroc... |
 | [subframe7536/maple-font](https://github.com/subframe7536/maple-font) | Maple Mono: Open source monospace font with round corner, ligatures and Nerd-... |
 | [SuGar0218/PreLaunchTaskr](https://github.com/SuGar0218/PreLaunchTaskr) | 通过映像劫持，在应用程序启动前做一些事情，例如：更改启动参数、设置环境变量、执行程序或脚本。 |
-| [suitenumerique/docs](https://github.com/suitenumerique/docs) | A collaborative note taking, wiki and documentation platform that scales. Bui... |
+| [suitenumerique/docs](https://github.com/suitenumerique/docs) | Docs is an open-source text editor: web-native, made for real-time collaborat... |
 | [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra) | Kernel-based Android Root Solution & KPM |
 | [SunsetMkt/anti-ip-attribution](https://github.com/SunsetMkt/anti-ip-attribution) | 针对部分网站显示IP归属地的流量分流规则 |
 | [sunshine0523/Mi-Freeform](https://github.com/sunshine0523/Mi-Freeform) | Mi-Freeform 3 is an Android third-party freeform software that supports Andro... |
@@ -1451,6 +1452,7 @@
 | [TheresaQWQ/BroadcastOnAirDanmaku](https://github.com/TheresaQWQ/BroadcastOnAirDanmaku) | 一个直播间弹幕姬 |
 | [ThirtyDegreesRay/OpenHub](https://github.com/ThirtyDegreesRay/OpenHub) | An open source GitHub Android client app, faster and concise. |
 | [thunlp/THUOCL](https://github.com/thunlp/THUOCL) | THUOCL（THU Open Chinese Lexicon）中文词库 |
+| [tiagonmas/Windows-Loopback-Exemption-Manager](https://github.com/tiagonmas/Windows-Loopback-Exemption-Manager) | None |
 | [tiagozip/cap](https://github.com/tiagozip/cap) | Free, open-source and self-hosted CAPTCHA alternative to reCAPTCHA. Privacy-f... |
 | [tianma8023/XposedSmsCode](https://github.com/tianma8023/XposedSmsCode) | :lollipop: An Xposed Module which can recognize, parse verification code and ... |
 | [tiann/KernelSU](https://github.com/tiann/KernelSU) | A Kernel based root solution for Android |
