@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sun Jul  5 03:48:45 UTC 2026 | 总计: **1752** 个未分类项目
+> 生成于 UTC 时间: Mon Jul  6 03:56:22 UTC 2026 | 总计: **1756** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -659,6 +659,7 @@
 | [jarikomppa/soloud](https://github.com/jarikomppa/soloud) | Free, easy, portable audio engine for games |
 | [jark006/JarkViewer](https://github.com/jark006/JarkViewer) | 一款简约且飞快的看图软件，支持 AVIF、HEIC、JPEG-XL 和 实况照片 等超多新兴图像格式！A minimalist and lightning... |
 | [jart/cosmopolitan](https://github.com/jart/cosmopolitan) | build-once run-anywhere c library |
+| [Jasons-impart/Create-Delight-Remake](https://github.com/Jasons-impart/Create-Delight-Remake) | Create Delight in 1.20.1! |
 | [jayfunc/BetterLyrics](https://github.com/jayfunc/BetterLyrics) | An elegant and deeply customizable lyrics visualizer & versatile music player... |
 | [jayjd/HuYaTv](https://github.com/jayjd/HuYaTv) | 聚合直播（FUSE）,支持虎牙/抖音/快手/哔哩哔哩/斗鱼/YY/网易CC/电视直播，支持手机/平板/电视/车机 |
 | [jaywcjlove/free-font](https://github.com/jaywcjlove/free-font) | Collection of Free English/Chinese Fonts for Commercial Use. 收录可商用的免费英文/汉字字体。 |
@@ -1452,6 +1453,7 @@
 | [TheresaQWQ/BroadcastOnAirDanmaku](https://github.com/TheresaQWQ/BroadcastOnAirDanmaku) | 一个直播间弹幕姬 |
 | [ThirtyDegreesRay/OpenHub](https://github.com/ThirtyDegreesRay/OpenHub) | An open source GitHub Android client app, faster and concise. |
 | [thunlp/THUOCL](https://github.com/thunlp/THUOCL) | THUOCL（THU Open Chinese Lexicon）中文词库 |
+| [Thysrael/Horizon](https://github.com/Thysrael/Horizon) | 📡 Your own AI-powered news radar. Generates daily briefings in English & Chin... |
 | [tiagonmas/Windows-Loopback-Exemption-Manager](https://github.com/tiagonmas/Windows-Loopback-Exemption-Manager) | None |
 | [tiagozip/cap](https://github.com/tiagozip/cap) | Free, open-source and self-hosted CAPTCHA alternative to reCAPTCHA. Privacy-f... |
 | [tianma8023/XposedSmsCode](https://github.com/tianma8023/XposedSmsCode) | :lollipop: An Xposed Module which can recognize, parse verification code and ... |
@@ -1501,6 +1503,7 @@
 | [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) | A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScri... |
 | [tuyafeng/Via](https://github.com/tuyafeng/Via) | Via is a simple browser, and this repository is set for localization. |
 | [tw93/Mole](https://github.com/tw93/Mole) | 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal. |
+| [tw93/Pake](https://github.com/tw93/Pake) | 🤱🏻 Turn any webpage into a desktop app with one command. |
 | [TwidereProject/Twidere-Android](https://github.com/TwidereProject/Twidere-Android) | None |
 | [TWO-ICE/Awesome-NAS-Docker](https://github.com/TWO-ICE/Awesome-NAS-Docker) | 一个专注于 NAS 和 Docker 部署的开源项目合集，覆盖 AI、开发、数据管理、多媒体、运维等场景，提供一键式部署指南和实用教程，让 NAS 变身全... |
 | [twoone-3/AdGuardHomeForRoot](https://github.com/twoone-3/AdGuardHomeForRoot) | A module to easily execute AdGuardHome on Android |
@@ -1512,6 +1515,7 @@
 | [tytydraco/LADB](https://github.com/tytydraco/LADB) | A local ADB shell for Android! |
 | [u-Sir/peek-pop](https://github.com/u-Sir/peek-pop) | Instantly preview links with a simple double-click, without breaking your wor... |
 | [u14app/deep-research](https://github.com/u14app/deep-research) | Use any LLMs (Large Language Models) for Deep Research. Support SSE API and M... |
+| [uberhalit/SekiroFpsUnlockAndMore](https://github.com/uberhalit/SekiroFpsUnlockAndMore) | A small utility to remove frame rate limit, add custom resolutions (widescree... |
 | [umami-software/umami](https://github.com/umami-software/umami) | Umami is a modern, privacy-focused analytics platform. An open-source alterna... |
 | [uncle-novel/uncle-novel](https://github.com/uncle-novel/uncle-novel) | None |
 | [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | Google Chromium, sans integration with Google |
