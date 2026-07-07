@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Mon Jul  6 03:56:22 UTC 2026 | 总计: **1756** 个未分类项目
+> 生成于 UTC 时间: Tue Jul  7 03:46:55 UTC 2026 | 总计: **1758** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -704,7 +704,7 @@
 | [justice2001/halo-plugin-vditor](https://github.com/justice2001/halo-plugin-vditor) | 适用于Halo2.0的Vditor编辑器 |
 | [justjake/quickjs-emscripten](https://github.com/justjake/quickjs-emscripten) | Safely execute untrusted Javascript in your Javascript, and execute synchrono... |
 | [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | :books: 免费的计算机编程类中文书籍，欢迎投稿 |
-| [justlovemaki/AIClient2API](https://github.com/justlovemaki/AIClient2API) | Simulates Gemini CLI, Antigravity, Codex, Grok, and Kiro client requests, com... |
+| [justlovemaki/AIClient2API](https://github.com/justlovemaki/AIClient2API) | Self-hosted multi-protocol AI API proxy for Antigravity, Codex, Grok, Kiro, O... |
 | [jynew/jynew](https://github.com/jynew/jynew) | JinYongLegend-like RPG Game Framework with full Modding support and 10+ hours... |
 | [K11MCH1/AdrenoToolsDrivers](https://github.com/K11MCH1/AdrenoToolsDrivers) | A repository for Skyline, Strato, Vita3K and Yuzu Android compatible Adreno d... |
 | [kaajjo/LibreSudoku](https://github.com/kaajjo/LibreSudoku) | LibreSudoku - Sudoku app for android built with Kotlin + Jetpack Compose + Ma... |
@@ -1146,6 +1146,7 @@
 | [Pairman/Lithonate](https://github.com/Pairman/Lithonate) | Tweaks to update your suppression. |
 | [Pairman/OneClickCrafting-1.16.5](https://github.com/Pairman/OneClickCrafting-1.16.5) | A Minecraft Fabric mod to make crafting with the recipe book faster |
 | [Pairman/PTP](https://github.com/Pairman/PTP) | Official Pear Textures Pack Project. Copyright Pairman and 2017 RainbowPixel. |
+| [PanHywel/TidyMark](https://github.com/PanHywel/TidyMark) | TidyMark — Chrome/Edge 书签管理扩展 备份书签、一键整理分类，支持 AI 辅助优化；扫描失效书签，自动归档不常用书签，并提供新标签页... |
 | [PaperMC/Paper](https://github.com/PaperMC/Paper) | The most widely used, high performance Minecraft server that aims to fix game... |
 | [PaperMC/Velocity](https://github.com/PaperMC/Velocity) | The modern, next-generation Minecraft server proxy. |
 | [PapirusDevelopmentTeam/materia-vlc](https://github.com/PapirusDevelopmentTeam/materia-vlc) | Materia skin for VLC |
@@ -1349,6 +1350,7 @@
 | [SlimeNull/EasyConv](https://github.com/SlimeNull/EasyConv) | 将基于 ffmpeg 的多媒体格式转换功能集成到右键菜单 |
 | [Slinet6056/fcitx5-android-theme-catppuccin](https://github.com/Slinet6056/fcitx5-android-theme-catppuccin) | fcitx5-android 主题，基于 Catppuccin Macchiato 配色方案 |
 | [slopus/happy](https://github.com/slopus/happy) | Mobile and Web client for Codex and Claude Code, with realtime voice, encrypt... |
+| [smol-machines/smolvm](https://github.com/smol-machines/smolvm) | Portable, lightweight, self-contained virtual machines. |
 | [Snapchat/Valdi](https://github.com/Snapchat/Valdi) | Valdi is a cross-platform UI framework that delivers native performance witho... |
 | [softprops/action-gh-release](https://github.com/softprops/action-gh-release) | 📦 :octocat: GitHub Action for creating GitHub Releases |
 | [SoLegendary/reignofnether](https://github.com/SoLegendary/reignofnether) | None |
@@ -1667,7 +1669,7 @@
 | [Xposed-Modules-Repo/org.hello.coolapk](https://github.com/Xposed-Modules-Repo/org.hello.coolapk) | FuckCoolapk R |
 | [Xposed-Modules-Repo/top.hookvip.pro](https://github.com/Xposed-Modules-Repo/top.hookvip.pro) | NewHookVip |
 | [Xpra-org/xpra](https://github.com/Xpra-org/xpra) | Persistent remote applications for X11; screen sharing for X11, MacOS and MSW... |
-| [XtrLumen/TS-Enhancer-Extreme](https://github.com/XtrLumen/TS-Enhancer-Extreme) | Enhances the TrickyStore experience, while providing extreme hiding of detect... |
+| [XtrLumen/FS-Enhancer-Extreme](https://github.com/XtrLumen/FS-Enhancer-Extreme) | Enhances the ForgeStore experience, while providing extreme hiding of detecti... |
 | [xudazhu1/NoticeFix](https://github.com/xudazhu1/NoticeFix) | 这是一个用于原生/类原生的Xposed模块 修复(类)原生安卓通知图标在墙内水土不服等功能 |
 | [xugaoyi/vuepress-theme-vdoing-doc](https://github.com/xugaoyi/vuepress-theme-vdoing-doc) | vuepress-theme-vdoing主题文档 |
 | [xuwd1/wemeet-wayland-screenshare](https://github.com/xuwd1/wemeet-wayland-screenshare) | 实现Linux Wayland下腾讯会议屏幕共享（非虚拟相机）. Hook library that enables screenshare with T... |
