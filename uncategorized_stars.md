@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Tue Jul  7 03:46:55 UTC 2026 | 总计: **1758** 个未分类项目
+> 生成于 UTC 时间: Wed Jul  8 03:14:59 UTC 2026 | 总计: **1759** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -283,6 +283,7 @@
 | [cmliu/CF-Workers-SpeedTestURL](https://github.com/cmliu/CF-Workers-SpeedTestURL) | 使用 CloudFlare Workers 搭建专属CloudFlareSpeedTest测速地址 |
 | [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) | edgetunnel2 VLESS/Trojan/SS 多功能面板 |
 | [cmliu/SubsCheck-Win-GUI](https://github.com/cmliu/SubsCheck-Win-GUI) | SubsCheck 为 Windows 用户设计的 GUI 程序界面。 |
+| [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harne... |
 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. |
 | [codehz/minecraft-unicode-font-texture-generator-online](https://github.com/codehz/minecraft-unicode-font-texture-generator-online) | minecraft unicode font texture generator online(Static Web Page) |
 | [codehz/YaHei-Build](https://github.com/codehz/YaHei-Build) | 使用更纱黑体取代微软雅黑 |
