@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Wed Jul  8 03:14:59 UTC 2026 | 总计: **1759** 个未分类项目
+> 生成于 UTC 时间: Thu Jul  9 03:38:55 UTC 2026 | 总计: **1762** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -1206,6 +1206,7 @@
 | [Pzqqt/Magisk_Manager_Recovery_Tool](https://github.com/Pzqqt/Magisk_Manager_Recovery_Tool) | A Magisk Manager tool that can be used in Recovery mode base Aroma Installer. |
 | [qd-today/qd](https://github.com/qd-today/qd) | QD [v20240210] —— HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server |
 | [qh7574/Fcitx5-SyncClipboard](https://github.com/qh7574/Fcitx5-SyncClipboard) | None |
+| [qianjiachun/cs-match-helper](https://github.com/qianjiachun/cs-match-helper) | 🦇CS匹配助手 赛前分析双方数据 ai预测比赛胜负 & 急停助手 帮助你改善急停水平 |
 | [qidian55/bilibilitv1.6.6-repair](https://github.com/qidian55/bilibilitv1.6.6-repair) | 尝试修复经典的 bilibili tv 1.6.6 版本 |
 | [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) | 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:  |
 | [QingJ01/123pan_unlock](https://github.com/QingJ01/123pan_unlock) | 基于油猴的123云盘解锁脚本，支持解锁123云盘下载功能 |
@@ -1351,6 +1352,7 @@
 | [SlimeNull/EasyConv](https://github.com/SlimeNull/EasyConv) | 将基于 ffmpeg 的多媒体格式转换功能集成到右键菜单 |
 | [Slinet6056/fcitx5-android-theme-catppuccin](https://github.com/Slinet6056/fcitx5-android-theme-catppuccin) | fcitx5-android 主题，基于 Catppuccin Macchiato 配色方案 |
 | [slopus/happy](https://github.com/slopus/happy) | Mobile and Web client for Codex and Claude Code, with realtime voice, encrypt... |
+| [SmartlyDressedGames/U3-SDK](https://github.com/SmartlyDressedGames/U3-SDK) | Source code for Unturned, a free open-world zombie survival sandbox game. |
 | [smol-machines/smolvm](https://github.com/smol-machines/smolvm) | Portable, lightweight, self-contained virtual machines. |
 | [Snapchat/Valdi](https://github.com/Snapchat/Valdi) | Valdi is a cross-platform UI framework that delivers native performance witho... |
 | [softprops/action-gh-release](https://github.com/softprops/action-gh-release) | 📦 :octocat: GitHub Action for creating GitHub Releases |
@@ -1536,6 +1538,7 @@
 | [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative) | Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android |
 | [utterance/utterances](https://github.com/utterance/utterances) | :crystal_ball: A lightweight comments widget built on GitHub issues |
 | [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) | A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, T... |
+| [V4bel/Januscape](https://github.com/V4bel/Januscape) | None |
 | [vacla/Watson](https://github.com/vacla/Watson) | Updated Watson that displays LogBlock and CoreProtect query results in 3D. |
 | [VandalByte/darkmatter-grub2-theme](https://github.com/VandalByte/darkmatter-grub2-theme) | Dark Matter GRUB Theme  👾💙 |
 | [Vanessa219/vditor](https://github.com/Vanessa219/vditor) | ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Mar... |
