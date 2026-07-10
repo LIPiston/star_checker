@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Thu Jul  9 03:38:55 UTC 2026 | 总计: **1762** 个未分类项目
+> 生成于 UTC 时间: Fri Jul 10 03:40:29 UTC 2026 | 总计: **1765** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -110,6 +110,7 @@
 | [AOF-Dev/Boat](https://github.com/AOF-Dev/Boat) | Environment for running Minecraft Java Edition on Android |
 | [aormsby/Fork-Sync-With-Upstream-action](https://github.com/aormsby/Fork-Sync-With-Upstream-action) | An action to automatically update your fork with new commits from the upstrea... |
 | [ApliNi/IpacLinker](https://github.com/ApliNi/IpacLinker) | IpacLinker 是一款点对点网络连接工具, 基于 WebRTC. 可用于 Minecraft 联机和开服, 或者远程桌面 / 网络驱动器等应用的连接 |
+| [arch3rPro/1Panel-Appstore](https://github.com/arch3rPro/1Panel-Appstore) | 1Panel-第三方应用商店(运维监控、免费大模型API、Nas工具、容器管理) |
 | [archlinux/archinstall](https://github.com/archlinux/archinstall) | Arch Linux installer - guided, templates etc. |
 | [archlinuxcn/mirrorlist-repo](https://github.com/archlinuxcn/mirrorlist-repo) | Arch Linux CN Community repo mirrors list |
 | [Archmage83/Android_apk](https://github.com/Archmage83/Android_apk) | 手机安卓手机端电影软件，希望大家一起维护 |
@@ -121,6 +122,7 @@
 | [astei/lazydfu](https://github.com/astei/lazydfu) | Fabric mod that makes Minecraft DataFixerUpper initialization lazy |
 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | AI Agent Assistant & development framework that integrates lots of IM platfor... |
 | [Astro-2539/ZLabs-Pixel-12px](https://github.com/Astro-2539/ZLabs-Pixel-12px) | 一款规格为 11*12px 的开源中文像素字体 A 11*12px open source Chinese pixel font |
+| [At87668/Cyber](https://github.com/At87668/Cyber) | Cyber theme for Mx Space. |
 | [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) | 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体 |
 | [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) | 🚀 An open and lightweight modification to Windows, designed to optimize perfo... |
 | [atuinsh/desktop](https://github.com/atuinsh/desktop) | 📖 Runbooks that run  |
@@ -522,7 +524,7 @@
 | [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) | 📂 Web File Browser |
 | [GtxFury/FlyClash](https://github.com/GtxFury/FlyClash) | 简洁美观的代理工具 |
 | [guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles) | Document Chatbot — multiple files. Powered by GPT / Embedding. |
-| [Guovin/iptv-api](https://github.com/Guovin/iptv-api) | ⚡️IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成🚀』：自定义获取频道；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、... |
+| [Guovin/iptv-api](https://github.com/Guovin/iptv-api) | ⚡️IPTV直播源自动更新工具：自动采集、校验、测速并生成可播放结果，支持 M3U/TXT/API 输出、自定义频道、IPv4/IPv6、Docker、G... |
 | [GuoXiCheng/SKIP](https://github.com/GuoXiCheng/SKIP) | 自动跳过APP开屏广告 |
 | [guozhigq/pilipala](https://github.com/guozhigq/pilipala) | PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。 |
 | [gurecn/YuyanIme](https://github.com/gurecn/YuyanIme) | 语燕输入法-一款基于Rime定制开发的九键、全拼、双拼、手写、火星文等方案、支持悬浮、单手、数字行等键盘模式的中文输入法 |
@@ -1645,6 +1647,7 @@
 | [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) | 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension |
 | [ximeiorg/Xime](https://github.com/ximeiorg/Xime) | 我的自用安卓输入法，基于Rime 构建，部分功能由本人设计的本地AI模型驱动，支持五笔/拼音/自定义方案。 |
 | [XingC123/BackgroundOpt](https://github.com/XingC123/BackgroundOpt) | 这是一个通过调整进程oom_score_adj来骗过lmk从而实现保后台的模块。 |
+| [XingHeYuZhuan/shiguangschedule](https://github.com/XingHeYuZhuan/shiguangschedule) | 一款开源、无广告、极简的课程表 APP，支持教务导入 |
 | [Xinrea/bili-shadowreplay](https://github.com/Xinrea/bili-shadowreplay) | bilibili 直播实时切片工具 |
 | [xiong35/werewolf](https://github.com/xiong35/werewolf) | 一款线下狼人杀网页, 除了没有语音功能, 其余功能均具备. 用于取代卡牌和取消上帝 |
 | [xishang0128/sparkle](https://github.com/xishang0128/sparkle) | :electron: Another Mihomo GUI. (🛠building...) |
