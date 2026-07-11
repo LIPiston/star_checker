@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Fri Jul 10 03:40:29 UTC 2026 | 总计: **1765** 个未分类项目
+> 生成于 UTC 时间: Sat Jul 11 02:55:11 UTC 2026 | 总计: **1773** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -815,6 +815,7 @@
 | [libvirt/libvirt](https://github.com/libvirt/libvirt) | Read-only mirror. Please submit merge requests / issues to https://gitlab.com... |
 | [libxzr/FastbootEnhance](https://github.com/libxzr/FastbootEnhance) | A user-friendly Fastboot ToolBox & Payload Dumper for Windows |
 | [libxzr/KonaBess](https://github.com/libxzr/KonaBess) | A GPU overclock & undervolt tool for various Snapdragon chips |
+| [Licoy/wordpress-theme-puock](https://github.com/Licoy/wordpress-theme-puock) | :art: 一款基于WordPress开发的高颜值的自适应主题，支持白天与黑夜模式/无刷新加载/第三方登录等众多功能 / A high-value ada... |
 | [Light-Beacon/PCL2-NewsHomepage](https://github.com/Light-Beacon/PCL2-NewsHomepage) | Provides latest Minecraft news on Plain Craft Launcher 2 |
 | [LIlGG/plugin-live2d](https://github.com/LIlGG/plugin-live2d) | 为你的网站领养一只可爱的看板娘吧！Live2d Plugin for Halo |
 | [lima-vm/lima](https://github.com/lima-vm/lima) | Linux virtual machines, with a focus on running containers |
@@ -902,6 +903,7 @@
 | [Lxtharia/minegrub-world-sel-theme](https://github.com/Lxtharia/minegrub-world-sel-theme) | A grub theme in the style of the Minecraft singleplayer (sp) world selection ... |
 | [LXYan2333/Fabric-Bedrock-Miner](https://github.com/LXYan2333/Fabric-Bedrock-Miner) | A fabric client mod to mine bedrock! |
 | [LYOfficial/MinecraftPlayGuide](https://github.com/LYOfficial/MinecraftPlayGuide) | Minecraft Play Chinese Guide - 我的世界游玩中文指南 |
+| [LyraVoid/Mizuki](https://github.com/LyraVoid/Mizuki) | 下一代Material Design 3 博客主题(Astro驱动) |
 | [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) | 一个基于 Electron 的音乐软件 |
 | [lyswhut/lx-music-mobile](https://github.com/lyswhut/lx-music-mobile) | 一个基于 React native 开发的音乐软件 |
 | [lz233/OneText-Library](https://github.com/lz233/OneText-Library) | Some sentences collected by myself |
@@ -988,6 +990,7 @@
 | [Minecraft-Radiance/Radiance](https://github.com/Minecraft-Radiance/Radiance) | Radiance is rebuilt of Minecraft renderer on a Vulkan C++ backend, featuring ... |
 | [Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime) | The Simple Config Template Of Rime By Mintimate.   |
 | [mir1ce/Hawkeye](https://github.com/mir1ce/Hawkeye) | Windows应急响应工具---Hawkeye(鹰眼)。集Windows日志分析，进程扫描，主机信息于一体的综合应急响应分析工具 |
+| [mirai-mamori/Sakurairo](https://github.com/mirai-mamori/Sakurairo) | A WordPress theme that is built with AI-assisted reading features, colorful, ... |
 | [mircokroon/minecraft-world-downloader](https://github.com/mircokroon/minecraft-world-downloader) | Download Minecraft worlds, extend server's render distance. 1.12.2 - 1.21 |
 | [mirrox-dev/mirrox](https://github.com/mirrox-dev/mirrox) | Mirrox is a Rust reverse proxy for mapping your own domains to configured ups... |
 | [mirtlecn/rime-radical-pinyin](https://github.com/mirtlecn/rime-radical-pinyin) | RIME 汉字部件拆字 / 全拼双拼输入方案。笔画、部首、音调反查辅码 lua。 |
@@ -1207,6 +1210,7 @@
 | [pzcn/Perfect-Icons-Completion-Project](https://github.com/pzcn/Perfect-Icons-Completion-Project) | MIUI 完美图标补全计划 |
 | [Pzqqt/Magisk_Manager_Recovery_Tool](https://github.com/Pzqqt/Magisk_Manager_Recovery_Tool) | A Magisk Manager tool that can be used in Recovery mode base Aroma Installer. |
 | [qd-today/qd](https://github.com/qd-today/qd) | QD [v20240210] —— HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server |
+| [Qexo/Qexo](https://github.com/Qexo/Qexo) | A fast, powerful and beautiful online manager for all static blog frameworks.  |
 | [qh7574/Fcitx5-SyncClipboard](https://github.com/qh7574/Fcitx5-SyncClipboard) | None |
 | [qianjiachun/cs-match-helper](https://github.com/qianjiachun/cs-match-helper) | 🦇CS匹配助手 赛前分析双方数据 ai预测比赛胜负 & 急停助手 帮助你改善急停水平 |
 | [qidian55/bilibilitv1.6.6-repair](https://github.com/qidian55/bilibilitv1.6.6-repair) | 尝试修复经典的 bilibili tv 1.6.6 版本 |
@@ -1361,6 +1365,7 @@
 | [SoLegendary/reignofnether](https://github.com/SoLegendary/reignofnether) | None |
 | [SolidZORO/zpix-pixel-font](https://github.com/SolidZORO/zpix-pixel-font) | Zpix (最像素) is a pixel font (中文像素字体), supporting English, Chinese (Simplified ... |
 | [sollyu/AndroidStudioChineseLanguagePack](https://github.com/sollyu/AndroidStudioChineseLanguagePack) | AndroidStudio中文插件(官方修改版本） |
+| [solstice23/argon-theme](https://github.com/solstice23/argon-theme) | 📖 Argon - 一个轻盈、简洁的 WordPress 主题 |
 | [songquanpeng/one-api](https://github.com/songquanpeng/one-api) | LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆... |
 | [sorayuki/obs-multi-rtmp](https://github.com/sorayuki/obs-multi-rtmp) | OBS複数サイト同時配信プラグイン |
 | [soxoj/maigret](https://github.com/soxoj/maigret) | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
@@ -1603,8 +1608,10 @@
 | [Wiederhoeft/okjiasu_action](https://github.com/Wiederhoeft/okjiasu_action) | 机场https://okjiasu.com    的自动签到脚本 |
 | [wifi-left/HMCL-docs-website](https://github.com/wifi-left/HMCL-docs-website) | HMCL 文档的网站版本 |
 | [Wilenty/7zTC-7-ZIP-NanaZip-Theme-Changer](https://github.com/Wilenty/7zTC-7-ZIP-NanaZip-Theme-Changer) | Easy-to-use 7-Zip/NanaZip manager for toolbar, file-types and icons. |
+| [win12-online/win12](https://github.com/win12-online/win12) | Win12 Online |
 | [windiest/Front-end-tutorial](https://github.com/windiest/Front-end-tutorial) | :smiley_cat:猫的前端回忆录 Cat's front memory, these share data are from my usual wo... |
 | [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) | A free, powerful, multi-purpose tool that helps you monitor system resources,... |
+| [withastro/astro](https://github.com/withastro/astro) | The web framework for content-driven websites. ⭐️ Star to support our work! |
 | [wjf0214/qd-templates](https://github.com/wjf0214/qd-templates) | 基于开源新版签到框架站发布的公共har模板库，整理自用 qiandao 框架可用的各种网站和App的 Har 模板，仅供学习参考。 |
 | [wlh320/rime-ls](https://github.com/wlh320/rime-ls) | A language server that provides input method functionality using librime 通过 L... |
 | [woaigitee/123pan-](https://github.com/woaigitee/123pan-) | 123云盘，使用安卓客户端协议，绕开流量限制，解决123云盘自用流量不足 |
@@ -1765,6 +1772,7 @@
 | [zuiwuchang/android-rimesync](https://github.com/zuiwuchang/android-rimesync) | Solution for syncing fcitx5-android vocabulary under Android SAF restrictions |
 | [Zulko/moviepy](https://github.com/Zulko/moviepy) | Video editing with Python |
 | [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) | 人人都能用英语 |
+| [zutrinken/attila](https://github.com/zutrinken/attila) | Ghost Theme |
 | [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) | Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working) |
 | [ZyperWave/ZyperWinOptimize](https://github.com/ZyperWave/ZyperWinOptimize) | ZyperWin++是一个轻便的Windows优化工具，适用于Win7-Win11最新版的优化，包括性能优化、服务项优化、垃圾清理等操作，还支持系统激活和... |
 | [zyronon/TypeWords](https://github.com/zyronon/TypeWords) | Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步； |
