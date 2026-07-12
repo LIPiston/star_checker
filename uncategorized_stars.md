@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sat Jul 11 02:55:11 UTC 2026 | 总计: **1773** 个未分类项目
+> 生成于 UTC 时间: Sun Jul 12 03:20:18 UTC 2026 | 总计: **1775** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -564,6 +564,7 @@
 | [henrygd/beszel](https://github.com/henrygd/beszel) | Lightweight server monitoring with historical data, docker stats, and alerts. |
 | [HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources) | Autoupdate iptv sources |
 | [HeyPuter/puter](https://github.com/HeyPuter/puter) | 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable. |
+| [HickoryTrail/IslandCaller](https://github.com/HickoryTrail/IslandCaller) | 基于ClassIsland插件的轻量级点名器 |
 | [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) | OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫... |
 | [HisMax/RedInk](https://github.com/HisMax/RedInk) | Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano ... |
 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianyth... |
@@ -593,7 +594,6 @@
 | [HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa) | 🍀 A cross-platform instant messaging desktop application with exceptional per... |
 | [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) | github release、archive以及项目文件的加速项目 |
 | [HunterPie/HunterPie](https://github.com/HunterPie/HunterPie) | A clean, modern and robust overlay for Monster Hunter games. |
-| [HUSX100/IslandCaller](https://github.com/HUSX100/IslandCaller) | 基于ClassIsland插件的轻量级点名器 |
 | [huynhsontung/Screenbox](https://github.com/huynhsontung/Screenbox) | LibVLC-based media player for the Universal Windows Platform |
 | [huzesama/ASGuard](https://github.com/huzesama/ASGuard) | Magisk模块，用于安卓的无障碍服务(或名:辅助功能)辅助管理模块 |
 | [HyDE-Project/HyDE](https://github.com/HyDE-Project/HyDE) | HyDE, your Development Environment 🖥️💻 |
@@ -635,6 +635,7 @@
 | [InkCanvas/InkCanvasForClass](https://github.com/InkCanvas/InkCanvasForClass) | InkCanvasForClass 是一款开源易用的电子教鞭软件 |
 | [InkCanvasForClass/community](https://github.com/InkCanvasForClass/community) | InkCanvasForClass Community Open Source Project |
 | [InMomo/StealthReader](https://github.com/InMomo/StealthReader) | 这是一个专为上班族打造的极简、隐蔽、高定制度的桌面阅读器。它不存储书籍，而是作为手机端Legado (阅读)(https://github.com/ged... |
+| [innei-dev/yohaku-deploy-action](https://github.com/innei-dev/yohaku-deploy-action) | None |
 | [Innei/Shiro](https://github.com/Innei/Shiro) | 📜 A minimalist personal website embodying the purity of paper and freshness o... |
 | [Innei/Yohaku](https://github.com/Innei/Yohaku) | 余白 / Yohaku — A typographic design system for written content. One accent, th... |
 | [InputShare/InputShare](https://github.com/InputShare/InputShare) | InputShare enables you to share the keyboard and mouse of your computer with ... |
@@ -1032,6 +1033,7 @@
 | [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) | Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using ... |
 | [muxinc/media-chrome](https://github.com/muxinc/media-chrome) | Custom elements (web components) for making audio and video player controls t... |
 | [mx-space/core](https://github.com/mx-space/core) | AI-powered CMS core for personal blogs and creator websites, with AI summarie... |
+| [mx-space/obsidian-mixspace-plugin](https://github.com/mx-space/obsidian-mixspace-plugin) | None |
 | [myflavor/NoActive-V2](https://github.com/myflavor/NoActive-V2) | NoActive UI版本 |
 | [mywalkb/LSPosed_mod](https://github.com/mywalkb/LSPosed_mod) | My changes to LSPosed |
 | [Mzdyl/LiteLoaderQQNT_Install](https://github.com/Mzdyl/LiteLoaderQQNT_Install) | 针对 LiteLoaderQQNT 的安装脚本 |
