@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sun Jul 12 03:20:18 UTC 2026 | 总计: **1775** 个未分类项目
+> 生成于 UTC 时间: Mon Jul 13 03:23:03 UTC 2026 | 总计: **1782** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -48,6 +48,7 @@
 | [afar1/fieldtheory-cli](https://github.com/afar1/fieldtheory-cli) | Field Theory CLI for bookmarks, Library, commands, and agent workflows |
 | [afeimod/winlator-mod](https://github.com/afeimod/winlator-mod) | Android application for running Windows applications with Wine and Box86/Box64 |
 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimization system. Skills, instincts, memory,... |
+| [Afilmory/afilmory](https://github.com/Afilmory/afilmory) | Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, ma... |
 | [afoim/webrtc_check_nat](https://github.com/afoim/webrtc_check_nat) | 利用浏览器的WebRTC查询你的NAT类型（双IP） |
 | [agalwood/Motrix](https://github.com/agalwood/Motrix) | A full-featured download manager. |
 | [agentset-ai/mcp-server](https://github.com/agentset-ai/mcp-server) | Agentset MCP Server - Build RAG with Agentic superpowers |
@@ -69,6 +70,7 @@
 | [Alex4SSB/ADB-Explorer](https://github.com/Alex4SSB/ADB-Explorer) | A fluent UI for ADB on Windows |
 | [alex8088/electron-vite](https://github.com/alex8088/electron-vite) | Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护 |
 | [alexhua/Aria2-Explorer](https://github.com/alexhua/Aria2-Explorer) | An aria2 download task management extension for chromium based browser |
+| [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | Hundreds of models & providers. One command to find what runs on your hardware. |
 | [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) | 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制 |
 | [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) | Tongyi Deep Research, the Leading Open-source Deep Research Agent |
 | [AlistGo/alist](https://github.com/AlistGo/alist) | 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin ... |
@@ -79,7 +81,7 @@
 | [alpha-liu-01/SpeedyNote](https://github.com/alpha-liu-01/SpeedyNote) | A simple note app with good performance and PDF import support |
 | [alvatip/Borealis-cursors](https://github.com/alvatip/Borealis-cursors) | None |
 | [amchii/tg-signer](https://github.com/amchii/tg-signer) | 电报自动执行（签到、发送消息、点击键盘、AI回复等）；个人、群组、频道消息监控、转发与自动回复。Automated Telegram tasks (che... |
-| [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) | An app for managing github starred repositories.  |
+| [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) | AI-powered GitHub stars manager with semantic search, auto-categorization, an... |
 | [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) | A Download Manager that speeds up your downloads |
 | [amzxyz/RIME-LMDG](https://github.com/amzxyz/RIME-LMDG) | 简繁扩展词库/声调编码/最全声调标注工具链/万象更新工具链/Rime语法模型：LMDG - Language, Model, Dictionary, Gr... |
 | [amzxyz/rime-wanxiang](https://github.com/amzxyz/rime-wanxiang) | 「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更现代的数据，接管你的候选。Q群：11033572 / 11631066 |
@@ -490,6 +492,7 @@
 | [getgridea/gridea](https://github.com/getgridea/gridea) | ✍️ A static blog writing client (一个静态博客写作客户端) |
 | [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | A book series (2 published editions) on the JS language. |
 | [getsurfboard/surfboard](https://github.com/getsurfboard/surfboard) | https://getsurfboard.com |
+| [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) | 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that ... |
 | [giscus/giscus](https://github.com/giscus/giscus) | A commenting system powered by GitHub Discussions. :octocat: :speech_balloon:... |
 | [git/git](https://github.com/git/git) | Git Source Code Mirror - This is a publish-only repository but pull requests ... |
 | [github/github-mcp-server](https://github.com/github/github-mcp-server) | GitHub's official MCP Server |
@@ -583,6 +586,7 @@
 | [HorizonEmuTeam/Horizon-Emu](https://github.com/HorizonEmuTeam/Horizon-Emu) | None |
 | [horsemail/yourtv](https://github.com/horsemail/yourtv) | 安卓电视直播APK：IPTV/網頁視頻支持X5，可自定義源(支持webview://格式)，IPTV支持畫中畫和熄屏播放。 Android TV Live... |
 | [HorseSword/joplin-plugin-notellm](https://github.com/HorseSword/joplin-plugin-notellm) | NoteLLM is an AI plugin for Joplin. It's completely open-source and does not ... |
+| [HoshinoSuzumi/chronoframe](https://github.com/HoshinoSuzumi/chronoframe) | Self-hosted personal gallery application with online photo management and alb... |
 | [hotpad100c/yetanothercarpetaddition](https://github.com/hotpad100c/yetanothercarpetaddition) | Another carpet addition |
 | [hpjansson/chafa](https://github.com/hpjansson/chafa) | 📺🗿 Terminal graphics for the 21st century. |
 | [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 |
@@ -1023,6 +1027,7 @@
 | [moudey/Shell](https://github.com/moudey/Shell) | Powerful context menu manager for Windows File Explorer |
 | [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) | The official repository of Mozilla's Firefox web browser. |
 | [Mr-xn/hackbar2.1.3](https://github.com/Mr-xn/hackbar2.1.3) | the free firefox extions of  hackbar v2.1.3 v2.2.9 v2.3.1,hackbar 插件未收费的免费版本。... |
+| [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) | mRemoteNG is the next generation of mRemote, open source, tabbed, multi-proto... |
 | [mrjesen/ImBlockerFabric](https://github.com/mrjesen/ImBlockerFabric) | IMBlockerFabric is a mod that It can Hide IM(InputMethod) when you don't need... |
 | [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp) | cqhttp的golang实现，轻量、原生跨平台. |
 | [muink/Magisk-Captive-Manager](https://github.com/muink/Magisk-Captive-Manager) | 修改Captive Portal服务器, 可解Android 网络感叹号问题 |
@@ -1043,7 +1048,7 @@
 | [nakixii/Magisk_AsoulOpt](https://github.com/nakixii/Magisk_AsoulOpt) | None |
 | [NapNeko/NapCat-Docker](https://github.com/NapNeko/NapCat-Docker) | NapCat-Docker |
 | [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) | Modern protocol-side framework based on NTQQ |
-| [Narcooo/inkos](https://github.com/Narcooo/inkos) | Story Creation AI Agent for novel, scripts, interactive games, and IP content |
+| [Narcooo/inkos](https://github.com/Narcooo/inkos) | Story Creation AI Agent for novel, scripts, translation, interactive games, a... |
 | [Naruto-Senki/files](https://github.com/Naruto-Senki/files) | Naruto Senki: V2 File Host |
 | [natanfudge/Not-Enough-Crashes](https://github.com/natanfudge/Not-Enough-Crashes) | A mod that makes crashes so pleasant, you can't have enough of them!  |
 | [Neamar/KISS](https://github.com/Neamar/KISS) | Lightning fast, open-source, < 250kb Android launcher |
@@ -1245,6 +1250,7 @@
 | [ReChronoRain/Cemiuiler](https://github.com/ReChronoRain/Cemiuiler) | Make MIUI Great Again! |
 | [Red-Killer/shit](https://github.com/Red-Killer/shit) | None |
 | [RedJue/git-commit-plugin](https://github.com/RedJue/git-commit-plugin) | Automatically generate git commit |
+| [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | Desktop app to manage markdown knowledge bases |
 | [reflex-dev/reflex](https://github.com/reflex-dev/reflex) | 🕸️ Web apps in pure Python 🐍 |
 | [RelativityMC/C2ME-fabric](https://github.com/RelativityMC/C2ME-fabric) | A Fabric mod designed to improve the chunk performance of Minecraft. |
 | [RelativityMC/ScalableLux](https://github.com/RelativityMC/ScalableLux) | A Fabric mod based on Starlight that improves the performance of light update... |
@@ -1450,6 +1456,7 @@
 | [termux/proot-distro](https://github.com/termux/proot-distro) | An utility for managing proot containers. |
 | [termux/termux-app](https://github.com/termux/termux-app) | Termux - a terminal emulator application for Android OS extendible by variety... |
 | [termux/termux-boot](https://github.com/termux/termux-boot) | Termux add-on app allowing programs to be run at boot. |
+| [Test-Account666/PlugManX](https://github.com/Test-Account666/PlugManX) | Plugin manager for Bukkit servers. |
 | [Textualize/textual](https://github.com/Textualize/textual) | The lean application framework for Python.  Build sophisticated user interfac... |
 | [TG-Twilight/AWAvenue-Ads-Rule](https://github.com/TG-Twilight/AWAvenue-Ads-Rule) | 众多优秀广告规则的上游、开源社区中最棒的广告过滤器之一。适配AdGuard/Home/DNS、AdAway、hosts、Mosdns、ClashMeta、... |
 | [TG-Twilight/Gamer-Skill-Icons](https://github.com/TG-Twilight/Gamer-Skill-Icons) | Hey Gamer, show everyone your favorite skills!🎮 |
