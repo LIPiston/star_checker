@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Mon Jul 13 03:23:03 UTC 2026 | 总计: **1782** 个未分类项目
+> 生成于 UTC 时间: Tue Jul 14 02:46:57 UTC 2026 | 总计: **1784** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -357,6 +357,7 @@
 | [Diorser/LiteMonitor](https://github.com/Diorser/LiteMonitor) | 一款轻量级、高度可定制的 Windows桌面和任务栏硬件性能监控工具，支持监测 CPU、GPU、内存、磁盘、网速、FPS 计数、插件扩展及内存清理。A l... |
 | [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) | 🧡 Everything is RSSible |
 | [dmester/jdenticon](https://github.com/dmester/jdenticon) | Javascript library for generating identicons. Running in the browser and on N... |
+| [dmitrymodder/minewire](https://github.com/dmitrymodder/minewire) | Proxy server that masquerades as a Minecraft server to establish encrypted tu... |
 | [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) | 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速 |
 | [docsifyjs/docs-zh](https://github.com/docsifyjs/docs-zh) | docsify 中文文档 |
 | [docsifyjs/docsify](https://github.com/docsifyjs/docsify) | 🃏 A magical documentation site generator. |
@@ -1038,6 +1039,7 @@
 | [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) | Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using ... |
 | [muxinc/media-chrome](https://github.com/muxinc/media-chrome) | Custom elements (web components) for making audio and video player controls t... |
 | [mx-space/core](https://github.com/mx-space/core) | AI-powered CMS core for personal blogs and creator websites, with AI summarie... |
+| [mx-space/mx-admin](https://github.com/mx-space/mx-admin) | 😇 The next generation of mx-space admin dashboard built with Vue 3 and TypeSc... |
 | [mx-space/obsidian-mixspace-plugin](https://github.com/mx-space/obsidian-mixspace-plugin) | None |
 | [myflavor/NoActive-V2](https://github.com/myflavor/NoActive-V2) | NoActive UI版本 |
 | [mywalkb/LSPosed_mod](https://github.com/mywalkb/LSPosed_mod) | My changes to LSPosed |
