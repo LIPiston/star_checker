@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Tue Jul 14 02:46:57 UTC 2026 | 总计: **1784** 个未分类项目
+> 生成于 UTC 时间: Wed Jul 15 02:45:29 UTC 2026 | 总计: **1784** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -364,6 +364,7 @@
 | [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code) | Legacy-Mess Detector – assess the “legacy-mess level” of your code and output... |
 | [dongyuanwai/readme-become-better](https://github.com/dongyuanwai/readme-become-better) | 让github-readme变得更好 |
 | [dongyuwei/hallelujahIM](https://github.com/dongyuwei/hallelujahIM) | hallelujahIM(哈利路亚 英文输入法) is  an intelligent English input method with auto-su... |
+| [doocs/md](https://github.com/doocs/md) | ✍ WeChat Markdown Editor / 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理... |
 | [Doraemonliu/com.houvven.guise](https://github.com/Doraemonliu/com.houvven.guise) | Guise |
 | [dorssel/usbipd-win](https://github.com/dorssel/usbipd-win) | Windows software for sharing locally connected USB devices to other machines,... |
 | [Doryoku1223/TabulaV3](https://github.com/Doryoku1223/TabulaV3) | Tabula V3 - 极简相册整理工具 / Tinder风格卡片交互，单手滑动整理照片。100%本地处理，免费无广告，隐私安全。 |
@@ -835,7 +836,6 @@
 | [linux-surface/linux-surface](https://github.com/linux-surface/linux-surface) | Linux Kernel for Surface Devices |
 | [linxuan8233/Kalmiagram](https://github.com/linxuan8233/Kalmiagram) | None |
 | [LIPiston/csgo-cfg](https://github.com/LIPiston/csgo-cfg) | 这个项目已经跟随 csgo 的结束而死了 |
-| [LIPiston/MinecraftTextureChecker](https://github.com/LIPiston/MinecraftTextureChecker) | None |
 | [LIPiston/rime-ice](https://github.com/LIPiston/rime-ice) | Rime 配置：雾凇拼音 / 长期维护的简体词库 / 由 LIPiston 修改 |
 | [LIPiston/star_checker](https://github.com/LIPiston/star_checker) | None |
 | [LIPiston/vimplus](https://github.com/LIPiston/vimplus) | 🐑An automatic configuration program for vim |
@@ -1369,7 +1369,7 @@
 | [Slinet6056/fcitx5-android-theme-catppuccin](https://github.com/Slinet6056/fcitx5-android-theme-catppuccin) | fcitx5-android 主题，基于 Catppuccin Macchiato 配色方案 |
 | [slopus/happy](https://github.com/slopus/happy) | Mobile and Web client for Codex and Claude Code, with realtime voice, encrypt... |
 | [SmartlyDressedGames/U3-SDK](https://github.com/SmartlyDressedGames/U3-SDK) | Source code for Unturned, a free open-world zombie survival sandbox game. |
-| [smol-machines/smolvm](https://github.com/smol-machines/smolvm) | Portable, lightweight, self-contained virtual machines. |
+| [smol-machines/smolvm](https://github.com/smol-machines/smolvm) | Portable, lightweight, self-contained virtual machine. |
 | [Snapchat/Valdi](https://github.com/Snapchat/Valdi) | Valdi is a cross-platform UI framework that delivers native performance witho... |
 | [softprops/action-gh-release](https://github.com/softprops/action-gh-release) | 📦 :octocat: GitHub Action for creating GitHub Releases |
 | [SoLegendary/reignofnether](https://github.com/SoLegendary/reignofnether) | None |
