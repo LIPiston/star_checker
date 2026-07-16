@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Wed Jul 15 02:45:29 UTC 2026 | 总计: **1784** 个未分类项目
+> 生成于 UTC 时间: Thu Jul 16 02:52:05 UTC 2026 | 总计: **1784** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -84,7 +84,7 @@
 | [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) | AI-powered GitHub stars manager with semantic search, auto-categorization, an... |
 | [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) | A Download Manager that speeds up your downloads |
 | [amzxyz/RIME-LMDG](https://github.com/amzxyz/RIME-LMDG) | 简繁扩展词库/声调编码/最全声调标注工具链/万象更新工具链/Rime语法模型：LMDG - Language, Model, Dictionary, Gr... |
-| [amzxyz/rime-wanxiang](https://github.com/amzxyz/rime-wanxiang) | 「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更现代的数据，接管你的候选。Q群：11033572 / 11631066 |
+| [amzxyz/rime-wanxiang](https://github.com/amzxyz/rime-wanxiang) | 「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更优质的数据，接管你的候选。Q群：11033572 / 11631066 |
 | [anasfanani/magisk-tailscaled](https://github.com/anasfanani/magisk-tailscaled) | Magisk/KernelSU module for running Tailscale on rooted Android devices. The e... |
 | [Andrews54757/tweakfork](https://github.com/Andrews54757/tweakfork) | A modified small client-side Minecraft mod that adds various configurable twe... |
 | [android/ndk](https://github.com/android/ndk) | The Android Native Development Kit |
