@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Thu Jul 16 02:52:05 UTC 2026 | 总计: **1784** 个未分类项目
+> 生成于 UTC 时间: Fri Jul 17 02:54:23 UTC 2026 | 总计: **1795** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -179,9 +179,10 @@
 | [bin456789/reinstall](https://github.com/bin456789/reinstall) | 一键DD/重装脚本 (One-click reinstall OS on VPS) |
 | [Binaryify/OneDark-Pro](https://github.com/Binaryify/OneDark-Pro) | Atom's iconic One Dark theme for Visual Studio Code |
 | [BingyanStudio/github-analyzer](https://github.com/BingyanStudio/github-analyzer) | 锐评一下你都在 GitHub 写了什么 |
-| [binpash/try](https://github.com/binpash/try) | Inspect a command's effects before modifying your live system |
+| [binpash/try](https://github.com/binpash/try) | Control and manipulate a command's effects before modifying your live system |
 | [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead) | Open Immersive Translate. A revolutionary open-source browser translation plu... |
 | [Bistutu/GoMusic](https://github.com/Bistutu/GoMusic) | 迁移网易云/汽水/QQ音乐歌单至 Apple/Youtube/Spotify Music |
+| [bitbonsai/mcpvault](https://github.com/bitbonsai/mcpvault) | A lightweight Model Context Protocol (MCP) server for safe Obsidian vault access |
 | [bitnami/containers](https://github.com/bitnami/containers) | Bitnami container images |
 | [bkerler/oppo_decrypt](https://github.com/bkerler/oppo_decrypt) | Oppo .ofp Firmware decrypter and oneplus .ops de-/encrypter |
 | [BlindingDark/rime-easy-en](https://github.com/BlindingDark/rime-easy-en) | Rime / Easy English 英文输入法 |
@@ -424,6 +425,7 @@
 | [Fallen-Breath/litematica-server-paster](https://github.com/Fallen-Breath/litematica-server-paster) | Let Litematica be able to paste tile entity data of block / entity data in a ... |
 | [Fallen-Breath/more-statistics](https://github.com/Fallen-Breath/more-statistics) | Add more statistics to Minecraft |
 | [Fallen-Breath/tweakermore](https://github.com/Fallen-Breath/tweakermore) | A collection of client-side tweak kits to enhance your Minecraft game experie... |
+| [fancydirty/mediary-scout](https://github.com/fancydirty/mediary-scout) | Agent-driven media library for your cloud drives (115 / Quark / 光鸭 GuangYaPan). |
 | [Fanju6/NetProxy-Magisk](https://github.com/Fanju6/NetProxy-Magisk) | Based on the sing-box core, this Android proxy module supports one-click star... |
 | [fankes/AndroidNotifyIconAdapt](https://github.com/fankes/AndroidNotifyIconAdapt) | An online rules platform that adapts native notification icons and standard i... |
 | [fankes/ColorOSNotifyIcon](https://github.com/fankes/ColorOSNotifyIcon) | Optimize notification icons for ColorOS and adapt to native notification icon... |
@@ -481,6 +483,7 @@
 | [GamerNoTitle/WorthIt](https://github.com/GamerNoTitle/WorthIt) | 我的东西买得有多值呢？基于 Notion 数据库的记物网站应用 |
 | [gaotianliuyun/gao](https://github.com/gaotianliuyun/gao) | FongMi影视和tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。 |
 | [Gaoyifei1011/GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp) | 离线下载 Microsoft Store 商店应用 |
+| [gaozhangmin/boxplayer](https://github.com/gaozhangmin/boxplayer) | 小白羊网盘 - Powered by 阿里云盘。 |
 | [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | 🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯... |
 | [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) | Show your latest blog posts from any sources or StackOverflow activity or You... |
 | [gautamkrishnar/motrix-webextension](https://github.com/gautamkrishnar/motrix-webextension) | A browser extension for the Motrix Download Manager and its forks |
@@ -792,6 +795,7 @@
 | [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) | Feature-rich wifi hotspot creator for Linux which provides both GUI and comma... |
 | [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) | 2023-2025中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅，包含节假日API |
 | [langgenius/dify](https://github.com/langgenius/dify) | Production-ready platform for agentic workflow development. |
+| [lapce/lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust |
 | [laurent22/joplin](https://github.com/laurent22/joplin) | Joplin - the privacy-focused note taking app with sync capabilities for Windo... |
 | [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) | No clever tagline needed. |
 | [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons) | Monochrome outlined brand icons for Android launchers. |
@@ -811,6 +815,7 @@
 | [lextm/windowsterminal-shell](https://github.com/lextm/windowsterminal-shell) | Install/uninstall scripts for Windows Terminal context menu items |
 | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | An Open Source implementation of Notebook LM with more flexibility and features |
 | [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) | A tiling window manager for Windows 🍉 |
+| [LI-NA/zed-i18n](https://github.com/LI-NA/zed-i18n) | Localization toolkit for Zed editor — extract, translate, and build multiling... |
 | [liangsai12/crontab](https://github.com/liangsai12/crontab) | Magisk crontabs |
 | [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker) | An app to view libraries used in apps in your device. |
 | [libnoname/noname](https://github.com/libnoname/noname) | None |
@@ -848,6 +853,7 @@
 | [LittleSurvival/copymanga-copy20](https://github.com/LittleSurvival/copymanga-copy20) | Mihon/Tachiyomi系列 拷貝漫畫等中文資源的書源 相關社群見readme |
 | [liu673cn/box](https://github.com/liu673cn/box) | 自用，勿宣传。 |
 | [liu673cn/bug](https://github.com/liu673cn/bug) | TVbox开源版（空壳-自行配置） |
+| [Liu8Can/FileTypesMan_Chinese](https://github.com/Liu8Can/FileTypesMan_Chinese) | 用于存放文件类型图标管理工具FileTypesMan的汉化版本 |
 | [liuran001/GJZS](https://github.com/liuran001/GJZS) | 搞机助手·R（原「搞机助手重制版」） |
 | [Live-Block/Flyme-FreeForm](https://github.com/Live-Block/Flyme-FreeForm) | A FlymeOS style freeform |
 | [Live-Block/IngameIME-PVP](https://github.com/Live-Block/IngameIME-PVP) | 别问为什么移植这东西到1.8.9，问就是为了玩PVP打字能舒服点（ |
@@ -862,6 +868,7 @@
 | [LmeSzinc/StarRailCopilot](https://github.com/LmeSzinc/StarRailCopilot) | 崩坏：星穹铁道脚本 / Honkai: Star Rail auto bot (简体中文/繁體中文/English/Español) |
 | [lmintlcx/pvztoolkit](https://github.com/lmintlcx/pvztoolkit) | 植物大战僵尸 PC 版综合修改器 |
 | [LMODroid/platform_packages_apps_LMOFreeform](https://github.com/LMODroid/platform_packages_apps_LMOFreeform) | None |
+| [logseq/logseq](https://github.com/logseq/logseq) | A privacy-first, open-source platform for knowledge management and collaborat... |
 | [loks666/get_jobs](https://github.com/loks666/get_jobs) | 💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、智联招聘) |
 | [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) | ServerBox - server status & toolbox |
 | [longern/FlareDrive](https://github.com/longern/FlareDrive) | Free file hosting service (WebUI & WebDAV) using CloudFlare R2 |
@@ -1121,7 +1128,7 @@
 | [OdysseusYuan/LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) | 一键自动化 下载、安装、激活 Office 的利器。 |
 | [ohlunaaa/Riot-auth](https://github.com/ohlunaaa/Riot-auth) | None |
 | [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 🙃   A delightful community-driven (with 2,500+ contributors) framework for ma... |
-| [oiov/vmail](https://github.com/oiov/vmail) | 📫 只需一个域名部署临时邮箱到 Cloudflare Worker，使用 D1 保存数据，支持多域名后缀，密码找回，开放API接口。 |
+| [oiov/vmail](https://github.com/oiov/vmail) | 📫 只需一个域名部署临时邮箱到 Cloudflare Worker，支持收发邮件，使用 D1 保存数据，支持多域名后缀，密码找回，开放API接口。 |
 | [oiov/wr.do](https://github.com/oiov/wr.do) | 一站式域名服务平台，集成短链生成、无限域名邮箱、文件存储和子域名管理，带有管理员面板，支持自部署 |
 | [OKTW-Network/FabricProxy](https://github.com/OKTW-Network/FabricProxy) | Fabric mod for support forward player data from proxy |
 | [OKTW-Network/FabricProxy-Lite](https://github.com/OKTW-Network/FabricProxy-Lite) | Fabric mod for support forward player data from velocity. |
@@ -1495,6 +1502,7 @@
 | [TISUnion/joinMOTD](https://github.com/TISUnion/joinMOTD) | send player a MOTD when he joins |
 | [TISUnion/PrimeBackup](https://github.com/TISUnion/PrimeBackup) | A powerful backup plugin for MCDR, an advanced backup solution for your Minec... |
 | [TISUnion/StatsHelper](https://github.com/TISUnion/StatsHelper) | A Minecraft statistic helper |
+| [TKasperczyk/thunderbird-mcp](https://github.com/TKasperczyk/thunderbird-mcp) | MCP server for Thunderbird - enables AI assistants to access email, contacts,... |
 | [tldraw/tldraw](https://github.com/tldraw/tldraw) | Build infinite canvas apps in React with the tldraw SDK. World's best, top-mo... |
 | [tobspr-games/shapez.io](https://github.com/tobspr-games/shapez.io) | shapez is an open source base building game on Steam inspired by factorio! |
 | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next... |
@@ -1634,6 +1642,7 @@
 | [wsu2059q/ErisPulse-QvQChat](https://github.com/wsu2059q/ErisPulse-QvQChat) | 基于多AI协同的智能对话模块，让AI像真人一样自然参与聊天 |
 | [wu-mx/subinfobot](https://github.com/wu-mx/subinfobot) | 一个由Go编写的开源轻量订阅查询Telegram Bot。 |
 | [wu-mx/URLignore](https://github.com/wu-mx/URLignore) | A simple node tool. |
+| [wu529778790/panhub.shenzjd.com](https://github.com/wu529778790/panhub.shenzjd.com) | 一个 聚合的网盘搜索工具。它可以聚合多个优质资源站和公开频道,一次搜索即可覆盖阿里云盘、夸克、百度网盘、115、迅雷等热门网盘资源。它提供智能排序、分类型... |
 | [WuDi-ZhanShen/ShizukuRunner](https://github.com/WuDi-ZhanShen/ShizukuRunner) | 以shizuku身份执行命令的安卓小工具。A 50KB android app to run any commands via Shizuku. |
 | [wuhgit/CustomPinyinDictionary](https://github.com/wuhgit/CustomPinyinDictionary) | 自建拼音输入法词库，百万常用词汇量，适配 Fcitx5 (Linux / Android) 及 Gboard (Android + Magisk or K... |
 | [wxxsfxyzm/InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) | More Expressive InstallerX ! |
@@ -1642,6 +1651,7 @@
 | [x0b/rcx](https://github.com/x0b/rcx) | Rclone for Android |
 | [x0rzavi/github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal) | ✨ Elevate your GitHub Profile ReadMe with Minimalistic Retro Terminal GIFs 🚀 |
 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, J... |
+| [x6nux/zed-globalization](https://github.com/x6nux/zed-globalization) | Zed 编辑器汉化版 / 中文版 / 多语言版 — AI 驱动全自动翻译构建，支持简繁中文/日语/韩语 / Zed Editor Localized wi... |
 | [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) | Algorithm powering the For You feed on X |
 | [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) | Count your code, quickly. |
 | [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) | DataBackup for Android 7.0+ |
@@ -1694,7 +1704,7 @@
 | [Xposed-Modules-Repo/org.hello.coolapk](https://github.com/Xposed-Modules-Repo/org.hello.coolapk) | FuckCoolapk R |
 | [Xposed-Modules-Repo/top.hookvip.pro](https://github.com/Xposed-Modules-Repo/top.hookvip.pro) | NewHookVip |
 | [Xpra-org/xpra](https://github.com/Xpra-org/xpra) | Persistent remote applications for X11; screen sharing for X11, MacOS and MSW... |
-| [XtrLumen/FS-Enhancer-Extreme](https://github.com/XtrLumen/FS-Enhancer-Extreme) | Enhances the ForgeStore experience, while providing extreme hiding of detecti... |
+| [XtrLumen/FS-Enhancer-Extreme](https://github.com/XtrLumen/FS-Enhancer-Extreme) | Enhance ForgeStore experience, while providing extreme hiding of detection po... |
 | [xudazhu1/NoticeFix](https://github.com/xudazhu1/NoticeFix) | 这是一个用于原生/类原生的Xposed模块 修复(类)原生安卓通知图标在墙内水土不服等功能 |
 | [xugaoyi/vuepress-theme-vdoing-doc](https://github.com/xugaoyi/vuepress-theme-vdoing-doc) | vuepress-theme-vdoing主题文档 |
 | [xuwd1/wemeet-wayland-screenshare](https://github.com/xuwd1/wemeet-wayland-screenshare) | 实现Linux Wayland下腾讯会议屏幕共享（非虚拟相机）. Hook library that enables screenshare with T... |
@@ -1729,6 +1739,7 @@
 | [yudai/gotty](https://github.com/yudai/gotty) | Share your terminal as a web application |
 | [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) | ArchLinux based WSL Distribution. Supports multiple install. |
 | [YumeYucca/Tritium](https://github.com/YumeYucca/Tritium) | 最大化Soc的潜力 Maximize the potential of Soc |
+| [yuniko-software/minecraft-mcp-server](https://github.com/yuniko-software/minecraft-mcp-server) | A Minecraft MCP Server powered by Mineflayer API. It allows to control a Mine... |
 | [Yuri-NagaSaki/bangumi-proxy](https://github.com/Yuri-NagaSaki/bangumi-proxy) | None |
 | [yushijinhun/authlib-injector](https://github.com/yushijinhun/authlib-injector) | Build your own Minecraft authentication system. |
 | [yutto-dev/yutto](https://github.com/yutto-dev/yutto) | :ice_cube: 一个可爱且任性的 B 站视频下载器 |
