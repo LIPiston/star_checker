@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Fri Jul 17 02:54:23 UTC 2026 | 总计: **1795** 个未分类项目
+> 生成于 UTC 时间: Sat Jul 18 02:46:47 UTC 2026 | 总计: **1797** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -393,7 +393,7 @@
 | [elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS) | OBLITERATE THE CHAINS THAT BIND YOU |
 | [ElishaAz/Sayboard](https://github.com/ElishaAz/Sayboard) | An open-source on-device voice IME (keyboard) for Android using the Vosk libr... |
 | [elk-zone/elk](https://github.com/elk-zone/elk) | A nimble Mastodon web client |
-| [Enashpinal/cloudmusic_downloader](https://github.com/Enashpinal/cloudmusic_downloader) | 网易云歌曲批量下载器 |
+| [ENA-QWQ/cloudmusic_downloader](https://github.com/ENA-QWQ/cloudmusic_downloader) | 网易云歌曲批量下载器 |
 | [End-Tech/syncmatica](https://github.com/End-Tech/syncmatica) | Server-wide shared litematics. |
 | [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) | Space exploration, trading, and combat game. |
 | [Enginex0/TEESimulator-RS](https://github.com/Enginex0/TEESimulator-RS) | Software simulation for Android hardware-backed key pairs with key attestatio... |
@@ -425,7 +425,7 @@
 | [Fallen-Breath/litematica-server-paster](https://github.com/Fallen-Breath/litematica-server-paster) | Let Litematica be able to paste tile entity data of block / entity data in a ... |
 | [Fallen-Breath/more-statistics](https://github.com/Fallen-Breath/more-statistics) | Add more statistics to Minecraft |
 | [Fallen-Breath/tweakermore](https://github.com/Fallen-Breath/tweakermore) | A collection of client-side tweak kits to enhance your Minecraft game experie... |
-| [fancydirty/mediary-scout](https://github.com/fancydirty/mediary-scout) | Agent-driven media library for your cloud drives (115 / Quark / 光鸭 GuangYaPan). |
+| [fancydirty/mediary-scout](https://github.com/fancydirty/mediary-scout) | Agent-driven media library for your cloud drives (Quark 夸克 / 115 / 光鸭 GuangYa... |
 | [Fanju6/NetProxy-Magisk](https://github.com/Fanju6/NetProxy-Magisk) | Based on the sing-box core, this Android proxy module supports one-click star... |
 | [fankes/AndroidNotifyIconAdapt](https://github.com/fankes/AndroidNotifyIconAdapt) | An online rules platform that adapts native notification icons and standard i... |
 | [fankes/ColorOSNotifyIcon](https://github.com/fankes/ColorOSNotifyIcon) | Optimize notification icons for ColorOS and adapt to native notification icon... |
@@ -450,6 +450,7 @@
 | [Finsider/starhud](https://github.com/Finsider/starhud) | a HUD mod for Minecraft. |
 | [Finsys/dockhand](https://github.com/Finsys/dockhand) | Dockhand - Docker management you will like. |
 | [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) | The user-friendly command line shell. |
+| [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) | A simple, open source bilingual translation extension & Greasemonkey script (... |
 | [Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project) | 基于思源黑体，并以中国大陆字形为标准的对中日韩越统一表意文字扩展区进行字形补充的项目。 |
 | [fkxxyz/rime-cloverpinyin](https://github.com/fkxxyz/rime-cloverpinyin) | 🍀️四叶草拼音输入方案，做最好用的基于rime开源的简体拼音输入方案！ |
 | [Fldicoahkiin/SteamCloudFileManager](https://github.com/Fldicoahkiin/SteamCloudFileManager) | Cross-platform GUI for Steam Cloud. Visualizes remote storage as a file tree ... |
@@ -1052,13 +1053,14 @@
 | [mywalkb/LSPosed_mod](https://github.com/mywalkb/LSPosed_mod) | My changes to LSPosed |
 | [Mzdyl/LiteLoaderQQNT_Install](https://github.com/Mzdyl/LiteLoaderQQNT_Install) | 针对 LiteLoaderQQNT 的安装脚本 |
 | [mzky/m4s-converter](https://github.com/mzky/m4s-converter) | 一个跨平台小工具，将bilibili缓存的m4s格式音视频文件合并成mp4 |
-| [Nagi-ovo/gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager) | An all-in-one enhancement suite for Google Gemini & AI Studio - timeline navi... |
+| [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager) | Voyager — an all-in-one enhancement suite for AI Studio, Gemini, Claude & Cha... |
 | [nakanomikuorg/arch-guide](https://github.com/nakanomikuorg/arch-guide) | ✨ archlinux 简明指南 / 本指南包含从 archlinux 安装、显卡驱动、日常软件配置、多媒体制作、编程等你可能需要的全部内容 / 提供在线... |
 | [nakixii/Magisk_AsoulOpt](https://github.com/nakixii/Magisk_AsoulOpt) | None |
 | [NapNeko/NapCat-Docker](https://github.com/NapNeko/NapCat-Docker) | NapCat-Docker |
 | [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) | Modern protocol-side framework based on NTQQ |
 | [Narcooo/inkos](https://github.com/Narcooo/inkos) | Story Creation AI Agent for novel, scripts, translation, interactive games, a... |
 | [Naruto-Senki/files](https://github.com/Naruto-Senki/files) | Naruto Senki: V2 File Host |
+| [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) | LLM Wiki is a cross-platform desktop application that turns your documents in... |
 | [natanfudge/Not-Enough-Crashes](https://github.com/natanfudge/Not-Enough-Crashes) | A mod that makes crashes so pleasant, you can't have enough of them!  |
 | [Neamar/KISS](https://github.com/Neamar/KISS) | Lightning fast, open-source, < 250kb Android launcher |
 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | IronClaw is an Agent OS focused on privacy, security and extensibility |
@@ -1137,7 +1139,7 @@
 | [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) | Switch hosts quickly! |
 | [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) | 🐌 useful scripts for making developer's everyday life easier and happier, inv... |
 | [olegos2/mobox](https://github.com/olegos2/mobox) | None |
-| [ollama/ollama](https://github.com/ollama/ollama) | Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen,... |
+| [ollama/ollama](https://github.com/ollama/ollama) | Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen,... |
 | [One-Studio/better-github-api](https://github.com/One-Studio/better-github-api) | 基于 gh-proxy + Jsdelivr+ cnpmjs + cloudflare workers 的 GitHub Serverless API 工具。 |
 | [OneB1ank/A1Memory](https://github.com/OneB1ank/A1Memory) | Android third-party memory management |
 | [OneDragon-Anything/StarRailOneDragon](https://github.com/OneDragon-Anything/StarRailOneDragon) | 崩坏：星穹铁道 - 一条龙 Honkai Star Rail - One Dragon / 全日常自动 /  |
