@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sat Jul 18 02:46:47 UTC 2026 | 总计: **1797** 个未分类项目
+> 生成于 UTC 时间: Sun Jul 19 03:16:58 UTC 2026 | 总计: **1801** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -408,6 +408,7 @@
 | [etherized/GenP](https://github.com/etherized/GenP) | GenP 非官方汉化版 |
 | [Eugeny/russh](https://github.com/Eugeny/russh) | Rust SSH client & server library |
 | [Eugeny/tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age |
+| [Eugeny/tabby-web](https://github.com/Eugeny/tabby-web) | Tabby Web - an SSH/Telnet/Serial client in your browser. |
 | [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) | One portable memory layer for every AI agent: local-first, Markdown-native, u... |
 | [extesy/hoverzoom](https://github.com/extesy/hoverzoom) | Google Chrome extension for zooming images on mouse hover |
 | [Extremelyd1/minecraft-bingo](https://github.com/Extremelyd1/minecraft-bingo) | Item bingo in Minecraft |
@@ -467,7 +468,7 @@
 | [freeok/so-novel](https://github.com/freeok/so-novel) | 小说下载｜网文下载 / 网络小说 |
 | [Freezer-Team/Freezer](https://github.com/Freezer-Team/Freezer) | Third party Android Tombstone |
 | [FreezeYou/FreezeYou](https://github.com/FreezeYou/FreezeYou) | 支持 ROOT、免 ROOT 与系统应用模式 |
-| [fscarmen/ArgoX](https://github.com/fscarmen/ArgoX) | Argo Xray for VPS one-click script. 一键脚本 |
+| [fscarmen/ArgoX](https://github.com/fscarmen/ArgoX) | ArgoX（Argo + Xray）—— 一键多协议脚本。基于 Xray 核心，支持 Reality、Hysteria2、VLESS、VMess、Troj... |
 | [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) | Open source, compact, and material designed cursor set. |
 | [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) | The beautiful & flexible React.js docs framework. |
 | [fxliang/fcitx5-android](https://github.com/fxliang/fcitx5-android) | Fcitx5 input method framework and engines ported to Android, with enhanced fe... |
@@ -556,6 +557,7 @@
 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
 | [hashcat/hashcat](https://github.com/hashcat/hashcat) | World's fastest and most advanced password recovery utility |
 | [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) | 🪓 An orchestration engine for background tasks, AI agents, and durable workflows |
+| [HaujetZhao/CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline) | PC 端语音输入工具，离线识别，高准确率、低延迟，支持热词、LLM润色。按住CapsLock或鼠标侧键X2说话，松开自动上屏。 |
 | [hax/heshijun_v_360](https://github.com/hax/heshijun_v_360) | 贺师俊与360的劳动争议诉讼 |
 | [HChenX/AppRetention](https://github.com/HChenX/AppRetention) | Hook 系统 kill 逻辑来实现后台保活 / Hook system kill logic to implement background keep ... |
 | [hchunhui/librime-lua](https://github.com/hchunhui/librime-lua) | Extending RIME with Lua scripts |
@@ -903,7 +905,7 @@
 | [lvandeve/lodepng](https://github.com/lvandeve/lodepng) | PNG encoder and decoder in C and C++. |
 | [lwch/natpass](https://github.com/lwch/natpass) | 🔥居家办公，远程开发神器 |
 | [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) | A terminal based Pokemon like game |
-| [lxgw/advanced-cjk-font-magisk-module-template](https://github.com/lxgw/advanced-cjk-font-magisk-module-template) | A Magisk module template to systemlessly replace system fonts. Supports CJK F... |
+| [lxgw/advanced-cjk-font-magisk-module-template](https://github.com/lxgw/advanced-cjk-font-magisk-module-template) | [DEPRECATED] A Magisk module template to systemlessly replace system fonts. S... |
 | [lxgw/kose-font](https://github.com/lxgw/kose-font) | A Chinese handwriting font derived from SetoFont. 一款衍生于「濑户字体」的中文手写字型。 |
 | [lxgw/LxgwNeoXiHei](https://github.com/lxgw/LxgwNeoXiHei) | A Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴシック」的中文黑体字型。 |
 | [lxgw/LxgwNeoZhiSong](https://github.com/lxgw/LxgwNeoZhiSong) | A Chinese serif font derived from IPAmj Mincho. 一款衍生于「IPAmj明朝」的中文宋体字型。 |
@@ -911,7 +913,7 @@
 | [lxgw/LxgwWenkaiGB](https://github.com/lxgw/LxgwWenkaiGB) | An open-source Simplified Chinese font derived from Klee One. |
 | [lxgw/LxgwXiHei](https://github.com/lxgw/LxgwXiHei) | A Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴシック」的中文黑体字型。 |
 | [lxgw/LxgwZhiSong](https://github.com/lxgw/LxgwZhiSong) | A Chinese sans-serif font derived from IPAex Mincho and IPAmj Mincho. 「IPAex明... |
-| [lxgw/simple-cjk-font-magisk-module-template](https://github.com/lxgw/simple-cjk-font-magisk-module-template) | A Magisk module template to systemlessly replace system fonts. Supports CJK F... |
+| [lxgw/simple-cjk-font-magisk-module-template](https://github.com/lxgw/simple-cjk-font-magisk-module-template) | [DEPRECATED & ARCHIVED] A Magisk module template to systemlessly replace syst... |
 | [lxgw/yozai-font](https://github.com/lxgw/yozai-font) | A Chinese handwriting font derived from YozFont. 一款衍生于 YozFont 的中文手写字型。 |
 | [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) | A Grub Theme in the style of Minecraft! |
 | [Lxtharia/minegrub-world-sel-theme](https://github.com/Lxtharia/minegrub-world-sel-theme) | A grub theme in the style of the Minecraft singleplayer (sp) world selection ... |
@@ -1484,6 +1486,7 @@
 | [theopfr/somo](https://github.com/theopfr/somo) | A human-friendly alternative to netstat for socket and port monitoring on Lin... |
 | [TheresaQWQ/BroadcastOnAirDanmaku](https://github.com/TheresaQWQ/BroadcastOnAirDanmaku) | 一个直播间弹幕姬 |
 | [ThirtyDegreesRay/OpenHub](https://github.com/ThirtyDegreesRay/OpenHub) | An open source GitHub Android client app, faster and concise. |
+| [thuanpham582002/tabby-mcp-server](https://github.com/thuanpham582002/tabby-mcp-server) | MCP server for control Tabby terminal |
 | [thunlp/THUOCL](https://github.com/thunlp/THUOCL) | THUOCL（THU Open Chinese Lexicon）中文词库 |
 | [Thysrael/Horizon](https://github.com/Thysrael/Horizon) | 📡 Your own AI-powered news radar. Generates daily briefings in English & Chin... |
 | [tiagonmas/Windows-Loopback-Exemption-Manager](https://github.com/tiagonmas/Windows-Loopback-Exemption-Manager) | None |
@@ -1800,4 +1803,5 @@
 | [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) | Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working) |
 | [ZyperWave/ZyperWinOptimize](https://github.com/ZyperWave/ZyperWinOptimize) | ZyperWin++是一个轻便的Windows优化工具，适用于Win7-Win11最新版的优化，包括性能优化、服务项优化、垃圾清理等操作，还支持系统激活和... |
 | [zyronon/TypeWords](https://github.com/zyronon/TypeWords) | Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步； |
+| [zzj-Mark/psmux-skill](https://github.com/zzj-Mark/psmux-skill) | psmux skill for AI agents - Windows native terminal multiplexer (tmux alterna... |
 | [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) | A Clash GUI based on tauri. Supports Windows, macOS and Linux. |
