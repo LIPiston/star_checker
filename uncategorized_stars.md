@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sun Jul 19 03:16:58 UTC 2026 | 总计: **1801** 个未分类项目
+> 生成于 UTC 时间: Mon Jul 20 03:49:30 UTC 2026 | 总计: **1803** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -11,6 +11,7 @@
 | [15dd/wenku8reader](https://github.com/15dd/wenku8reader) | 第三方轻小说文库app |
 | [1995chen/dnf](https://github.com/1995chen/dnf) | None |
 | [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) | 🔥 1Panel is a modern, open-source VPS control panel — and the only one with n... |
+| [1Panel-dev/mcp-1panel](https://github.com/1Panel-dev/mcp-1panel) | mcp-1panel is an implementation of the Model Context Protocol (MCP) server fo... |
 | [201206030/novel-plus](https://github.com/201206030/novel-plus) | novel-plus 是一个多端（PC、WAP）阅读 、功能完善的小说 CMS 系统。包括小说推荐、小说检索、小说排行、小说阅读、小说书架、小说评论、小说... |
 | [201853910/VMwareWorkstation](https://github.com/201853910/VMwareWorkstation) | 手动上传官网的VMwareWorkstation安装包 |
 | [233boy/v2ray](https://github.com/233boy/v2ray) | 最好用的 V2Ray 一键安装脚本 & 管理脚本 |
@@ -1461,6 +1462,7 @@
 | [TeamVastsea/MultiLoginReloaded](https://github.com/TeamVastsea/MultiLoginReloaded) | 外置共存 |
 | [teaSummer/MCiSEE](https://github.com/teaSummer/MCiSEE) | 所见皆是Minecraft，让获取MC资源更加轻便！All of Minecraft, EASILY get Minecraft resources! |
 | [TecoStudio/Frozen_Pear_Pack](https://github.com/TecoStudio/Frozen_Pear_Pack) | The continuation package of PTP, adding some functions. |
+| [TecoStudio/minerogue](https://github.com/TecoStudio/minerogue) | None |
 | [teddysun/across](https://github.com/teddysun/across) | Across the Great Wall we can reach every corner in the world |
 | [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) | ✒7000+ Material Design Icons from the Community |
 | [Teneted/Tenet](https://github.com/Teneted/Tenet) | Minecraft Forge Hybrid server implementing the Spigot/Bukkit API, formerly kn... |
