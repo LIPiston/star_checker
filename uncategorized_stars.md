@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Mon Jul 20 03:49:30 UTC 2026 | 总计: **1803** 个未分类项目
+> 生成于 UTC 时间: Tue Jul 21 02:57:19 UTC 2026 | 总计: **1807** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -327,6 +327,7 @@
 | [cxasm/notepad--](https://github.com/cxasm/notepad--) | 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。 |
 | [cyao2q/files](https://github.com/cyao2q/files) | TVBox开源版,盒子软件分享 |
 | [cypressincloud/Tally](https://github.com/cypressincloud/Tally) | None |
+| [CyrilPeng/Venera-Next](https://github.com/CyrilPeng/Venera-Next) | VeneraNext 是一个跨平台漫画阅读器，支持本地漫画和网络漫画源，支持 Android、iOS、Windows、Linux、macOS 平台。 |
 | [czy0729/Bangumi](https://github.com/czy0729/Bangumi) | :electron: An unofficial https://bgm.tv ui first app client for Android and i... |
 | [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se) | SD Maid 2/SE is Android's most thorough cleaning tool. |
 | [daeuniverse/dae](https://github.com/daeuniverse/dae) | eBPF-based Linux high-performance transparent proxy solution. |
@@ -555,7 +556,7 @@
 | [HapeLee/legado-with-MD3](https://github.com/HapeLee/legado-with-MD3) | 使用 Material Design 3 全新设计的阅读 3.0 |
 | [happycola233/tchMaterial-parser](https://github.com/happycola233/tchMaterial-parser) | 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。 |
 | [hardhackerlabs/themes](https://github.com/hardhackerlabs/themes) | 🧑🏾‍🚀 One Theme to Rule Them All 🌈 |
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or k... |
 | [hashcat/hashcat](https://github.com/hashcat/hashcat) | World's fastest and most advanced password recovery utility |
 | [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) | 🪓 An orchestration engine for background tasks, AI agents, and durable workflows |
 | [HaujetZhao/CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline) | PC 端语音输入工具，离线识别，高准确率、低延迟，支持热词、LLM润色。按住CapsLock或鼠标侧键X2说话，松开自动上屏。 |
@@ -609,6 +610,7 @@
 | [HunterPie/HunterPie](https://github.com/HunterPie/HunterPie) | A clean, modern and robust overlay for Monster Hunter games. |
 | [huynhsontung/Screenbox](https://github.com/huynhsontung/Screenbox) | LibVLC-based media player for the Universal Windows Platform |
 | [huzesama/ASGuard](https://github.com/huzesama/ASGuard) | Magisk模块，用于安卓的无障碍服务(或名:辅助功能)辅助管理模块 |
+| [Hy4ri/hermes-mobile](https://github.com/Hy4ri/hermes-mobile) | Hermes Agent mobile client — real-time chat, cron management, session resume,... |
 | [HyDE-Project/HyDE](https://github.com/HyDE-Project/HyDE) | HyDE, your Development Environment 🖥️💻 |
 | [HyperZoneLogin/MultiLogin](https://github.com/HyperZoneLogin/MultiLogin) | 接入新框架的取代产物 |
 | [HyPlayer/HyPlayer](https://github.com/HyPlayer/HyPlayer) | 仅供学习交流使用 / 第三方网易云音乐播放器 / A Netease Cloud Music Player |
@@ -798,7 +800,7 @@
 | [laishulu/Sarasa-Term-SC-Nerd](https://github.com/laishulu/Sarasa-Term-SC-Nerd) | 简体中文终端更纱黑体+Nerd图标字体库。中英文宽度完美2:1，图标长宽经过调整，不会出现对齐问题，尤其适合作为终端字体。  |
 | [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) | Feature-rich wifi hotspot creator for Linux which provides both GUI and comma... |
 | [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) | 2023-2025中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅，包含节假日API |
-| [langgenius/dify](https://github.com/langgenius/dify) | Production-ready platform for agentic workflow development. |
+| [langgenius/dify](https://github.com/langgenius/dify) | Build Agentic workflows, RAG pipelines, with rich AI model and tool support o... |
 | [lapce/lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust |
 | [laurent22/joplin](https://github.com/laurent22/joplin) | Joplin - the privacy-focused note taking app with sync capabilities for Windo... |
 | [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) | No clever tagline needed. |
@@ -1203,6 +1205,7 @@
 | [popcap-games/PvZ](https://github.com/popcap-games/PvZ) | Plants vs. Zombies GOTY (NO installation required) |
 | [PorkStudios/FarPlaneTwo](https://github.com/PorkStudios/FarPlaneTwo) | Level-of-Detail renderer in Minecraft. Allows for render distances of million... |
 | [powerAn2020/crond4android](https://github.com/powerAn2020/crond4android) | 支持 KernelSU、APatch、Magisk下运行的Crond。带UI界面/The Crond program that supports runn... |
+| [PowerShell/Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) | Win32 port of OpenSSH |
 | [ppy/osu](https://github.com/ppy/osu) | rhythm is just a *click* away! |
 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | Why is this running? |
 | [Predidit/Kazumi](https://github.com/Predidit/Kazumi) | 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 |
@@ -1728,6 +1731,7 @@
 | [ycccccccy/wx_key](https://github.com/ycccccccy/wx_key) | 获取微信4.0版本以上数据库密钥和图片密钥的工具 / A tool for obtaining database keys and image keys ... |
 | [yeahwu/v2ray-wss](https://github.com/yeahwu/v2ray-wss) | A proxy script with multiple protocols. |
 | [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) | Office Tool Plus localization projects. |
+| [YiC200333/XConomy](https://github.com/YiC200333/XConomy) | An economy plugin that supports data synchronization between multiple servers |
 | [Yidadaa/shuangpin](https://github.com/Yidadaa/shuangpin) | 纸砚双拼，可能是最好用的双拼练习工具，支持声母 / 韵母 / 长句模式、自定义双拼方案、进度统计、深色模式、成就系统。 |
 | [YifePlayte/SteamGuardDump](https://github.com/YifePlayte/SteamGuardDump) | Dump your SteamGuard data into your clipboard. |
 | [YILING0013/AI_NovelGenerator](https://github.com/YILING0013/AI_NovelGenerator) | 使用ai生成多章节的长篇小说，自动衔接上下文、伏笔 |
