@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Tue Jul 21 02:57:19 UTC 2026 | 总计: **1807** 个未分类项目
+> 生成于 UTC 时间: Wed Jul 22 02:55:18 UTC 2026 | 总计: **1813** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -94,10 +94,12 @@
 | [Angel-Studio/MaterialYou-Dynamic-Island](https://github.com/Angel-Studio/MaterialYou-Dynamic-Island) | Free Android version of Dynamic Island feature stylized with Material You. |
 | [angel333/infinimouse](https://github.com/angel333/infinimouse) | If you move mouse to one border, it'll come from the other. |
 | [Angey40/BaiduPCS-Go](https://github.com/Angey40/BaiduPCS-Go) | 百度网盘工具箱 - Go语言编写 |
+| [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) | AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuma... |
+| [ankitects/anki](https://github.com/ankitects/anki) | Anki is a smart spaced repetition flashcard program |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | The open source coding agent. |
 | [ansh/jiffyreader-public-archive](https://github.com/ansh/jiffyreader-public-archive) | A Browser Extension for faster reading on ANY website! |
+| [antfu-collective/changelogithub](https://github.com/antfu-collective/changelogithub) | Generate changelog for GitHub |
 | [antfu-collective/icones](https://github.com/antfu-collective/icones) | ⚡️ Icon Explorer with Instant searching, powered by Iconify |
-| [antfu/changelogithub](https://github.com/antfu/changelogithub) | Generate changelog for GitHub |
 | [antfu/handle](https://github.com/antfu/handle) | A Chinese Hanzi variation of Wordle - 汉字 Wordle |
 | [antfu/starter-vscode](https://github.com/antfu/starter-vscode) | Starter template for VS Code Extension |
 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Claude Code is an agentic coding tool that lives in your terminal, understand... |
@@ -664,6 +666,7 @@
 | [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) | Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Az... |
 | [ItMarki/MisekiBitmap](https://github.com/ItMarki/MisekiBitmap) | 基於美咲ゴチック／明朝製作的全面漢字字型 |
 | [itorr/eva-title](https://github.com/itorr/eva-title) | 🐧「福音战士标题生成器」 Evangelion Title Card Generator |
+| [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck) | Free, open-source Windows optimization tool for performance, privacy, and sim... |
 | [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) | Docker image that provides a Minecraft Server for Java Edition that automatic... |
 | [Ivan-1F/VillagerHelper](https://github.com/Ivan-1F/VillagerHelper) | A fabric mod to show villager's information. Including bed & job site and enc... |
 | [izabera/bitwise-challenge-2048](https://github.com/izabera/bitwise-challenge-2048) | 2048 with only 64 bits of state |
@@ -705,6 +708,7 @@
 | [JingMatrix/Vector](https://github.com/JingMatrix/Vector) | Modern Xposed Framework |
 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h! |
 | [jiqiu2022/Zygisk-MyInjector](https://github.com/jiqiu2022/Zygisk-MyInjector) | 一个自定义注入so的脚手架,现在已经支持了界面化使用。 |
+| [jobisoft/TbSync](https://github.com/jobisoft/TbSync) | [Thunderbird Add-On] Central user interface to manage cloud accounts and to s... |
 | [JohanChane/clashtui](https://github.com/JohanChane/clashtui) | Mihomo (Clash.Meta) / sing-box TUI Client |
 | [johnfactotum/foliate](https://github.com/johnfactotum/foliate) | Read e-books in style |
 | [jonz94/Sarasa-Gothic-Nerd-Fonts](https://github.com/jonz94/Sarasa-Gothic-Nerd-Fonts) | Nerd fonts patched Sarasa Gothic font. |
@@ -965,6 +969,7 @@
 | [MatsuriDayo/Matsuri](https://github.com/MatsuriDayo/Matsuri) | Matsuri (茉莉) / V2Ray / universal proxy toolchain for Android / Fork of SagerNet |
 | [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) | NekoBox for Android / sing-box / universal proxy toolchain for Android |
 | [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) | 不再维护，自寻替代品。 Qt based cross-platform GUI proxy configuration manager (backend:... |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents directory. |
 | [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) | Protect your SSH keys with your Mac's Secure Enclave |
 | [mayswind/AriaNg](https://github.com/mayswind/AriaNg) | AriaNg, a modern web frontend making aria2 easier to use. |
 | [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping) | A lightweight, self-hosted personal finance app with a user-friendly interfac... |
@@ -1207,7 +1212,7 @@
 | [powerAn2020/crond4android](https://github.com/powerAn2020/crond4android) | 支持 KernelSU、APatch、Magisk下运行的Crond。带UI界面/The Crond program that supports runn... |
 | [PowerShell/Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) | Win32 port of OpenSSH |
 | [ppy/osu](https://github.com/ppy/osu) | rhythm is just a *click* away! |
-| [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | Why is this running? |
+| [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | witr - Why is this running? A fast, cross-platform CLI + TUI that traces any ... |
 | [Predidit/Kazumi](https://github.com/Predidit/Kazumi) | 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 |
 | [PrelinaMontelli/Edge-Monitor](https://github.com/PrelinaMontelli/Edge-Monitor) | 一个监控并弄死异常Edge的程序 |
 | [premieroctet/photoshot](https://github.com/premieroctet/photoshot) | An open-source AI avatar generator web app - https://photoshot.app |
@@ -1521,7 +1526,7 @@
 | [tonquer/ehentai-qt](https://github.com/tonquer/ehentai-qt) | e-hentai, exhentai，看图，搜索，下载器 |
 | [tonquer/JMComic-qt](https://github.com/tonquer/JMComic-qt) | 禁漫天堂，18comic，使用qt实现的PC客户端，支持Windows，Linux，MacOS |
 | [tonquer/picacg-qt](https://github.com/tonquer/picacg-qt) | 哔咔漫画, PicACG comic PC client(Windows, Linux, MacOS)  |
-| [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) | Send files and folders anywhere in the world without storing in cloud - any s... |
+| [tonyantony300/dashbeam](https://github.com/tonyantony300/dashbeam) | Send files and folders anywhere in the world without storing in cloud - any s... |
 | [tonyfettes/fcitx5-nord](https://github.com/tonyfettes/fcitx5-nord) | Fcitx5 theme based on Nord color. |
 | [toon-format/toon](https://github.com/toon-format/toon) | 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-awa... |
 | [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) | The Magic Mask for Android |
@@ -1556,6 +1561,7 @@
 | [tytydraco/LADB](https://github.com/tytydraco/LADB) | A local ADB shell for Android! |
 | [u-Sir/peek-pop](https://github.com/u-Sir/peek-pop) | Instantly preview links with a simple double-click, without breaking your wor... |
 | [u14app/deep-research](https://github.com/u14app/deep-research) | Use any LLMs (Large Language Models) for Deep Research. Support SSE API and M... |
+| [Uahh/ToastFish](https://github.com/Uahh/ToastFish) | 一个利用摸鱼时间背单词的软件。 |
 | [uberhalit/SekiroFpsUnlockAndMore](https://github.com/uberhalit/SekiroFpsUnlockAndMore) | A small utility to remove frame rate limit, add custom resolutions (widescree... |
 | [umami-software/umami](https://github.com/umami-software/umami) | Umami is a modern, privacy-focused analytics platform. An open-source alterna... |
 | [uncle-novel/uncle-novel](https://github.com/uncle-novel/uncle-novel) | None |
