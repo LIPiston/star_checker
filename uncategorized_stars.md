@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Wed Jul 22 02:55:18 UTC 2026 | 总计: **1813** 个未分类项目
+> 生成于 UTC 时间: Thu Jul 23 03:16:49 UTC 2026 | 总计: **1813** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -78,7 +78,7 @@
 | [allrobot/KeyCastOW_chinese](https://github.com/allrobot/KeyCastOW_chinese) | 按键击键可视化，感谢Brook Hong的贡献 Keystroke visualization, thanks to Brook Hong |
 | [Almamu/linux-wallpaperengine](https://github.com/Almamu/linux-wallpaperengine) | Wallpaper Engine backgrounds for Linux! |
 | [alondmnt/joplin-plugin-jarvis](https://github.com/alondmnt/joplin-plugin-jarvis) | Joplin (note-taking) assistant running a very intelligent system (GPT, Claude... |
-| [alovajs/alova](https://github.com/alovajs/alova) | A request toolkit for ultimate efficiency |
+| [alovajs/alova](https://github.com/alovajs/alova) | The request strategy layer for JavaScript. 20+ ready-made strategies cut your... |
 | [alpha-liu-01/SpeedyNote](https://github.com/alpha-liu-01/SpeedyNote) | A simple note app with good performance and PDF import support |
 | [alvatip/Borealis-cursors](https://github.com/alvatip/Borealis-cursors) | None |
 | [amchii/tg-signer](https://github.com/amchii/tg-signer) | 电报自动执行（签到、发送消息、点击键盘、AI回复等）；个人、群组、频道消息监控、转发与自动回复。Automated Telegram tasks (che... |
