@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Thu Jul 23 03:16:49 UTC 2026 | 总计: **1813** 个未分类项目
+> 生成于 UTC 时间: Fri Jul 24 02:55:49 UTC 2026 | 总计: **1815** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -498,6 +498,7 @@
 | [gedoor/legado](https://github.com/gedoor/legado) | Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可... |
 | [GeForceLegend/Minecraft-3D-Default](https://github.com/GeForceLegend/Minecraft-3D-Default) | A Minecraft default-look resourcepack with 3D models. |
 | [Generator/Grub2-themes](https://github.com/Generator/Grub2-themes) | Grub2 gfxmenu themes |
+| [GentlemanHu/Tabby-MCP](https://github.com/GentlemanHu/Tabby-MCP) | MCP server for Tabby terminal, 34 MCP tools including SFTP support, full cont... |
 | [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device |
 | [getActivity/AndroidIndex](https://github.com/getActivity/AndroidIndex) | Android 资源大汇总 |
 | [getgridea/gridea](https://github.com/getgridea/gridea) | ✍️ A static blog writing client (一个静态博客写作客户端) |
@@ -657,6 +658,7 @@
 | [Innei/Yohaku](https://github.com/Innei/Yohaku) | 余白 / Yohaku — A typographic design system for written content. One accent, th... |
 | [InputShare/InputShare](https://github.com/InputShare/InputShare) | InputShare enables you to share the keyboard and mouse of your computer with ... |
 | [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude C... |
+| [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | OfficeCLI is the first and best Office suite  purpose-built for AI agents to ... |
 | [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) | A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (e... |
 | [IrisShaders/Iris](https://github.com/IrisShaders/Iris) | A modern shaders mod for Minecraft compatible with existing OptiFine shader p... |
 | [Iru21/Authy](https://github.com/Iru21/Authy) | A simple authentication plugin for Minecraft 1.17+! |
@@ -1212,7 +1214,7 @@
 | [powerAn2020/crond4android](https://github.com/powerAn2020/crond4android) | 支持 KernelSU、APatch、Magisk下运行的Crond。带UI界面/The Crond program that supports runn... |
 | [PowerShell/Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) | Win32 port of OpenSSH |
 | [ppy/osu](https://github.com/ppy/osu) | rhythm is just a *click* away! |
-| [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | witr - Why is this running? A fast, cross-platform CLI + TUI that traces any ... |
+| [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | Why is this running? Trace any process, port, container, or file back to what... |
 | [Predidit/Kazumi](https://github.com/Predidit/Kazumi) | 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 |
 | [PrelinaMontelli/Edge-Monitor](https://github.com/PrelinaMontelli/Edge-Monitor) | 一个监控并弄死异常Edge的程序 |
 | [premieroctet/photoshot](https://github.com/premieroctet/photoshot) | An open-source AI avatar generator web app - https://photoshot.app |
