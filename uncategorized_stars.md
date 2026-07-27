@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sun Jul 26 03:21:17 UTC 2026 | 总计: **1815** 个未分类项目
+> 生成于 UTC 时间: Mon Jul 27 03:31:11 UTC 2026 | 总计: **1819** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -127,6 +127,7 @@
 | [astei/lazydfu](https://github.com/astei/lazydfu) | Fabric mod that makes Minecraft DataFixerUpper initialization lazy |
 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | AI Agent Assistant & development framework that integrates lots of IM platfor... |
 | [Astro-2539/ZLabs-Pixel-12px](https://github.com/Astro-2539/ZLabs-Pixel-12px) | 一款规格为 11*12px 的开源中文像素字体 A 11*12px open source Chinese pixel font |
+| [Asultop/Re-AsulCFGManager](https://github.com/Asultop/Re-AsulCFGManager) | Rewrite AsulCFGManager Project (translate .pro 2 CMakeLists.txt )  [CMakeList... |
 | [At87668/Cyber](https://github.com/At87668/Cyber) | Cyber theme for Mx Space. |
 | [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) | 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体 |
 | [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) | 🚀 An open and lightweight modification to Windows, designed to optimize perfo... |
@@ -329,7 +330,7 @@
 | [cxasm/notepad--](https://github.com/cxasm/notepad--) | 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。 |
 | [cyao2q/files](https://github.com/cyao2q/files) | TVBox开源版,盒子软件分享 |
 | [cypressincloud/Tally](https://github.com/cypressincloud/Tally) | None |
-| [CyrilPeng/Venera-Next](https://github.com/CyrilPeng/Venera-Next) | VeneraNext 是一个跨平台漫画阅读器，支持本地漫画和网络漫画源，支持 Android、iOS、Windows、Linux、macOS 平台。 |
+| [CyrilPeng/Venera-Next](https://github.com/CyrilPeng/Venera-Next) | VeneraNext 是一个跨平台漫画阅读器，支持本地漫画、WebDAV 漫画源、第三方网络漫画源，支持 Android、iOS、Windows、Linu... |
 | [czy0729/Bangumi](https://github.com/czy0729/Bangumi) | :electron: An unofficial https://bgm.tv ui first app client for Android and i... |
 | [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se) | SD Maid 2/SE is Android's most thorough cleaning tool. |
 | [daeuniverse/dae](https://github.com/daeuniverse/dae) | eBPF-based Linux high-performance transparent proxy solution. |
@@ -1203,6 +1204,7 @@
 | [PlaceholderAPI/PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI) | The best and simplest way to add placeholders to your server! - 2M+ Downloads... |
 | [plait-board/drawnix](https://github.com/plait-board/drawnix) | 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool wit... |
 | [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) | 🧩 The Browser Extension Framework |
+| [plsgo/cstb](https://github.com/plsgo/cstb) | 专为CS玩家打造的一站式游戏工具箱，集成便捷设置、云端同步、配置解析、性能测试、录像管理分析、高光录制、信息聚合、游戏优化等功能。 |
 | [plusls/MasaGadget](https://github.com/plusls/MasaGadget) | Masa Gadget |
 | [plusls/oh-my-minecraft-client](https://github.com/plusls/oh-my-minecraft-client) | oh-my-minecraft-client |
 | [plusls/plusls-carpet-addition](https://github.com/plusls/plusls-carpet-addition) | carpet addition for minecraft |
@@ -1302,6 +1304,7 @@
 | [robot00f/Flyme-FreeForm](https://github.com/robot00f/Flyme-FreeForm) | None |
 | [rogden/tailwind-config-viewer](https://github.com/rogden/tailwind-config-viewer) | A local UI tool for visualizing your Tailwind CSS configuration file. |
 | [RohitVerma882/termux-miunlock](https://github.com/RohitVerma882/termux-miunlock) | A program that can be used to retrieve the bootloader unlock token for Xiaomi... |
+| [RolinShmily/SrP-CFG_ForCS2](https://github.com/RolinShmily/SrP-CFG_ForCS2) | 🎉Presets of Config files in CS2 by RoL1n |
 | [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) | A Zsh theme |
 | [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) | A turnkey configuration for Zsh |
 | [rRemix/APlayer](https://github.com/rRemix/APlayer) | Android Music Player |
@@ -1433,7 +1436,7 @@
 | [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) | GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本 |
 | [SuperMarcus/LevelDBViewer](https://github.com/SuperMarcus/LevelDBViewer) | A Java program provides ablities to access & edit leveldb database |
 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | Memory and context engine + app that is extremely fast, scalable, and can be ... |
-| [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) | 🧱 easy fast local-first microVM library and toolkit |
+| [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) | 🧱 easy fast local-first microVM runtime and library |
 | [superwfox/minecraft-dev](https://github.com/superwfox/minecraft-dev) | An Agent platform for minecraft plugin generating |
 | [suqi8/OShin](https://github.com/suqi8/OShin) | 一个专为ColorOS系统设计的辅助模块 |
 | [suxuang/myIPTV](https://github.com/suxuang/myIPTV) | 【典藏版】高清直播源涵盖几乎所有卫视节目，内置完美台标加节目预告 |
@@ -1478,6 +1481,7 @@
 | [Teneted/Tenet](https://github.com/Teneted/Tenet) | Minecraft Forge Hybrid server implementing the Spigot/Bukkit API, formerly kn... |
 | [Terminus2049/Not-exist-in-douban](https://github.com/Terminus2049/Not-exist-in-douban) | 豆瓣不存在的书影音 |
 | [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) | Self-hosted SSH and remote desktop management. |
+| [TermoraDev/termora](https://github.com/TermoraDev/termora) | Termora is a terminal emulator and SSH client for Windows, macOS and Linux. |
 | [termux/proot-distro](https://github.com/termux/proot-distro) | An utility for managing proot containers. |
 | [termux/termux-app](https://github.com/termux/termux-app) | Termux - a terminal emulator application for Android OS extendible by variety... |
 | [termux/termux-boot](https://github.com/termux/termux-boot) | Termux add-on app allowing programs to be run at boot. |
@@ -1530,7 +1534,7 @@
 | [tonquer/picacg-qt](https://github.com/tonquer/picacg-qt) | 哔咔漫画, PicACG comic PC client(Windows, Linux, MacOS)  |
 | [tonyantony300/dashbeam](https://github.com/tonyantony300/dashbeam) | Send files and folders anywhere in the world without storing in cloud - any s... |
 | [tonyfettes/fcitx5-nord](https://github.com/tonyfettes/fcitx5-nord) | Fcitx5 theme based on Nord color. |
-| [toon-format/toon](https://github.com/toon-format/toon) | 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-awa... |
+| [toon-format/toon](https://github.com/toon-format/toon) | 🎒 Token-Oriented Object Notation (TOON) – compact, human-readable serializati... |
 | [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) | The Magic Mask for Android |
 | [topjohnwu/ndk-busybox](https://github.com/topjohnwu/ndk-busybox) | BusyBox building with command ndk-build |
 | [Tornaco/Thanox](https://github.com/Tornaco/Thanox) | I am thanos! 😈 👌 |
