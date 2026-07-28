@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Mon Jul 27 03:31:11 UTC 2026 | 总计: **1819** 个未分类项目
+> 生成于 UTC 时间: Tue Jul 28 02:47:33 UTC 2026 | 总计: **1825** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -310,6 +310,7 @@
 | [CommandAPI/CommandAPI](https://github.com/CommandAPI/CommandAPI) | A Bukkit/Spigot API for the command UI introduced in Minecraft 1.13 |
 | [community/community](https://github.com/community/community) | Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Co... |
 | [conan-io/conan](https://github.com/conan-io/conan) | Conan - The open-source C and C++ package manager |
+| [Conflux-Union/NotEnoughBandwidth](https://github.com/Conflux-Union/NotEnoughBandwidth) | None |
 | [control-theory/gonzo](https://github.com/control-theory/gonzo) | Gonzo! The Go based TUI log analysis tool |
 | [Coolapk-Code9527/F2FS-Optimizer](https://github.com/Coolapk-Code9527/F2FS-Optimizer) | None |
 | [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) | Lean's LEDE source |
@@ -369,6 +370,7 @@
 | [docsifyjs/docsify](https://github.com/docsifyjs/docsify) | 🃏 A magical documentation site generator. |
 | [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code) | Legacy-Mess Detector – assess the “legacy-mess level” of your code and output... |
 | [dongyuanwai/readme-become-better](https://github.com/dongyuanwai/readme-become-better) | 让github-readme变得更好 |
+| [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) | 2026年7月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器 |
 | [dongyuwei/hallelujahIM](https://github.com/dongyuwei/hallelujahIM) | hallelujahIM(哈利路亚 英文输入法) is  an intelligent English input method with auto-su... |
 | [doocs/md](https://github.com/doocs/md) | ✍ WeChat Markdown Editor / 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理... |
 | [Doraemonliu/com.houvven.guise](https://github.com/Doraemonliu/com.houvven.guise) | Guise |
@@ -536,6 +538,7 @@
 | [Griefed/ServerPackCreator](https://github.com/Griefed/ServerPackCreator) | Create a server pack from a Minecraft Forge, NeoForge, Fabric, LegacyFabric o... |
 | [groupultra/telegram-search](https://github.com/groupultra/telegram-search) | 🔍 导出并模糊搜索 Telegram 聊天记录 / Export and fuzzy search your Telegram chat history |
 | [gsantner/markor](https://github.com/gsantner/markor) | Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, mat... |
+| [GSManagerXZ/GameServerManager](https://github.com/GSManagerXZ/GameServerManager) | GameServerManager（简称GSManager）现代化游戏一键部署面板，专为简化游戏服务器的部署、管理和维护而设计；注重steam、MC游戏一键开服 |
 | [GSWXXN/RestoreSplashScreen](https://github.com/GSWXXN/RestoreSplashScreen) | 启动遮罩进化 / RestoreSplashScreen |
 | [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) | 📂 Web File Browser |
 | [GtxFury/FlyClash](https://github.com/GtxFury/FlyClash) | 简洁美观的代理工具 |
@@ -585,7 +588,7 @@
 | [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) | OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫... |
 | [HisMax/RedInk](https://github.com/HisMax/RedInk) | Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano ... |
 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianyth... |
-| [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | Lightweight, open-source AI agent for your tools, chats, and workflows. |
+| [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | Ultra-lightweight, open-source, self-hosted personal AI agent framework in Py... |
 | [HMBSbige/NatTypeTester](https://github.com/HMBSbige/NatTypeTester) | 测试当前网络的 NAT 类型（STUN） |
 | [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL) | A Minecraft Launcher which is multi-functional, cross-platform and popular |
 | [HMCL-dev/HMCL-docs](https://github.com/HMCL-dev/HMCL-docs) | Documentations for Hello Minecraft! Launcher |
@@ -1535,6 +1538,7 @@
 | [tonyantony300/dashbeam](https://github.com/tonyantony300/dashbeam) | Send files and folders anywhere in the world without storing in cloud - any s... |
 | [tonyfettes/fcitx5-nord](https://github.com/tonyfettes/fcitx5-nord) | Fcitx5 theme based on Nord color. |
 | [toon-format/toon](https://github.com/toon-format/toon) | 🎒 Token-Oriented Object Notation (TOON) – compact, human-readable serializati... |
+| [topcss/docker-pull-tar](https://github.com/topcss/docker-pull-tar) | 无需 Docker 环境，就能直接搜索、下载多架构（如 arm、x86）的 Docker 镜像并保存为 tar 包。Search and download... |
 | [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) | The Magic Mask for Android |
 | [topjohnwu/ndk-busybox](https://github.com/topjohnwu/ndk-busybox) | BusyBox building with command ndk-build |
 | [Tornaco/Thanox](https://github.com/Tornaco/Thanox) | I am thanos! 😈 👌 |
@@ -1581,6 +1585,7 @@
 | [urdarling/guise.backup](https://github.com/urdarling/guise.backup) | Guise备份 |
 | [urwid/urwid](https://github.com/urwid/urwid) | Console user interface library for Python (official repo) |
 | [usememos/memos](https://github.com/usememos/memos) | Open-source, self-hosted note-taking tool built for quick capture. Markdown-n... |
+| [USS-Shenzhou/NotEnoughBandwidth](https://github.com/USS-Shenzhou/NotEnoughBandwidth) | None |
 | [ustbhuangyi/better-scroll](https://github.com/ustbhuangyi/better-scroll) | :scroll: inspired by iscroll, and it supports more features and has a better ... |
 | [USTC-Resource/USTC-Course](https://github.com/USTC-Resource/USTC-Course) | :heart:中国科学技术大学课程资源 |
 | [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative) | Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android |
@@ -1735,6 +1740,7 @@
 | [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) | Offline translation model server with low resource consumption, fast speed, a... |
 | [xxxily/h5player](https://github.com/xxxily/h5player) | This software supports all audio and video websites, such as TikTok, YouTube,... |
 | [XYenon/catppuccin-fcitx5-android](https://github.com/XYenon/catppuccin-fcitx5-android) | 🐧 Soothing pastel theme for fcitx5-android |
+| [xykt/NetQuality](https://github.com/xykt/NetQuality) | 网络质量检测脚本 - Network Quality Check Script |
 | [YanG-1989/m3u](https://github.com/YanG-1989/m3u) | 直播源 |
 | [yaokui2018/ConsoleQRcode](https://github.com/yaokui2018/ConsoleQRcode) | 在终端/控制台里输出二维码，打印二维码字符（非图片），Java实现 |
 | [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) | Compile shell scripts to static binaries. |
