@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Tue Jul 28 02:47:33 UTC 2026 | 总计: **1825** 个未分类项目
+> 生成于 UTC 时间: Wed Jul 29 02:54:59 UTC 2026 | 总计: **1837** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -36,6 +36,7 @@
 | [AChep/keyguard-app](https://github.com/AChep/keyguard-app) | A third-party client for the Bitwarden platform and KeePass (KDBX) files. It ... |
 | [Achuan-2/SlideSCI](https://github.com/Achuan-2/SlideSCI) | PPT插件，支持素材库、AI助手、一键添加图片标题，复制粘贴位置、一键图片对齐、一键插入Markdown（加粗、超链接等行内样式、代码块、LaTeX等块级... |
 | [acl4ssr-sub/acl4ssr-sub.github.io](https://github.com/acl4ssr-sub/acl4ssr-sub.github.io) | None |
+| [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) | SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址 |
 | [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) | Acode - powerful text/code editor for android |
 | [actions/setup-python](https://github.com/actions/setup-python) | Set up your GitHub Actions workflow with a specific version of Python |
 | [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) | The best free and open-source automated time tracker. Cross-platform, extensi... |
@@ -86,6 +87,7 @@
 | [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) | A Download Manager that speeds up your downloads |
 | [amzxyz/RIME-LMDG](https://github.com/amzxyz/RIME-LMDG) | 简繁扩展词库/声调编码/最全声调标注工具链/万象更新工具链/Rime语法模型：LMDG - Language, Model, Dictionary, Gr... |
 | [amzxyz/rime-wanxiang](https://github.com/amzxyz/rime-wanxiang) | 「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更优质的数据，接管你的候选。Q群：11033572 / 11631066 |
+| [AnalyseDeCircuit/oxideterm](https://github.com/AnalyseDeCircuit/oxideterm) | AI-native workspace for local shells and remote machines.Zero Electron, zero ... |
 | [anasfanani/magisk-tailscaled](https://github.com/anasfanani/magisk-tailscaled) | Magisk/KernelSU module for running Tailscale on rooted Android devices. The e... |
 | [Andrews54757/tweakfork](https://github.com/Andrews54757/tweakfork) | A modified small client-side Minecraft mod that adds various configurable twe... |
 | [android/ndk](https://github.com/android/ndk) | The Android Native Development Kit |
@@ -170,6 +172,7 @@
 | [benaclejames/VRCFaceTracking](https://github.com/benaclejames/VRCFaceTracking) | OSC App to allow VRChat avatars to interact with eye and facial tracking hard... |
 | [bennyyip/Rime-See-Me](https://github.com/bennyyip/Rime-See-Me) | Skin editor for Weasel(Rime frontend on Windows). All credit goes to http://t... |
 | [bestruirui/BestSub](https://github.com/bestruirui/BestSub) | Best Sub, Best for Your Net |
+| [Betterbird/thunderbird-patches](https://github.com/Betterbird/thunderbird-patches) | Betterbird is a fork of Mozilla Thunderbird. Here are the patches that provid... |
 | [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) | Better Discord enhances Discord desktop app with new features. |
 | [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) | Just make a few small changes to your Bilibili homepage. (English / 简体中文 / 正體... |
 | [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) | 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。 |
@@ -326,6 +329,7 @@
 | [cteamx/Thief](https://github.com/cteamx/Thief) | 一款创新跨平台摸鱼神器，支持小说、股票、网页、视频、直播、PDF、游戏等摸鱼模式，为上班族打造的上班必备神器，使用此软件可以让上班倍感轻松，远离 ICU。 |
 | [Cubitect/cubiomes-viewer](https://github.com/Cubitect/cubiomes-viewer) | An efficient graphical Minecraft seed finder and map viewer. |
 | [cuixueshe/earthworm](https://github.com/cuixueshe/earthworm) | Learning English through the method of constructing sentences with conjunctions |
+| [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) | MCP Server for Computer Use in Windows |
 | [Cute-Dress/Dress](https://github.com/Cute-Dress/Dress) | 好耶 是女装 / 备份·接受PR |
 | [cweijan/vscode-office](https://github.com/cweijan/vscode-office) | Let VSCode support previewing PDF, Excel, Word and other formats, and add mar... |
 | [cxasm/notepad--](https://github.com/cxasm/notepad--) | 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。 |
@@ -542,6 +546,7 @@
 | [GSWXXN/RestoreSplashScreen](https://github.com/GSWXXN/RestoreSplashScreen) | 启动遮罩进化 / RestoreSplashScreen |
 | [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) | 📂 Web File Browser |
 | [GtxFury/FlyClash](https://github.com/GtxFury/FlyClash) | 简洁美观的代理工具 |
+| [Gu1llaum-3/sshm](https://github.com/Gu1llaum-3/sshm) | SSHM is a beautiful command-line tool that transforms how you manage and conn... |
 | [guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles) | Document Chatbot — multiple files. Powered by GPT / Embedding. |
 | [Guovin/iptv-api](https://github.com/Guovin/iptv-api) | ⚡️IPTV直播源自动更新工具：自动采集、校验、测速并生成可播放结果，支持 M3U/TXT/API 输出、自定义频道、IPv4/IPv6、Docker、G... |
 | [GuoXiCheng/SKIP](https://github.com/GuoXiCheng/SKIP) | 自动跳过APP开屏广告 |
@@ -585,6 +590,7 @@
 | [HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources) | Autoupdate iptv sources |
 | [HeyPuter/puter](https://github.com/HeyPuter/puter) | 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable. |
 | [HickoryTrail/IslandCaller](https://github.com/HickoryTrail/IslandCaller) | 基于ClassIsland插件的轻量级点名器 |
+| [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) | Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria,... |
 | [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) | OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫... |
 | [HisMax/RedInk](https://github.com/HisMax/RedInk) | Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano ... |
 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianyth... |
@@ -773,6 +779,7 @@
 | [killkimno/MORT](https://github.com/killkimno/MORT) | MORT 번역기 프로젝트 - Real-time game translator with OCR |
 | [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) | Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate... |
 | [kingsollyu/AppEnv](https://github.com/kingsollyu/AppEnv) | 应用变量 |
+| [kingToolbox/WindEdit](https://github.com/kingToolbox/WindEdit) | A high performace text editor for huge file and long line. |
 | [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) | A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal. |
 | [kintaro00/InstallWindowsWithoutUSB](https://github.com/kintaro00/InstallWindowsWithoutUSB) | New method of installation ANY windows iso without USB stick / CD-DVD. |
 | [KIPPUDESU/KIPPU_Trace](https://github.com/KIPPUDESU/KIPPU_Trace) | 一个记录重要时刻，功能简单且界面美观的安卓原生 App，将持续收取建议跟进开发。目的是在界面和体验上一定程度超越替代倒数日 |
@@ -798,7 +805,9 @@
 | [KRTirtho/spotube](https://github.com/KRTirtho/spotube) | 🎧 Open source music streaming app! Available for both desktop & mobile! |
 | [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) | The container platform tailored for Kubernetes multi-cloud, datacenter, and e... |
 | [kunkundi/crossdesk](https://github.com/kunkundi/crossdesk) | A lightweight, cross-platform remote desktop software with support for Web Cl... |
+| [KURANADO2/lazyssh](https://github.com/KURANADO2/lazyssh) | An ssh server manages TUI tools. |
 | [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) | 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg ... |
+| [Kuroba-Sayuki/VMware-Workstation-Chinese-Localization](https://github.com/Kuroba-Sayuki/VMware-Workstation-Chinese-Localization) | VMware Workstation Pro 25H2「中文翻译」「中文汉化」「旧版本翻译导入方案」「26H1已测试可用」 |
 | [KusStar/rewind-apks](https://github.com/KusStar/rewind-apks) | 倒带 App｜应用安装包仓库 |
 | [KusStar/rewind-docs](https://github.com/KusStar/rewind-docs) | 倒带 App｜应用主页 |
 | [kwsch/PKHeX](https://github.com/kwsch/PKHeX) | Pokémon Save File Editor |
@@ -1178,6 +1187,7 @@
 | [OreosLab/bili](https://github.com/OreosLab/bili) | None |
 | [osfans/trime](https://github.com/osfans/trime) | 同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for Android |
 | [ossrs/srs](https://github.com/ossrs/srs) | SRS is a simple, high-efficiency, real-time media server supporting RTMP, Web... |
+| [Oublie-le/iTerm](https://github.com/Oublie-le/iTerm) | None |
 | [ourongxing/newsnow](https://github.com/ourongxing/newsnow) | Elegant reading of real-time and hottest news |
 | [owen0o0/dujitang](https://github.com/owen0o0/dujitang) | 一言毒鸡汤单页，喜欢就点小星星哦。 |
 | [ozh/github-colors](https://github.com/ozh/github-colors) | 🌈 Github colors for all the languages |
@@ -1293,6 +1303,7 @@
 | [ResetPower/rcs](https://github.com/ResetPower/rcs) | ResetPower's Component Set using TailwindCSS. |
 | [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) | Best Material You Design music player for Android |
 | [retspen/webvirtcloud](https://github.com/retspen/webvirtcloud) | WebVirtCloud is virtualization web interface for admins and users |
+| [rewrite-va/villager-helper](https://github.com/rewrite-va/villager-helper) | None |
 | [RhythmicWave/NovelForge](https://github.com/RhythmicWave/NovelForge) | AI辅助长篇小说创作，卡片式创作，支持基于 JSON Schema的结构化 AI 生成与上下文引用，可扩展性强。 |
 | [Richasy/Bili.Copilot](https://github.com/Richasy/Bili.Copilot) | B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生应用 |
 | [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) | Using system APIs directly with adb/root privileges from normal apps through ... |
@@ -1552,6 +1563,7 @@
 | [tradecatlabs/vibe-coding-cn](https://github.com/tradecatlabs/vibe-coding-cn) | Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南 |
 | [TrionesType/zhuque](https://github.com/TrionesType/zhuque) | 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fangsong typeface project |
 | [trpc/trpc](https://github.com/trpc/trpc) | 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  |
+| [trzsz/trzsz-ssh](https://github.com/trzsz/trzsz-ssh) | trzsz-ssh ( tssh ) is an ssh client designed as a drop-in replacement for the... |
 | [tsoding/nob.h](https://github.com/tsoding/nob.h) | Header only library for writing build recipes in C.  |
 | [ttommyth/rag-memory-mcp](https://github.com/ttommyth/rag-memory-mcp) | None |
 | [Tufmoc/W.Tools-Ver.Bat](https://github.com/Tufmoc/W.Tools-Ver.Bat) | 初代工具箱雏形 |
