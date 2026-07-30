@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Wed Jul 29 02:54:59 UTC 2026 | 总计: **1837** 个未分类项目
+> 生成于 UTC 时间: Thu Jul 30 02:39:48 UTC 2026 | 总计: **1841** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -33,7 +33,7 @@
 | [abcz316/SKRoot-linuxKernelRoot](https://github.com/abcz316/SKRoot-linuxKernelRoot) | 新一代 SKRoot，完美隐藏Root功能，无视全网检测手段，实现SELinux零触碰、无挂载！ 通杀所有内核，免源码直接 Patch 原厂内核，完美保留... |
 | [Acfboy/twt-werewolf-master-ng](https://github.com/Acfboy/twt-werewolf-master-ng) | Modern generation of twt-werewolf-master |
 | [ACGaming/UniversalTweaks](https://github.com/ACGaming/UniversalTweaks) | A community project to consolidate various bugfixes and tweaks into a single ... |
-| [AChep/keyguard-app](https://github.com/AChep/keyguard-app) | A third-party client for the Bitwarden platform and KeePass (KDBX) files. It ... |
+| [AChep/keyguard-app](https://github.com/AChep/keyguard-app) | A password manager that supports Bitwarden platform and KeePass (KDBX) files.... |
 | [Achuan-2/SlideSCI](https://github.com/Achuan-2/SlideSCI) | PPT插件，支持素材库、AI助手、一键添加图片标题，复制粘贴位置、一键图片对齐、一键插入Markdown（加粗、超链接等行内样式、代码块、LaTeX等块级... |
 | [acl4ssr-sub/acl4ssr-sub.github.io](https://github.com/acl4ssr-sub/acl4ssr-sub.github.io) | None |
 | [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) | SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址 |
@@ -313,6 +313,7 @@
 | [CommandAPI/CommandAPI](https://github.com/CommandAPI/CommandAPI) | A Bukkit/Spigot API for the command UI introduced in Minecraft 1.13 |
 | [community/community](https://github.com/community/community) | Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Co... |
 | [conan-io/conan](https://github.com/conan-io/conan) | Conan - The open-source C and C++ package manager |
+| [Conflux-Union/conflux-map](https://github.com/Conflux-Union/conflux-map) | Client-side minimap and world map for Minecraft Fabric, with waypoints, radar... |
 | [Conflux-Union/NotEnoughBandwidth](https://github.com/Conflux-Union/NotEnoughBandwidth) | None |
 | [control-theory/gonzo](https://github.com/control-theory/gonzo) | Gonzo! The Go based TUI log analysis tool |
 | [Coolapk-Code9527/F2FS-Optimizer](https://github.com/Coolapk-Code9527/F2FS-Optimizer) | None |
@@ -496,7 +497,7 @@
 | [GamerNoTitle/WorthIt](https://github.com/GamerNoTitle/WorthIt) | 我的东西买得有多值呢？基于 Notion 数据库的记物网站应用 |
 | [gaotianliuyun/gao](https://github.com/gaotianliuyun/gao) | FongMi影视和tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。 |
 | [Gaoyifei1011/GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp) | 离线下载 Microsoft Store 商店应用 |
-| [gaozhangmin/boxplayer](https://github.com/gaozhangmin/boxplayer) | 小白羊网盘 - Powered by 阿里云盘。 |
+| [gaozhangmin/boxplayer](https://github.com/gaozhangmin/boxplayer) | BoxPlayer - 聚合网盘管理+影视聚合 支持 Windows Linux iOS macOS tvOS Android |
 | [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | 🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯... |
 | [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) | Show your latest blog posts from any sources or StackOverflow activity or You... |
 | [gautamkrishnar/motrix-webextension](https://github.com/gautamkrishnar/motrix-webextension) | A browser extension for the Motrix Download Manager and its forks |
@@ -615,7 +616,7 @@
 | [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 |
 | [huan/docker-wechat](https://github.com/huan/docker-wechat) | DoChat is a Dockerized WeChat (盒装微信) PC Windows Client for Linux |
 | [huashengdun/webssh](https://github.com/huashengdun/webssh) | :seedling: Web based ssh client |
-| [HugoAura/Seewo-HugoAura](https://github.com/HugoAura/Seewo-HugoAura) | Aura for SeewoHugo / 雨光之环 / 下一代希沃管家注入式修改 / 破解方案 |
+| [HugoAura/Seewo-HugoAura](https://github.com/HugoAura/Seewo-HugoAura) | This repository was taken down due to DMCA violation. |
 | [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) | :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了） |
 | [hujingguang/ChinaIPTV](https://github.com/hujingguang/ChinaIPTV) | 中国电视直播源 cnTV m3u（实时更新,长期有效） |
 | [HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa) | 🍀 A cross-platform instant messaging desktop application with exceptional per... |
@@ -623,7 +624,7 @@
 | [HunterPie/HunterPie](https://github.com/HunterPie/HunterPie) | A clean, modern and robust overlay for Monster Hunter games. |
 | [huynhsontung/Screenbox](https://github.com/huynhsontung/Screenbox) | LibVLC-based media player for the Universal Windows Platform |
 | [huzesama/ASGuard](https://github.com/huzesama/ASGuard) | Magisk模块，用于安卓的无障碍服务(或名:辅助功能)辅助管理模块 |
-| [Hy4ri/hermes-mobile](https://github.com/Hy4ri/hermes-mobile) | Hermes Agent mobile client — real-time chat, cron management, session resume,... |
+| [Hy4ri/hermes-mobile](https://github.com/Hy4ri/hermes-mobile) | Hermes Agent mobile client — real-time chat, cron management, session resume ... |
 | [HyDE-Project/HyDE](https://github.com/HyDE-Project/HyDE) | HyDE, your Development Environment 🖥️💻 |
 | [HyperZoneLogin/MultiLogin](https://github.com/HyperZoneLogin/MultiLogin) | 接入新框架的取代产物 |
 | [HyPlayer/HyPlayer](https://github.com/HyPlayer/HyPlayer) | 仅供学习交流使用 / 第三方网易云音乐播放器 / A Netease Cloud Music Player |
@@ -1059,6 +1060,7 @@
 | [Moriafly/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource) | Salt Player (A local music player trusted and chosen by hundreds of thousands... |
 | [MotooriKashin/Bilibili-Old](https://github.com/MotooriKashin/Bilibili-Old) | 恢复旧版Bilibili页面，为了那些念旧的人。 |
 | [moudey/Shell](https://github.com/moudey/Shell) | Powerful context menu manager for Windows File Explorer |
+| [Moulberry/Flashback](https://github.com/Moulberry/Flashback) | None |
 | [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) | The official repository of Mozilla's Firefox web browser. |
 | [Mr-xn/hackbar2.1.3](https://github.com/Mr-xn/hackbar2.1.3) | the free firefox extions of  hackbar v2.1.3 v2.2.9 v2.3.1,hackbar 插件未收费的免费版本。... |
 | [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) | mRemoteNG is the next generation of mRemote, open source, tabbed, multi-proto... |
@@ -1297,6 +1299,7 @@
 | [relimus/TAssistant](https://github.com/relimus/TAssistant) | Make TIM Great Again! |
 | [relimus/Z-Flow](https://github.com/relimus/Z-Flow) | 最卡顿的米窗在此 |
 | [remorses/playwriter](https://github.com/remorses/playwriter) | Chrome extension & CLI to let agents control your browser. Runs Playwright sn... |
+| [ReplayMod/ReplayMod](https://github.com/ReplayMod/ReplayMod) | Minecraft ReplayMod |
 | [researchxxl/syncthing-android](https://github.com/researchxxl/syncthing-android) | Syncthing-Fork - A Syncthing Wrapper for Android. |
 | [reserveword/IMBlocker](https://github.com/reserveword/IMBlocker) | A mod for Minecraft helping control Input Methods |
 | [ResetPower/Epherome](https://github.com/ResetPower/Epherome) | [Deprecated] This repository is obsolete. Please go to Epheromeers/Epherome i... |
@@ -1362,6 +1365,7 @@
 | [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) | An open Apple AirDrop implementation written in Python |
 | [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) | TikTok 無需拔卡解鎖最新支援  iPhone &iPad 、TikTok&TikTok TestFlight，地區切換 、視頻發佈 、 live 直... |
 | [senseiwells/EssentialClient](https://github.com/senseiwells/EssentialClient) | EssentialClient is a client-side mod that adds many client utilities as well ... |
+| [senseiwells/ServerReplay](https://github.com/senseiwells/ServerReplay) | A completely server-side Minecraft fabric mod that allows you to record repla... |
 | [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap) | A simple wake on lan web app written with SvelteKit, Go and PocketBase. |
 | [setube/vue-xiuxiangame](https://github.com/setube/vue-xiuxiangame) | 文字游戏: 我的文字修仙全靠刷 |
 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | A set of beautifully-designed, accessible components and a code distribution ... |
@@ -1622,7 +1626,7 @@
 | [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) | 📱 Display and control your Android device graphically with scrcpy. |
 | [ViaVersion/ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus) | Fabric mod that lets you join Minecraft servers across all major versions. |
 | [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) | A focused launcher for your desktop - native, fast, extensible |
-| [VickScarlet/lifeRestart](https://github.com/VickScarlet/lifeRestart) | やり直すんだ。そして、次はうまくやる。 |
+| [VickScarlet/remake](https://github.com/VickScarlet/remake) | やり直すんだ。そして、次はうまくやる。 |
 | [videolan/vlc](https://github.com/videolan/vlc) | VLC media player - plays everything, runs anywhere. Code here: https://code.v... |
 | [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator) | ASCII generator (image to text, image to image, video to video) |
 | [VIKINGYFY/OpenWRT-CI](https://github.com/VIKINGYFY/OpenWRT-CI) | 云编译OpenWRT开源固件 |
@@ -1743,7 +1747,7 @@
 | [Xposed-Modules-Repo/org.hello.coolapk](https://github.com/Xposed-Modules-Repo/org.hello.coolapk) | FuckCoolapk R |
 | [Xposed-Modules-Repo/top.hookvip.pro](https://github.com/Xposed-Modules-Repo/top.hookvip.pro) | NewHookVip |
 | [Xpra-org/xpra](https://github.com/Xpra-org/xpra) | Persistent remote applications for X11; screen sharing for X11, MacOS and MSW... |
-| [XtrLumen/FS-Enhancer-Extreme](https://github.com/XtrLumen/FS-Enhancer-Extreme) | Enhance ForgeStore experience, while providing extreme hiding of detection po... |
+| [XtrLumen/FS-Enhancer-Extreme](https://github.com/XtrLumen/FS-Enhancer-Extreme) | Enhance ForgeStore experience, Extreme hiding of detection points from unlock... |
 | [xudazhu1/NoticeFix](https://github.com/xudazhu1/NoticeFix) | 这是一个用于原生/类原生的Xposed模块 修复(类)原生安卓通知图标在墙内水土不服等功能 |
 | [xugaoyi/vuepress-theme-vdoing-doc](https://github.com/xugaoyi/vuepress-theme-vdoing-doc) | vuepress-theme-vdoing主题文档 |
 | [xuwd1/wemeet-wayland-screenshare](https://github.com/xuwd1/wemeet-wayland-screenshare) | 实现Linux Wayland下腾讯会议屏幕共享（非虚拟相机）. Hook library that enables screenshare with T... |
