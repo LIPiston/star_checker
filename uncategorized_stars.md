@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Thu Jul 30 02:39:48 UTC 2026 | 总计: **1841** 个未分类项目
+> 生成于 UTC 时间: Fri Jul 31 03:21:15 UTC 2026 | 总计: **1846** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -180,6 +180,7 @@
 | [bggRGjQaUbCoE/c001apk](https://github.com/bggRGjQaUbCoE/c001apk) | fake coolapk |
 | [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) | PiliPlus |
 | [bigbeartechworld/big-bear-casaos](https://github.com/bigbeartechworld/big-bear-casaos) | One of the official app stores for IceWhale products (CasaOS & ZimaOS), devel... |
+| [BigDawnGhost/wenyi](https://github.com/BigDawnGhost/wenyi) | 将被语言阻隔的作品，带到读者的语言中。Bringing literature into your language. |
 | [BililiveRecorder/BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder) | 录播姬 / mikufans 生放送录制 |
 | [Bill-Stewart/SyncthingWindowsSetup](https://github.com/Bill-Stewart/SyncthingWindowsSetup) | Syncthing Windows Setup |
 | [Billionmail/BillionMail](https://github.com/Billionmail/BillionMail) | BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — ... |
@@ -302,7 +303,7 @@
 | [coder/code-server](https://github.com/coder/code-server) | VS Code in the browser |
 | [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) | Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extrac... |
 | [CodeWorksCreativeHub/EasyLauncher](https://github.com/CodeWorksCreativeHub/EasyLauncher) | EasyLauncher - Minimal and Clutter Free Android launcher |
-| [codexu/note-gen](https://github.com/codexu/note-gen) | A cross-platform Markdown AI note-taking software. |
+| [codexu/note-gen](https://github.com/codexu/note-gen) | Capture first. Organize later. A local-first Markdown app that turns scattere... |
 | [cofedream/extensions-copymanga](https://github.com/cofedream/extensions-copymanga) | Mihon的Copymanga扩展 |
 | [ColdWindScholar/D.N.A3](https://github.com/ColdWindScholar/D.N.A3) | 【开源】安卓一般固件解包打包助手【 Droid Normal Assistant 】 |
 | [CollegesChat/university-information](https://github.com/CollegesChat/university-information) | 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节 |
@@ -570,6 +571,7 @@
 | [happycola233/tchMaterial-parser](https://github.com/happycola233/tchMaterial-parser) | 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。 |
 | [hardhackerlabs/themes](https://github.com/hardhackerlabs/themes) | 🧑🏾‍🚀 One Theme to Rule Them All 🌈 |
 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or k... |
+| [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-g... |
 | [hashcat/hashcat](https://github.com/hashcat/hashcat) | World's fastest and most advanced password recovery utility |
 | [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) | 🪓 An orchestration engine for background tasks, AI agents, and durable workflows |
 | [HaujetZhao/CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline) | PC 端语音输入工具，离线识别，高准确率、低延迟，支持热词、LLM润色。按住CapsLock或鼠标侧键X2说话，松开自动上屏。 |
@@ -1097,7 +1099,7 @@
 | [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) | An F-Droid client with modern UI and an arsenal of extra features. |
 | [neoblackxt/AnyWebView](https://github.com/neoblackxt/AnyWebView) | Any WebView is OK! |
 | [neovim/neovim](https://github.com/neovim/neovim) | Vim-fork focused on extensibility and usability |
-| [NervJS/taro](https://github.com/NervJS/taro) | 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等... |
+| [NervJS/taro](https://github.com/NervJS/taro) | 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。 |
 | [netptop/siteproxy](https://github.com/netptop/siteproxy) | reverse proxy, online proxy, 反向代理,免翻墙访问Youtube/twitter/Google, 支持github和teleg... |
 | [Nevcairiel/LAVFilters](https://github.com/Nevcairiel/LAVFilters) | LAV Filters - Open-Source DirectShow Media Splitter and Decoders |
 | [NewFuture/rclone-fuse3-magisk](https://github.com/NewFuture/rclone-fuse3-magisk) | magisk rclone module (with libfuse3) |
@@ -1260,7 +1262,7 @@
 | [qd-today/qd](https://github.com/qd-today/qd) | QD [v20240210] —— HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server |
 | [Qexo/Qexo](https://github.com/Qexo/Qexo) | A fast, powerful and beautiful online manager for all static blog frameworks.  |
 | [qh7574/Fcitx5-SyncClipboard](https://github.com/qh7574/Fcitx5-SyncClipboard) | None |
-| [qianjiachun/cs-match-helper](https://github.com/qianjiachun/cs-match-helper) | 🦇CS匹配助手 赛前分析双方数据 ai预测比赛胜负 & 急停助手 帮助你改善急停水平 |
+| [qianjiachun/cs-match-helper](https://github.com/qianjiachun/cs-match-helper) | 🦇 CS Match Helper: analyze both teams' pre-match data, use AI to predict matc... |
 | [qidian55/bilibilitv1.6.6-repair](https://github.com/qidian55/bilibilitv1.6.6-repair) | 尝试修复经典的 bilibili tv 1.6.6 版本 |
 | [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) | 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:  |
 | [QingJ01/123pan_unlock](https://github.com/QingJ01/123pan_unlock) | 基于油猴的123云盘解锁脚本，支持解锁123云盘下载功能 |
@@ -1325,6 +1327,7 @@
 | [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) | A Zsh theme |
 | [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) | A turnkey configuration for Zsh |
 | [rRemix/APlayer](https://github.com/rRemix/APlayer) | Android Music Player |
+| [rsjtdrjgfuzkfg/thunderbird-minimizeonclose](https://github.com/rsjtdrjgfuzkfg/thunderbird-minimizeonclose) | Thunderbird add-on to minimize Thunderbird using the window's close button |
 | [rsms/inter](https://github.com/rsms/inter) | The Inter font family |
 | [ruanyf/document-style-guide](https://github.com/ruanyf/document-style-guide) | 中文技术文档的写作规范 |
 | [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) | chsrc 全平台通用换源工具与框架. Change Source everywhere for every software |
@@ -1397,7 +1400,7 @@
 | [sionnx/SubCase](https://github.com/sionnx/SubCase) | A Powerful Wrapper for SubStore on Android. |
 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your crea... |
 | [sirpdboy/luci-app-ddns-go](https://github.com/sirpdboy/luci-app-ddns-go) | luci-app-ddns-go 自动获得你的公网 IPv4 或 IPv6 地址，并解析到对应的域名服务。支持的域名服务商 阿里云 腾讯云 Dnspod ... |
-| [SivanLaai/rime-pure](https://github.com/SivanLaai/rime-pure) | 【rime 小狼毫\trime 同文】手机/PC一站式配置【简约皮肤\拼音搜狗词库\原创trime同文 四叶草 九宫格 拼音方案\四叶草拼音\四叶草地球拼... |
+| [SivanLaai/rime-pure](https://github.com/SivanLaai/rime-pure) | 基于 Rime（小狼毫 / 同文）的极简、优雅、好用的中英文输入方案整合包。 包含：四叶草九宫格拼音 / 四叶草拼音 / 小鹤双拼 / 极品五笔 / QQ... |
 | [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) | A privacy-first, self-hosted, fully open source personal knowledge management... |
 | [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) | Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5... |
 | [sjzar/chatlog](https://github.com/sjzar/chatlog) | chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据 |
@@ -1636,6 +1639,7 @@
 | [vim/vim](https://github.com/vim/vim) | The official Vim repository |
 | [vinceliuice/grub2-themes](https://github.com/vinceliuice/grub2-themes) | Modern Design theme for Grub2 |
 | [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) | Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io,... |
+| [vladelaina/Catime](https://github.com/vladelaina/Catime) | 💌A tiny (995KB) but mighty timer in **pure C** ! — almost no memory usage!❤️‍... |
 | [voderl/font-slice](https://github.com/voderl/font-slice) | slice chinese fonts into small slices |
 | [voideditor/void](https://github.com/voideditor/void) | None |
 | [vosen/ZLUDA](https://github.com/vosen/ZLUDA) | CUDA on non-NVIDIA GPUs |
@@ -1673,6 +1677,7 @@
 | [win12-online/win12](https://github.com/win12-online/win12) | Win12 Online |
 | [windiest/Front-end-tutorial](https://github.com/windiest/Front-end-tutorial) | :smiley_cat:猫的前端回忆录 Cat's front memory, these share data are from my usual wo... |
 | [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) | A free, powerful, multi-purpose tool that helps you monitor system resources,... |
+| [wish131400/zstdnet](https://github.com/wish131400/zstdnet) | 这是一个MC JAVA版本mod，基于ZSTD无损压缩算法，它可以有效降低机械动力类含有大量重复数据的服务器带宽 |
 | [withastro/astro](https://github.com/withastro/astro) | The web framework for content-driven websites. ⭐️ Star to support our work! |
 | [wjf0214/qd-templates](https://github.com/wjf0214/qd-templates) | 基于开源新版签到框架站发布的公共har模板库，整理自用 qiandao 框架可用的各种网站和App的 Har 模板，仅供学习参考。 |
 | [wlh320/rime-ls](https://github.com/wlh320/rime-ls) | A language server that provides input method functionality using librime 通过 L... |
