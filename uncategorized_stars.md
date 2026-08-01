@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Fri Jul 31 03:21:15 UTC 2026 | 总计: **1846** 个未分类项目
+> 生成于 UTC 时间: Sat Aug  1 03:19:32 UTC 2026 | 总计: **1846** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -312,6 +312,7 @@
 | [ComicSparks/pikapika](https://github.com/ComicSparks/pikapika) | A comic browser，support Android / iOS / MacOS / Windows / Linux. |
 | [commaai/openpilot](https://github.com/commaai/openpilot) | openpilot is an operating system for robotics. Currently, it upgrades the dri... |
 | [CommandAPI/CommandAPI](https://github.com/CommandAPI/CommandAPI) | A Bukkit/Spigot API for the command UI introduced in Minecraft 1.13 |
+| [community-archive/obsidian-style-settings](https://github.com/community-archive/obsidian-style-settings) | A dynamic user interface for adjusting theme, plugin, and snippet CSS variabl... |
 | [community/community](https://github.com/community/community) | Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Co... |
 | [conan-io/conan](https://github.com/conan-io/conan) | Conan - The open-source C and C++ package manager |
 | [Conflux-Union/conflux-map](https://github.com/Conflux-Union/conflux-map) | Client-side minimap and world map for Minecraft Fabric, with waypoints, radar... |
@@ -376,7 +377,7 @@
 | [docsifyjs/docsify](https://github.com/docsifyjs/docsify) | 🃏 A magical documentation site generator. |
 | [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code) | Legacy-Mess Detector – assess the “legacy-mess level” of your code and output... |
 | [dongyuanwai/readme-become-better](https://github.com/dongyuanwai/readme-become-better) | 让github-readme变得更好 |
-| [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) | 2026年7月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器 |
+| [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) | 2026年8月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器 |
 | [dongyuwei/hallelujahIM](https://github.com/dongyuwei/hallelujahIM) | hallelujahIM(哈利路亚 英文输入法) is  an intelligent English input method with auto-su... |
 | [doocs/md](https://github.com/doocs/md) | ✍ WeChat Markdown Editor / 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理... |
 | [Doraemonliu/com.houvven.guise](https://github.com/Doraemonliu/com.houvven.guise) | Guise |
@@ -507,7 +508,7 @@
 | [gedoor/legado](https://github.com/gedoor/legado) | Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可... |
 | [GeForceLegend/Minecraft-3D-Default](https://github.com/GeForceLegend/Minecraft-3D-Default) | A Minecraft default-look resourcepack with 3D models. |
 | [Generator/Grub2-themes](https://github.com/Generator/Grub2-themes) | Grub2 gfxmenu themes |
-| [GentlemanHu/Tabby-MCP](https://github.com/GentlemanHu/Tabby-MCP) | MCP server for Tabby terminal, 34 MCP tools including SFTP support, full cont... |
+| [GentlemanHu/Tabby-MCP](https://github.com/GentlemanHu/Tabby-MCP) | MCP server for Tabby terminal, 36 MCP tools including SFTP support, full cont... |
 | [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device |
 | [getActivity/AndroidIndex](https://github.com/getActivity/AndroidIndex) | Android 资源大汇总 |
 | [getgridea/gridea](https://github.com/getgridea/gridea) | ✍️ A static blog writing client (一个静态博客写作客户端) |
@@ -564,7 +565,7 @@
 | [halo-sigs/plugin-hybrid-edit-block](https://github.com/halo-sigs/plugin-hybrid-edit-block) | 为默认富文本编辑器提供编写 Markdown / HTML 的内容块扩展 |
 | [halo-sigs/plugin-katex](https://github.com/halo-sigs/plugin-katex) | 为默认编辑器和文章渲染提供 KaTeX 支持。 |
 | [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) | HandBrake's development repository  |
-| [hankcs/HanLP](https://github.com/hankcs/HanLP) | 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘... |
+| [hankcs/HanLP](https://github.com/hankcs/HanLP) | Natural Language Processing for the next decade. Tokenization, Part-of-Speech... |
 | [hantang/rime-list](https://github.com/hantang/rime-list) | RIME输入法相关软件、配置、词库和输入方案汇整。 |
 | [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) | 一款跳过小电视视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored s... |
 | [HapeLee/legado-with-MD3](https://github.com/HapeLee/legado-with-MD3) | 使用 Material Design 3 全新设计的阅读 3.0 |
@@ -1152,7 +1153,6 @@
 | [oasisfeng/island](https://github.com/oasisfeng/island) | Island for Android |
 | [objective-see/LuLu](https://github.com/objective-see/LuLu) | LuLu is the free open-source macOS firewall |
 | [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. |
-| [obsidian-community/obsidian-style-settings](https://github.com/obsidian-community/obsidian-style-settings) | A dynamic user interface for adjusting theme, plugin, and snippet CSS variabl... |
 | [obsproject/obs-studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen reco... |
 | [ocornut/imgui](https://github.com/ocornut/imgui) | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependen... |
 | [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be sea... |
