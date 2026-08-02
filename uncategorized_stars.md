@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sat Aug  1 03:19:32 UTC 2026 | 总计: **1846** 个未分类项目
+> 生成于 UTC 时间: Sun Aug  2 03:19:47 UTC 2026 | 总计: **1848** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -45,6 +45,7 @@
 | [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) | Source Han Serif / 思源宋体 / 思源宋體 / 思源宋體 香港 / 源ノ明朝 / 본명조 |
 | [adobe-fonts/source-sans](https://github.com/adobe-fonts/source-sans) | Sans serif font family for user interface environments |
 | [adrcotfas/goodtime](https://github.com/adrcotfas/goodtime) | A productivity app that combines pomodoro timers and flow techniques to boost... |
+| [Adsryen/clash-override](https://github.com/Adsryen/clash-override) | clash-verge、clash-party等系列软件的覆写配置 |
 | [adv-inn/Futaba](https://github.com/adv-inn/Futaba) | A League of Legends companion client built with Tauri, supporting both deskto... |
 | [Aefyr/SAI](https://github.com/Aefyr/SAI) | Android split APKs installer |
 | [afar1/fieldtheory-cli](https://github.com/afar1/fieldtheory-cli) | Field Theory CLI for bookmarks, Library, commands, and agent workflows |
@@ -342,6 +343,7 @@
 | [czy0729/Bangumi](https://github.com/czy0729/Bangumi) | :electron: An unofficial https://bgm.tv ui first app client for Android and i... |
 | [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se) | SD Maid 2/SE is Android's most thorough cleaning tool. |
 | [daeuniverse/dae](https://github.com/daeuniverse/dae) | eBPF-based Linux high-performance transparent proxy solution. |
+| [dahaha-365/YaNet](https://github.com/dahaha-365/YaNet) | Yet another Internet. Mihomo覆写脚本 |
 | [dandavison/delta](https://github.com/dandavison/delta) | A syntax-highlighting pager for git, diff, grep, rg --json, and blame output |
 | [DanGLVK/Hide-Navbar](https://github.com/DanGLVK/Hide-Navbar) | Hide Navbar |
 | [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bit... |
@@ -350,7 +352,7 @@
 | [darktable-org/darktable](https://github.com/darktable-org/darktable) | darktable is an open source photography workflow application and raw developer |
 | [DavidXanatos/TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) | Power full Task Manager |
 | [daybreak1929/ViaBrowserCollection](https://github.com/daybreak1929/ViaBrowserCollection) | 个人为 via 浏览器自定义/功能保留的一份完整资料，仍在持续补全，来源于：https://gitee.com/daybreak166/ViaBrowse... |
-| [dbcli/mycli](https://github.com/dbcli/mycli) | A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting. |
+| [dbcli/mycli](https://github.com/dbcli/mycli) | Rich Terminal Client for MySQL with AutoCompletion and Syntax Highlighting. |
 | [ddgth/cf2dns](https://github.com/ddgth/cf2dns) | 筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式 |
 | [ddlmanus/MacOptimizer](https://github.com/ddlmanus/MacOptimizer) | MacOptimizer is a system optimization tool designed specifically for macOS, f... |
 | [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) | Contexts Optical Compression |
@@ -565,7 +567,7 @@
 | [halo-sigs/plugin-hybrid-edit-block](https://github.com/halo-sigs/plugin-hybrid-edit-block) | 为默认富文本编辑器提供编写 Markdown / HTML 的内容块扩展 |
 | [halo-sigs/plugin-katex](https://github.com/halo-sigs/plugin-katex) | 为默认编辑器和文章渲染提供 KaTeX 支持。 |
 | [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) | HandBrake's development repository  |
-| [hankcs/HanLP](https://github.com/hankcs/HanLP) | Natural Language Processing for the next decade. Tokenization, Part-of-Speech... |
+| [hankcs/HanLP](https://github.com/hankcs/HanLP) | 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘... |
 | [hantang/rime-list](https://github.com/hantang/rime-list) | RIME输入法相关软件、配置、词库和输入方案汇整。 |
 | [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) | 一款跳过小电视视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored s... |
 | [HapeLee/legado-with-MD3](https://github.com/HapeLee/legado-with-MD3) | 使用 Material Design 3 全新设计的阅读 3.0 |
@@ -872,7 +874,6 @@
 | [LIPiston/csgo-cfg](https://github.com/LIPiston/csgo-cfg) | 这个项目已经跟随 csgo 的结束而死了 |
 | [LIPiston/rime-ice](https://github.com/LIPiston/rime-ice) | Rime 配置：雾凇拼音 / 长期维护的简体词库 / 由 LIPiston 修改 |
 | [LIPiston/star_checker](https://github.com/LIPiston/star_checker) | None |
-| [LIPiston/vimplus](https://github.com/LIPiston/vimplus) | 🐑An automatic configuration program for vim |
 | [liquidbounceplusreborn/LiquidbouncePlus-Reborn](https://github.com/liquidbounceplusreborn/LiquidbouncePlus-Reborn) | Minecraft Forge 1.8.9 hacked client, Based on LiquidBounce+ |
 | [liriliri/aya](https://github.com/liriliri/aya) | Android ADB desktop app |
 | [liseami/DeepRant](https://github.com/liseami/DeepRant) | -游戏文字交流AI嘴强王者工具 |
@@ -1769,6 +1770,7 @@
 | [ycccccccy/echotrace](https://github.com/ycccccccy/echotrace) | EchoTrace 是一个本地、安全的微信聊天记录导出、分析与年度报告生成工具 / EchoTrace is a local, secure tool f... |
 | [ycccccccy/wx_key](https://github.com/ycccccccy/wx_key) | 获取微信4.0版本以上数据库密钥和图片密钥的工具 / A tool for obtaining database keys and image keys ... |
 | [yeahwu/v2ray-wss](https://github.com/yeahwu/v2ray-wss) | A proxy script with multiple protocols. |
+| [yelle233/Liubai](https://github.com/yelle233/Liubai) | Liubai is a client-side render optimizer for large technical bases. It conser... |
 | [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) | Office Tool Plus localization projects. |
 | [YiC200333/XConomy](https://github.com/YiC200333/XConomy) | An economy plugin that supports data synchronization between multiple servers |
 | [Yidadaa/shuangpin](https://github.com/Yidadaa/shuangpin) | 纸砚双拼，可能是最好用的双拼练习工具，支持声母 / 韵母 / 长句模式、自定义双拼方案、进度统计、深色模式、成就系统。 |
