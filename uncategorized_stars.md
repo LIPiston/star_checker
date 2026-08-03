@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Sun Aug  2 03:19:47 UTC 2026 | 总计: **1848** 个未分类项目
+> 生成于 UTC 时间: Mon Aug  3 03:21:24 UTC 2026 | 总计: **1855** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -16,6 +16,7 @@
 | [201853910/VMwareWorkstation](https://github.com/201853910/VMwareWorkstation) | 手动上传官网的VMwareWorkstation安装包 |
 | [233boy/v2ray](https://github.com/233boy/v2ray) | 最好用的 V2Ray 一键安装脚本 & 管理脚本 |
 | [2697a/bujuan](https://github.com/2697a/bujuan) | Flutter移动端+桌面端三方网易云播放器 |
+| [2dust/v2rayN](https://github.com/2dust/v2rayN) | A GUI client for Windows, Linux and macOS, support Xray and sing-box and others |
 | [2moe/tmoe](https://github.com/2moe/tmoe) | TMOE, More Optional Environments. |
 | [3proxy/3proxy](https://github.com/3proxy/3proxy) | 3proxy - tiny free proxy server |
 | [410154425/AdGuardHome_magisk](https://github.com/410154425/AdGuardHome_magisk) | 去广告magisk模块，通过DNS层面过滤广告、防DNS劫持，使用前请先详读mode.conf文件，使用前需关闭私人dns，不可用wap接入点，支持订阅过... |
@@ -79,7 +80,6 @@
 | [AlistGo/alist](https://github.com/AlistGo/alist) | 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin ... |
 | [allrobot/KeyCastOW_chinese](https://github.com/allrobot/KeyCastOW_chinese) | 按键击键可视化，感谢Brook Hong的贡献 Keystroke visualization, thanks to Brook Hong |
 | [Almamu/linux-wallpaperengine](https://github.com/Almamu/linux-wallpaperengine) | Wallpaper Engine backgrounds for Linux! |
-| [alondmnt/joplin-plugin-jarvis](https://github.com/alondmnt/joplin-plugin-jarvis) | Joplin (note-taking) assistant running a very intelligent system (GPT, Claude... |
 | [alovajs/alova](https://github.com/alovajs/alova) | The request strategy layer for JavaScript. 20+ ready-made strategies cut your... |
 | [alpha-liu-01/SpeedyNote](https://github.com/alpha-liu-01/SpeedyNote) | A simple note app with good performance and PDF import support |
 | [alvatip/Borealis-cursors](https://github.com/alvatip/Borealis-cursors) | None |
@@ -945,6 +945,7 @@
 | [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) | A Grub Theme in the style of Minecraft! |
 | [Lxtharia/minegrub-world-sel-theme](https://github.com/Lxtharia/minegrub-world-sel-theme) | A grub theme in the style of the Minecraft singleplayer (sp) world selection ... |
 | [LXYan2333/Fabric-Bedrock-Miner](https://github.com/LXYan2333/Fabric-Bedrock-Miner) | A fabric client mod to mine bedrock! |
+| [lyc8503/sing-box-rules](https://github.com/lyc8503/sing-box-rules) | sing-box Geoip 与 Geosite 增强版规则, 移植自 v2ray-rules-dat |
 | [LYOfficial/MinecraftPlayGuide](https://github.com/LYOfficial/MinecraftPlayGuide) | Minecraft Play Chinese Guide - 我的世界游玩中文指南 |
 | [LyraVoid/Mizuki](https://github.com/LyraVoid/Mizuki) | 下一代Material Design 3 博客主题(Astro驱动) |
 | [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) | 一个基于 Electron 的音乐软件 |
@@ -1003,6 +1004,7 @@
 | [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) | MediaCMS is a modern, fully featured open source video and media CMS, written... |
 | [medusalix/xone](https://github.com/medusalix/xone) | Linux kernel driver for Xbox One and Xbox Series X/S accessories |
 | [meefik/busybox](https://github.com/meefik/busybox) | BusyBox for Android |
+| [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | A lightning-fast search engine API bringing AI-powered hybrid search to your ... |
 | [Meloong-Git/PCL](https://github.com/Meloong-Git/PCL) | Minecraft 启动器 Plain Craft Launcher（PCL）。 |
 | [mengshouer/crond_start_jobs](https://github.com/mengshouer/crond_start_jobs) | Magisk/KernelSu/Apatch Module: 使用 crond 定时启动任务 |
 | [MeowCracker/MobaGenkey](https://github.com/MeowCracker/MobaGenkey) | 一个 MobaXterm 的许可证生成器 |
@@ -1370,6 +1372,7 @@
 | [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) | TikTok 無需拔卡解鎖最新支援  iPhone &iPad 、TikTok&TikTok TestFlight，地區切換 、視頻發佈 、 live 直... |
 | [senseiwells/EssentialClient](https://github.com/senseiwells/EssentialClient) | EssentialClient is a client-side mod that adds many client utilities as well ... |
 | [senseiwells/ServerReplay](https://github.com/senseiwells/ServerReplay) | A completely server-side Minecraft fabric mod that allows you to record repla... |
+| [senshinya/singbox_ruleset](https://github.com/senshinya/singbox_ruleset) | None |
 | [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap) | A simple wake on lan web app written with SvelteKit, Go and PocketBase. |
 | [setube/vue-xiuxiangame](https://github.com/setube/vue-xiuxiangame) | 文字游戏: 我的文字修仙全靠刷 |
 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | A set of beautifully-designed, accessible components and a code distribution ... |
@@ -1430,12 +1433,14 @@
 | [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) | Chinese copywriting guidelines for better written communication／中文文案排版指北 |
 | [Speykious/cve-rs](https://github.com/Speykious/cve-rs) | Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀 |
 | [SPlayer-Dev/SPlayer](https://github.com/SPlayer-Dev/SPlayer) | 🎵 A cross-platform music player with Jellyfin / Navidrome / Emby media server... |
+| [SPlayer-Dev/SPlayer-Next](https://github.com/SPlayer-Dev/SPlayer-Next) | 🎵 Cross-platform desktop music player with rich lyric support and wide audio ... |
 | [squeek502/AppleSkin](https://github.com/squeek502/AppleSkin) | Food-related HUD improvements for Minecraft (AppleCore without the core) |
 | [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) | Everything integration for the Windows taskbar. |
 | [ssnhd/rime](https://github.com/ssnhd/rime) | Rime Squirrel 鼠须管配置文件（朙月拼音、小鹤双拼、自然码双拼） |
 | [ssut/payload-dumper-go](https://github.com/ssut/payload-dumper-go) | an android OTA payload dumper written in Go |
 | [Stapxs/Stapxs-QQ-Lite-2.0](https://github.com/Stapxs/Stapxs-QQ-Lite-2.0) | 一个兼容 OneBot 协议的第三方 QQ 客户端。 Web、全平台实现！ |
 | [Stardust-Labs-MC/Terralith](https://github.com/Stardust-Labs-MC/Terralith) | A popular Minecraft worldgen datapack for the Overworld |
+| [std-microblock/BetterNCM-Installer](https://github.com/std-microblock/BetterNCM-Installer) | 一键安装 Better 系软件 |
 | [std-microblock/chromatic](https://github.com/std-microblock/chromatic) | Universal modifier for Chromium/V8 / 广谱注入 Chromium/V8 的通用修改器 |
 | [std-microblock/TGStickerProvider](https://github.com/std-microblock/TGStickerProvider) | A Xposed/LSPosed plugin to dump stickers from Telegram. Almost all 3rd-party ... |
 | [SteamRE/DepotDownloader](https://github.com/SteamRE/DepotDownloader) | Steam depot downloader utilizing the SteamKit2 library. |
@@ -1472,6 +1477,7 @@
 | [SYJun404/frank](https://github.com/SYJun404/frank) | A bran-new League of Legends assistant software, a replacement for WeGame. |
 | [Sylinko/Everywhere](https://github.com/Sylinko/Everywhere) | On-screen aware AI assistant for your desktop. Uses current app context, mult... |
 | [symbuzzer/livebootmodule](https://github.com/symbuzzer/livebootmodule) | A Magisk, KernelSU and APatch module that enables unix-style (verbose) boot a... |
+| [Syncanid/ZSTD_Compresser](https://github.com/Syncanid/ZSTD_Compresser) | 使用zstd代替zlib压缩 |
 | [syncthing/syncthing](https://github.com/syncthing/syncthing) | Open Source Continuous File Synchronization |
 | [syntaxticsugr/ViPER4Android-Presets](https://github.com/syntaxticsugr/ViPER4Android-Presets) | Largest collection of DDC, Kernel & Preset for ViPER4Android |
 | [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) | 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers... |
@@ -1610,6 +1616,7 @@
 | [USTC-Resource/USTC-Course](https://github.com/USTC-Resource/USTC-Course) | :heart:中国科学技术大学课程资源 |
 | [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative) | Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android |
 | [utterance/utterances](https://github.com/utterance/utterances) | :crystal_ball: A lightweight comments widget built on GitHub issues |
+| [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) | A platform for building proxies to bypass network restrictions. |
 | [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) | A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, T... |
 | [V4bel/Januscape](https://github.com/V4bel/Januscape) | None |
 | [vacla/Watson](https://github.com/vacla/Watson) | Updated Watson that displays LogBlock and CoreProtect query results in 3D. |
@@ -1628,7 +1635,7 @@
 | [VERT-sh/VERT](https://github.com/VERT-sh/VERT) | The next-generation file converter. Open source, fully local* and free forever. |
 | [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) | An Android application for streaming music from YouTube Music |
 | [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) | 📱 Display and control your Android device graphically with scrcpy. |
-| [ViaVersion/ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus) | Fabric mod that lets you join Minecraft servers across all major versions. |
+| [ViaVersion/ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus) | Minecraft Fabric mod that allows you to join every Minecraft server version. |
 | [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) | A focused launcher for your desktop - native, fast, extensible |
 | [VickScarlet/remake](https://github.com/VickScarlet/remake) | やり直すんだ。そして、次はうまくやる。 |
 | [videolan/vlc](https://github.com/videolan/vlc) | VLC media player - plays everything, runs anywhere. Code here: https://code.v... |
