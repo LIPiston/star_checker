@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Mon Aug  3 03:21:24 UTC 2026 | 总计: **1855** 个未分类项目
+> 生成于 UTC 时间: Tue Aug  4 02:50:43 UTC 2026 | 总计: **1859** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -260,7 +260,7 @@
 | [cft0808/edict](https://github.com/cft0808/edict) | 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agent... |
 | [chase535/accurate_battery](https://github.com/chase535/accurate_battery) | 精准电量 |
 | [chase535/turbo-charge](https://github.com/chase535/turbo-charge) | Magisk模块，关闭阶梯式充电，持续修改电池温度及充电电流，以达到最快充电速度 |
-| [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) | Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 AP... |
+| [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) | 免费大模型API，支持免费调用GPT、DeepSeek等主流模型，免费额度10000点，每日刷新！另付费价格最低官方1-2折！ |
 | [ChatLab/ChatLab](https://github.com/ChatLab/ChatLab) | Local-first chat history analyzer with AI. / 本地优先的 AI 聊天记录分析工具 |
 | [chen08209/FlClash](https://github.com/chen08209/FlClash) | A multi-platform proxy client based on ClashMeta,simple and easy to use, open... |
 | [chen310/NeteaseCloudMusicTasks](https://github.com/chen310/NeteaseCloudMusicTasks) | None |
@@ -661,6 +661,7 @@
 | [immich-app/immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. |
 | [imputnet/cobalt](https://github.com/imputnet/cobalt) | best way to save what you love |
 | [imputnet/helium](https://github.com/imputnet/helium) | Private, fast, and honest web browser |
+| [imsai-sh/zhuzhiliao](https://github.com/imsai-sh/zhuzhiliao) | 竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。 |
 | [indiff/qttabbar](https://github.com/indiff/qttabbar) | QTTabBar is a small tool that allows you to use tab multi label function in W... |
 | [ineo6/fast-dev](https://github.com/ineo6/fast-dev) | GitHub访问助手 |
 | [ineo6/hosts](https://github.com/ineo6/hosts) | GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。 |
@@ -778,6 +779,7 @@
 | [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) | A distraction-free and highly customizable theme for Obsidian. |
 | [KernelSU-Modules-Repo/magic_mount_rs](https://github.com/KernelSU-Modules-Repo/magic_mount_rs) | Magic Mount-rs |
 | [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) | An advanced Kernel based root solution for Android |
+| [kevinkwee/Mi-Fitness-Sync](https://github.com/kevinkwee/Mi-Fitness-Sync) | Unofficial Python CLI for accessing Mi Fitness workout data and manually sync... |
 | [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) | Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support no... |
 | [KhronosGroup/Vulkan-Docs](https://github.com/KhronosGroup/Vulkan-Docs) | The Vulkan API Specification and related tools |
 | [KHwang9883/MobileModels](https://github.com/KHwang9883/MobileModels) | 手机品牌型号汇总 / Mobile Models / This repository is licensed under CC BY-NC-SA 4.0 |
@@ -966,6 +968,7 @@
 | [Magisk-Modules-Repo/adb-ndk](https://github.com/Magisk-Modules-Repo/adb-ndk) | adb-ndk |
 | [Magisk-Modules-Repo/busybox-ndk](https://github.com/Magisk-Modules-Repo/busybox-ndk) | busybox-ndk |
 | [Magisk-Modules-Repo/CloudflareDNS4Magisk](https://github.com/Magisk-Modules-Repo/CloudflareDNS4Magisk) | CloudflareDNS4Magisk |
+| [Magisk-Modules-Repo/ssh](https://github.com/Magisk-Modules-Repo/ssh) | ssh |
 | [Magisk-Modules-Repo/wifi-bonding](https://github.com/Magisk-Modules-Repo/wifi-bonding) | Double your bandwith on your Qualcomm devices. |
 | [Mahmud0808/Iconify](https://github.com/Mahmud0808/Iconify) | Iconify lets you customize your Android 12+ device easily. Change icons, colo... |
 | [makabaka11/bangumi-proxy-workers](https://github.com/makabaka11/bangumi-proxy-workers) | 基于 Cloudflare Workers 的 bangumi API 反代脚本，支持一键部署。 |
@@ -1388,6 +1391,7 @@
 | [ShirkNeko/GKI_KernelSU_SUSFS](https://github.com/ShirkNeko/GKI_KernelSU_SUSFS) | 使用 SukiSU 和 SUSFS 的 GKI 内核 |
 | [ShizukuIchi/minesweeper](https://github.com/ShizukuIchi/minesweeper) | 💣 Windows XP minesweeper in web. Also support mobile. 🎉📱 |
 | [ShouChenICU/FastSend](https://github.com/ShouChenICU/FastSend) | FastSend 是一个基于 WebRTC 技术的点对点文件传输工具，支持快速的目录同步和文件传输。通过浏览器即可实现安全、高效的文件共享。 |
+| [shshouse/FuckACE](https://github.com/shshouse/FuckACE) | 一个免安装工具，用来降低ACE对电脑性能影响，持续适配所有ACE游戏中~ |
 | [shuakami/qq-chat-exporter](https://github.com/shuakami/qq-chat-exporter) | 🚀 QQ聊天记录、表情包导出工具 / 自动化提取图片/文字/图片消息，支持TXT/JSON导出，高效备份，支持NT QQ  |
 | [siavash79/PixelXpert](https://github.com/siavash79/PixelXpert) | mixed Xposed+Magisk module for customization of Google Pixel rom of Android 12+ |
 | [sigoden/dufs](https://github.com/sigoden/dufs) | A file server that supports static serving, uploading, searching, accessing c... |
