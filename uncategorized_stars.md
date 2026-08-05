@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Tue Aug  4 02:50:43 UTC 2026 | 总计: **1859** 个未分类项目
+> 生成于 UTC 时间: Wed Aug  5 02:47:46 UTC 2026 | 总计: **1860** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -397,6 +397,7 @@
 | [dulnan/lazy-brush](https://github.com/dulnan/lazy-brush) | Smooth drawing with mouse, finger or other pointing device |
 | [DUpdateSystem/UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll) | Check updates for Android apps, Magisk modules and more! |
 | [duplicati/duplicati](https://github.com/duplicati/duplicati) | Store securely encrypted backups in the cloud! |
+| [Dwinovo/minecraft-numen](https://github.com/Dwinovo/minecraft-numen) | 住在 Minecraft 里的 AI 同伴——召唤它、跟它说话，它自己规划并动手：挖矿、建造、种地、战斗、合成。 |
 | [DWNfonts/XiaoyaPixel-Classic](https://github.com/DWNfonts/XiaoyaPixel-Classic) | XiaoyaPixel - 12px rounded pixel SC font. |
 | [dyang886/Game-Cheats-Manager](https://github.com/dyang886/Game-Cheats-Manager) | Easily download and manage single-player game cheats for your convenience |
 | [DynamicTreesTeam/DynamicTrees](https://github.com/DynamicTreesTeam/DynamicTrees) | Minecraft Forge mod providing dynamic trees that progressively grow from seed... |
@@ -1268,7 +1269,6 @@
 | [qd-today/qd](https://github.com/qd-today/qd) | QD [v20240210] —— HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server |
 | [Qexo/Qexo](https://github.com/Qexo/Qexo) | A fast, powerful and beautiful online manager for all static blog frameworks.  |
 | [qh7574/Fcitx5-SyncClipboard](https://github.com/qh7574/Fcitx5-SyncClipboard) | None |
-| [qianjiachun/cs-match-helper](https://github.com/qianjiachun/cs-match-helper) | 🦇 CS Match Helper: analyze both teams' pre-match data, use AI to predict matc... |
 | [qidian55/bilibilitv1.6.6-repair](https://github.com/qidian55/bilibilitv1.6.6-repair) | 尝试修复经典的 bilibili tv 1.6.6 版本 |
 | [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) | 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:  |
 | [QingJ01/123pan_unlock](https://github.com/QingJ01/123pan_unlock) | 基于油猴的123云盘解锁脚本，支持解锁123云盘下载功能 |
@@ -1820,6 +1820,7 @@
 | [Zephyruso/zashboard](https://github.com/Zephyruso/zashboard) | None |
 | [zer0k-z/cs2-movement-issues](https://github.com/zer0k-z/cs2-movement-issues) | List of movement related issues related to CS2 which did not exist in CS:GO* |
 | [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega) | Manage and switch between multiple proxies quickly & easily. |
+| [ZerothRound/Zed-FileIconsOverlay](https://github.com/ZerothRound/Zed-FileIconsOverlay) | Windows Explorer file-icon overlay for official Stable Zed, using VS Code-sty... |
 | [zeruniverse/boardgame_helper](https://github.com/zeruniverse/boardgame_helper) | Forked from https://github.com/zeruniverse/texas_game |
 | [zfdang/Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper) | AdSkip — an Android assistant for automatically skipping app launch ads |
 | [zfile-dev/zfile](https://github.com/zfile-dev/zfile) | 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载 |
