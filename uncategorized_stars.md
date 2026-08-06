@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Wed Aug  5 02:47:46 UTC 2026 | 总计: **1860** 个未分类项目
+> 生成于 UTC 时间: Thu Aug  6 02:50:57 UTC 2026 | 总计: **1860** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -675,7 +675,7 @@
 | [Innei/Shiro](https://github.com/Innei/Shiro) | 📜 A minimalist personal website embodying the purity of paper and freshness o... |
 | [Innei/Yohaku](https://github.com/Innei/Yohaku) | 余白 / Yohaku — A typographic design system for written content. One accent, th... |
 | [InputShare/InputShare](https://github.com/InputShare/InputShare) | InputShare enables you to share the keyboard and mouse of your computer with ... |
-| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude C... |
+| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | Open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, O... |
 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | OfficeCLI is the first and best Office suite  purpose-built for AI agents to ... |
 | [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) | A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (e... |
 | [IrisShaders/Iris](https://github.com/IrisShaders/Iris) | A modern shaders mod for Minecraft compatible with existing OptiFine shader p... |
@@ -1542,7 +1542,6 @@
 | [tianma8023/XposedSmsCode](https://github.com/tianma8023/XposedSmsCode) | :lollipop: An Xposed Module which can recognize, parse verification code and ... |
 | [tiann/KernelSU](https://github.com/tiann/KernelSU) | A Kernel based root solution for Android |
 | [tianshiyeben/wgcloud](https://github.com/tianshiyeben/wgcloud) | Linux运维监控工具，支持系统硬件信息，内存，CPU，温度，磁盘空间及IO，硬盘smart，GPU，防火墙，网络流量速率等监控，服务接口监测，大屏展示，... |
-| [TibixDev/winboat](https://github.com/TibixDev/winboat) | Run Windows apps on 🐧 Linux with ✨ seamless integration |
 | [Tichau/FileConverter](https://github.com/Tichau/FileConverter) | File Converter is a very simple tool which allows you to convert and compress... |
 | [tickmao/Novel](https://github.com/tickmao/Novel) | 📚 Novle setting / 小说书源及软件整理 爱阅书香 / 香色闺阁 / 阅读（含字体、净化规则、TTS配置）  |
 | [timburgan/timburgan](https://github.com/timburgan/timburgan) | Play chess via GitHub |
@@ -1603,7 +1602,7 @@
 | [u14app/deep-research](https://github.com/u14app/deep-research) | Use any LLMs (Large Language Models) for Deep Research. Support SSE API and M... |
 | [Uahh/ToastFish](https://github.com/Uahh/ToastFish) | 一个利用摸鱼时间背单词的软件。 |
 | [uberhalit/SekiroFpsUnlockAndMore](https://github.com/uberhalit/SekiroFpsUnlockAndMore) | A small utility to remove frame rate limit, add custom resolutions (widescree... |
-| [umami-software/umami](https://github.com/umami-software/umami) | Umami is a modern, privacy-focused analytics platform. An open-source alterna... |
+| [umami-software/umami](https://github.com/umami-software/umami) | Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, co... |
 | [uncle-novel/uncle-novel](https://github.com/uncle-novel/uncle-novel) | None |
 | [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | Google Chromium, sans integration with Google |
 | [univrsal/input-overlay](https://github.com/univrsal/input-overlay) | Show keyboard, gamepad and mouse input on stream |
@@ -1687,6 +1686,7 @@
 | [wifi-left/HMCL-docs-website](https://github.com/wifi-left/HMCL-docs-website) | HMCL 文档的网站版本 |
 | [Wilenty/7zTC-7-ZIP-NanaZip-Theme-Changer](https://github.com/Wilenty/7zTC-7-ZIP-NanaZip-Theme-Changer) | Easy-to-use 7-Zip/NanaZip manager for toolbar, file-types and icons. |
 | [win12-online/win12](https://github.com/win12-online/win12) | Win12 Online |
+| [winboat-org/winboat](https://github.com/winboat-org/winboat) | Run Windows apps on 🐧 Linux with ✨ seamless integration |
 | [windiest/Front-end-tutorial](https://github.com/windiest/Front-end-tutorial) | :smiley_cat:猫的前端回忆录 Cat's front memory, these share data are from my usual wo... |
 | [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) | A free, powerful, multi-purpose tool that helps you monitor system resources,... |
 | [wish131400/zstdnet](https://github.com/wish131400/zstdnet) | 这是一个MC JAVA版本mod，基于ZSTD无损压缩算法，它可以有效降低机械动力类含有大量重复数据的服务器带宽 |
@@ -1702,7 +1702,7 @@
 | [wsu2059q/ErisPulse-QvQChat](https://github.com/wsu2059q/ErisPulse-QvQChat) | 基于多AI协同的智能对话模块，让AI像真人一样自然参与聊天 |
 | [wu-mx/subinfobot](https://github.com/wu-mx/subinfobot) | 一个由Go编写的开源轻量订阅查询Telegram Bot。 |
 | [wu-mx/URLignore](https://github.com/wu-mx/URLignore) | A simple node tool. |
-| [wu529778790/panhub.shenzjd.com](https://github.com/wu529778790/panhub.shenzjd.com) | 一个 聚合的网盘搜索工具。它可以聚合多个优质资源站和公开频道,一次搜索即可覆盖阿里云盘、夸克、百度网盘、115、迅雷等热门网盘资源。它提供智能排序、分类型... |
+| [wu529778790/panhub.shenzjd.com](https://github.com/wu529778790/panhub.shenzjd.com) | PanHub 网盘聚合搜索 · Netdisk Search Aggregator。一次搜索聚合夸克/阿里云盘/百度/115/迅雷等网盘资源与 80+ T... |
 | [WuDi-ZhanShen/ShizukuRunner](https://github.com/WuDi-ZhanShen/ShizukuRunner) | 以shizuku身份执行命令的安卓小工具。A 50KB android app to run any commands via Shizuku. |
 | [wuhgit/CustomPinyinDictionary](https://github.com/wuhgit/CustomPinyinDictionary) | 自建拼音输入法词库，百万常用词汇量，适配 Fcitx5 (Linux / Android) 及 Gboard (Android + Magisk or K... |
 | [wxxsfxyzm/InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) | More Expressive InstallerX ! |
