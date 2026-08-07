@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Thu Aug  6 02:50:57 UTC 2026 | 总计: **1860** 个未分类项目
+> 生成于 UTC 时间: Fri Aug  7 02:49:34 UTC 2026 | 总计: **1866** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -258,6 +258,7 @@
 | [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) | Github Starred Repositories Manager |
 | [CFPAOrg/Minecraft-Mod-Language-Package](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package) | A language package for Minecraft Mods. |
 | [cft0808/edict](https://github.com/cft0808/edict) | 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agent... |
+| [chaolucky18/xuexitongScript](https://github.com/chaolucky18/xuexitongScript) | 学习通自动刷课脚本 |
 | [chase535/accurate_battery](https://github.com/chase535/accurate_battery) | 精准电量 |
 | [chase535/turbo-charge](https://github.com/chase535/turbo-charge) | Magisk模块，关闭阶梯式充电，持续修改电池温度及充电电流，以达到最快充电速度 |
 | [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) | 免费大模型API，支持免费调用GPT、DeepSeek等主流模型，免费额度10000点，每日刷新！另付费价格最低官方1-2折！ |
@@ -464,6 +465,7 @@
 | [ferredoxin/QNotified](https://github.com/ferredoxin/QNotified) | 一个旨在使QQ变得更好用的开源Xposed模块 |
 | [festoney8/LiteLoaderQQNT-Telegram-Theme](https://github.com/festoney8/LiteLoaderQQNT-Telegram-Theme) | LiteLoaderQQNT 主题，高仿 Telegram 风格 |
 | [fi3ework/hexo-theme-archer](https://github.com/fi3ework/hexo-theme-archer) | 🎯 A smart and modern theme for Hexo. |
+| [fighting41love/funNLP](https://github.com/fighting41love/funNLP) | 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、... |
 | [files-community/Files](https://github.com/files-community/Files) | A modern file manager that helps users organize their files and folders. |
 | [Finsider/starhud](https://github.com/Finsider/starhud) | a HUD mod for Minecraft. |
 | [Finsys/dockhand](https://github.com/Finsys/dockhand) | Dockhand - Docker management you will like. |
@@ -675,7 +677,7 @@
 | [Innei/Shiro](https://github.com/Innei/Shiro) | 📜 A minimalist personal website embodying the purity of paper and freshness o... |
 | [Innei/Yohaku](https://github.com/Innei/Yohaku) | 余白 / Yohaku — A typographic design system for written content. One accent, th... |
 | [InputShare/InputShare](https://github.com/InputShare/InputShare) | InputShare enables you to share the keyboard and mouse of your computer with ... |
-| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | Open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, O... |
+| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCod... |
 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | OfficeCLI is the first and best Office suite  purpose-built for AI agents to ... |
 | [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) | A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (e... |
 | [IrisShaders/Iris](https://github.com/IrisShaders/Iris) | A modern shaders mod for Minecraft compatible with existing OptiFine shader p... |
@@ -949,8 +951,9 @@
 | [Lxtharia/minegrub-world-sel-theme](https://github.com/Lxtharia/minegrub-world-sel-theme) | A grub theme in the style of the Minecraft singleplayer (sp) world selection ... |
 | [LXYan2333/Fabric-Bedrock-Miner](https://github.com/LXYan2333/Fabric-Bedrock-Miner) | A fabric client mod to mine bedrock! |
 | [lyc8503/sing-box-rules](https://github.com/lyc8503/sing-box-rules) | sing-box Geoip 与 Geosite 增强版规则, 移植自 v2ray-rules-dat |
+| [LynnGuo666/ocsjs-ai-answer-service](https://github.com/LynnGuo666/ocsjs-ai-answer-service) | 基于Python和OpenAI API的新一代智能题库服务，专为OCS (Online Course Script)设计，可以通过AI自动回答题目。此服务... |
 | [LYOfficial/MinecraftPlayGuide](https://github.com/LYOfficial/MinecraftPlayGuide) | Minecraft Play Chinese Guide - 我的世界游玩中文指南 |
-| [LyraVoid/Mizuki](https://github.com/LyraVoid/Mizuki) | 下一代Material Design 3 博客主题(Astro驱动) |
+| [LyraVoid/Mizuki](https://github.com/LyraVoid/Mizuki) | Next-Gen Material Design 3 Blog Theme (Astro Powered) |
 | [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) | 一个基于 Electron 的音乐软件 |
 | [lyswhut/lx-music-mobile](https://github.com/lyswhut/lx-music-mobile) | 一个基于 React native 开发的音乐软件 |
 | [lz233/OneText-Library](https://github.com/lz233/OneText-Library) | Some sentences collected by myself |
@@ -1163,6 +1166,7 @@
 | [obsproject/obs-studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen reco... |
 | [ocornut/imgui](https://github.com/ocornut/imgui) | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependen... |
 | [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be sea... |
+| [ocsjs/ocsjs](https://github.com/ocsjs/ocsjs) | OCS 网课助手，刷课脚本，网课脚本，帮助大学生解决网课难题，支持【超星学习通】【知道智慧树】【职教云】【智慧职教】【中国大学MOOC】等网课  ， 可以... |
 | [OdysseusYuan/LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) | 一键自动化 下载、安装、激活 Office 的利器。 |
 | [ohlunaaa/Riot-auth](https://github.com/ohlunaaa/Riot-auth) | None |
 | [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 🙃   A delightful community-driven (with 2,500+ contributors) framework for ma... |
@@ -1239,6 +1243,7 @@
 | [PorkStudios/FarPlaneTwo](https://github.com/PorkStudios/FarPlaneTwo) | Level-of-Detail renderer in Minecraft. Allows for render distances of million... |
 | [powerAn2020/crond4android](https://github.com/powerAn2020/crond4android) | 支持 KernelSU、APatch、Magisk下运行的Crond。带UI界面/The Crond program that supports runn... |
 | [PowerShell/Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) | Win32 port of OpenSSH |
+| [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) | 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器... |
 | [ppy/osu](https://github.com/ppy/osu) | rhythm is just a *click* away! |
 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | Why is this running? Trace any process, port, container, or file back to what... |
 | [Predidit/Kazumi](https://github.com/Predidit/Kazumi) | 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 |
@@ -1788,6 +1793,7 @@
 | [YifePlayte/SteamGuardDump](https://github.com/YifePlayte/SteamGuardDump) | Dump your SteamGuard data into your clipboard. |
 | [YILING0013/AI_NovelGenerator](https://github.com/YILING0013/AI_NovelGenerator) | 使用ai生成多章节的长篇小说，自动衔接上下文、伏笔 |
 | [yin-ol/MiPushFaker](https://github.com/yin-ol/MiPushFaker) | Xposed模块，伪装机型让普通应用能够正确识别到MiPush，搭配MiPushFramework使用 |
+| [YingxueSec/Active-mouse](https://github.com/YingxueSec/Active-mouse) | 防止电脑休眠锁屏，可无害通过模拟->绕过目前所有主流行为监控管理，强制电脑永久亮屏。 |
 | [yinwanxi/Uperf-Game-Turbo](https://github.com/yinwanxi/Uperf-Game-Turbo) | Userspace performance controller for android |
 | [Yiyiyimu/QQ-History-Backup](https://github.com/Yiyiyimu/QQ-History-Backup) | QQ聊天记录备份导出，支持无密钥导出，图片导出。无需编译有GUI界面。Backup Chating History of Instant Messagin... |
 | [ymyuuu/Cloudflare-Workers-Proxy](https://github.com/ymyuuu/Cloudflare-Workers-Proxy) | 简单而功能强大的反代服务，允许你将一个网址映射到另一个网址，并处理跨域请求 |
