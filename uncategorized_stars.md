@@ -1,6 +1,6 @@
 # 未分类 Stars 清单
 
-> 生成于 UTC 时间: Fri Aug  7 02:49:34 UTC 2026 | 总计: **1866** 个未分类项目
+> 生成于 UTC 时间: Sat Aug  8 01:51:46 UTC 2026 | 总计: **1875** 个未分类项目
 
 | 项目 (Repository) | 描述 (Description) |
 | --- | --- |
@@ -428,6 +428,7 @@
 | [Eugeny/tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age |
 | [Eugeny/tabby-web](https://github.com/Eugeny/tabby-web) | Tabby Web - an SSH/Telnet/Serial client in your browser. |
 | [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) | One portable memory layer for every AI agent: local-first, Markdown-native, u... |
+| [ExplosiveCoderflome/AI-Novel-Writing-Assistant](https://github.com/ExplosiveCoderflome/AI-Novel-Writing-Assistant) | 面向长篇小说创作的 AI Native 开源系统，用 Agent、世界观、写法引擎、RAG 和整本生产工作流，帮助新手从一句灵感走到完整小说。AI-nat... |
 | [extesy/hoverzoom](https://github.com/extesy/hoverzoom) | Google Chrome extension for zooming images on mouse hover |
 | [Extremelyd1/minecraft-bingo](https://github.com/Extremelyd1/minecraft-bingo) | Item bingo in Minecraft |
 | [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) | The Fully Customizable Desktop Environment for Windows 10/11. |
@@ -597,11 +598,13 @@
 | [HenryChiao/Windows-Simple-Tool-Kit](https://github.com/HenryChiao/Windows-Simple-Tool-Kit) | Windows Simple Tool Kit 是一套实用的 Windows 工具合集，涵盖 系统优化、硬件检测、存储管理、桌面美化、病毒查杀、运行库 等... |
 | [henrygd/beszel](https://github.com/henrygd/beszel) | Lightweight server monitoring with historical data, docker stats, and alerts. |
 | [HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources) | Autoupdate iptv sources |
+| [Hexeption/MCP-Reborn](https://github.com/Hexeption/MCP-Reborn) | MCP-Reborn is an MCP (Mod Coder Pack) for Minecraft for making modded clients... |
 | [HeyPuter/puter](https://github.com/HeyPuter/puter) | 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable. |
 | [HickoryTrail/IslandCaller](https://github.com/HickoryTrail/IslandCaller) | 基于ClassIsland插件的轻量级点名器 |
 | [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) | Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria,... |
 | [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) | OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫... |
 | [HisMax/RedInk](https://github.com/HisMax/RedInk) | Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano ... |
+| [Hismeo/Project-Crystal-Fracture](https://github.com/Hismeo/Project-Crystal-Fracture) | 结晶破碎的开发模组存放位置 |
 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianyth... |
 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | Ultra-lightweight, open-source, self-hosted personal AI agent framework in Py... |
 | [HMBSbige/NatTypeTester](https://github.com/HMBSbige/NatTypeTester) | 测试当前网络的 NAT 类型（STUN） |
@@ -953,6 +956,7 @@
 | [lyc8503/sing-box-rules](https://github.com/lyc8503/sing-box-rules) | sing-box Geoip 与 Geosite 增强版规则, 移植自 v2ray-rules-dat |
 | [LynnGuo666/ocsjs-ai-answer-service](https://github.com/LynnGuo666/ocsjs-ai-answer-service) | 基于Python和OpenAI API的新一代智能题库服务，专为OCS (Online Course Script)设计，可以通过AI自动回答题目。此服务... |
 | [LYOfficial/MinecraftPlayGuide](https://github.com/LYOfficial/MinecraftPlayGuide) | Minecraft Play Chinese Guide - 我的世界游玩中文指南 |
+| [LYOfficial/QNRtoWL](https://github.com/LYOfficial/QNRtoWL) | Questionnaire to Whitelist of Minecraft. |
 | [LyraVoid/Mizuki](https://github.com/LyraVoid/Mizuki) | Next-Gen Material Design 3 Blog Theme (Astro Powered) |
 | [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) | 一个基于 Electron 的音乐软件 |
 | [lyswhut/lx-music-mobile](https://github.com/lyswhut/lx-music-mobile) | 一个基于 React native 开发的音乐软件 |
@@ -1127,6 +1131,7 @@
 | [nickrunning/wechat-selkies](https://github.com/nickrunning/wechat-selkies) | 基于Selkies的Linux网页版微信/QQ/Telegram，支持本地中文输入法，支持三方应用，支持AMD64和ARM64。 |
 | [nieheyong/starflare](https://github.com/nieheyong/starflare) | A web app helps you manage your GitHub stars simply and efficiently  |
 | [Nigh/I-wanna-clean-keyboard](https://github.com/Nigh/I-wanna-clean-keyboard) | Block the keyboard input while you were eating instant noodles on your laptop... |
+| [Nigh/show-me-the-story](https://github.com/Nigh/show-me-the-story) | Self-hosted AI novel generator: single Go binary + web UI. OpenAI-compatible ... |
 | [nightmare-space/code_lfa](https://github.com/nightmare-space/code_lfa) | Port VS Code to Android and support local operation |
 | [NihilityT/MiPush](https://github.com/NihilityT/MiPush) | 让 MiPushFramework 支持分应用 |
 | [NihilityT/MiPushConfigurations](https://github.com/NihilityT/MiPushConfigurations) | None |
@@ -1489,6 +1494,8 @@
 | [Syncanid/ZSTD_Compresser](https://github.com/Syncanid/ZSTD_Compresser) | 使用zstd代替zlib压缩 |
 | [syncthing/syncthing](https://github.com/syncthing/syncthing) | Open Source Continuous File Synchronization |
 | [syntaxticsugr/ViPER4Android-Presets](https://github.com/syntaxticsugr/ViPER4Android-Presets) | Largest collection of DDC, Kernel & Preset for ViPER4Android |
+| [syrizelink/OpenFic](https://github.com/syrizelink/OpenFic) | 专为小说创作打造的跨平台、用户友好、AI Native 的一站式 Vibe Wrting 工具。A cross-platform, user-friend... |
+| [t59688/arboris-novel](https://github.com/t59688/arboris-novel) | AI 写作伙伴，点亮你的创作灵感 |
 | [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) | 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers... |
 | [taamarin/box.manager](https://github.com/taamarin/box.manager) | Optional |
 | [taamarin/box_for_magisk](https://github.com/taamarin/box_for_magisk) | Transparent Proxy for Android(root)  |
@@ -1632,6 +1639,7 @@
 | [Vanessa219/vditor](https://github.com/Vanessa219/vditor) | ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Mar... |
 | [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) | 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Pa... |
 | [vbskycn/iptv](https://github.com/vbskycn/iptv) | iptv最新可用直播源,支持iptv4/iptv6双栈访问。直播电视系统，这里有折腾好的，直接下载用吧。直播电视app电视手机全部兼容。 |
+| [veeso/termscp](https://github.com/veeso/termscp) | 🖥  A feature rich terminal UI file transfer and explorer with support for SCP... |
 | [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) | :whale: A curated list of Docker resources and projects |
 | [venera-app/venera](https://github.com/venera-app/venera) | A comic app |
 | [venera-app/venera-configs](https://github.com/venera-app/venera-configs) | None |
@@ -1658,6 +1666,7 @@
 | [vladelaina/Catime](https://github.com/vladelaina/Catime) | 💌A tiny (995KB) but mighty timer in **pure C** ! — almost no memory usage!❤️‍... |
 | [voderl/font-slice](https://github.com/voderl/font-slice) | slice chinese fonts into small slices |
 | [voideditor/void](https://github.com/voideditor/void) | None |
+| [voocel/ainovel-cli](https://github.com/voocel/ainovel-cli) | ✨多agent实现全自动AI小说生成 |
 | [vosen/ZLUDA](https://github.com/vosen/ZLUDA) | CUDA on non-NVIDIA GPUs |
 | [VR-25/acc](https://github.com/VR-25/acc) | Advanced Charging Controller |
 | [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) | None |
